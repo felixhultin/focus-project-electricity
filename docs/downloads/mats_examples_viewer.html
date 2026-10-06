@@ -1,0 +1,188 @@
+<!doctype html>
+<html lang="en">
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Workbook examples · Korp word frequencies</title>
+<style>
+  body{font:16px/1.55 system-ui,Arial,sans-serif;color:#263747;max-width:980px;margin:2rem auto;padding:0 1rem;background:#fff}
+  a{color:#17639b} h1{line-height:1.2} .intro{color:#516271}
+  .filters{display:flex;gap:1rem;flex-wrap:wrap;align-items:end;margin:1.5rem 0;padding:1rem;background:#f4f7f9;border-radius:.6rem}
+  label{display:grid;gap:.25rem;font-weight:600} select,button{font:inherit;padding:.35rem .55rem}
+  select{min-width:10rem} .status{color:#526170;margin:1rem 0}
+  ol{padding-left:1.5rem} li{padding:.8rem .2rem;border-bottom:1px solid #e3e8ed;overflow-wrap:anywhere}
+  li a{color:#263747;text-decoration:none}li a:hover{text-decoration:underline;color:#17639b}
+  mark{background:#ffe28a;padding:0 .1em} small{display:block;color:#5a6b79;margin-top:.25rem}small a{color:#17639b;text-decoration:underline}
+  .pager{display:flex;gap:.8rem;align-items:center;margin:1.5rem 0 3rem;flex-wrap:wrap}
+  .pager input{font:inherit;width:5rem;padding:.3rem}
+</style>
+<p><a href="index.html">← Frequency plots</a> · <a href="source-breakdown.html">Authors and newspapers</a></p>
+<h1>Examples from the source workbooks</h1>
+<p class="intro">Each excerpt is an occurrence recorded in <code>data/mats</code>. Examples with a source URL link to that page. Plot bars open the examples for the same word, resource, and decade. The API and workbook counts are shown together below.</p>
+<div class="filters">
+  <label>Word<select id="word"></select></label>
+  <label>Resource<select id="resource"></select></label>
+  <label>Decade<select id="decade"></select></label>
+</div>
+<p id="status" class="status" aria-live="polite">Loading examples…</p>
+<p id="comparison" class="status"></p>
+<p><a id="korp-link" hidden target="_blank" rel="noopener noreferrer">Open all matches in Korp ↗</a></p>
+<ol id="examples"></ol>
+<div class="pager" id="pager" hidden>
+  <button type="button" id="previous">Previous</button>
+  <label>Page <input type="number" id="page" min="1" value="1"></label>
+  <span id="page-count"></span>
+  <button type="button" id="next">Next</button>
+</div>
+<p class="intro" id="coverage"></p>
+<script>
+(() => {
+  const PAGE_SIZE = 50;
+  const $ = id => document.getElementById(id);
+  let manifest, buckets = [], page = 1, request = 0;
+  const params = new URLSearchParams(location.search);
+
+  function option(value, label) {
+    const node = document.createElement('option');
+    node.value = value; node.textContent = label;
+    return node;
+  }
+  function setOptions(select, entries, desired) {
+    select.replaceChildren(...entries.map(([value,label]) => option(value,label)));
+    select.value = entries.some(([value]) => value === desired) ? desired : entries[0][0];
+  }
+  function updateFilters() {
+    const word = $('word').value;
+    const resource = $('resource').value;
+    const decades = [...new Set([...manifest.buckets,...(manifest.api_buckets || [])]
+      .filter(b => b.word === word && (resource === 'all' || b.resource === resource)).map(b => b.decade))]
+      .sort((a,b) => a === 'undated' ? 1 : b === 'undated' ? -1 : Number(a)-Number(b));
+    setOptions($('decade'), [['all','All decades'],...decades.map(d => [d,d === 'undated' ? 'Undated' : d+'s'])], $('decade').value);
+  }
+  function matches(b) {
+    return b.word === $('word').value &&
+      ($('resource').value === 'all' || b.resource === $('resource').value) &&
+      ($('decade').value === 'all' || b.decade === $('decade').value);
+  }
+  function selectedBuckets() {
+    return manifest.buckets.filter(matches);
+  }
+  function korpUrl(word, resource, decade) {
+    const years = Array.from({length:10},(_,i) => {
+      const year = Number(decade)+i;
+      return `(int(_.text_datefrom) >= ${year}0101 & int(_.text_dateto) <= ${year}1231)`;
+    });
+    const cqp = `[lemma contains "${word}" & (${years.join(' | ')})]`;
+    const values = {
+      corpus:manifest.korp.corpora[resource].join(',').toLowerCase(),
+      search:`cqp|${cqp}`,search_tab:'2',result_tab:'0'
+    };
+    const hash = Object.entries(values).map(([key,value]) => `${encodeURIComponent(key)}=${encodeURIComponent(value)}`).join('&');
+    return `${manifest.korp.frontend}?mode=${manifest.korp.modes[resource]}#?${hash}`;
+  }
+  function updateUrl() {
+    const q = new URLSearchParams({word:$('word').value});
+    if ($('resource').value !== 'all') q.set('resource',$('resource').value);
+    if ($('decade').value !== 'all') q.set('decade',$('decade').value);
+    if (page > 1) q.set('page',String(page));
+    history.replaceState(null,'','?'+q.toString());
+  }
+  async function loadRows(start, end) {
+    const result = [];
+    let passed = 0;
+    for (const bucket of buckets) {
+      const bucketStart = Math.max(0,start-passed);
+      const bucketEnd = Math.min(bucket.count,end-passed);
+      passed += bucket.count;
+      if (bucketEnd <= bucketStart) continue;
+      const first = Math.floor(bucketStart/manifest.chunk_size);
+      const last = Math.floor((bucketEnd-1)/manifest.chunk_size);
+      for (let chunk = first; chunk <= last; chunk++) {
+        const path = `example_data/${encodeURIComponent(bucket.word)}/${bucket.resource}/${bucket.decade}/${chunk}.json`;
+        const response = await fetch(path);
+        if (!response.ok) throw new Error(`Could not load ${path} (${response.status})`);
+        const rows = await response.json();
+        const from = Math.max(bucketStart,chunk*manifest.chunk_size)-chunk*manifest.chunk_size;
+        const to = Math.min(bucketEnd,(chunk+1)*manifest.chunk_size)-chunk*manifest.chunk_size;
+        result.push(...rows.slice(from,to));
+      }
+    }
+    return result;
+  }
+  function renderRow(row) {
+    const [date, corpusId, before, hit, after, url] = row;
+    const item = document.createElement('li');
+    const content = document.createElement(url ? 'a' : 'span');
+    if (url) { content.href = url; content.target = '_blank'; content.rel = 'noopener noreferrer'; }
+    content.append(document.createTextNode(before));
+    if (hit) { const mark = document.createElement('mark'); mark.textContent = hit; content.append(mark); }
+    content.append(document.createTextNode(after));
+    item.append(content);
+    const meta = document.createElement('small');
+    meta.textContent = `${date || 'Undated'} · ${manifest.corpora[corpusId]} · `;
+    if (url) {
+      const source = document.createElement('a');
+      source.href = url; source.target = '_blank'; source.rel = 'noopener noreferrer';
+      source.textContent = 'Open source ↗';
+      meta.append(source);
+    } else {
+      meta.append(document.createTextNode('No source URL in workbook'));
+    }
+    item.append(meta);
+    return item;
+  }
+  async function render() {
+    const currentRequest = ++request;
+    buckets = selectedBuckets();
+    const total = buckets.reduce((sum,b) => sum+b.count,0);
+    const withSourceUrl = buckets.reduce((sum,b) => sum+b.with_source_url,0);
+    const apiTotal = (manifest.api_buckets || []).filter(matches).reduce((sum,b) => sum+b.absolute,0);
+    const difference = apiTotal-total;
+    $('comparison').textContent = `Korp API matches: ${apiTotal.toLocaleString()} · Workbook examples: ${total.toLocaleString()} (${withSourceUrl.toLocaleString()} with external URLs) · Difference: ${difference > 0 ? '+' : ''}${difference.toLocaleString()}.`;
+    const showKorpLink = Boolean(manifest.korp) && $('resource').value !== 'all' && /^\d{4}$/.test($('decade').value);
+    $('korp-link').hidden = !showKorpLink;
+    if (showKorpLink) $('korp-link').href = korpUrl($('word').value,$('resource').value,$('decade').value);
+    const pageCount = Math.max(1,Math.ceil(total/PAGE_SIZE));
+    page = Math.min(Math.max(1,page),pageCount);
+    updateUrl();
+    $('examples').replaceChildren();
+    $('pager').hidden = total === 0;
+    $('page').value = page;
+    $('page').max = pageCount;
+    $('page-count').textContent = `of ${pageCount.toLocaleString()}`;
+    $('previous').disabled = page === 1;
+    $('next').disabled = page === pageCount;
+    if (!total) { $('status').textContent = 'No workbook examples for these filters.'; return; }
+    $('status').textContent = `Loading ${total.toLocaleString()} workbook examples…`;
+    try {
+      const rows = await loadRows((page-1)*PAGE_SIZE,Math.min(page*PAGE_SIZE,total));
+      if (currentRequest !== request) return;
+      $('examples').replaceChildren(...rows.map(renderRow));
+      $('status').textContent = `Showing ${(page-1)*PAGE_SIZE+1}–${(page-1)*PAGE_SIZE+rows.length} of ${total.toLocaleString()} workbook examples.`;
+    } catch (error) {
+      if (currentRequest === request) $('status').textContent = `Could not load examples: ${error.message}`;
+    }
+  }
+  async function start() {
+    try {
+      const response = await fetch('example_data/manifest.json');
+      if (!response.ok) throw new Error(`Manifest request failed (${response.status})`);
+      manifest = await response.json();
+      setOptions($('word'),manifest.words.map(w => [w,w]),params.get('word'));
+      setOptions($('resource'),[['all','All resources'],...manifest.resources.map(r => [r,r])],params.get('resource'));
+      updateFilters();
+      $('decade').value = [...$('decade').options].some(o => o.value === params.get('decade')) ? params.get('decade') : 'all';
+      page = Number(params.get('page')) || 1;
+      $('coverage').textContent = `Workbook rows without an external URL remain visible as plain text: ${Object.entries(manifest.without_source_url).map(([r,n]) => `${r} ${n.toLocaleString()}`).join(', ')}. The API totals use the current Korp query and may differ from the exported workbook rows.`;
+      $('word').addEventListener('change',() => { $('resource').value = 'all'; updateFilters(); page = 1; render(); });
+      $('resource').addEventListener('change',() => { updateFilters(); page = 1; render(); });
+      $('decade').addEventListener('change',() => { page = 1; render(); });
+      $('previous').addEventListener('click',() => { page--; render(); });
+      $('next').addEventListener('click',() => { page++; render(); });
+      $('page').addEventListener('change',() => { page = Number($('page').value) || 1; render(); });
+      render();
+    } catch(error) { $('status').textContent = `Could not load examples: ${error.message}. Serve this folder over HTTP for local preview.`; }
+  }
+  start();
+})();
+</script>
+</html>

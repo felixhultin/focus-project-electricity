@@ -1,0 +1,215 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 940" role="img" aria-label="styrka frequency by decade and resource">
+<rect width="100%" height="100%" fill="white" />
+<style>text{font-family:Arial,Helvetica,sans-serif}</style>
+<text x="85.0" y="39.0" font-size="27" text-anchor="start" fill="#263747" font-weight="bold">styrka</text>
+<text x="85.0" y="65.0" font-size="14" text-anchor="start" fill="#5a6876" font-weight="normal">Korp API frequency · click a bar for matching workbook examples</text>
+<text x="85.0" y="99.0" font-size="17" text-anchor="start" fill="#263747" font-weight="bold">Absolute frequency · hits</text>
+<text x="872.5" y="99.0" font-size="17" text-anchor="start" fill="#263747" font-weight="bold">Relative frequency · hits per million tokens</text>
+<text x="85.0" y="138.0" font-size="16" text-anchor="start" fill="#2678a9" font-weight="bold">lb · 1620–2029</text>
+<line x1="85.0" y1="340.0" x2="782.5" y2="340.0" stroke="#e1e7eb" />
+<text x="77.0" y="344.0" font-size="11" text-anchor="end" fill="#657381" font-weight="normal">0</text>
+<line x1="85.0" y1="245.0" x2="782.5" y2="245.0" stroke="#e1e7eb" />
+<text x="77.0" y="249.0" font-size="11" text-anchor="end" fill="#657381" font-weight="normal">2874</text>
+<line x1="85.0" y1="150.0" x2="782.5" y2="150.0" stroke="#e1e7eb" />
+<text x="77.0" y="154.0" font-size="11" text-anchor="end" fill="#657381" font-weight="normal">5748</text>
+<text x="93.5" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1620</text>
+<a href="../examples.html?word=styrka&amp;resource=lb&amp;decade=1640" target="_blank" rel="noopener noreferrer"><rect x="121.1" y="339.8" width="12.9" height="0.2" fill="#2678a9" style="cursor:pointer"><title>lb, 1640s: 5.0000 hits · open workbook examples · 0 workbook examples</title></rect></a>
+<text x="127.5" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1640</text>
+<text x="161.6" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1660</text>
+<text x="195.6" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1680</text>
+<a href="../examples.html?word=styrka&amp;resource=lb&amp;decade=1700" target="_blank" rel="noopener noreferrer"><rect x="223.1" y="340.0" width="12.9" height="0.0" fill="#2678a9" style="cursor:pointer"><title>lb, 1700s: 1.0000 hits · open workbook examples · 1 workbook examples</title></rect></a>
+<text x="229.6" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1700</text>
+<a href="../examples.html?word=styrka&amp;resource=lb&amp;decade=1710" target="_blank" rel="noopener noreferrer"><rect x="240.2" y="339.8" width="12.9" height="0.2" fill="#2678a9" style="cursor:pointer"><title>lb, 1710s: 7.0000 hits · open workbook examples · 7 workbook examples</title></rect></a>
+<text x="263.6" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1720</text>
+<a href="../examples.html?word=styrka&amp;resource=lb&amp;decade=1730" target="_blank" rel="noopener noreferrer"><rect x="274.2" y="340.0" width="12.9" height="0.0" fill="#2678a9" style="cursor:pointer"><title>lb, 1730s: 1.0000 hits · open workbook examples · 1 workbook examples</title></rect></a>
+<text x="297.7" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1740</text>
+<a href="../examples.html?word=styrka&amp;resource=lb&amp;decade=1750" target="_blank" rel="noopener noreferrer"><rect x="308.2" y="339.6" width="12.9" height="0.4" fill="#2678a9" style="cursor:pointer"><title>lb, 1750s: 13.0000 hits · open workbook examples · 13 workbook examples</title></rect></a>
+<a href="../examples.html?word=styrka&amp;resource=lb&amp;decade=1760" target="_blank" rel="noopener noreferrer"><rect x="325.2" y="339.6" width="12.9" height="0.4" fill="#2678a9" style="cursor:pointer"><title>lb, 1760s: 11.0000 hits · open workbook examples · 11 workbook examples</title></rect></a>
+<text x="331.7" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1760</text>
+<a href="../examples.html?word=styrka&amp;resource=lb&amp;decade=1770" target="_blank" rel="noopener noreferrer"><rect x="342.2" y="339.0" width="12.9" height="1.0" fill="#2678a9" style="cursor:pointer"><title>lb, 1770s: 31.0000 hits · open workbook examples · 31 workbook examples</title></rect></a>
+<a href="../examples.html?word=styrka&amp;resource=lb&amp;decade=1780" target="_blank" rel="noopener noreferrer"><rect x="359.2" y="339.6" width="12.9" height="0.4" fill="#2678a9" style="cursor:pointer"><title>lb, 1780s: 11.0000 hits · open workbook examples · 11 workbook examples</title></rect></a>
+<text x="365.7" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1780</text>
+<a href="../examples.html?word=styrka&amp;resource=lb&amp;decade=1790" target="_blank" rel="noopener noreferrer"><rect x="376.2" y="335.7" width="12.9" height="4.3" fill="#2678a9" style="cursor:pointer"><title>lb, 1790s: 131.0000 hits · open workbook examples · 38 workbook examples</title></rect></a>
+<a href="../examples.html?word=styrka&amp;resource=lb&amp;decade=1800" target="_blank" rel="noopener noreferrer"><rect x="393.3" y="333.2" width="12.9" height="6.8" fill="#2678a9" style="cursor:pointer"><title>lb, 1800s: 207.0000 hits · open workbook examples · 138 workbook examples</title></rect></a>
+<text x="399.7" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1800</text>
+<a href="../examples.html?word=styrka&amp;resource=lb&amp;decade=1810" target="_blank" rel="noopener noreferrer"><rect x="410.3" y="335.0" width="12.9" height="5.0" fill="#2678a9" style="cursor:pointer"><title>lb, 1810s: 152.0000 hits · open workbook examples · 152 workbook examples</title></rect></a>
+<a href="../examples.html?word=styrka&amp;resource=lb&amp;decade=1820" target="_blank" rel="noopener noreferrer"><rect x="427.3" y="335.3" width="12.9" height="4.7" fill="#2678a9" style="cursor:pointer"><title>lb, 1820s: 141.0000 hits · open workbook examples · 141 workbook examples</title></rect></a>
+<text x="433.8" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1820</text>
+<a href="../examples.html?word=styrka&amp;resource=lb&amp;decade=1830" target="_blank" rel="noopener noreferrer"><rect x="444.3" y="292.4" width="12.9" height="47.6" fill="#2678a9" style="cursor:pointer"><title>lb, 1830s: 1,440.0000 hits · open workbook examples · 1,079 workbook examples</title></rect></a>
+<a href="../examples.html?word=styrka&amp;resource=lb&amp;decade=1840" target="_blank" rel="noopener noreferrer"><rect x="461.3" y="233.4" width="12.9" height="106.6" fill="#2678a9" style="cursor:pointer"><title>lb, 1840s: 3,225.0000 hits · open workbook examples · 2,507 workbook examples</title></rect></a>
+<text x="467.8" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1840</text>
+<a href="../examples.html?word=styrka&amp;resource=lb&amp;decade=1850" target="_blank" rel="noopener noreferrer"><rect x="478.3" y="253.0" width="12.9" height="87.0" fill="#2678a9" style="cursor:pointer"><title>lb, 1850s: 2,633.0000 hits · open workbook examples · 2,060 workbook examples</title></rect></a>
+<a href="../examples.html?word=styrka&amp;resource=lb&amp;decade=1860" target="_blank" rel="noopener noreferrer"><rect x="495.3" y="236.8" width="12.9" height="103.2" fill="#2678a9" style="cursor:pointer"><title>lb, 1860s: 3,121.0000 hits · open workbook examples · 2,295 workbook examples</title></rect></a>
+<text x="501.8" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1860</text>
+<a href="../examples.html?word=styrka&amp;resource=lb&amp;decade=1870" target="_blank" rel="noopener noreferrer"><rect x="512.3" y="223.2" width="12.9" height="116.8" fill="#2678a9" style="cursor:pointer"><title>lb, 1870s: 3,535.0000 hits · open workbook examples · 2,812 workbook examples</title></rect></a>
+<a href="../examples.html?word=styrka&amp;resource=lb&amp;decade=1880" target="_blank" rel="noopener noreferrer"><rect x="529.4" y="177.1" width="12.9" height="162.9" fill="#2678a9" style="cursor:pointer"><title>lb, 1880s: 4,928.0000 hits · open workbook examples · 3,693 workbook examples</title></rect></a>
+<text x="535.8" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1880</text>
+<a href="../examples.html?word=styrka&amp;resource=lb&amp;decade=1890" target="_blank" rel="noopener noreferrer"><rect x="546.4" y="150.0" width="12.9" height="190.0" fill="#2678a9" style="cursor:pointer"><title>lb, 1890s: 5,748.0000 hits · open workbook examples · 4,555 workbook examples</title></rect></a>
+<a href="../examples.html?word=styrka&amp;resource=lb&amp;decade=1900" target="_blank" rel="noopener noreferrer"><rect x="563.4" y="276.5" width="12.9" height="63.5" fill="#2678a9" style="cursor:pointer"><title>lb, 1900s: 1,922.0000 hits · open workbook examples · 1,336 workbook examples</title></rect></a>
+<text x="569.8" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1900</text>
+<a href="../examples.html?word=styrka&amp;resource=lb&amp;decade=1910" target="_blank" rel="noopener noreferrer"><rect x="580.4" y="295.5" width="12.9" height="44.5" fill="#2678a9" style="cursor:pointer"><title>lb, 1910s: 1,345.0000 hits · open workbook examples · 1,015 workbook examples</title></rect></a>
+<a href="../examples.html?word=styrka&amp;resource=lb&amp;decade=1920" target="_blank" rel="noopener noreferrer"><rect x="597.4" y="305.4" width="12.9" height="34.6" fill="#2678a9" style="cursor:pointer"><title>lb, 1920s: 1,047.0000 hits · open workbook examples · 548 workbook examples</title></rect></a>
+<text x="603.9" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1920</text>
+<a href="../examples.html?word=styrka&amp;resource=lb&amp;decade=1930" target="_blank" rel="noopener noreferrer"><rect x="614.4" y="317.2" width="12.9" height="22.8" fill="#2678a9" style="cursor:pointer"><title>lb, 1930s: 689.0000 hits · open workbook examples · 504 workbook examples</title></rect></a>
+<a href="../examples.html?word=styrka&amp;resource=lb&amp;decade=1940" target="_blank" rel="noopener noreferrer"><rect x="631.4" y="328.8" width="12.9" height="11.2" fill="#2678a9" style="cursor:pointer"><title>lb, 1940s: 339.0000 hits · open workbook examples · 263 workbook examples</title></rect></a>
+<text x="637.9" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1940</text>
+<a href="../examples.html?word=styrka&amp;resource=lb&amp;decade=1950" target="_blank" rel="noopener noreferrer"><rect x="648.4" y="338.9" width="12.9" height="1.1" fill="#2678a9" style="cursor:pointer"><title>lb, 1950s: 34.0000 hits · open workbook examples · 20 workbook examples</title></rect></a>
+<a href="../examples.html?word=styrka&amp;resource=lb&amp;decade=1960" target="_blank" rel="noopener noreferrer"><rect x="665.5" y="339.7" width="12.9" height="0.3" fill="#2678a9" style="cursor:pointer"><title>lb, 1960s: 9.0000 hits · open workbook examples · 3 workbook examples</title></rect></a>
+<text x="671.9" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1960</text>
+<a href="../examples.html?word=styrka&amp;resource=lb&amp;decade=1970" target="_blank" rel="noopener noreferrer"><rect x="682.5" y="339.9" width="12.9" height="0.1" fill="#2678a9" style="cursor:pointer"><title>lb, 1970s: 3.0000 hits · open workbook examples · 0 workbook examples</title></rect></a>
+<a href="../examples.html?word=styrka&amp;resource=lb&amp;decade=1980" target="_blank" rel="noopener noreferrer"><rect x="699.5" y="339.9" width="12.9" height="0.1" fill="#2678a9" style="cursor:pointer"><title>lb, 1980s: 2.0000 hits · open workbook examples · 0 workbook examples</title></rect></a>
+<text x="705.9" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1980</text>
+<a href="../examples.html?word=styrka&amp;resource=lb&amp;decade=1990" target="_blank" rel="noopener noreferrer"><rect x="716.5" y="339.5" width="12.9" height="0.5" fill="#2678a9" style="cursor:pointer"><title>lb, 1990s: 14.0000 hits · open workbook examples · 0 workbook examples</title></rect></a>
+<a href="../examples.html?word=styrka&amp;resource=lb&amp;decade=2000" target="_blank" rel="noopener noreferrer"><rect x="733.5" y="339.8" width="12.9" height="0.2" fill="#2678a9" style="cursor:pointer"><title>lb, 2000s: 5.0000 hits · open workbook examples · 0 workbook examples</title></rect></a>
+<text x="740.0" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">2000</text>
+<a href="../examples.html?word=styrka&amp;resource=lb&amp;decade=2010" target="_blank" rel="noopener noreferrer"><rect x="750.5" y="339.4" width="12.9" height="0.6" fill="#2678a9" style="cursor:pointer"><title>lb, 2010s: 19.0000 hits · open workbook examples · 19 workbook examples</title></rect></a>
+<a href="../examples.html?word=styrka&amp;resource=lb&amp;decade=2020" target="_blank" rel="noopener noreferrer"><rect x="767.5" y="339.9" width="12.9" height="0.1" fill="#2678a9" style="cursor:pointer"><title>lb, 2020s: 2.0000 hits · open workbook examples · 1 workbook examples</title></rect></a>
+<text x="774.0" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">2020</text>
+<line x1="872.5" y1="340.0" x2="1570.0" y2="340.0" stroke="#e1e7eb" />
+<text x="864.5" y="344.0" font-size="11" text-anchor="end" fill="#657381" font-weight="normal">0</text>
+<line x1="872.5" y1="245.0" x2="1570.0" y2="245.0" stroke="#e1e7eb" />
+<text x="864.5" y="249.0" font-size="11" text-anchor="end" fill="#657381" font-weight="normal">225</text>
+<line x1="872.5" y1="150.0" x2="1570.0" y2="150.0" stroke="#e1e7eb" />
+<text x="864.5" y="154.0" font-size="11" text-anchor="end" fill="#657381" font-weight="normal">450</text>
+<text x="881.0" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1620</text>
+<a href="../examples.html?word=styrka&amp;resource=lb&amp;decade=1640" target="_blank" rel="noopener noreferrer"><rect x="908.6" y="296.2" width="12.9" height="43.8" fill="#2678a9" style="cursor:pointer"><title>lb, 1640s: 103.7151 hits/million · open workbook examples · 0 workbook examples</title></rect></a>
+<text x="915.0" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1640</text>
+<a href="../examples.html?word=styrka&amp;resource=lb&amp;decade=1700" target="_blank" rel="noopener noreferrer"><rect x="1010.6" y="339.8" width="12.9" height="0.2" fill="#2678a9" style="cursor:pointer"><title>lb, 1700s: 0.5566 hits/million · open workbook examples · 1 workbook examples</title></rect></a>
+<text x="1017.1" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1700</text>
+<a href="../examples.html?word=styrka&amp;resource=lb&amp;decade=1710" target="_blank" rel="noopener noreferrer"><rect x="1027.7" y="294.3" width="12.9" height="45.7" fill="#2678a9" style="cursor:pointer"><title>lb, 1710s: 108.2938 hits/million · open workbook examples · 7 workbook examples</title></rect></a>
+<a href="../examples.html?word=styrka&amp;resource=lb&amp;decade=1730" target="_blank" rel="noopener noreferrer"><rect x="1061.7" y="327.4" width="12.9" height="12.6" fill="#2678a9" style="cursor:pointer"><title>lb, 1730s: 29.9572 hits/million · open workbook examples · 1 workbook examples</title></rect></a>
+<text x="1085.2" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1740</text>
+<a href="../examples.html?word=styrka&amp;resource=lb&amp;decade=1750" target="_blank" rel="noopener noreferrer"><rect x="1095.7" y="335.0" width="12.9" height="5.0" fill="#2678a9" style="cursor:pointer"><title>lb, 1750s: 11.8617 hits/million · open workbook examples · 13 workbook examples</title></rect></a>
+<a href="../examples.html?word=styrka&amp;resource=lb&amp;decade=1760" target="_blank" rel="noopener noreferrer"><rect x="1112.7" y="150.0" width="12.9" height="190.0" fill="#2678a9" style="cursor:pointer"><title>lb, 1760s: 450.4136 hits/million · open workbook examples · 11 workbook examples</title></rect></a>
+<text x="1119.2" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1760</text>
+<a href="../examples.html?word=styrka&amp;resource=lb&amp;decade=1770" target="_blank" rel="noopener noreferrer"><rect x="1129.7" y="152.9" width="12.9" height="187.1" fill="#2678a9" style="cursor:pointer"><title>lb, 1770s: 443.4463 hits/million · open workbook examples · 31 workbook examples</title></rect></a>
+<a href="../examples.html?word=styrka&amp;resource=lb&amp;decade=1780" target="_blank" rel="noopener noreferrer"><rect x="1146.7" y="244.6" width="12.9" height="95.4" fill="#2678a9" style="cursor:pointer"><title>lb, 1780s: 226.2397 hits/million · open workbook examples · 11 workbook examples</title></rect></a>
+<text x="1153.2" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1780</text>
+<a href="../examples.html?word=styrka&amp;resource=lb&amp;decade=1790" target="_blank" rel="noopener noreferrer"><rect x="1163.7" y="270.0" width="12.9" height="70.0" fill="#2678a9" style="cursor:pointer"><title>lb, 1790s: 165.9957 hits/million · open workbook examples · 38 workbook examples</title></rect></a>
+<a href="../examples.html?word=styrka&amp;resource=lb&amp;decade=1800" target="_blank" rel="noopener noreferrer"><rect x="1180.8" y="221.5" width="12.9" height="118.5" fill="#2678a9" style="cursor:pointer"><title>lb, 1800s: 280.8905 hits/million · open workbook examples · 138 workbook examples</title></rect></a>
+<text x="1187.2" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1800</text>
+<a href="../examples.html?word=styrka&amp;resource=lb&amp;decade=1810" target="_blank" rel="noopener noreferrer"><rect x="1197.8" y="293.2" width="12.9" height="46.8" fill="#2678a9" style="cursor:pointer"><title>lb, 1810s: 110.9981 hits/million · open workbook examples · 152 workbook examples</title></rect></a>
+<a href="../examples.html?word=styrka&amp;resource=lb&amp;decade=1820" target="_blank" rel="noopener noreferrer"><rect x="1214.8" y="269.4" width="12.9" height="70.6" fill="#2678a9" style="cursor:pointer"><title>lb, 1820s: 167.4079 hits/million · open workbook examples · 141 workbook examples</title></rect></a>
+<text x="1221.2" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1820</text>
+<a href="../examples.html?word=styrka&amp;resource=lb&amp;decade=1830" target="_blank" rel="noopener noreferrer"><rect x="1231.8" y="287.9" width="12.9" height="52.1" fill="#2678a9" style="cursor:pointer"><title>lb, 1830s: 123.5630 hits/million · open workbook examples · 1,079 workbook examples</title></rect></a>
+<a href="../examples.html?word=styrka&amp;resource=lb&amp;decade=1840" target="_blank" rel="noopener noreferrer"><rect x="1248.8" y="296.1" width="12.9" height="43.9" fill="#2678a9" style="cursor:pointer"><title>lb, 1840s: 104.0798 hits/million · open workbook examples · 2,507 workbook examples</title></rect></a>
+<text x="1255.3" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1840</text>
+<a href="../examples.html?word=styrka&amp;resource=lb&amp;decade=1850" target="_blank" rel="noopener noreferrer"><rect x="1265.8" y="293.8" width="12.9" height="46.2" fill="#2678a9" style="cursor:pointer"><title>lb, 1850s: 109.4540 hits/million · open workbook examples · 2,060 workbook examples</title></rect></a>
+<a href="../examples.html?word=styrka&amp;resource=lb&amp;decade=1860" target="_blank" rel="noopener noreferrer"><rect x="1282.8" y="296.2" width="12.9" height="43.8" fill="#2678a9" style="cursor:pointer"><title>lb, 1860s: 103.8035 hits/million · open workbook examples · 2,295 workbook examples</title></rect></a>
+<text x="1289.3" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1860</text>
+<a href="../examples.html?word=styrka&amp;resource=lb&amp;decade=1870" target="_blank" rel="noopener noreferrer"><rect x="1299.8" y="296.9" width="12.9" height="43.1" fill="#2678a9" style="cursor:pointer"><title>lb, 1870s: 102.1517 hits/million · open workbook examples · 2,812 workbook examples</title></rect></a>
+<a href="../examples.html?word=styrka&amp;resource=lb&amp;decade=1880" target="_blank" rel="noopener noreferrer"><rect x="1316.9" y="302.6" width="12.9" height="37.4" fill="#2678a9" style="cursor:pointer"><title>lb, 1880s: 88.7737 hits/million · open workbook examples · 3,693 workbook examples</title></rect></a>
+<text x="1323.3" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1880</text>
+<a href="../examples.html?word=styrka&amp;resource=lb&amp;decade=1890" target="_blank" rel="noopener noreferrer"><rect x="1333.9" y="301.0" width="12.9" height="39.0" fill="#2678a9" style="cursor:pointer"><title>lb, 1890s: 92.3829 hits/million · open workbook examples · 4,555 workbook examples</title></rect></a>
+<a href="../examples.html?word=styrka&amp;resource=lb&amp;decade=1900" target="_blank" rel="noopener noreferrer"><rect x="1350.9" y="306.3" width="12.9" height="33.7" fill="#2678a9" style="cursor:pointer"><title>lb, 1900s: 79.8882 hits/million · open workbook examples · 1,336 workbook examples</title></rect></a>
+<text x="1357.3" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1900</text>
+<a href="../examples.html?word=styrka&amp;resource=lb&amp;decade=1910" target="_blank" rel="noopener noreferrer"><rect x="1367.9" y="312.5" width="12.9" height="27.5" fill="#2678a9" style="cursor:pointer"><title>lb, 1910s: 65.1225 hits/million · open workbook examples · 1,015 workbook examples</title></rect></a>
+<a href="../examples.html?word=styrka&amp;resource=lb&amp;decade=1920" target="_blank" rel="noopener noreferrer"><rect x="1384.9" y="317.5" width="12.9" height="22.5" fill="#2678a9" style="cursor:pointer"><title>lb, 1920s: 53.2430 hits/million · open workbook examples · 548 workbook examples</title></rect></a>
+<text x="1391.4" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1920</text>
+<a href="../examples.html?word=styrka&amp;resource=lb&amp;decade=1930" target="_blank" rel="noopener noreferrer"><rect x="1401.9" y="322.1" width="12.9" height="17.9" fill="#2678a9" style="cursor:pointer"><title>lb, 1930s: 42.4415 hits/million · open workbook examples · 504 workbook examples</title></rect></a>
+<a href="../examples.html?word=styrka&amp;resource=lb&amp;decade=1940" target="_blank" rel="noopener noreferrer"><rect x="1418.9" y="308.2" width="12.9" height="31.8" fill="#2678a9" style="cursor:pointer"><title>lb, 1940s: 75.2806 hits/million · open workbook examples · 263 workbook examples</title></rect></a>
+<text x="1425.4" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1940</text>
+<a href="../examples.html?word=styrka&amp;resource=lb&amp;decade=1950" target="_blank" rel="noopener noreferrer"><rect x="1435.9" y="320.6" width="12.9" height="19.4" fill="#2678a9" style="cursor:pointer"><title>lb, 1950s: 46.0924 hits/million · open workbook examples · 20 workbook examples</title></rect></a>
+<a href="../examples.html?word=styrka&amp;resource=lb&amp;decade=1960" target="_blank" rel="noopener noreferrer"><rect x="1453.0" y="335.3" width="12.9" height="4.7" fill="#2678a9" style="cursor:pointer"><title>lb, 1960s: 11.2073 hits/million · open workbook examples · 3 workbook examples</title></rect></a>
+<text x="1459.4" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1960</text>
+<a href="../examples.html?word=styrka&amp;resource=lb&amp;decade=1970" target="_blank" rel="noopener noreferrer"><rect x="1470.0" y="325.7" width="12.9" height="14.3" fill="#2678a9" style="cursor:pointer"><title>lb, 1970s: 33.8991 hits/million · open workbook examples · 0 workbook examples</title></rect></a>
+<a href="../examples.html?word=styrka&amp;resource=lb&amp;decade=1980" target="_blank" rel="noopener noreferrer"><rect x="1487.0" y="338.1" width="12.9" height="1.9" fill="#2678a9" style="cursor:pointer"><title>lb, 1980s: 4.5278 hits/million · open workbook examples · 0 workbook examples</title></rect></a>
+<text x="1493.4" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1980</text>
+<a href="../examples.html?word=styrka&amp;resource=lb&amp;decade=1990" target="_blank" rel="noopener noreferrer"><rect x="1504.0" y="319.6" width="12.9" height="20.4" fill="#2678a9" style="cursor:pointer"><title>lb, 1990s: 48.3574 hits/million · open workbook examples · 0 workbook examples</title></rect></a>
+<a href="../examples.html?word=styrka&amp;resource=lb&amp;decade=2000" target="_blank" rel="noopener noreferrer"><rect x="1521.0" y="319.9" width="12.9" height="20.1" fill="#2678a9" style="cursor:pointer"><title>lb, 2000s: 47.6495 hits/million · open workbook examples · 0 workbook examples</title></rect></a>
+<text x="1527.5" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">2000</text>
+<a href="../examples.html?word=styrka&amp;resource=lb&amp;decade=2010" target="_blank" rel="noopener noreferrer"><rect x="1538.0" y="317.5" width="12.9" height="22.5" fill="#2678a9" style="cursor:pointer"><title>lb, 2010s: 53.4193 hits/million · open workbook examples · 19 workbook examples</title></rect></a>
+<a href="../examples.html?word=styrka&amp;resource=lb&amp;decade=2020" target="_blank" rel="noopener noreferrer"><rect x="1555.0" y="338.2" width="12.9" height="1.8" fill="#2678a9" style="cursor:pointer"><title>lb, 2020s: 4.2032 hits/million · open workbook examples · 1 workbook examples</title></rect></a>
+<text x="1561.5" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">2020</text>
+<text x="85.0" y="388.0" font-size="16" text-anchor="start" fill="#d46a24" font-weight="bold">tkr · 1860–1979</text>
+<line x1="85.0" y1="590.0" x2="782.5" y2="590.0" stroke="#e1e7eb" />
+<text x="77.0" y="594.0" font-size="11" text-anchor="end" fill="#657381" font-weight="normal">0</text>
+<line x1="85.0" y1="495.0" x2="782.5" y2="495.0" stroke="#e1e7eb" />
+<text x="77.0" y="499.0" font-size="11" text-anchor="end" fill="#657381" font-weight="normal">6268</text>
+<line x1="85.0" y1="400.0" x2="782.5" y2="400.0" stroke="#e1e7eb" />
+<text x="77.0" y="404.0" font-size="11" text-anchor="end" fill="#657381" font-weight="normal">13k</text>
+<a href="../examples.html?word=styrka&amp;resource=tkr&amp;decade=1860" target="_blank" rel="noopener noreferrer"><rect x="92.0" y="568.6" width="44.2" height="21.4" fill="#d46a24" style="cursor:pointer"><title>tkr, 1860s: 1,413.0000 hits · open workbook examples · 1,413 workbook examples</title></rect></a>
+<text x="114.1" y="607.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1860</text>
+<a href="../examples.html?word=styrka&amp;resource=tkr&amp;decade=1870" target="_blank" rel="noopener noreferrer"><rect x="150.1" y="521.8" width="44.2" height="68.2" fill="#d46a24" style="cursor:pointer"><title>tkr, 1870s: 4,497.0000 hits · open workbook examples · 4,497 workbook examples</title></rect></a>
+<text x="172.2" y="607.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1870</text>
+<a href="../examples.html?word=styrka&amp;resource=tkr&amp;decade=1880" target="_blank" rel="noopener noreferrer"><rect x="208.2" y="519.4" width="44.2" height="70.6" fill="#d46a24" style="cursor:pointer"><title>tkr, 1880s: 4,659.0000 hits · open workbook examples · 4,657 workbook examples</title></rect></a>
+<text x="230.3" y="607.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1880</text>
+<a href="../examples.html?word=styrka&amp;resource=tkr&amp;decade=1890" target="_blank" rel="noopener noreferrer"><rect x="266.4" y="516.7" width="44.2" height="73.3" fill="#d46a24" style="cursor:pointer"><title>tkr, 1890s: 4,833.0000 hits · open workbook examples · 4,832 workbook examples</title></rect></a>
+<text x="288.4" y="607.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1890</text>
+<a href="../examples.html?word=styrka&amp;resource=tkr&amp;decade=1900" target="_blank" rel="noopener noreferrer"><rect x="324.5" y="475.9" width="44.2" height="114.1" fill="#d46a24" style="cursor:pointer"><title>tkr, 1900s: 7,527.0000 hits · open workbook examples · 7,524 workbook examples</title></rect></a>
+<text x="346.6" y="607.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1900</text>
+<a href="../examples.html?word=styrka&amp;resource=tkr&amp;decade=1910" target="_blank" rel="noopener noreferrer"><rect x="382.6" y="400.0" width="44.2" height="190.0" fill="#d46a24" style="cursor:pointer"><title>tkr, 1910s: 12,535.0000 hits · open workbook examples · 12,531 workbook examples</title></rect></a>
+<text x="404.7" y="607.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1910</text>
+<a href="../examples.html?word=styrka&amp;resource=tkr&amp;decade=1920" target="_blank" rel="noopener noreferrer"><rect x="440.7" y="450.0" width="44.2" height="140.0" fill="#d46a24" style="cursor:pointer"><title>tkr, 1920s: 9,235.0000 hits · open workbook examples · 9,234 workbook examples</title></rect></a>
+<text x="462.8" y="607.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1920</text>
+<a href="../examples.html?word=styrka&amp;resource=tkr&amp;decade=1930" target="_blank" rel="noopener noreferrer"><rect x="498.9" y="457.8" width="44.2" height="132.2" fill="#d46a24" style="cursor:pointer"><title>tkr, 1930s: 8,722.0000 hits · open workbook examples · 8,720 workbook examples</title></rect></a>
+<text x="520.9" y="607.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1930</text>
+<a href="../examples.html?word=styrka&amp;resource=tkr&amp;decade=1940" target="_blank" rel="noopener noreferrer"><rect x="557.0" y="481.1" width="44.2" height="108.9" fill="#d46a24" style="cursor:pointer"><title>tkr, 1940s: 7,185.0000 hits · open workbook examples · 7,184 workbook examples</title></rect></a>
+<text x="579.1" y="607.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1940</text>
+<a href="../examples.html?word=styrka&amp;resource=tkr&amp;decade=1950" target="_blank" rel="noopener noreferrer"><rect x="615.1" y="491.2" width="44.2" height="98.8" fill="#d46a24" style="cursor:pointer"><title>tkr, 1950s: 6,518.0000 hits · open workbook examples · 6,515 workbook examples</title></rect></a>
+<text x="637.2" y="607.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1950</text>
+<a href="../examples.html?word=styrka&amp;resource=tkr&amp;decade=1960" target="_blank" rel="noopener noreferrer"><rect x="673.2" y="463.9" width="44.2" height="126.1" fill="#d46a24" style="cursor:pointer"><title>tkr, 1960s: 8,316.0000 hits · open workbook examples · 8,316 workbook examples</title></rect></a>
+<text x="695.3" y="607.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1960</text>
+<a href="../examples.html?word=styrka&amp;resource=tkr&amp;decade=1970" target="_blank" rel="noopener noreferrer"><rect x="731.3" y="572.7" width="44.2" height="17.3" fill="#d46a24" style="cursor:pointer"><title>tkr, 1970s: 1,144.0000 hits · open workbook examples · 1,144 workbook examples</title></rect></a>
+<text x="753.4" y="607.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1970</text>
+<line x1="872.5" y1="590.0" x2="1570.0" y2="590.0" stroke="#e1e7eb" />
+<text x="864.5" y="594.0" font-size="11" text-anchor="end" fill="#657381" font-weight="normal">0</text>
+<line x1="872.5" y1="495.0" x2="1570.0" y2="495.0" stroke="#e1e7eb" />
+<text x="864.5" y="499.0" font-size="11" text-anchor="end" fill="#657381" font-weight="normal">51.4</text>
+<line x1="872.5" y1="400.0" x2="1570.0" y2="400.0" stroke="#e1e7eb" />
+<text x="864.5" y="404.0" font-size="11" text-anchor="end" fill="#657381" font-weight="normal">103</text>
+<a href="../examples.html?word=styrka&amp;resource=tkr&amp;decade=1860" target="_blank" rel="noopener noreferrer"><rect x="879.5" y="407.5" width="44.2" height="182.5" fill="#d46a24" style="cursor:pointer"><title>tkr, 1860s: 98.8011 hits/million · open workbook examples · 1,413 workbook examples</title></rect></a>
+<text x="901.6" y="607.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1860</text>
+<a href="../examples.html?word=styrka&amp;resource=tkr&amp;decade=1870" target="_blank" rel="noopener noreferrer"><rect x="937.6" y="419.3" width="44.2" height="170.7" fill="#d46a24" style="cursor:pointer"><title>tkr, 1870s: 92.4109 hits/million · open workbook examples · 4,497 workbook examples</title></rect></a>
+<text x="959.7" y="607.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1870</text>
+<a href="../examples.html?word=styrka&amp;resource=tkr&amp;decade=1880" target="_blank" rel="noopener noreferrer"><rect x="995.7" y="400.0" width="44.2" height="190.0" fill="#d46a24" style="cursor:pointer"><title>tkr, 1880s: 102.8457 hits/million · open workbook examples · 4,657 workbook examples</title></rect></a>
+<text x="1017.8" y="607.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1880</text>
+<a href="../examples.html?word=styrka&amp;resource=tkr&amp;decade=1890" target="_blank" rel="noopener noreferrer"><rect x="1053.8" y="427.6" width="44.2" height="162.4" fill="#d46a24" style="cursor:pointer"><title>tkr, 1890s: 87.8879 hits/million · open workbook examples · 4,832 workbook examples</title></rect></a>
+<text x="1075.9" y="607.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1890</text>
+<a href="../examples.html?word=styrka&amp;resource=tkr&amp;decade=1900" target="_blank" rel="noopener noreferrer"><rect x="1112.0" y="438.2" width="44.2" height="151.8" fill="#d46a24" style="cursor:pointer"><title>tkr, 1900s: 82.1611 hits/million · open workbook examples · 7,524 workbook examples</title></rect></a>
+<text x="1134.1" y="607.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1900</text>
+<a href="../examples.html?word=styrka&amp;resource=tkr&amp;decade=1910" target="_blank" rel="noopener noreferrer"><rect x="1170.1" y="431.9" width="44.2" height="158.1" fill="#d46a24" style="cursor:pointer"><title>tkr, 1910s: 85.5906 hits/million · open workbook examples · 12,531 workbook examples</title></rect></a>
+<text x="1192.2" y="607.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1910</text>
+<a href="../examples.html?word=styrka&amp;resource=tkr&amp;decade=1920" target="_blank" rel="noopener noreferrer"><rect x="1228.2" y="457.8" width="44.2" height="132.2" fill="#d46a24" style="cursor:pointer"><title>tkr, 1920s: 71.5378 hits/million · open workbook examples · 9,234 workbook examples</title></rect></a>
+<text x="1250.3" y="607.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1920</text>
+<a href="../examples.html?word=styrka&amp;resource=tkr&amp;decade=1930" target="_blank" rel="noopener noreferrer"><rect x="1286.3" y="466.1" width="44.2" height="123.9" fill="#d46a24" style="cursor:pointer"><title>tkr, 1930s: 67.0443 hits/million · open workbook examples · 8,720 workbook examples</title></rect></a>
+<text x="1308.4" y="607.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1930</text>
+<a href="../examples.html?word=styrka&amp;resource=tkr&amp;decade=1940" target="_blank" rel="noopener noreferrer"><rect x="1344.5" y="490.4" width="44.2" height="99.6" fill="#d46a24" style="cursor:pointer"><title>tkr, 1940s: 53.9294 hits/million · open workbook examples · 7,184 workbook examples</title></rect></a>
+<text x="1366.6" y="607.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1940</text>
+<a href="../examples.html?word=styrka&amp;resource=tkr&amp;decade=1950" target="_blank" rel="noopener noreferrer"><rect x="1402.6" y="500.8" width="44.2" height="89.2" fill="#d46a24" style="cursor:pointer"><title>tkr, 1950s: 48.3027 hits/million · open workbook examples · 6,515 workbook examples</title></rect></a>
+<text x="1424.7" y="607.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1950</text>
+<a href="../examples.html?word=styrka&amp;resource=tkr&amp;decade=1960" target="_blank" rel="noopener noreferrer"><rect x="1460.7" y="484.7" width="44.2" height="105.3" fill="#d46a24" style="cursor:pointer"><title>tkr, 1960s: 56.9842 hits/million · open workbook examples · 8,316 workbook examples</title></rect></a>
+<text x="1482.8" y="607.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1960</text>
+<a href="../examples.html?word=styrka&amp;resource=tkr&amp;decade=1970" target="_blank" rel="noopener noreferrer"><rect x="1518.8" y="467.3" width="44.2" height="122.7" fill="#d46a24" style="cursor:pointer"><title>tkr, 1970s: 66.4131 hits/million · open workbook examples · 1,144 workbook examples</title></rect></a>
+<text x="1540.9" y="607.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1970</text>
+<text x="85.0" y="638.0" font-size="16" text-anchor="start" fill="#2e8964" font-weight="bold">kubhist2 · 1870–1909</text>
+<line x1="85.0" y1="840.0" x2="782.5" y2="840.0" stroke="#e1e7eb" />
+<text x="77.0" y="844.0" font-size="11" text-anchor="end" fill="#657381" font-weight="normal">0</text>
+<line x1="85.0" y1="745.0" x2="782.5" y2="745.0" stroke="#e1e7eb" />
+<text x="77.0" y="749.0" font-size="11" text-anchor="end" fill="#657381" font-weight="normal">73k</text>
+<line x1="85.0" y1="650.0" x2="782.5" y2="650.0" stroke="#e1e7eb" />
+<text x="77.0" y="654.0" font-size="11" text-anchor="end" fill="#657381" font-weight="normal">1.5e+02k</text>
+<a href="../examples.html?word=styrka&amp;resource=kubhist2&amp;decade=1870" target="_blank" rel="noopener noreferrer"><rect x="105.9" y="715.4" width="132.5" height="124.6" fill="#2e8964" style="cursor:pointer"><title>kubhist2, 1870s: 95,247.0000 hits · open workbook examples · 95,223 workbook examples</title></rect></a>
+<text x="172.2" y="857.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1870</text>
+<a href="../examples.html?word=styrka&amp;resource=kubhist2&amp;decade=1880" target="_blank" rel="noopener noreferrer"><rect x="280.3" y="650.0" width="132.5" height="190.0" fill="#2e8964" style="cursor:pointer"><title>kubhist2, 1880s: 145,197.0000 hits · open workbook examples · 145,159 workbook examples</title></rect></a>
+<text x="346.6" y="857.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1880</text>
+<a href="../examples.html?word=styrka&amp;resource=kubhist2&amp;decade=1890" target="_blank" rel="noopener noreferrer"><rect x="454.7" y="728.8" width="132.5" height="111.2" fill="#2e8964" style="cursor:pointer"><title>kubhist2, 1890s: 84,985.0000 hits · open workbook examples · 84,965 workbook examples</title></rect></a>
+<text x="520.9" y="857.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1890</text>
+<a href="../examples.html?word=styrka&amp;resource=kubhist2&amp;decade=1900" target="_blank" rel="noopener noreferrer"><rect x="629.1" y="830.8" width="132.5" height="9.2" fill="#2e8964" style="cursor:pointer"><title>kubhist2, 1900s: 7,025.0000 hits · open workbook examples · 7,024 workbook examples</title></rect></a>
+<text x="695.3" y="857.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1900</text>
+<line x1="872.5" y1="840.0" x2="1570.0" y2="840.0" stroke="#e1e7eb" />
+<text x="864.5" y="844.0" font-size="11" text-anchor="end" fill="#657381" font-weight="normal">0</text>
+<line x1="872.5" y1="745.0" x2="1570.0" y2="745.0" stroke="#e1e7eb" />
+<text x="864.5" y="749.0" font-size="11" text-anchor="end" fill="#657381" font-weight="normal">50.1</text>
+<line x1="872.5" y1="650.0" x2="1570.0" y2="650.0" stroke="#e1e7eb" />
+<text x="864.5" y="654.0" font-size="11" text-anchor="end" fill="#657381" font-weight="normal">100</text>
+<a href="../examples.html?word=styrka&amp;resource=kubhist2&amp;decade=1870" target="_blank" rel="noopener noreferrer"><rect x="893.4" y="666.3" width="132.5" height="173.7" fill="#2e8964" style="cursor:pointer"><title>kubhist2, 1870s: 91.5341 hits/million · open workbook examples · 95,223 workbook examples</title></rect></a>
+<text x="959.7" y="857.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1870</text>
+<a href="../examples.html?word=styrka&amp;resource=kubhist2&amp;decade=1880" target="_blank" rel="noopener noreferrer"><rect x="1067.8" y="650.0" width="132.5" height="190.0" fill="#2e8964" style="cursor:pointer"><title>kubhist2, 1880s: 100.1145 hits/million · open workbook examples · 145,159 workbook examples</title></rect></a>
+<text x="1134.1" y="857.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1880</text>
+<a href="../examples.html?word=styrka&amp;resource=kubhist2&amp;decade=1890" target="_blank" rel="noopener noreferrer"><rect x="1242.2" y="684.5" width="132.5" height="155.5" fill="#2e8964" style="cursor:pointer"><title>kubhist2, 1890s: 81.9431 hits/million · open workbook examples · 84,965 workbook examples</title></rect></a>
+<text x="1308.4" y="857.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1890</text>
+<a href="../examples.html?word=styrka&amp;resource=kubhist2&amp;decade=1900" target="_blank" rel="noopener noreferrer"><rect x="1416.6" y="668.5" width="132.5" height="171.5" fill="#2e8964" style="cursor:pointer"><title>kubhist2, 1900s: 90.3505 hits/million · open workbook examples · 7,024 workbook examples</title></rect></a>
+<text x="1482.8" y="857.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1900</text>
+<text x="800.0" y="929.0" font-size="13" text-anchor="middle" fill="#263747" font-weight="normal">Decade</text>
+</svg>

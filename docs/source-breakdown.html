@@ -1,0 +1,151 @@
+<!doctype html>
+<html lang="en">
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Frequency by author and newspaper</title>
+<style>
+  body{font:16px/1.5 system-ui,Arial,sans-serif;color:#263747;max-width:1100px;margin:2rem auto;padding:0 1rem}
+  a{color:#17639b}h1{line-height:1.2}.intro{color:#526170}.controls{display:flex;flex-wrap:wrap;gap:.8rem 1rem;align-items:end;background:#f3f7f9;padding:1rem;border-radius:.6rem;margin:1.5rem 0}
+  label{display:grid;gap:.2rem;font-weight:600}select,input{font:inherit;padding:.35rem .5rem;max-width:100%}select{min-width:11rem}
+  #bars{display:grid;gap:.45rem;margin:1.5rem 0 2rem}.bar-row{display:grid;grid-template-columns:minmax(8rem,15rem) 1fr 5.5rem;align-items:center;gap:.5rem;font-size:.9rem;min-width:0}.bar-label{overflow:hidden;text-overflow:ellipsis;white-space:nowrap}.track{height:.95rem;background:#edf2f5;border-radius:.2rem}.fill{height:100%;background:#2678a9;border-radius:.2rem}.bar-value{text-align:right;font-variant-numeric:tabular-nums}
+  .table-wrap{overflow-x:auto}table{border-collapse:collapse;width:100%;min-width:650px}th,td{text-align:left;padding:.48rem .55rem;border-bottom:1px solid #e1e7eb}th{position:sticky;top:0;background:white}td.num{text-align:right;font-variant-numeric:tabular-nums}tr:hover{background:#f7fafb}small{color:#5a6b79}.downloads{margin:.8rem 0 2rem}
+  @media(max-width:600px){.bar-row{grid-template-columns:minmax(6rem,9rem) 1fr 4.4rem;font-size:.8rem}}
+</style>
+<p><a href="index.html">← Frequency plots</a> · <a href="examples.html">Workbook examples</a></p>
+<h1>Frequency by author and newspaper</h1>
+<p class="intro">Choose a word to compare Korp frequencies by author or newspaper. Newspaper rows also show how many examples appear in the workbook export.</p>
+<p class="downloads"><a href="data/author_frequencies.csv" download>Korp author CSV</a> · <a href="data/author_decade_frequencies.csv" download>Korp author by decade CSV</a> · <a href="data/workbook_author_examples.csv" download>Workbook author CSV</a> · <a href="data/newspaper_frequencies.csv" download>Newspaper CSV</a> · <a href="methodology.html">Method</a></p>
+<div class="controls">
+  <label>Word<select id="word"></select></label>
+  <label>Breakdown<select id="view"><option value="authors_api">Authors · Korp API</option><option value="authors_workbook">Authors · workbook examples</option><option value="newspapers">Newspapers · Korp and workbook</option></select></label>
+  <label id="decade-label">Decade<select id="decade"></select></label>
+  <label id="metric-label">Rank by<select id="metric"><option value="absolute">Absolute frequency</option><option value="relative">Per million tokens</option></select></label>
+  <label>Find source<input id="search" type="search" placeholder="Filter names"></label>
+</div>
+<p id="method" class="intro"></p>
+<p id="status" aria-live="polite">Loading breakdown…</p>
+<div id="bars" aria-label="Top sources"></div>
+<div class="table-wrap"><table><thead id="head"></thead><tbody id="body"></tbody></table></div>
+<script>
+(() => {
+  const $ = id => document.getElementById(id);
+  const params = new URLSearchParams(location.search);
+  const integer = n => Number(n).toLocaleString();
+  const decimal = n => n == null ? '—' : Number(n).toLocaleString(undefined,{maximumFractionDigits:3});
+  let data;
+  function option(value,label){const o=document.createElement('option');o.value=value;o.textContent=label;return o;}
+  function setOptions(select,values,desired){select.replaceChildren(...values.map(([value,label])=>option(value,label)));select.value=values.some(([value])=>value===desired)?desired:values[0][0];}
+  function yearConstraint(decade){
+    return decade==='all'?null:Array.from({length:10},(_,i)=>{
+      const year=Number(decade)+i;
+      return `(int(_.text_datefrom) >= ${year}0101 & int(_.text_dateto) <= ${year}1231)`;
+    }).join(' | ');
+  }
+  function linkFor(author,word,decade){
+    const escaped=author.replace(/[.*+?^${}()|[\]\\]/g,'\\$&').replace(/"/g,'\\"');
+    const years=yearConstraint(decade);
+    const cqp=`[lemma contains "${word}" & _.text_author = "${escaped}"${years?` & (${years})`:''}]`;
+    const values={corpus:'lb-open',search:`cqp|${cqp}`,search_tab:'2',result_tab:'0'};
+    const hash=Object.entries(values).map(([k,v])=>`${encodeURIComponent(k)}=${encodeURIComponent(v)}`).join('&');
+    return `https://spraakbanken.gu.se/korp/?mode=lb#?${hash}`;
+  }
+  function newspaperLink(paper,word,decade){
+    const corpora=(data.newspaper_corpora[paper]||[]).join(',').toLowerCase();
+    const years=yearConstraint(decade);
+    const cqp=`[lemma contains "${word}"${years?` & (${years})`:''}]`;
+    const values={corpus:corpora,search:`cqp|${cqp}`,search_tab:'2',result_tab:'0'};
+    const hash=Object.entries(values).map(([k,v])=>`${encodeURIComponent(k)}=${encodeURIComponent(v)}`).join('&');
+    return `https://spraakbanken.gu.se/korp/?mode=kubhist#?${hash}`;
+  }
+  function rows(){
+    const view=$('view').value,word=$('word').value,decade=$('decade').value;
+    if(view==='authors_api'){
+      const source=decade==='all'?data.authors_api:data.authors_api_decade.filter(r=>r[2]===decade);
+      return source.filter(r=>r[0]===word).map(r=>({name:r[1],absolute:r[decade==='all'?2:3],tokens:r[decade==='all'?3:4],relative:r[decade==='all'?4:5],url:linkFor(r[1],word,decade)}));
+    }
+    if(view==='authors_workbook'){
+      const byAuthor=new Map();
+      for(const r of data.authors_workbook){
+        if(r[0]!==word||(decade!=='all'&&r[2]!==decade))continue;
+        const prev=byAuthor.get(r[1])||{name:r[1],absolute:0,url:r[4]};prev.absolute+=r[3];byAuthor.set(r[1],prev);
+      }
+      return [...byAuthor.values()];
+    }
+    const byPaper=new Map();
+    for(const r of data.newspapers){
+      if(r[0]!==word||(decade!=='all'&&r[2]!==decade))continue;
+      const prev=byPaper.get(r[1])||{name:data.newspaper_titles[r[1]]||r[1],id:r[1],absolute:0,tokens:0,examples:0};
+      prev.absolute+=r[3];prev.tokens+=r[4];prev.examples+=r[6];byPaper.set(r[1],prev);
+    }
+    return [...byPaper.values()].map(r=>({...r,relative:r.tokens?r.absolute*1e6/r.tokens:null,url:newspaperLink(r.id,word,decade)}));
+  }
+  function updateDecades(){
+    const view=$('view').value,word=$('word').value;
+    $('metric-label').hidden=view==='authors_workbook';
+    if(view==='authors_api'){
+      const decades=[...new Set(data.authors_api_decade.filter(r=>r[0]===word).map(r=>r[2]))].sort();
+      setOptions($('decade'),[['all','All dates'],...decades.map(d=>[d,d+'s'])],$('decade').value);
+    }else if(view==='authors_workbook'){
+      if($('metric').value==='relative')$('metric').value='absolute';
+      const decades=[...new Set(data.authors_workbook.filter(r=>r[0]===word).map(r=>r[2]))].sort();
+      setOptions($('decade'),[['all','All decades'],...decades.map(d=>[d,d==='undated'?'Undated':d+'s'])],$('decade').value);
+    }else if(view==='newspapers'){
+      const decades=[...new Set(data.newspapers.filter(r=>r[0]===word).map(r=>r[2]))].sort();
+      setOptions($('decade'),[['all','All decades'],...decades.map(d=>[d,d+'s'])],$('decade').value);
+    }
+  }
+  function render(){
+    const view=$('view').value,metric=$('metric').value,search=$('search').value.toLocaleLowerCase();
+    let selected=rows().filter(r=>r.name.toLocaleLowerCase().includes(search));
+    selected.sort((a,b)=>(Number(b[metric]||0)-Number(a[metric]||0))||a.name.localeCompare(b.name,'sv'));
+    const total=selected.reduce((sum,r)=>sum+r.absolute,0);
+    $('status').textContent=`${integer(selected.length)} sources · ${integer(total)} ${view==='authors_workbook'?'workbook examples':'Korp matches'} shown.`;
+    $('method').textContent=view==='authors_api'
+      ?$('decade').value==='all'
+        ?'Korp /count groups lemma matches by text_author across all dates. Per-million rates use each author’s token total from /struct_values.'
+        :'Korp /count groups lemma matches by author and text dates. Only texts contained within a single year count toward that decade, matching the main plots. Per-million rates use that author’s tokens in the same decade.'
+      :view==='authors_workbook'
+      ?'These are exact counts of workbook examples grouped by the author ID in each Litteraturbanken URL. They are not token-normalized.'
+      :'Korp /count_time and /timespan give API matches and tokens for each newspaper and decade. Workbook examples are counted from the exported rows; differences are shown below.';
+    const top=selected.slice(0,20),max=Math.max(1,...top.map(r=>Number(r[metric]||0)));
+    $('bars').replaceChildren(...top.map(r=>{
+      const row=document.createElement('div');row.className='bar-row';
+      const label=document.createElement('span');label.className='bar-label';label.title=r.name;label.textContent=r.name;
+      const track=document.createElement('span');track.className='track';
+      const fill=document.createElement('span');fill.className='fill';fill.style.display='block';fill.style.width=`${100*Number(r[metric]||0)/max}%`;track.append(fill);
+      const value=document.createElement('span');value.className='bar-value';value.textContent=metric==='relative'?decimal(r.relative):integer(r.absolute);
+      row.append(label,track,value);return row;
+    }));
+    const headings=view==='newspapers'?['Newspaper','Korp hits','Per million','Workbook examples','Difference']
+      :view==='authors_api'?['Author','Korp hits','Per million','Author tokens']:['Author ID','Workbook examples'];
+    const head=document.createElement('tr');head.append(...headings.map(h=>{const th=document.createElement('th');th.textContent=h;return th;}));$('head').replaceChildren(head);
+    $('body').replaceChildren(...selected.map(r=>{
+      const tr=document.createElement('tr'),name=document.createElement('td');
+      if(r.url){const a=document.createElement('a');a.href=r.url;a.target='_blank';a.rel='noopener noreferrer';a.textContent=r.name;name.append(a);}else name.textContent=r.name;
+      tr.append(name);
+      const values=view==='newspapers'?[integer(r.absolute),decimal(r.relative),integer(r.examples),integer(r.absolute-r.examples)]
+        :view==='authors_api'?[integer(r.absolute),decimal(r.relative),integer(r.tokens)]:[integer(r.absolute)];
+      for(const value of values){const td=document.createElement('td');td.className='num';td.textContent=value;tr.append(td);}return tr;
+    }));
+    const q=new URLSearchParams({word:$('word').value,view});
+    if($('decade').value!=='all')q.set('decade',$('decade').value);
+    if(view!=='authors_workbook'&&metric!=='absolute')q.set('metric',metric);
+    history.replaceState(null,'','?'+q.toString());
+  }
+  async function start(){
+    try{
+      const response=await fetch('data/source_breakdown.json');if(!response.ok)throw Error(`HTTP ${response.status}`);
+      data=await response.json();
+      setOptions($('word'),data.words.map(w=>[w,w]),params.get('word'));
+      $('view').value=['authors_api','authors_workbook','newspapers'].includes(params.get('view'))?params.get('view'):'authors_api';
+      $('metric').value=params.get('metric')==='relative'?'relative':'absolute';
+      setOptions($('decade'),[['all','All decades']],'all');updateDecades();
+      if([...$('decade').options].some(o=>o.value===params.get('decade')))$('decade').value=params.get('decade');
+      for(const id of ['word','view','decade','metric'])$(id).addEventListener('change',()=>{if(id==='word'||id==='view')updateDecades();render();});
+      $('search').addEventListener('input',render);render();
+    }catch(error){$('status').textContent=`Could not load source breakdown: ${error.message}. Serve this folder over HTTP for local preview.`;}
+  }
+  start();
+})();
+</script>
+</html>

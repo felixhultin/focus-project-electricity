@@ -1,0 +1,183 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 940" role="img" aria-label="elektricitet frequency by decade and resource">
+<rect width="100%" height="100%" fill="white" />
+<style>text{font-family:Arial,Helvetica,sans-serif}</style>
+<text x="85.0" y="39.0" font-size="27" text-anchor="start" fill="#263747" font-weight="bold">elektricitet</text>
+<text x="85.0" y="65.0" font-size="14" text-anchor="start" fill="#5a6876" font-weight="normal">Korp API frequency · click a bar for matching workbook examples</text>
+<text x="85.0" y="99.0" font-size="17" text-anchor="start" fill="#263747" font-weight="bold">Absolute frequency · hits</text>
+<text x="872.5" y="99.0" font-size="17" text-anchor="start" fill="#263747" font-weight="bold">Relative frequency · hits per million tokens</text>
+<text x="85.0" y="138.0" font-size="16" text-anchor="start" fill="#2678a9" font-weight="bold">lb · 1620–2029</text>
+<line x1="85.0" y1="340.0" x2="782.5" y2="340.0" stroke="#e1e7eb" />
+<text x="77.0" y="344.0" font-size="11" text-anchor="end" fill="#657381" font-weight="normal">0</text>
+<line x1="85.0" y1="245.0" x2="782.5" y2="245.0" stroke="#e1e7eb" />
+<text x="77.0" y="249.0" font-size="11" text-anchor="end" fill="#657381" font-weight="normal">64</text>
+<line x1="85.0" y1="150.0" x2="782.5" y2="150.0" stroke="#e1e7eb" />
+<text x="77.0" y="154.0" font-size="11" text-anchor="end" fill="#657381" font-weight="normal">128</text>
+<text x="93.5" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1620</text>
+<text x="127.5" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1640</text>
+<text x="161.6" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1660</text>
+<text x="195.6" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1680</text>
+<text x="229.6" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1700</text>
+<text x="263.6" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1720</text>
+<text x="297.7" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1740</text>
+<text x="331.7" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1760</text>
+<text x="365.7" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1780</text>
+<a href="../examples.html?word=elektricitet&amp;resource=lb&amp;decade=1790" target="_blank" rel="noopener noreferrer"><rect x="376.2" y="338.5" width="12.9" height="1.5" fill="#2678a9" style="cursor:pointer"><title>lb, 1790s: 1.0000 hits · open workbook examples · 0 workbook examples</title></rect></a>
+<text x="399.7" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1800</text>
+<a href="../examples.html?word=elektricitet&amp;resource=lb&amp;decade=1810" target="_blank" rel="noopener noreferrer"><rect x="410.3" y="338.5" width="12.9" height="1.5" fill="#2678a9" style="cursor:pointer"><title>lb, 1810s: 1.0000 hits · open workbook examples · 1 workbook examples</title></rect></a>
+<text x="433.8" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1820</text>
+<a href="../examples.html?word=elektricitet&amp;resource=lb&amp;decade=1830" target="_blank" rel="noopener noreferrer"><rect x="444.3" y="325.2" width="12.9" height="14.8" fill="#2678a9" style="cursor:pointer"><title>lb, 1830s: 10.0000 hits · open workbook examples · 7 workbook examples</title></rect></a>
+<a href="../examples.html?word=elektricitet&amp;resource=lb&amp;decade=1840" target="_blank" rel="noopener noreferrer"><rect x="461.3" y="311.8" width="12.9" height="28.2" fill="#2678a9" style="cursor:pointer"><title>lb, 1840s: 19.0000 hits · open workbook examples · 13 workbook examples</title></rect></a>
+<text x="467.8" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1840</text>
+<a href="../examples.html?word=elektricitet&amp;resource=lb&amp;decade=1850" target="_blank" rel="noopener noreferrer"><rect x="478.3" y="307.3" width="12.9" height="32.7" fill="#2678a9" style="cursor:pointer"><title>lb, 1850s: 22.0000 hits · open workbook examples · 18 workbook examples</title></rect></a>
+<a href="../examples.html?word=elektricitet&amp;resource=lb&amp;decade=1860" target="_blank" rel="noopener noreferrer"><rect x="495.3" y="291.0" width="12.9" height="49.0" fill="#2678a9" style="cursor:pointer"><title>lb, 1860s: 33.0000 hits · open workbook examples · 26 workbook examples</title></rect></a>
+<text x="501.8" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1860</text>
+<a href="../examples.html?word=elektricitet&amp;resource=lb&amp;decade=1870" target="_blank" rel="noopener noreferrer"><rect x="512.3" y="282.1" width="12.9" height="57.9" fill="#2678a9" style="cursor:pointer"><title>lb, 1870s: 39.0000 hits · open workbook examples · 32 workbook examples</title></rect></a>
+<a href="../examples.html?word=elektricitet&amp;resource=lb&amp;decade=1880" target="_blank" rel="noopener noreferrer"><rect x="529.4" y="185.6" width="12.9" height="154.4" fill="#2678a9" style="cursor:pointer"><title>lb, 1880s: 104.0000 hits · open workbook examples · 62 workbook examples</title></rect></a>
+<text x="535.8" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1880</text>
+<a href="../examples.html?word=elektricitet&amp;resource=lb&amp;decade=1890" target="_blank" rel="noopener noreferrer"><rect x="546.4" y="150.0" width="12.9" height="190.0" fill="#2678a9" style="cursor:pointer"><title>lb, 1890s: 128.0000 hits · open workbook examples · 108 workbook examples</title></rect></a>
+<a href="../examples.html?word=elektricitet&amp;resource=lb&amp;decade=1900" target="_blank" rel="noopener noreferrer"><rect x="563.4" y="230.2" width="12.9" height="109.8" fill="#2678a9" style="cursor:pointer"><title>lb, 1900s: 74.0000 hits · open workbook examples · 53 workbook examples</title></rect></a>
+<text x="569.8" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1900</text>
+<a href="../examples.html?word=elektricitet&amp;resource=lb&amp;decade=1910" target="_blank" rel="noopener noreferrer"><rect x="580.4" y="242.0" width="12.9" height="98.0" fill="#2678a9" style="cursor:pointer"><title>lb, 1910s: 66.0000 hits · open workbook examples · 60 workbook examples</title></rect></a>
+<a href="../examples.html?word=elektricitet&amp;resource=lb&amp;decade=1920" target="_blank" rel="noopener noreferrer"><rect x="597.4" y="305.9" width="12.9" height="34.1" fill="#2678a9" style="cursor:pointer"><title>lb, 1920s: 23.0000 hits · open workbook examples · 17 workbook examples</title></rect></a>
+<text x="603.9" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1920</text>
+<a href="../examples.html?word=elektricitet&amp;resource=lb&amp;decade=1930" target="_blank" rel="noopener noreferrer"><rect x="614.4" y="323.7" width="12.9" height="16.3" fill="#2678a9" style="cursor:pointer"><title>lb, 1930s: 11.0000 hits · open workbook examples · 10 workbook examples</title></rect></a>
+<a href="../examples.html?word=elektricitet&amp;resource=lb&amp;decade=1940" target="_blank" rel="noopener noreferrer"><rect x="631.4" y="329.6" width="12.9" height="10.4" fill="#2678a9" style="cursor:pointer"><title>lb, 1940s: 7.0000 hits · open workbook examples · 4 workbook examples</title></rect></a>
+<text x="637.9" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1940</text>
+<a href="../examples.html?word=elektricitet&amp;resource=lb&amp;decade=1950" target="_blank" rel="noopener noreferrer"><rect x="648.4" y="338.5" width="12.9" height="1.5" fill="#2678a9" style="cursor:pointer"><title>lb, 1950s: 1.0000 hits · open workbook examples · 0 workbook examples</title></rect></a>
+<text x="671.9" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1960</text>
+<text x="705.9" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1980</text>
+<a href="../examples.html?word=elektricitet&amp;resource=lb&amp;decade=1990" target="_blank" rel="noopener noreferrer"><rect x="716.5" y="335.5" width="12.9" height="4.5" fill="#2678a9" style="cursor:pointer"><title>lb, 1990s: 3.0000 hits · open workbook examples · 0 workbook examples</title></rect></a>
+<text x="740.0" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">2000</text>
+<text x="774.0" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">2020</text>
+<line x1="872.5" y1="340.0" x2="1570.0" y2="340.0" stroke="#e1e7eb" />
+<text x="864.5" y="344.0" font-size="11" text-anchor="end" fill="#657381" font-weight="normal">0</text>
+<line x1="872.5" y1="245.0" x2="1570.0" y2="245.0" stroke="#e1e7eb" />
+<text x="864.5" y="249.0" font-size="11" text-anchor="end" fill="#657381" font-weight="normal">5.18</text>
+<line x1="872.5" y1="150.0" x2="1570.0" y2="150.0" stroke="#e1e7eb" />
+<text x="864.5" y="154.0" font-size="11" text-anchor="end" fill="#657381" font-weight="normal">10.4</text>
+<text x="881.0" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1620</text>
+<text x="915.0" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1640</text>
+<text x="1017.1" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1700</text>
+<text x="1085.2" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1740</text>
+<text x="1119.2" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1760</text>
+<text x="1153.2" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1780</text>
+<a href="../examples.html?word=elektricitet&amp;resource=lb&amp;decade=1790" target="_blank" rel="noopener noreferrer"><rect x="1163.7" y="316.8" width="12.9" height="23.2" fill="#2678a9" style="cursor:pointer"><title>lb, 1790s: 1.2671 hits/million · open workbook examples · 0 workbook examples</title></rect></a>
+<text x="1187.2" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1800</text>
+<a href="../examples.html?word=elektricitet&amp;resource=lb&amp;decade=1810" target="_blank" rel="noopener noreferrer"><rect x="1197.8" y="326.6" width="12.9" height="13.4" fill="#2678a9" style="cursor:pointer"><title>lb, 1810s: 0.7303 hits/million · open workbook examples · 1 workbook examples</title></rect></a>
+<text x="1221.2" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1820</text>
+<a href="../examples.html?word=elektricitet&amp;resource=lb&amp;decade=1830" target="_blank" rel="noopener noreferrer"><rect x="1231.8" y="324.3" width="12.9" height="15.7" fill="#2678a9" style="cursor:pointer"><title>lb, 1830s: 0.8581 hits/million · open workbook examples · 7 workbook examples</title></rect></a>
+<a href="../examples.html?word=elektricitet&amp;resource=lb&amp;decade=1840" target="_blank" rel="noopener noreferrer"><rect x="1248.8" y="328.8" width="12.9" height="11.2" fill="#2678a9" style="cursor:pointer"><title>lb, 1840s: 0.6132 hits/million · open workbook examples · 13 workbook examples</title></rect></a>
+<text x="1255.3" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1840</text>
+<a href="../examples.html?word=elektricitet&amp;resource=lb&amp;decade=1850" target="_blank" rel="noopener noreferrer"><rect x="1265.8" y="323.2" width="12.9" height="16.8" fill="#2678a9" style="cursor:pointer"><title>lb, 1850s: 0.9145 hits/million · open workbook examples · 18 workbook examples</title></rect></a>
+<a href="../examples.html?word=elektricitet&amp;resource=lb&amp;decade=1860" target="_blank" rel="noopener noreferrer"><rect x="1282.8" y="319.9" width="12.9" height="20.1" fill="#2678a9" style="cursor:pointer"><title>lb, 1860s: 1.0976 hits/million · open workbook examples · 26 workbook examples</title></rect></a>
+<text x="1289.3" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1860</text>
+<a href="../examples.html?word=elektricitet&amp;resource=lb&amp;decade=1870" target="_blank" rel="noopener noreferrer"><rect x="1299.8" y="319.3" width="12.9" height="20.7" fill="#2678a9" style="cursor:pointer"><title>lb, 1870s: 1.1270 hits/million · open workbook examples · 32 workbook examples</title></rect></a>
+<a href="../examples.html?word=elektricitet&amp;resource=lb&amp;decade=1880" target="_blank" rel="noopener noreferrer"><rect x="1316.9" y="305.6" width="12.9" height="34.4" fill="#2678a9" style="cursor:pointer"><title>lb, 1880s: 1.8735 hits/million · open workbook examples · 62 workbook examples</title></rect></a>
+<text x="1323.3" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1880</text>
+<a href="../examples.html?word=elektricitet&amp;resource=lb&amp;decade=1890" target="_blank" rel="noopener noreferrer"><rect x="1333.9" y="302.3" width="12.9" height="37.7" fill="#2678a9" style="cursor:pointer"><title>lb, 1890s: 2.0572 hits/million · open workbook examples · 108 workbook examples</title></rect></a>
+<a href="../examples.html?word=elektricitet&amp;resource=lb&amp;decade=1900" target="_blank" rel="noopener noreferrer"><rect x="1350.9" y="283.6" width="12.9" height="56.4" fill="#2678a9" style="cursor:pointer"><title>lb, 1900s: 3.0758 hits/million · open workbook examples · 53 workbook examples</title></rect></a>
+<text x="1357.3" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1900</text>
+<a href="../examples.html?word=elektricitet&amp;resource=lb&amp;decade=1910" target="_blank" rel="noopener noreferrer"><rect x="1367.9" y="281.4" width="12.9" height="58.6" fill="#2678a9" style="cursor:pointer"><title>lb, 1910s: 3.1956 hits/million · open workbook examples · 60 workbook examples</title></rect></a>
+<a href="../examples.html?word=elektricitet&amp;resource=lb&amp;decade=1920" target="_blank" rel="noopener noreferrer"><rect x="1384.9" y="318.6" width="12.9" height="21.4" fill="#2678a9" style="cursor:pointer"><title>lb, 1920s: 1.1696 hits/million · open workbook examples · 17 workbook examples</title></rect></a>
+<text x="1391.4" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1920</text>
+<a href="../examples.html?word=elektricitet&amp;resource=lb&amp;decade=1930" target="_blank" rel="noopener noreferrer"><rect x="1401.9" y="327.6" width="12.9" height="12.4" fill="#2678a9" style="cursor:pointer"><title>lb, 1930s: 0.6776 hits/million · open workbook examples · 10 workbook examples</title></rect></a>
+<a href="../examples.html?word=elektricitet&amp;resource=lb&amp;decade=1940" target="_blank" rel="noopener noreferrer"><rect x="1418.9" y="311.5" width="12.9" height="28.5" fill="#2678a9" style="cursor:pointer"><title>lb, 1940s: 1.5545 hits/million · open workbook examples · 4 workbook examples</title></rect></a>
+<text x="1425.4" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1940</text>
+<a href="../examples.html?word=elektricitet&amp;resource=lb&amp;decade=1950" target="_blank" rel="noopener noreferrer"><rect x="1435.9" y="315.1" width="12.9" height="24.9" fill="#2678a9" style="cursor:pointer"><title>lb, 1950s: 1.3557 hits/million · open workbook examples · 0 workbook examples</title></rect></a>
+<text x="1459.4" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1960</text>
+<text x="1493.4" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1980</text>
+<a href="../examples.html?word=elektricitet&amp;resource=lb&amp;decade=1990" target="_blank" rel="noopener noreferrer"><rect x="1504.0" y="150.0" width="12.9" height="190.0" fill="#2678a9" style="cursor:pointer"><title>lb, 1990s: 10.3623 hits/million · open workbook examples · 0 workbook examples</title></rect></a>
+<text x="1527.5" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">2000</text>
+<text x="1561.5" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">2020</text>
+<text x="85.0" y="388.0" font-size="16" text-anchor="start" fill="#d46a24" font-weight="bold">tkr · 1860–1979</text>
+<line x1="85.0" y1="590.0" x2="782.5" y2="590.0" stroke="#e1e7eb" />
+<text x="77.0" y="594.0" font-size="11" text-anchor="end" fill="#657381" font-weight="normal">0</text>
+<line x1="85.0" y1="495.0" x2="782.5" y2="495.0" stroke="#e1e7eb" />
+<text x="77.0" y="499.0" font-size="11" text-anchor="end" fill="#657381" font-weight="normal">286</text>
+<line x1="85.0" y1="400.0" x2="782.5" y2="400.0" stroke="#e1e7eb" />
+<text x="77.0" y="404.0" font-size="11" text-anchor="end" fill="#657381" font-weight="normal">571</text>
+<a href="../examples.html?word=elektricitet&amp;resource=tkr&amp;decade=1860" target="_blank" rel="noopener noreferrer"><rect x="92.0" y="589.0" width="44.2" height="1.0" fill="#d46a24" style="cursor:pointer"><title>tkr, 1860s: 3.0000 hits · open workbook examples · 3 workbook examples</title></rect></a>
+<text x="114.1" y="607.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1860</text>
+<a href="../examples.html?word=elektricitet&amp;resource=tkr&amp;decade=1870" target="_blank" rel="noopener noreferrer"><rect x="150.1" y="575.0" width="44.2" height="15.0" fill="#d46a24" style="cursor:pointer"><title>tkr, 1870s: 45.0000 hits · open workbook examples · 45 workbook examples</title></rect></a>
+<text x="172.2" y="607.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1870</text>
+<a href="../examples.html?word=elektricitet&amp;resource=tkr&amp;decade=1880" target="_blank" rel="noopener noreferrer"><rect x="208.2" y="567.4" width="44.2" height="22.6" fill="#d46a24" style="cursor:pointer"><title>tkr, 1880s: 68.0000 hits · open workbook examples · 68 workbook examples</title></rect></a>
+<text x="230.3" y="607.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1880</text>
+<a href="../examples.html?word=elektricitet&amp;resource=tkr&amp;decade=1890" target="_blank" rel="noopener noreferrer"><rect x="266.4" y="556.1" width="44.2" height="33.9" fill="#d46a24" style="cursor:pointer"><title>tkr, 1890s: 102.0000 hits · open workbook examples · 102 workbook examples</title></rect></a>
+<text x="288.4" y="607.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1890</text>
+<a href="../examples.html?word=elektricitet&amp;resource=tkr&amp;decade=1900" target="_blank" rel="noopener noreferrer"><rect x="324.5" y="489.2" width="44.2" height="100.8" fill="#d46a24" style="cursor:pointer"><title>tkr, 1900s: 303.0000 hits · open workbook examples · 302 workbook examples</title></rect></a>
+<text x="346.6" y="607.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1900</text>
+<a href="../examples.html?word=elektricitet&amp;resource=tkr&amp;decade=1910" target="_blank" rel="noopener noreferrer"><rect x="382.6" y="400.0" width="44.2" height="190.0" fill="#d46a24" style="cursor:pointer"><title>tkr, 1910s: 571.0000 hits · open workbook examples · 571 workbook examples</title></rect></a>
+<text x="404.7" y="607.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1910</text>
+<a href="../examples.html?word=elektricitet&amp;resource=tkr&amp;decade=1920" target="_blank" rel="noopener noreferrer"><rect x="440.7" y="459.9" width="44.2" height="130.1" fill="#d46a24" style="cursor:pointer"><title>tkr, 1920s: 391.0000 hits · open workbook examples · 390 workbook examples</title></rect></a>
+<text x="462.8" y="607.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1920</text>
+<a href="../examples.html?word=elektricitet&amp;resource=tkr&amp;decade=1930" target="_blank" rel="noopener noreferrer"><rect x="498.9" y="496.5" width="44.2" height="93.5" fill="#d46a24" style="cursor:pointer"><title>tkr, 1930s: 281.0000 hits · open workbook examples · 281 workbook examples</title></rect></a>
+<text x="520.9" y="607.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1930</text>
+<a href="../examples.html?word=elektricitet&amp;resource=tkr&amp;decade=1940" target="_blank" rel="noopener noreferrer"><rect x="557.0" y="517.5" width="44.2" height="72.5" fill="#d46a24" style="cursor:pointer"><title>tkr, 1940s: 218.0000 hits · open workbook examples · 218 workbook examples</title></rect></a>
+<text x="579.1" y="607.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1940</text>
+<a href="../examples.html?word=elektricitet&amp;resource=tkr&amp;decade=1950" target="_blank" rel="noopener noreferrer"><rect x="615.1" y="496.8" width="44.2" height="93.2" fill="#d46a24" style="cursor:pointer"><title>tkr, 1950s: 280.0000 hits · open workbook examples · 280 workbook examples</title></rect></a>
+<text x="637.2" y="607.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1950</text>
+<a href="../examples.html?word=elektricitet&amp;resource=tkr&amp;decade=1960" target="_blank" rel="noopener noreferrer"><rect x="673.2" y="520.8" width="44.2" height="69.2" fill="#d46a24" style="cursor:pointer"><title>tkr, 1960s: 208.0000 hits · open workbook examples · 208 workbook examples</title></rect></a>
+<text x="695.3" y="607.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1960</text>
+<a href="../examples.html?word=elektricitet&amp;resource=tkr&amp;decade=1970" target="_blank" rel="noopener noreferrer"><rect x="731.3" y="582.7" width="44.2" height="7.3" fill="#d46a24" style="cursor:pointer"><title>tkr, 1970s: 22.0000 hits · open workbook examples · 22 workbook examples</title></rect></a>
+<text x="753.4" y="607.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1970</text>
+<line x1="872.5" y1="590.0" x2="1570.0" y2="590.0" stroke="#e1e7eb" />
+<text x="864.5" y="594.0" font-size="11" text-anchor="end" fill="#657381" font-weight="normal">0</text>
+<line x1="872.5" y1="495.0" x2="1570.0" y2="495.0" stroke="#e1e7eb" />
+<text x="864.5" y="499.0" font-size="11" text-anchor="end" fill="#657381" font-weight="normal">1.95</text>
+<line x1="872.5" y1="400.0" x2="1570.0" y2="400.0" stroke="#e1e7eb" />
+<text x="864.5" y="404.0" font-size="11" text-anchor="end" fill="#657381" font-weight="normal">3.9</text>
+<a href="../examples.html?word=elektricitet&amp;resource=tkr&amp;decade=1860" target="_blank" rel="noopener noreferrer"><rect x="879.5" y="579.8" width="44.2" height="10.2" fill="#d46a24" style="cursor:pointer"><title>tkr, 1860s: 0.2098 hits/million · open workbook examples · 3 workbook examples</title></rect></a>
+<text x="901.6" y="607.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1860</text>
+<a href="../examples.html?word=elektricitet&amp;resource=tkr&amp;decade=1870" target="_blank" rel="noopener noreferrer"><rect x="937.6" y="544.9" width="44.2" height="45.1" fill="#d46a24" style="cursor:pointer"><title>tkr, 1870s: 0.9247 hits/million · open workbook examples · 45 workbook examples</title></rect></a>
+<text x="959.7" y="607.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1870</text>
+<a href="../examples.html?word=elektricitet&amp;resource=tkr&amp;decade=1880" target="_blank" rel="noopener noreferrer"><rect x="995.7" y="516.8" width="44.2" height="73.2" fill="#d46a24" style="cursor:pointer"><title>tkr, 1880s: 1.5011 hits/million · open workbook examples · 68 workbook examples</title></rect></a>
+<text x="1017.8" y="607.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1880</text>
+<a href="../examples.html?word=elektricitet&amp;resource=tkr&amp;decade=1890" target="_blank" rel="noopener noreferrer"><rect x="1053.8" y="499.6" width="44.2" height="90.4" fill="#d46a24" style="cursor:pointer"><title>tkr, 1890s: 1.8549 hits/million · open workbook examples · 102 workbook examples</title></rect></a>
+<text x="1075.9" y="607.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1890</text>
+<a href="../examples.html?word=elektricitet&amp;resource=tkr&amp;decade=1900" target="_blank" rel="noopener noreferrer"><rect x="1112.0" y="428.8" width="44.2" height="161.2" fill="#d46a24" style="cursor:pointer"><title>tkr, 1900s: 3.3074 hits/million · open workbook examples · 302 workbook examples</title></rect></a>
+<text x="1134.1" y="607.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1900</text>
+<a href="../examples.html?word=elektricitet&amp;resource=tkr&amp;decade=1910" target="_blank" rel="noopener noreferrer"><rect x="1170.1" y="400.0" width="44.2" height="190.0" fill="#d46a24" style="cursor:pointer"><title>tkr, 1910s: 3.8989 hits/million · open workbook examples · 571 workbook examples</title></rect></a>
+<text x="1192.2" y="607.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1910</text>
+<a href="../examples.html?word=elektricitet&amp;resource=tkr&amp;decade=1920" target="_blank" rel="noopener noreferrer"><rect x="1228.2" y="442.4" width="44.2" height="147.6" fill="#d46a24" style="cursor:pointer"><title>tkr, 1920s: 3.0288 hits/million · open workbook examples · 390 workbook examples</title></rect></a>
+<text x="1250.3" y="607.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1920</text>
+<a href="../examples.html?word=elektricitet&amp;resource=tkr&amp;decade=1930" target="_blank" rel="noopener noreferrer"><rect x="1286.3" y="484.7" width="44.2" height="105.3" fill="#d46a24" style="cursor:pointer"><title>tkr, 1930s: 2.1600 hits/million · open workbook examples · 281 workbook examples</title></rect></a>
+<text x="1308.4" y="607.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1930</text>
+<a href="../examples.html?word=elektricitet&amp;resource=tkr&amp;decade=1940" target="_blank" rel="noopener noreferrer"><rect x="1344.5" y="510.3" width="44.2" height="79.7" fill="#d46a24" style="cursor:pointer"><title>tkr, 1940s: 1.6363 hits/million · open workbook examples · 218 workbook examples</title></rect></a>
+<text x="1366.6" y="607.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1940</text>
+<a href="../examples.html?word=elektricitet&amp;resource=tkr&amp;decade=1950" target="_blank" rel="noopener noreferrer"><rect x="1402.6" y="488.9" width="44.2" height="101.1" fill="#d46a24" style="cursor:pointer"><title>tkr, 1950s: 2.0750 hits/million · open workbook examples · 280 workbook examples</title></rect></a>
+<text x="1424.7" y="607.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1950</text>
+<a href="../examples.html?word=elektricitet&amp;resource=tkr&amp;decade=1960" target="_blank" rel="noopener noreferrer"><rect x="1460.7" y="520.5" width="44.2" height="69.5" fill="#d46a24" style="cursor:pointer"><title>tkr, 1960s: 1.4253 hits/million · open workbook examples · 208 workbook examples</title></rect></a>
+<text x="1482.8" y="607.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1960</text>
+<a href="../examples.html?word=elektricitet&amp;resource=tkr&amp;decade=1970" target="_blank" rel="noopener noreferrer"><rect x="1518.8" y="527.8" width="44.2" height="62.2" fill="#d46a24" style="cursor:pointer"><title>tkr, 1970s: 1.2772 hits/million · open workbook examples · 22 workbook examples</title></rect></a>
+<text x="1540.9" y="607.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1970</text>
+<text x="85.0" y="638.0" font-size="16" text-anchor="start" fill="#2e8964" font-weight="bold">kubhist2 · 1870–1909</text>
+<line x1="85.0" y1="840.0" x2="782.5" y2="840.0" stroke="#e1e7eb" />
+<text x="77.0" y="844.0" font-size="11" text-anchor="end" fill="#657381" font-weight="normal">0</text>
+<line x1="85.0" y1="745.0" x2="782.5" y2="745.0" stroke="#e1e7eb" />
+<text x="77.0" y="749.0" font-size="11" text-anchor="end" fill="#657381" font-weight="normal">8944</text>
+<line x1="85.0" y1="650.0" x2="782.5" y2="650.0" stroke="#e1e7eb" />
+<text x="77.0" y="654.0" font-size="11" text-anchor="end" fill="#657381" font-weight="normal">18k</text>
+<a href="../examples.html?word=elektricitet&amp;resource=kubhist2&amp;decade=1870" target="_blank" rel="noopener noreferrer"><rect x="105.9" y="770.0" width="132.5" height="70.0" fill="#2e8964" style="cursor:pointer"><title>kubhist2, 1870s: 6,588.0000 hits · open workbook examples · 6,586 workbook examples</title></rect></a>
+<text x="172.2" y="857.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1870</text>
+<a href="../examples.html?word=elektricitet&amp;resource=kubhist2&amp;decade=1880" target="_blank" rel="noopener noreferrer"><rect x="280.3" y="650.0" width="132.5" height="190.0" fill="#2e8964" style="cursor:pointer"><title>kubhist2, 1880s: 17,889.0000 hits · open workbook examples · 17,883 workbook examples</title></rect></a>
+<text x="346.6" y="857.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1880</text>
+<a href="../examples.html?word=elektricitet&amp;resource=kubhist2&amp;decade=1890" target="_blank" rel="noopener noreferrer"><rect x="454.7" y="714.9" width="132.5" height="125.1" fill="#2e8964" style="cursor:pointer"><title>kubhist2, 1890s: 11,780.0000 hits · open workbook examples · 11,776 workbook examples</title></rect></a>
+<text x="520.9" y="857.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1890</text>
+<a href="../examples.html?word=elektricitet&amp;resource=kubhist2&amp;decade=1900" target="_blank" rel="noopener noreferrer"><rect x="629.1" y="828.8" width="132.5" height="11.2" fill="#2e8964" style="cursor:pointer"><title>kubhist2, 1900s: 1,059.0000 hits · open workbook examples · 1,058 workbook examples</title></rect></a>
+<text x="695.3" y="857.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1900</text>
+<line x1="872.5" y1="840.0" x2="1570.0" y2="840.0" stroke="#e1e7eb" />
+<text x="864.5" y="844.0" font-size="11" text-anchor="end" fill="#657381" font-weight="normal">0</text>
+<line x1="872.5" y1="745.0" x2="1570.0" y2="745.0" stroke="#e1e7eb" />
+<text x="864.5" y="749.0" font-size="11" text-anchor="end" fill="#657381" font-weight="normal">6.81</text>
+<line x1="872.5" y1="650.0" x2="1570.0" y2="650.0" stroke="#e1e7eb" />
+<text x="864.5" y="654.0" font-size="11" text-anchor="end" fill="#657381" font-weight="normal">13.6</text>
+<a href="../examples.html?word=elektricitet&amp;resource=kubhist2&amp;decade=1870" target="_blank" rel="noopener noreferrer"><rect x="893.4" y="751.7" width="132.5" height="88.3" fill="#2e8964" style="cursor:pointer"><title>kubhist2, 1870s: 6.3312 hits/million · open workbook examples · 6,586 workbook examples</title></rect></a>
+<text x="959.7" y="857.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1870</text>
+<a href="../examples.html?word=elektricitet&amp;resource=kubhist2&amp;decade=1880" target="_blank" rel="noopener noreferrer"><rect x="1067.8" y="667.9" width="132.5" height="172.1" fill="#2e8964" style="cursor:pointer"><title>kubhist2, 1880s: 12.3346 hits/million · open workbook examples · 17,883 workbook examples</title></rect></a>
+<text x="1134.1" y="857.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1880</text>
+<a href="../examples.html?word=elektricitet&amp;resource=kubhist2&amp;decade=1890" target="_blank" rel="noopener noreferrer"><rect x="1242.2" y="681.6" width="132.5" height="158.4" fill="#2e8964" style="cursor:pointer"><title>kubhist2, 1890s: 11.3583 hits/million · open workbook examples · 11,776 workbook examples</title></rect></a>
+<text x="1308.4" y="857.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1890</text>
+<a href="../examples.html?word=elektricitet&amp;resource=kubhist2&amp;decade=1900" target="_blank" rel="noopener noreferrer"><rect x="1416.6" y="650.0" width="132.5" height="190.0" fill="#2e8964" style="cursor:pointer"><title>kubhist2, 1900s: 13.6201 hits/million · open workbook examples · 1,058 workbook examples</title></rect></a>
+<text x="1482.8" y="857.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1900</text>
+<text x="800.0" y="929.0" font-size="13" text-anchor="middle" fill="#263747" font-weight="normal">Decade</text>
+</svg>
