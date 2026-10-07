@@ -1,0 +1,179 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 940" role="img" aria-label="tös frequency by decade and resource">
+<rect width="100%" height="100%" fill="white" />
+<style>text{font-family:Arial,Helvetica,sans-serif}</style>
+<text x="85.0" y="39.0" font-size="27" text-anchor="start" fill="#263747" font-weight="bold">tös</text>
+<text x="85.0" y="65.0" font-size="14" text-anchor="start" fill="#5a6876" font-weight="normal">Korp API frequency · click a bar for matching workbook examples</text>
+<text x="85.0" y="99.0" font-size="17" text-anchor="start" fill="#263747" font-weight="bold">Absolute frequency · hits</text>
+<text x="872.5" y="99.0" font-size="17" text-anchor="start" fill="#263747" font-weight="bold">Relative frequency · hits per million tokens</text>
+<text x="85.0" y="138.0" font-size="16" text-anchor="start" fill="#2678a9" font-weight="bold">lb · 1620–2029</text>
+<line x1="85.0" y1="340.0" x2="782.5" y2="340.0" stroke="#e1e7eb" />
+<text x="77.0" y="344.0" font-size="11" text-anchor="end" fill="#657381" font-weight="normal">0</text>
+<line x1="85.0" y1="245.0" x2="782.5" y2="245.0" stroke="#e1e7eb" />
+<text x="77.0" y="249.0" font-size="11" text-anchor="end" fill="#657381" font-weight="normal">722</text>
+<line x1="85.0" y1="150.0" x2="782.5" y2="150.0" stroke="#e1e7eb" />
+<text x="77.0" y="154.0" font-size="11" text-anchor="end" fill="#657381" font-weight="normal">1444</text>
+<text x="93.5" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1620</text>
+<text x="127.5" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1640</text>
+<text x="161.6" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1660</text>
+<text x="195.6" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1680</text>
+<text x="229.6" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1700</text>
+<text x="263.6" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1720</text>
+<text x="297.7" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1740</text>
+<text x="331.7" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1760</text>
+<text x="365.7" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1780</text>
+<a href="../examples.html?word=t%C3%B6s&amp;resource=lb&amp;decade=1790" target="_blank" rel="noopener noreferrer"><rect x="376.2" y="339.7" width="12.9" height="0.3" fill="#2678a9" style="cursor:pointer"><title>lb, 1790s: 2.0000 hits · open workbook examples · 2 workbook examples</title></rect></a>
+<text x="399.7" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1800</text>
+<a href="../examples.html?word=t%C3%B6s&amp;resource=lb&amp;decade=1810" target="_blank" rel="noopener noreferrer"><rect x="410.3" y="339.9" width="12.9" height="0.1" fill="#2678a9" style="cursor:pointer"><title>lb, 1810s: 1.0000 hits · open workbook examples · 1 workbook examples</title></rect></a>
+<a href="../examples.html?word=t%C3%B6s&amp;resource=lb&amp;decade=1820" target="_blank" rel="noopener noreferrer"><rect x="427.3" y="339.9" width="12.9" height="0.1" fill="#2678a9" style="cursor:pointer"><title>lb, 1820s: 1.0000 hits · open workbook examples · 1 workbook examples</title></rect></a>
+<text x="433.8" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1820</text>
+<a href="../examples.html?word=t%C3%B6s&amp;resource=lb&amp;decade=1830" target="_blank" rel="noopener noreferrer"><rect x="444.3" y="338.0" width="12.9" height="2.0" fill="#2678a9" style="cursor:pointer"><title>lb, 1830s: 15.0000 hits · open workbook examples · 15 workbook examples</title></rect></a>
+<a href="../examples.html?word=t%C3%B6s&amp;resource=lb&amp;decade=1840" target="_blank" rel="noopener noreferrer"><rect x="461.3" y="324.9" width="12.9" height="15.1" fill="#2678a9" style="cursor:pointer"><title>lb, 1840s: 115.0000 hits · open workbook examples · 115 workbook examples</title></rect></a>
+<text x="467.8" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1840</text>
+<a href="../examples.html?word=t%C3%B6s&amp;resource=lb&amp;decade=1850" target="_blank" rel="noopener noreferrer"><rect x="478.3" y="327.2" width="12.9" height="12.8" fill="#2678a9" style="cursor:pointer"><title>lb, 1850s: 97.0000 hits · open workbook examples · 97 workbook examples</title></rect></a>
+<a href="../examples.html?word=t%C3%B6s&amp;resource=lb&amp;decade=1860" target="_blank" rel="noopener noreferrer"><rect x="495.3" y="302.8" width="12.9" height="37.2" fill="#2678a9" style="cursor:pointer"><title>lb, 1860s: 283.0000 hits · open workbook examples · 283 workbook examples</title></rect></a>
+<text x="501.8" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1860</text>
+<a href="../examples.html?word=t%C3%B6s&amp;resource=lb&amp;decade=1870" target="_blank" rel="noopener noreferrer"><rect x="512.3" y="296.6" width="12.9" height="43.4" fill="#2678a9" style="cursor:pointer"><title>lb, 1870s: 330.0000 hits · open workbook examples · 330 workbook examples</title></rect></a>
+<a href="../examples.html?word=t%C3%B6s&amp;resource=lb&amp;decade=1880" target="_blank" rel="noopener noreferrer"><rect x="529.4" y="217.2" width="12.9" height="122.8" fill="#2678a9" style="cursor:pointer"><title>lb, 1880s: 933.0000 hits · open workbook examples · 933 workbook examples</title></rect></a>
+<text x="535.8" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1880</text>
+<a href="../examples.html?word=t%C3%B6s&amp;resource=lb&amp;decade=1890" target="_blank" rel="noopener noreferrer"><rect x="546.4" y="150.0" width="12.9" height="190.0" fill="#2678a9" style="cursor:pointer"><title>lb, 1890s: 1,444.0000 hits · open workbook examples · 1,444 workbook examples</title></rect></a>
+<a href="../examples.html?word=t%C3%B6s&amp;resource=lb&amp;decade=1900" target="_blank" rel="noopener noreferrer"><rect x="563.4" y="302.5" width="12.9" height="37.5" fill="#2678a9" style="cursor:pointer"><title>lb, 1900s: 285.0000 hits · open workbook examples · 285 workbook examples</title></rect></a>
+<text x="569.8" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1900</text>
+<a href="../examples.html?word=t%C3%B6s&amp;resource=lb&amp;decade=1910" target="_blank" rel="noopener noreferrer"><rect x="580.4" y="295.7" width="12.9" height="44.3" fill="#2678a9" style="cursor:pointer"><title>lb, 1910s: 337.0000 hits · open workbook examples · 336 workbook examples</title></rect></a>
+<a href="../examples.html?word=t%C3%B6s&amp;resource=lb&amp;decade=1920" target="_blank" rel="noopener noreferrer"><rect x="597.4" y="302.8" width="12.9" height="37.2" fill="#2678a9" style="cursor:pointer"><title>lb, 1920s: 283.0000 hits · open workbook examples · 283 workbook examples</title></rect></a>
+<text x="603.9" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1920</text>
+<a href="../examples.html?word=t%C3%B6s&amp;resource=lb&amp;decade=1930" target="_blank" rel="noopener noreferrer"><rect x="614.4" y="318.7" width="12.9" height="21.3" fill="#2678a9" style="cursor:pointer"><title>lb, 1930s: 162.0000 hits · open workbook examples · 162 workbook examples</title></rect></a>
+<a href="../examples.html?word=t%C3%B6s&amp;resource=lb&amp;decade=1940" target="_blank" rel="noopener noreferrer"><rect x="631.4" y="328.2" width="12.9" height="11.8" fill="#2678a9" style="cursor:pointer"><title>lb, 1940s: 90.0000 hits · open workbook examples · 90 workbook examples</title></rect></a>
+<text x="637.9" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1940</text>
+<a href="../examples.html?word=t%C3%B6s&amp;resource=lb&amp;decade=1950" target="_blank" rel="noopener noreferrer"><rect x="648.4" y="337.1" width="12.9" height="2.9" fill="#2678a9" style="cursor:pointer"><title>lb, 1950s: 22.0000 hits · open workbook examples · 22 workbook examples</title></rect></a>
+<a href="../examples.html?word=t%C3%B6s&amp;resource=lb&amp;decade=1960" target="_blank" rel="noopener noreferrer"><rect x="665.5" y="339.7" width="12.9" height="0.3" fill="#2678a9" style="cursor:pointer"><title>lb, 1960s: 2.0000 hits · open workbook examples · 2 workbook examples</title></rect></a>
+<text x="671.9" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1960</text>
+<text x="705.9" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1980</text>
+<text x="740.0" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">2000</text>
+<a href="../examples.html?word=t%C3%B6s&amp;resource=lb&amp;decade=2010" target="_blank" rel="noopener noreferrer"><rect x="750.5" y="339.2" width="12.9" height="0.8" fill="#2678a9" style="cursor:pointer"><title>lb, 2010s: 6.0000 hits · open workbook examples · 6 workbook examples</title></rect></a>
+<text x="774.0" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">2020</text>
+<line x1="872.5" y1="340.0" x2="1570.0" y2="340.0" stroke="#e1e7eb" />
+<text x="864.5" y="344.0" font-size="11" text-anchor="end" fill="#657381" font-weight="normal">0</text>
+<line x1="872.5" y1="245.0" x2="1570.0" y2="245.0" stroke="#e1e7eb" />
+<text x="864.5" y="249.0" font-size="11" text-anchor="end" fill="#657381" font-weight="normal">14.9</text>
+<line x1="872.5" y1="150.0" x2="1570.0" y2="150.0" stroke="#e1e7eb" />
+<text x="864.5" y="154.0" font-size="11" text-anchor="end" fill="#657381" font-weight="normal">29.8</text>
+<text x="881.0" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1620</text>
+<text x="915.0" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1640</text>
+<text x="1017.1" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1700</text>
+<text x="1085.2" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1740</text>
+<text x="1119.2" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1760</text>
+<text x="1153.2" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1780</text>
+<a href="../examples.html?word=t%C3%B6s&amp;resource=lb&amp;decade=1790" target="_blank" rel="noopener noreferrer"><rect x="1163.7" y="323.9" width="12.9" height="16.1" fill="#2678a9" style="cursor:pointer"><title>lb, 1790s: 2.5343 hits/million · open workbook examples · 2 workbook examples</title></rect></a>
+<text x="1187.2" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1800</text>
+<a href="../examples.html?word=t%C3%B6s&amp;resource=lb&amp;decade=1810" target="_blank" rel="noopener noreferrer"><rect x="1197.8" y="335.3" width="12.9" height="4.7" fill="#2678a9" style="cursor:pointer"><title>lb, 1810s: 0.7303 hits/million · open workbook examples · 1 workbook examples</title></rect></a>
+<a href="../examples.html?word=t%C3%B6s&amp;resource=lb&amp;decade=1820" target="_blank" rel="noopener noreferrer"><rect x="1214.8" y="332.4" width="12.9" height="7.6" fill="#2678a9" style="cursor:pointer"><title>lb, 1820s: 1.1873 hits/million · open workbook examples · 1 workbook examples</title></rect></a>
+<text x="1221.2" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1820</text>
+<a href="../examples.html?word=t%C3%B6s&amp;resource=lb&amp;decade=1830" target="_blank" rel="noopener noreferrer"><rect x="1231.8" y="331.8" width="12.9" height="8.2" fill="#2678a9" style="cursor:pointer"><title>lb, 1830s: 1.2871 hits/million · open workbook examples · 15 workbook examples</title></rect></a>
+<a href="../examples.html?word=t%C3%B6s&amp;resource=lb&amp;decade=1840" target="_blank" rel="noopener noreferrer"><rect x="1248.8" y="316.4" width="12.9" height="23.6" fill="#2678a9" style="cursor:pointer"><title>lb, 1840s: 3.7114 hits/million · open workbook examples · 115 workbook examples</title></rect></a>
+<text x="1255.3" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1840</text>
+<a href="../examples.html?word=t%C3%B6s&amp;resource=lb&amp;decade=1850" target="_blank" rel="noopener noreferrer"><rect x="1265.8" y="314.3" width="12.9" height="25.7" fill="#2678a9" style="cursor:pointer"><title>lb, 1850s: 4.0323 hits/million · open workbook examples · 97 workbook examples</title></rect></a>
+<a href="../examples.html?word=t%C3%B6s&amp;resource=lb&amp;decade=1860" target="_blank" rel="noopener noreferrer"><rect x="1282.8" y="280.0" width="12.9" height="60.0" fill="#2678a9" style="cursor:pointer"><title>lb, 1860s: 9.4125 hits/million · open workbook examples · 283 workbook examples</title></rect></a>
+<text x="1289.3" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1860</text>
+<a href="../examples.html?word=t%C3%B6s&amp;resource=lb&amp;decade=1870" target="_blank" rel="noopener noreferrer"><rect x="1299.8" y="279.2" width="12.9" height="60.8" fill="#2678a9" style="cursor:pointer"><title>lb, 1870s: 9.5361 hits/million · open workbook examples · 330 workbook examples</title></rect></a>
+<a href="../examples.html?word=t%C3%B6s&amp;resource=lb&amp;decade=1880" target="_blank" rel="noopener noreferrer"><rect x="1316.9" y="232.9" width="12.9" height="107.1" fill="#2678a9" style="cursor:pointer"><title>lb, 1880s: 16.8072 hits/million · open workbook examples · 933 workbook examples</title></rect></a>
+<text x="1323.3" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1880</text>
+<a href="../examples.html?word=t%C3%B6s&amp;resource=lb&amp;decade=1890" target="_blank" rel="noopener noreferrer"><rect x="1333.9" y="192.1" width="12.9" height="147.9" fill="#2678a9" style="cursor:pointer"><title>lb, 1890s: 23.2082 hits/million · open workbook examples · 1,444 workbook examples</title></rect></a>
+<a href="../examples.html?word=t%C3%B6s&amp;resource=lb&amp;decade=1900" target="_blank" rel="noopener noreferrer"><rect x="1350.9" y="264.5" width="12.9" height="75.5" fill="#2678a9" style="cursor:pointer"><title>lb, 1900s: 11.8461 hits/million · open workbook examples · 285 workbook examples</title></rect></a>
+<text x="1357.3" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1900</text>
+<a href="../examples.html?word=t%C3%B6s&amp;resource=lb&amp;decade=1910" target="_blank" rel="noopener noreferrer"><rect x="1367.9" y="236.1" width="12.9" height="103.9" fill="#2678a9" style="cursor:pointer"><title>lb, 1910s: 16.3169 hits/million · open workbook examples · 336 workbook examples</title></rect></a>
+<a href="../examples.html?word=t%C3%B6s&amp;resource=lb&amp;decade=1920" target="_blank" rel="noopener noreferrer"><rect x="1384.9" y="248.3" width="12.9" height="91.7" fill="#2678a9" style="cursor:pointer"><title>lb, 1920s: 14.3914 hits/million · open workbook examples · 283 workbook examples</title></rect></a>
+<text x="1391.4" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1920</text>
+<a href="../examples.html?word=t%C3%B6s&amp;resource=lb&amp;decade=1930" target="_blank" rel="noopener noreferrer"><rect x="1401.9" y="276.4" width="12.9" height="63.6" fill="#2678a9" style="cursor:pointer"><title>lb, 1930s: 9.9790 hits/million · open workbook examples · 162 workbook examples</title></rect></a>
+<a href="../examples.html?word=t%C3%B6s&amp;resource=lb&amp;decade=1940" target="_blank" rel="noopener noreferrer"><rect x="1418.9" y="212.7" width="12.9" height="127.3" fill="#2678a9" style="cursor:pointer"><title>lb, 1940s: 19.9860 hits/million · open workbook examples · 90 workbook examples</title></rect></a>
+<text x="1425.4" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1940</text>
+<a href="../examples.html?word=t%C3%B6s&amp;resource=lb&amp;decade=1950" target="_blank" rel="noopener noreferrer"><rect x="1435.9" y="150.0" width="12.9" height="190.0" fill="#2678a9" style="cursor:pointer"><title>lb, 1950s: 29.8245 hits/million · open workbook examples · 22 workbook examples</title></rect></a>
+<a href="../examples.html?word=t%C3%B6s&amp;resource=lb&amp;decade=1960" target="_blank" rel="noopener noreferrer"><rect x="1453.0" y="324.1" width="12.9" height="15.9" fill="#2678a9" style="cursor:pointer"><title>lb, 1960s: 2.4905 hits/million · open workbook examples · 2 workbook examples</title></rect></a>
+<text x="1459.4" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1960</text>
+<text x="1493.4" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1980</text>
+<text x="1527.5" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">2000</text>
+<a href="../examples.html?word=t%C3%B6s&amp;resource=lb&amp;decade=2010" target="_blank" rel="noopener noreferrer"><rect x="1538.0" y="232.5" width="12.9" height="107.5" fill="#2678a9" style="cursor:pointer"><title>lb, 2010s: 16.8692 hits/million · open workbook examples · 6 workbook examples</title></rect></a>
+<text x="1561.5" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">2020</text>
+<text x="85.0" y="388.0" font-size="16" text-anchor="start" fill="#d46a24" font-weight="bold">tkr · 1860–1979</text>
+<line x1="85.0" y1="590.0" x2="782.5" y2="590.0" stroke="#e1e7eb" />
+<text x="77.0" y="594.0" font-size="11" text-anchor="end" fill="#657381" font-weight="normal">0</text>
+<line x1="85.0" y1="495.0" x2="782.5" y2="495.0" stroke="#e1e7eb" />
+<text x="77.0" y="499.0" font-size="11" text-anchor="end" fill="#657381" font-weight="normal">4</text>
+<line x1="85.0" y1="400.0" x2="782.5" y2="400.0" stroke="#e1e7eb" />
+<text x="77.0" y="404.0" font-size="11" text-anchor="end" fill="#657381" font-weight="normal">7</text>
+<text x="114.1" y="607.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1860</text>
+<a href="../examples.html?word=t%C3%B6s&amp;resource=tkr&amp;decade=1870" target="_blank" rel="noopener noreferrer"><rect x="150.1" y="508.6" width="44.2" height="81.4" fill="#d46a24" style="cursor:pointer"><title>tkr, 1870s: 3.0000 hits · open workbook examples · 3 workbook examples</title></rect></a>
+<text x="172.2" y="607.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1870</text>
+<text x="230.3" y="607.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1880</text>
+<text x="288.4" y="607.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1890</text>
+<a href="../examples.html?word=t%C3%B6s&amp;resource=tkr&amp;decade=1900" target="_blank" rel="noopener noreferrer"><rect x="324.5" y="535.7" width="44.2" height="54.3" fill="#d46a24" style="cursor:pointer"><title>tkr, 1900s: 2.0000 hits · open workbook examples · 2 workbook examples</title></rect></a>
+<text x="346.6" y="607.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1900</text>
+<a href="../examples.html?word=t%C3%B6s&amp;resource=tkr&amp;decade=1910" target="_blank" rel="noopener noreferrer"><rect x="382.6" y="481.4" width="44.2" height="108.6" fill="#d46a24" style="cursor:pointer"><title>tkr, 1910s: 4.0000 hits · open workbook examples · 4 workbook examples</title></rect></a>
+<text x="404.7" y="607.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1910</text>
+<a href="../examples.html?word=t%C3%B6s&amp;resource=tkr&amp;decade=1920" target="_blank" rel="noopener noreferrer"><rect x="440.7" y="454.3" width="44.2" height="135.7" fill="#d46a24" style="cursor:pointer"><title>tkr, 1920s: 5.0000 hits · open workbook examples · 5 workbook examples</title></rect></a>
+<text x="462.8" y="607.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1920</text>
+<a href="../examples.html?word=t%C3%B6s&amp;resource=tkr&amp;decade=1930" target="_blank" rel="noopener noreferrer"><rect x="498.9" y="454.3" width="44.2" height="135.7" fill="#d46a24" style="cursor:pointer"><title>tkr, 1930s: 5.0000 hits · open workbook examples · 5 workbook examples</title></rect></a>
+<text x="520.9" y="607.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1930</text>
+<a href="../examples.html?word=t%C3%B6s&amp;resource=tkr&amp;decade=1940" target="_blank" rel="noopener noreferrer"><rect x="557.0" y="400.0" width="44.2" height="190.0" fill="#d46a24" style="cursor:pointer"><title>tkr, 1940s: 7.0000 hits · open workbook examples · 7 workbook examples</title></rect></a>
+<text x="579.1" y="607.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1940</text>
+<a href="../examples.html?word=t%C3%B6s&amp;resource=tkr&amp;decade=1950" target="_blank" rel="noopener noreferrer"><rect x="615.1" y="481.4" width="44.2" height="108.6" fill="#d46a24" style="cursor:pointer"><title>tkr, 1950s: 4.0000 hits · open workbook examples · 4 workbook examples</title></rect></a>
+<text x="637.2" y="607.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1950</text>
+<a href="../examples.html?word=t%C3%B6s&amp;resource=tkr&amp;decade=1960" target="_blank" rel="noopener noreferrer"><rect x="673.2" y="427.1" width="44.2" height="162.9" fill="#d46a24" style="cursor:pointer"><title>tkr, 1960s: 6.0000 hits · open workbook examples · 6 workbook examples</title></rect></a>
+<text x="695.3" y="607.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1960</text>
+<text x="753.4" y="607.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1970</text>
+<line x1="872.5" y1="590.0" x2="1570.0" y2="590.0" stroke="#e1e7eb" />
+<text x="864.5" y="594.0" font-size="11" text-anchor="end" fill="#657381" font-weight="normal">0</text>
+<line x1="872.5" y1="495.0" x2="1570.0" y2="495.0" stroke="#e1e7eb" />
+<text x="864.5" y="499.0" font-size="11" text-anchor="end" fill="#657381" font-weight="normal">0.5</text>
+<line x1="872.5" y1="400.0" x2="1570.0" y2="400.0" stroke="#e1e7eb" />
+<text x="864.5" y="404.0" font-size="11" text-anchor="end" fill="#657381" font-weight="normal">1</text>
+<text x="901.6" y="607.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1860</text>
+<a href="../examples.html?word=t%C3%B6s&amp;resource=tkr&amp;decade=1870" target="_blank" rel="noopener noreferrer"><rect x="937.6" y="578.3" width="44.2" height="11.7" fill="#d46a24" style="cursor:pointer"><title>tkr, 1870s: 0.0616 hits/million · open workbook examples · 3 workbook examples</title></rect></a>
+<text x="959.7" y="607.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1870</text>
+<text x="1017.8" y="607.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1880</text>
+<text x="1075.9" y="607.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1890</text>
+<a href="../examples.html?word=t%C3%B6s&amp;resource=tkr&amp;decade=1900" target="_blank" rel="noopener noreferrer"><rect x="1112.0" y="585.9" width="44.2" height="4.1" fill="#d46a24" style="cursor:pointer"><title>tkr, 1900s: 0.0218 hits/million · open workbook examples · 2 workbook examples</title></rect></a>
+<text x="1134.1" y="607.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1900</text>
+<a href="../examples.html?word=t%C3%B6s&amp;resource=tkr&amp;decade=1910" target="_blank" rel="noopener noreferrer"><rect x="1170.1" y="584.8" width="44.2" height="5.2" fill="#d46a24" style="cursor:pointer"><title>tkr, 1910s: 0.0273 hits/million · open workbook examples · 4 workbook examples</title></rect></a>
+<text x="1192.2" y="607.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1910</text>
+<a href="../examples.html?word=t%C3%B6s&amp;resource=tkr&amp;decade=1920" target="_blank" rel="noopener noreferrer"><rect x="1228.2" y="582.6" width="44.2" height="7.4" fill="#d46a24" style="cursor:pointer"><title>tkr, 1920s: 0.0387 hits/million · open workbook examples · 5 workbook examples</title></rect></a>
+<text x="1250.3" y="607.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1920</text>
+<a href="../examples.html?word=t%C3%B6s&amp;resource=tkr&amp;decade=1930" target="_blank" rel="noopener noreferrer"><rect x="1286.3" y="582.7" width="44.2" height="7.3" fill="#d46a24" style="cursor:pointer"><title>tkr, 1930s: 0.0384 hits/million · open workbook examples · 5 workbook examples</title></rect></a>
+<text x="1308.4" y="607.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1930</text>
+<a href="../examples.html?word=t%C3%B6s&amp;resource=tkr&amp;decade=1940" target="_blank" rel="noopener noreferrer"><rect x="1344.5" y="580.0" width="44.2" height="10.0" fill="#d46a24" style="cursor:pointer"><title>tkr, 1940s: 0.0525 hits/million · open workbook examples · 7 workbook examples</title></rect></a>
+<text x="1366.6" y="607.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1940</text>
+<a href="../examples.html?word=t%C3%B6s&amp;resource=tkr&amp;decade=1950" target="_blank" rel="noopener noreferrer"><rect x="1402.6" y="584.4" width="44.2" height="5.6" fill="#d46a24" style="cursor:pointer"><title>tkr, 1950s: 0.0296 hits/million · open workbook examples · 4 workbook examples</title></rect></a>
+<text x="1424.7" y="607.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1950</text>
+<a href="../examples.html?word=t%C3%B6s&amp;resource=tkr&amp;decade=1960" target="_blank" rel="noopener noreferrer"><rect x="1460.7" y="582.2" width="44.2" height="7.8" fill="#d46a24" style="cursor:pointer"><title>tkr, 1960s: 0.0411 hits/million · open workbook examples · 6 workbook examples</title></rect></a>
+<text x="1482.8" y="607.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1960</text>
+<text x="1540.9" y="607.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1970</text>
+<text x="85.0" y="638.0" font-size="16" text-anchor="start" fill="#2e8964" font-weight="bold">kubhist2 · 1870–1909</text>
+<line x1="85.0" y1="840.0" x2="782.5" y2="840.0" stroke="#e1e7eb" />
+<text x="77.0" y="844.0" font-size="11" text-anchor="end" fill="#657381" font-weight="normal">0</text>
+<line x1="85.0" y1="745.0" x2="782.5" y2="745.0" stroke="#e1e7eb" />
+<text x="77.0" y="749.0" font-size="11" text-anchor="end" fill="#657381" font-weight="normal">1546</text>
+<line x1="85.0" y1="650.0" x2="782.5" y2="650.0" stroke="#e1e7eb" />
+<text x="77.0" y="654.0" font-size="11" text-anchor="end" fill="#657381" font-weight="normal">3093</text>
+<a href="../examples.html?word=t%C3%B6s&amp;resource=kubhist2&amp;decade=1870" target="_blank" rel="noopener noreferrer"><rect x="105.9" y="834.5" width="132.5" height="5.5" fill="#2e8964" style="cursor:pointer"><title>kubhist2, 1870s: 90.0000 hits · open workbook examples · 51 workbook examples</title></rect></a>
+<text x="172.2" y="857.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1870</text>
+<a href="../examples.html?word=t%C3%B6s&amp;resource=kubhist2&amp;decade=1880" target="_blank" rel="noopener noreferrer"><rect x="280.3" y="690.1" width="132.5" height="149.9" fill="#2e8964" style="cursor:pointer"><title>kubhist2, 1880s: 2,440.0000 hits · open workbook examples · 2,440 workbook examples</title></rect></a>
+<text x="346.6" y="857.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1880</text>
+<a href="../examples.html?word=t%C3%B6s&amp;resource=kubhist2&amp;decade=1890" target="_blank" rel="noopener noreferrer"><rect x="454.7" y="650.0" width="132.5" height="190.0" fill="#2e8964" style="cursor:pointer"><title>kubhist2, 1890s: 3,093.0000 hits · open workbook examples · 3,093 workbook examples</title></rect></a>
+<text x="520.9" y="857.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1890</text>
+<a href="../examples.html?word=t%C3%B6s&amp;resource=kubhist2&amp;decade=1900" target="_blank" rel="noopener noreferrer"><rect x="629.1" y="803.6" width="132.5" height="36.4" fill="#2e8964" style="cursor:pointer"><title>kubhist2, 1900s: 593.0000 hits · open workbook examples · 593 workbook examples</title></rect></a>
+<text x="695.3" y="857.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1900</text>
+<line x1="872.5" y1="840.0" x2="1570.0" y2="840.0" stroke="#e1e7eb" />
+<text x="864.5" y="844.0" font-size="11" text-anchor="end" fill="#657381" font-weight="normal">0</text>
+<line x1="872.5" y1="745.0" x2="1570.0" y2="745.0" stroke="#e1e7eb" />
+<text x="864.5" y="749.0" font-size="11" text-anchor="end" fill="#657381" font-weight="normal">3.81</text>
+<line x1="872.5" y1="650.0" x2="1570.0" y2="650.0" stroke="#e1e7eb" />
+<text x="864.5" y="654.0" font-size="11" text-anchor="end" fill="#657381" font-weight="normal">7.63</text>
+<a href="../examples.html?word=t%C3%B6s&amp;resource=kubhist2&amp;decade=1870" target="_blank" rel="noopener noreferrer"><rect x="893.4" y="816.8" width="132.5" height="23.2" fill="#2e8964" style="cursor:pointer"><title>kubhist2, 1870s: 0.9302 hits/million · open workbook examples · 51 workbook examples</title></rect></a>
+<text x="959.7" y="857.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1870</text>
+<a href="../examples.html?word=t%C3%B6s&amp;resource=kubhist2&amp;decade=1880" target="_blank" rel="noopener noreferrer"><rect x="1067.8" y="798.1" width="132.5" height="41.9" fill="#2e8964" style="cursor:pointer"><title>kubhist2, 1880s: 1.6824 hits/million · open workbook examples · 2,440 workbook examples</title></rect></a>
+<text x="1134.1" y="857.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1880</text>
+<a href="../examples.html?word=t%C3%B6s&amp;resource=kubhist2&amp;decade=1890" target="_blank" rel="noopener noreferrer"><rect x="1242.2" y="765.7" width="132.5" height="74.3" fill="#2e8964" style="cursor:pointer"><title>kubhist2, 1890s: 2.9823 hits/million · open workbook examples · 3,093 workbook examples</title></rect></a>
+<text x="1308.4" y="857.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1890</text>
+<a href="../examples.html?word=t%C3%B6s&amp;resource=kubhist2&amp;decade=1900" target="_blank" rel="noopener noreferrer"><rect x="1416.6" y="650.0" width="132.5" height="190.0" fill="#2e8964" style="cursor:pointer"><title>kubhist2, 1900s: 7.6267 hits/million · open workbook examples · 593 workbook examples</title></rect></a>
+<text x="1482.8" y="857.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1900</text>
+<text x="800.0" y="929.0" font-size="13" text-anchor="middle" fill="#263747" font-weight="normal">Decade</text>
+</svg>

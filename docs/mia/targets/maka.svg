@@ -1,0 +1,213 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 940" role="img" aria-label="maka frequency by decade and resource">
+<rect width="100%" height="100%" fill="white" />
+<style>text{font-family:Arial,Helvetica,sans-serif}</style>
+<text x="85.0" y="39.0" font-size="27" text-anchor="start" fill="#263747" font-weight="bold">maka</text>
+<text x="85.0" y="65.0" font-size="14" text-anchor="start" fill="#5a6876" font-weight="normal">Korp API frequency · click a bar for matching workbook examples</text>
+<text x="85.0" y="99.0" font-size="17" text-anchor="start" fill="#263747" font-weight="bold">Absolute frequency · hits</text>
+<text x="872.5" y="99.0" font-size="17" text-anchor="start" fill="#263747" font-weight="bold">Relative frequency · hits per million tokens</text>
+<text x="85.0" y="138.0" font-size="16" text-anchor="start" fill="#2678a9" font-weight="bold">lb · 1620–2029</text>
+<line x1="85.0" y1="340.0" x2="782.5" y2="340.0" stroke="#e1e7eb" />
+<text x="77.0" y="344.0" font-size="11" text-anchor="end" fill="#657381" font-weight="normal">0</text>
+<line x1="85.0" y1="245.0" x2="782.5" y2="245.0" stroke="#e1e7eb" />
+<text x="77.0" y="249.0" font-size="11" text-anchor="end" fill="#657381" font-weight="normal">2076</text>
+<line x1="85.0" y1="150.0" x2="782.5" y2="150.0" stroke="#e1e7eb" />
+<text x="77.0" y="154.0" font-size="11" text-anchor="end" fill="#657381" font-weight="normal">4151</text>
+<text x="93.5" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1620</text>
+<a href="../examples.html?word=maka&amp;resource=lb&amp;decade=1640" target="_blank" rel="noopener noreferrer"><rect x="121.1" y="339.9" width="12.9" height="0.1" fill="#2678a9" style="cursor:pointer"><title>lb, 1640s: 3.0000 hits · open workbook examples · 0 workbook examples</title></rect></a>
+<text x="127.5" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1640</text>
+<text x="161.6" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1660</text>
+<text x="195.6" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1680</text>
+<a href="../examples.html?word=maka&amp;resource=lb&amp;decade=1700" target="_blank" rel="noopener noreferrer"><rect x="223.1" y="339.8" width="12.9" height="0.2" fill="#2678a9" style="cursor:pointer"><title>lb, 1700s: 5.0000 hits · open workbook examples · 5 workbook examples</title></rect></a>
+<text x="229.6" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1700</text>
+<a href="../examples.html?word=maka&amp;resource=lb&amp;decade=1710" target="_blank" rel="noopener noreferrer"><rect x="240.2" y="338.4" width="12.9" height="1.6" fill="#2678a9" style="cursor:pointer"><title>lb, 1710s: 36.0000 hits · open workbook examples · 36 workbook examples</title></rect></a>
+<text x="263.6" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1720</text>
+<a href="../examples.html?word=maka&amp;resource=lb&amp;decade=1730" target="_blank" rel="noopener noreferrer"><rect x="274.2" y="339.5" width="12.9" height="0.5" fill="#2678a9" style="cursor:pointer"><title>lb, 1730s: 12.0000 hits · open workbook examples · 12 workbook examples</title></rect></a>
+<text x="297.7" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1740</text>
+<a href="../examples.html?word=maka&amp;resource=lb&amp;decade=1750" target="_blank" rel="noopener noreferrer"><rect x="308.2" y="339.9" width="12.9" height="0.1" fill="#2678a9" style="cursor:pointer"><title>lb, 1750s: 3.0000 hits · open workbook examples · 3 workbook examples</title></rect></a>
+<a href="../examples.html?word=maka&amp;resource=lb&amp;decade=1760" target="_blank" rel="noopener noreferrer"><rect x="325.2" y="340.0" width="12.9" height="0.0" fill="#2678a9" style="cursor:pointer"><title>lb, 1760s: 1.0000 hits · open workbook examples · 1 workbook examples</title></rect></a>
+<text x="331.7" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1760</text>
+<a href="../examples.html?word=maka&amp;resource=lb&amp;decade=1770" target="_blank" rel="noopener noreferrer"><rect x="342.2" y="339.9" width="12.9" height="0.1" fill="#2678a9" style="cursor:pointer"><title>lb, 1770s: 3.0000 hits · open workbook examples · 3 workbook examples</title></rect></a>
+<a href="../examples.html?word=maka&amp;resource=lb&amp;decade=1780" target="_blank" rel="noopener noreferrer"><rect x="359.2" y="339.8" width="12.9" height="0.2" fill="#2678a9" style="cursor:pointer"><title>lb, 1780s: 5.0000 hits · open workbook examples · 5 workbook examples</title></rect></a>
+<text x="365.7" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1780</text>
+<a href="../examples.html?word=maka&amp;resource=lb&amp;decade=1790" target="_blank" rel="noopener noreferrer"><rect x="376.2" y="338.0" width="12.9" height="2.0" fill="#2678a9" style="cursor:pointer"><title>lb, 1790s: 44.0000 hits · open workbook examples · 44 workbook examples</title></rect></a>
+<a href="../examples.html?word=maka&amp;resource=lb&amp;decade=1800" target="_blank" rel="noopener noreferrer"><rect x="393.3" y="338.7" width="12.9" height="1.3" fill="#2678a9" style="cursor:pointer"><title>lb, 1800s: 29.0000 hits · open workbook examples · 29 workbook examples</title></rect></a>
+<text x="399.7" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1800</text>
+<a href="../examples.html?word=maka&amp;resource=lb&amp;decade=1810" target="_blank" rel="noopener noreferrer"><rect x="410.3" y="336.4" width="12.9" height="3.6" fill="#2678a9" style="cursor:pointer"><title>lb, 1810s: 78.0000 hits · open workbook examples · 78 workbook examples</title></rect></a>
+<a href="../examples.html?word=maka&amp;resource=lb&amp;decade=1820" target="_blank" rel="noopener noreferrer"><rect x="427.3" y="330.8" width="12.9" height="9.2" fill="#2678a9" style="cursor:pointer"><title>lb, 1820s: 200.0000 hits · open workbook examples · 200 workbook examples</title></rect></a>
+<text x="433.8" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1820</text>
+<a href="../examples.html?word=maka&amp;resource=lb&amp;decade=1830" target="_blank" rel="noopener noreferrer"><rect x="444.3" y="276.2" width="12.9" height="63.8" fill="#2678a9" style="cursor:pointer"><title>lb, 1830s: 1,394.0000 hits · open workbook examples · 1,393 workbook examples</title></rect></a>
+<a href="../examples.html?word=maka&amp;resource=lb&amp;decade=1840" target="_blank" rel="noopener noreferrer"><rect x="461.3" y="172.7" width="12.9" height="167.3" fill="#2678a9" style="cursor:pointer"><title>lb, 1840s: 3,656.0000 hits · open workbook examples · 3,656 workbook examples</title></rect></a>
+<text x="467.8" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1840</text>
+<a href="../examples.html?word=maka&amp;resource=lb&amp;decade=1850" target="_blank" rel="noopener noreferrer"><rect x="478.3" y="195.1" width="12.9" height="144.9" fill="#2678a9" style="cursor:pointer"><title>lb, 1850s: 3,165.0000 hits · open workbook examples · 3,164 workbook examples</title></rect></a>
+<a href="../examples.html?word=maka&amp;resource=lb&amp;decade=1860" target="_blank" rel="noopener noreferrer"><rect x="495.3" y="162.2" width="12.9" height="177.8" fill="#2678a9" style="cursor:pointer"><title>lb, 1860s: 3,885.0000 hits · open workbook examples · 3,884 workbook examples</title></rect></a>
+<text x="501.8" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1860</text>
+<a href="../examples.html?word=maka&amp;resource=lb&amp;decade=1870" target="_blank" rel="noopener noreferrer"><rect x="512.3" y="203.3" width="12.9" height="136.7" fill="#2678a9" style="cursor:pointer"><title>lb, 1870s: 2,986.0000 hits · open workbook examples · 2,986 workbook examples</title></rect></a>
+<a href="../examples.html?word=maka&amp;resource=lb&amp;decade=1880" target="_blank" rel="noopener noreferrer"><rect x="529.4" y="161.6" width="12.9" height="178.4" fill="#2678a9" style="cursor:pointer"><title>lb, 1880s: 3,897.0000 hits · open workbook examples · 3,896 workbook examples</title></rect></a>
+<text x="535.8" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1880</text>
+<a href="../examples.html?word=maka&amp;resource=lb&amp;decade=1890" target="_blank" rel="noopener noreferrer"><rect x="546.4" y="150.0" width="12.9" height="190.0" fill="#2678a9" style="cursor:pointer"><title>lb, 1890s: 4,151.0000 hits · open workbook examples · 4,150 workbook examples</title></rect></a>
+<a href="../examples.html?word=maka&amp;resource=lb&amp;decade=1900" target="_blank" rel="noopener noreferrer"><rect x="563.4" y="300.5" width="12.9" height="39.5" fill="#2678a9" style="cursor:pointer"><title>lb, 1900s: 863.0000 hits · open workbook examples · 862 workbook examples</title></rect></a>
+<text x="569.8" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1900</text>
+<a href="../examples.html?word=maka&amp;resource=lb&amp;decade=1910" target="_blank" rel="noopener noreferrer"><rect x="580.4" y="301.7" width="12.9" height="38.3" fill="#2678a9" style="cursor:pointer"><title>lb, 1910s: 837.0000 hits · open workbook examples · 837 workbook examples</title></rect></a>
+<a href="../examples.html?word=maka&amp;resource=lb&amp;decade=1920" target="_blank" rel="noopener noreferrer"><rect x="597.4" y="316.3" width="12.9" height="23.7" fill="#2678a9" style="cursor:pointer"><title>lb, 1920s: 517.0000 hits · open workbook examples · 517 workbook examples</title></rect></a>
+<text x="603.9" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1920</text>
+<a href="../examples.html?word=maka&amp;resource=lb&amp;decade=1930" target="_blank" rel="noopener noreferrer"><rect x="614.4" y="326.0" width="12.9" height="14.0" fill="#2678a9" style="cursor:pointer"><title>lb, 1930s: 305.0000 hits · open workbook examples · 305 workbook examples</title></rect></a>
+<a href="../examples.html?word=maka&amp;resource=lb&amp;decade=1940" target="_blank" rel="noopener noreferrer"><rect x="631.4" y="335.8" width="12.9" height="4.2" fill="#2678a9" style="cursor:pointer"><title>lb, 1940s: 91.0000 hits · open workbook examples · 90 workbook examples</title></rect></a>
+<text x="637.9" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1940</text>
+<a href="../examples.html?word=maka&amp;resource=lb&amp;decade=1950" target="_blank" rel="noopener noreferrer"><rect x="648.4" y="339.5" width="12.9" height="0.5" fill="#2678a9" style="cursor:pointer"><title>lb, 1950s: 12.0000 hits · open workbook examples · 12 workbook examples</title></rect></a>
+<a href="../examples.html?word=maka&amp;resource=lb&amp;decade=1960" target="_blank" rel="noopener noreferrer"><rect x="665.5" y="339.2" width="12.9" height="0.8" fill="#2678a9" style="cursor:pointer"><title>lb, 1960s: 18.0000 hits · open workbook examples · 18 workbook examples</title></rect></a>
+<text x="671.9" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1960</text>
+<a href="../examples.html?word=maka&amp;resource=lb&amp;decade=1970" target="_blank" rel="noopener noreferrer"><rect x="682.5" y="339.8" width="12.9" height="0.2" fill="#2678a9" style="cursor:pointer"><title>lb, 1970s: 5.0000 hits · open workbook examples · 5 workbook examples</title></rect></a>
+<a href="../examples.html?word=maka&amp;resource=lb&amp;decade=1980" target="_blank" rel="noopener noreferrer"><rect x="699.5" y="339.9" width="12.9" height="0.1" fill="#2678a9" style="cursor:pointer"><title>lb, 1980s: 3.0000 hits · open workbook examples · 3 workbook examples</title></rect></a>
+<text x="705.9" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1980</text>
+<a href="../examples.html?word=maka&amp;resource=lb&amp;decade=1990" target="_blank" rel="noopener noreferrer"><rect x="716.5" y="340.0" width="12.9" height="0.0" fill="#2678a9" style="cursor:pointer"><title>lb, 1990s: 1.0000 hits · open workbook examples · 1 workbook examples</title></rect></a>
+<a href="../examples.html?word=maka&amp;resource=lb&amp;decade=2000" target="_blank" rel="noopener noreferrer"><rect x="733.5" y="339.7" width="12.9" height="0.3" fill="#2678a9" style="cursor:pointer"><title>lb, 2000s: 6.0000 hits · open workbook examples · 6 workbook examples</title></rect></a>
+<text x="740.0" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">2000</text>
+<a href="../examples.html?word=maka&amp;resource=lb&amp;decade=2010" target="_blank" rel="noopener noreferrer"><rect x="750.5" y="339.5" width="12.9" height="0.5" fill="#2678a9" style="cursor:pointer"><title>lb, 2010s: 10.0000 hits · open workbook examples · 10 workbook examples</title></rect></a>
+<text x="774.0" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">2020</text>
+<line x1="872.5" y1="340.0" x2="1570.0" y2="340.0" stroke="#e1e7eb" />
+<text x="864.5" y="344.0" font-size="11" text-anchor="end" fill="#657381" font-weight="normal">0</text>
+<line x1="872.5" y1="245.0" x2="1570.0" y2="245.0" stroke="#e1e7eb" />
+<text x="864.5" y="249.0" font-size="11" text-anchor="end" fill="#657381" font-weight="normal">278</text>
+<line x1="872.5" y1="150.0" x2="1570.0" y2="150.0" stroke="#e1e7eb" />
+<text x="864.5" y="154.0" font-size="11" text-anchor="end" fill="#657381" font-weight="normal">557</text>
+<text x="881.0" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1620</text>
+<a href="../examples.html?word=maka&amp;resource=lb&amp;decade=1640" target="_blank" rel="noopener noreferrer"><rect x="908.6" y="318.8" width="12.9" height="21.2" fill="#2678a9" style="cursor:pointer"><title>lb, 1640s: 62.2290 hits/million · open workbook examples · 0 workbook examples</title></rect></a>
+<text x="915.0" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1640</text>
+<a href="../examples.html?word=maka&amp;resource=lb&amp;decade=1700" target="_blank" rel="noopener noreferrer"><rect x="1010.6" y="339.1" width="12.9" height="0.9" fill="#2678a9" style="cursor:pointer"><title>lb, 1700s: 2.7829 hits/million · open workbook examples · 5 workbook examples</title></rect></a>
+<text x="1017.1" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1700</text>
+<a href="../examples.html?word=maka&amp;resource=lb&amp;decade=1710" target="_blank" rel="noopener noreferrer"><rect x="1027.7" y="150.0" width="12.9" height="190.0" fill="#2678a9" style="cursor:pointer"><title>lb, 1710s: 556.9393 hits/million · open workbook examples · 36 workbook examples</title></rect></a>
+<a href="../examples.html?word=maka&amp;resource=lb&amp;decade=1730" target="_blank" rel="noopener noreferrer"><rect x="1061.7" y="217.4" width="12.9" height="122.6" fill="#2678a9" style="cursor:pointer"><title>lb, 1730s: 359.4859 hits/million · open workbook examples · 12 workbook examples</title></rect></a>
+<text x="1085.2" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1740</text>
+<a href="../examples.html?word=maka&amp;resource=lb&amp;decade=1750" target="_blank" rel="noopener noreferrer"><rect x="1095.7" y="339.1" width="12.9" height="0.9" fill="#2678a9" style="cursor:pointer"><title>lb, 1750s: 2.7373 hits/million · open workbook examples · 3 workbook examples</title></rect></a>
+<a href="../examples.html?word=maka&amp;resource=lb&amp;decade=1760" target="_blank" rel="noopener noreferrer"><rect x="1112.7" y="326.0" width="12.9" height="14.0" fill="#2678a9" style="cursor:pointer"><title>lb, 1760s: 40.9467 hits/million · open workbook examples · 1 workbook examples</title></rect></a>
+<text x="1119.2" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1760</text>
+<a href="../examples.html?word=maka&amp;resource=lb&amp;decade=1770" target="_blank" rel="noopener noreferrer"><rect x="1129.7" y="325.4" width="12.9" height="14.6" fill="#2678a9" style="cursor:pointer"><title>lb, 1770s: 42.9142 hits/million · open workbook examples · 3 workbook examples</title></rect></a>
+<a href="../examples.html?word=maka&amp;resource=lb&amp;decade=1780" target="_blank" rel="noopener noreferrer"><rect x="1146.7" y="304.9" width="12.9" height="35.1" fill="#2678a9" style="cursor:pointer"><title>lb, 1780s: 102.8362 hits/million · open workbook examples · 5 workbook examples</title></rect></a>
+<text x="1153.2" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1780</text>
+<a href="../examples.html?word=maka&amp;resource=lb&amp;decade=1790" target="_blank" rel="noopener noreferrer"><rect x="1163.7" y="321.0" width="12.9" height="19.0" fill="#2678a9" style="cursor:pointer"><title>lb, 1790s: 55.7543 hits/million · open workbook examples · 44 workbook examples</title></rect></a>
+<a href="../examples.html?word=maka&amp;resource=lb&amp;decade=1800" target="_blank" rel="noopener noreferrer"><rect x="1180.8" y="326.6" width="12.9" height="13.4" fill="#2678a9" style="cursor:pointer"><title>lb, 1800s: 39.3518 hits/million · open workbook examples · 29 workbook examples</title></rect></a>
+<text x="1187.2" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1800</text>
+<a href="../examples.html?word=maka&amp;resource=lb&amp;decade=1810" target="_blank" rel="noopener noreferrer"><rect x="1197.8" y="320.6" width="12.9" height="19.4" fill="#2678a9" style="cursor:pointer"><title>lb, 1810s: 56.9595 hits/million · open workbook examples · 78 workbook examples</title></rect></a>
+<a href="../examples.html?word=maka&amp;resource=lb&amp;decade=1820" target="_blank" rel="noopener noreferrer"><rect x="1214.8" y="259.0" width="12.9" height="81.0" fill="#2678a9" style="cursor:pointer"><title>lb, 1820s: 237.4581 hits/million · open workbook examples · 200 workbook examples</title></rect></a>
+<text x="1221.2" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1820</text>
+<a href="../examples.html?word=maka&amp;resource=lb&amp;decade=1830" target="_blank" rel="noopener noreferrer"><rect x="1231.8" y="299.2" width="12.9" height="40.8" fill="#2678a9" style="cursor:pointer"><title>lb, 1830s: 119.6159 hits/million · open workbook examples · 1,393 workbook examples</title></rect></a>
+<a href="../examples.html?word=maka&amp;resource=lb&amp;decade=1840" target="_blank" rel="noopener noreferrer"><rect x="1248.8" y="299.7" width="12.9" height="40.3" fill="#2678a9" style="cursor:pointer"><title>lb, 1840s: 117.9893 hits/million · open workbook examples · 3,656 workbook examples</title></rect></a>
+<text x="1255.3" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1840</text>
+<a href="../examples.html?word=maka&amp;resource=lb&amp;decade=1850" target="_blank" rel="noopener noreferrer"><rect x="1265.8" y="295.1" width="12.9" height="44.9" fill="#2678a9" style="cursor:pointer"><title>lb, 1850s: 131.5693 hits/million · open workbook examples · 3,164 workbook examples</title></rect></a>
+<a href="../examples.html?word=maka&amp;resource=lb&amp;decade=1860" target="_blank" rel="noopener noreferrer"><rect x="1282.8" y="295.9" width="12.9" height="44.1" fill="#2678a9" style="cursor:pointer"><title>lb, 1860s: 129.2139 hits/million · open workbook examples · 3,884 workbook examples</title></rect></a>
+<text x="1289.3" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1860</text>
+<a href="../examples.html?word=maka&amp;resource=lb&amp;decade=1870" target="_blank" rel="noopener noreferrer"><rect x="1299.8" y="310.6" width="12.9" height="29.4" fill="#2678a9" style="cursor:pointer"><title>lb, 1870s: 86.2871 hits/million · open workbook examples · 2,986 workbook examples</title></rect></a>
+<a href="../examples.html?word=maka&amp;resource=lb&amp;decade=1880" target="_blank" rel="noopener noreferrer"><rect x="1316.9" y="316.1" width="12.9" height="23.9" fill="#2678a9" style="cursor:pointer"><title>lb, 1880s: 70.2011 hits/million · open workbook examples · 3,896 workbook examples</title></rect></a>
+<text x="1323.3" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1880</text>
+<a href="../examples.html?word=maka&amp;resource=lb&amp;decade=1890" target="_blank" rel="noopener noreferrer"><rect x="1333.9" y="317.2" width="12.9" height="22.8" fill="#2678a9" style="cursor:pointer"><title>lb, 1890s: 66.7156 hits/million · open workbook examples · 4,150 workbook examples</title></rect></a>
+<a href="../examples.html?word=maka&amp;resource=lb&amp;decade=1900" target="_blank" rel="noopener noreferrer"><rect x="1350.9" y="327.8" width="12.9" height="12.2" fill="#2678a9" style="cursor:pointer"><title>lb, 1900s: 35.8707 hits/million · open workbook examples · 862 workbook examples</title></rect></a>
+<text x="1357.3" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1900</text>
+<a href="../examples.html?word=maka&amp;resource=lb&amp;decade=1910" target="_blank" rel="noopener noreferrer"><rect x="1367.9" y="326.2" width="12.9" height="13.8" fill="#2678a9" style="cursor:pointer"><title>lb, 1910s: 40.5260 hits/million · open workbook examples · 837 workbook examples</title></rect></a>
+<a href="../examples.html?word=maka&amp;resource=lb&amp;decade=1920" target="_blank" rel="noopener noreferrer"><rect x="1384.9" y="331.0" width="12.9" height="9.0" fill="#2678a9" style="cursor:pointer"><title>lb, 1920s: 26.2909 hits/million · open workbook examples · 517 workbook examples</title></rect></a>
+<text x="1391.4" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1920</text>
+<a href="../examples.html?word=maka&amp;resource=lb&amp;decade=1930" target="_blank" rel="noopener noreferrer"><rect x="1401.9" y="333.6" width="12.9" height="6.4" fill="#2678a9" style="cursor:pointer"><title>lb, 1930s: 18.7876 hits/million · open workbook examples · 305 workbook examples</title></rect></a>
+<a href="../examples.html?word=maka&amp;resource=lb&amp;decade=1940" target="_blank" rel="noopener noreferrer"><rect x="1418.9" y="333.1" width="12.9" height="6.9" fill="#2678a9" style="cursor:pointer"><title>lb, 1940s: 20.2081 hits/million · open workbook examples · 90 workbook examples</title></rect></a>
+<text x="1425.4" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1940</text>
+<a href="../examples.html?word=maka&amp;resource=lb&amp;decade=1950" target="_blank" rel="noopener noreferrer"><rect x="1435.9" y="334.5" width="12.9" height="5.5" fill="#2678a9" style="cursor:pointer"><title>lb, 1950s: 16.2679 hits/million · open workbook examples · 12 workbook examples</title></rect></a>
+<a href="../examples.html?word=maka&amp;resource=lb&amp;decade=1960" target="_blank" rel="noopener noreferrer"><rect x="1453.0" y="332.4" width="12.9" height="7.6" fill="#2678a9" style="cursor:pointer"><title>lb, 1960s: 22.4145 hits/million · open workbook examples · 18 workbook examples</title></rect></a>
+<text x="1459.4" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1960</text>
+<a href="../examples.html?word=maka&amp;resource=lb&amp;decade=1970" target="_blank" rel="noopener noreferrer"><rect x="1470.0" y="320.7" width="12.9" height="19.3" fill="#2678a9" style="cursor:pointer"><title>lb, 1970s: 56.4985 hits/million · open workbook examples · 5 workbook examples</title></rect></a>
+<a href="../examples.html?word=maka&amp;resource=lb&amp;decade=1980" target="_blank" rel="noopener noreferrer"><rect x="1487.0" y="337.7" width="12.9" height="2.3" fill="#2678a9" style="cursor:pointer"><title>lb, 1980s: 6.7917 hits/million · open workbook examples · 3 workbook examples</title></rect></a>
+<text x="1493.4" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1980</text>
+<a href="../examples.html?word=maka&amp;resource=lb&amp;decade=1990" target="_blank" rel="noopener noreferrer"><rect x="1504.0" y="338.8" width="12.9" height="1.2" fill="#2678a9" style="cursor:pointer"><title>lb, 1990s: 3.4541 hits/million · open workbook examples · 1 workbook examples</title></rect></a>
+<a href="../examples.html?word=maka&amp;resource=lb&amp;decade=2000" target="_blank" rel="noopener noreferrer"><rect x="1521.0" y="320.5" width="12.9" height="19.5" fill="#2678a9" style="cursor:pointer"><title>lb, 2000s: 57.1793 hits/million · open workbook examples · 6 workbook examples</title></rect></a>
+<text x="1527.5" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">2000</text>
+<a href="../examples.html?word=maka&amp;resource=lb&amp;decade=2010" target="_blank" rel="noopener noreferrer"><rect x="1538.0" y="330.4" width="12.9" height="9.6" fill="#2678a9" style="cursor:pointer"><title>lb, 2010s: 28.1154 hits/million · open workbook examples · 10 workbook examples</title></rect></a>
+<text x="1561.5" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">2020</text>
+<text x="85.0" y="388.0" font-size="16" text-anchor="start" fill="#d46a24" font-weight="bold">tkr · 1860–1979</text>
+<line x1="85.0" y1="590.0" x2="782.5" y2="590.0" stroke="#e1e7eb" />
+<text x="77.0" y="594.0" font-size="11" text-anchor="end" fill="#657381" font-weight="normal">0</text>
+<line x1="85.0" y1="495.0" x2="782.5" y2="495.0" stroke="#e1e7eb" />
+<text x="77.0" y="499.0" font-size="11" text-anchor="end" fill="#657381" font-weight="normal">254</text>
+<line x1="85.0" y1="400.0" x2="782.5" y2="400.0" stroke="#e1e7eb" />
+<text x="77.0" y="404.0" font-size="11" text-anchor="end" fill="#657381" font-weight="normal">508</text>
+<a href="../examples.html?word=maka&amp;resource=tkr&amp;decade=1860" target="_blank" rel="noopener noreferrer"><rect x="92.0" y="560.1" width="44.2" height="29.9" fill="#d46a24" style="cursor:pointer"><title>tkr, 1860s: 80.0000 hits · open workbook examples · 80 workbook examples</title></rect></a>
+<text x="114.1" y="607.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1860</text>
+<a href="../examples.html?word=maka&amp;resource=tkr&amp;decade=1870" target="_blank" rel="noopener noreferrer"><rect x="150.1" y="476.7" width="44.2" height="113.3" fill="#d46a24" style="cursor:pointer"><title>tkr, 1870s: 303.0000 hits · open workbook examples · 303 workbook examples</title></rect></a>
+<text x="172.2" y="607.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1870</text>
+<a href="../examples.html?word=maka&amp;resource=tkr&amp;decade=1880" target="_blank" rel="noopener noreferrer"><rect x="208.2" y="520.4" width="44.2" height="69.6" fill="#d46a24" style="cursor:pointer"><title>tkr, 1880s: 186.0000 hits · open workbook examples · 186 workbook examples</title></rect></a>
+<text x="230.3" y="607.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1880</text>
+<a href="../examples.html?word=maka&amp;resource=tkr&amp;decade=1890" target="_blank" rel="noopener noreferrer"><rect x="266.4" y="470.3" width="44.2" height="119.7" fill="#d46a24" style="cursor:pointer"><title>tkr, 1890s: 320.0000 hits · open workbook examples · 320 workbook examples</title></rect></a>
+<text x="288.4" y="607.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1890</text>
+<a href="../examples.html?word=maka&amp;resource=tkr&amp;decade=1900" target="_blank" rel="noopener noreferrer"><rect x="324.5" y="507.0" width="44.2" height="83.0" fill="#d46a24" style="cursor:pointer"><title>tkr, 1900s: 222.0000 hits · open workbook examples · 222 workbook examples</title></rect></a>
+<text x="346.6" y="607.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1900</text>
+<a href="../examples.html?word=maka&amp;resource=tkr&amp;decade=1910" target="_blank" rel="noopener noreferrer"><rect x="382.6" y="413.1" width="44.2" height="176.9" fill="#d46a24" style="cursor:pointer"><title>tkr, 1910s: 473.0000 hits · open workbook examples · 473 workbook examples</title></rect></a>
+<text x="404.7" y="607.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1910</text>
+<a href="../examples.html?word=maka&amp;resource=tkr&amp;decade=1920" target="_blank" rel="noopener noreferrer"><rect x="440.7" y="444.5" width="44.2" height="145.5" fill="#d46a24" style="cursor:pointer"><title>tkr, 1920s: 389.0000 hits · open workbook examples · 389 workbook examples</title></rect></a>
+<text x="462.8" y="607.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1920</text>
+<a href="../examples.html?word=maka&amp;resource=tkr&amp;decade=1930" target="_blank" rel="noopener noreferrer"><rect x="498.9" y="489.8" width="44.2" height="100.2" fill="#d46a24" style="cursor:pointer"><title>tkr, 1930s: 268.0000 hits · open workbook examples · 268 workbook examples</title></rect></a>
+<text x="520.9" y="607.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1930</text>
+<a href="../examples.html?word=maka&amp;resource=tkr&amp;decade=1940" target="_blank" rel="noopener noreferrer"><rect x="557.0" y="419.8" width="44.2" height="170.2" fill="#d46a24" style="cursor:pointer"><title>tkr, 1940s: 455.0000 hits · open workbook examples · 455 workbook examples</title></rect></a>
+<text x="579.1" y="607.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1940</text>
+<a href="../examples.html?word=maka&amp;resource=tkr&amp;decade=1950" target="_blank" rel="noopener noreferrer"><rect x="615.1" y="400.0" width="44.2" height="190.0" fill="#d46a24" style="cursor:pointer"><title>tkr, 1950s: 508.0000 hits · open workbook examples · 508 workbook examples</title></rect></a>
+<text x="637.2" y="607.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1950</text>
+<a href="../examples.html?word=maka&amp;resource=tkr&amp;decade=1960" target="_blank" rel="noopener noreferrer"><rect x="673.2" y="481.9" width="44.2" height="108.1" fill="#d46a24" style="cursor:pointer"><title>tkr, 1960s: 289.0000 hits · open workbook examples · 289 workbook examples</title></rect></a>
+<text x="695.3" y="607.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1960</text>
+<a href="../examples.html?word=maka&amp;resource=tkr&amp;decade=1970" target="_blank" rel="noopener noreferrer"><rect x="731.3" y="574.3" width="44.2" height="15.7" fill="#d46a24" style="cursor:pointer"><title>tkr, 1970s: 42.0000 hits · open workbook examples · 42 workbook examples</title></rect></a>
+<text x="753.4" y="607.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1970</text>
+<line x1="872.5" y1="590.0" x2="1570.0" y2="590.0" stroke="#e1e7eb" />
+<text x="864.5" y="594.0" font-size="11" text-anchor="end" fill="#657381" font-weight="normal">0</text>
+<line x1="872.5" y1="495.0" x2="1570.0" y2="495.0" stroke="#e1e7eb" />
+<text x="864.5" y="499.0" font-size="11" text-anchor="end" fill="#657381" font-weight="normal">3.11</text>
+<line x1="872.5" y1="400.0" x2="1570.0" y2="400.0" stroke="#e1e7eb" />
+<text x="864.5" y="404.0" font-size="11" text-anchor="end" fill="#657381" font-weight="normal">6.23</text>
+<a href="../examples.html?word=maka&amp;resource=tkr&amp;decade=1860" target="_blank" rel="noopener noreferrer"><rect x="879.5" y="419.3" width="44.2" height="170.7" fill="#d46a24" style="cursor:pointer"><title>tkr, 1860s: 5.5938 hits/million · open workbook examples · 80 workbook examples</title></rect></a>
+<text x="901.6" y="607.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1860</text>
+<a href="../examples.html?word=maka&amp;resource=tkr&amp;decade=1870" target="_blank" rel="noopener noreferrer"><rect x="937.6" y="400.0" width="44.2" height="190.0" fill="#d46a24" style="cursor:pointer"><title>tkr, 1870s: 6.2265 hits/million · open workbook examples · 303 workbook examples</title></rect></a>
+<text x="959.7" y="607.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1870</text>
+<a href="../examples.html?word=maka&amp;resource=tkr&amp;decade=1880" target="_blank" rel="noopener noreferrer"><rect x="995.7" y="464.7" width="44.2" height="125.3" fill="#d46a24" style="cursor:pointer"><title>tkr, 1880s: 4.1059 hits/million · open workbook examples · 186 workbook examples</title></rect></a>
+<text x="1017.8" y="607.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1880</text>
+<a href="../examples.html?word=maka&amp;resource=tkr&amp;decade=1890" target="_blank" rel="noopener noreferrer"><rect x="1053.8" y="412.4" width="44.2" height="177.6" fill="#d46a24" style="cursor:pointer"><title>tkr, 1890s: 5.8192 hits/million · open workbook examples · 320 workbook examples</title></rect></a>
+<text x="1075.9" y="607.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1890</text>
+<a href="../examples.html?word=maka&amp;resource=tkr&amp;decade=1900" target="_blank" rel="noopener noreferrer"><rect x="1112.0" y="516.1" width="44.2" height="73.9" fill="#d46a24" style="cursor:pointer"><title>tkr, 1900s: 2.4232 hits/million · open workbook examples · 222 workbook examples</title></rect></a>
+<text x="1134.1" y="607.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1900</text>
+<a href="../examples.html?word=maka&amp;resource=tkr&amp;decade=1910" target="_blank" rel="noopener noreferrer"><rect x="1170.1" y="491.4" width="44.2" height="98.6" fill="#d46a24" style="cursor:pointer"><title>tkr, 1910s: 3.2297 hits/million · open workbook examples · 473 workbook examples</title></rect></a>
+<text x="1192.2" y="607.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1910</text>
+<a href="../examples.html?word=maka&amp;resource=tkr&amp;decade=1920" target="_blank" rel="noopener noreferrer"><rect x="1228.2" y="498.0" width="44.2" height="92.0" fill="#d46a24" style="cursor:pointer"><title>tkr, 1920s: 3.0133 hits/million · open workbook examples · 389 workbook examples</title></rect></a>
+<text x="1250.3" y="607.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1920</text>
+<a href="../examples.html?word=maka&amp;resource=tkr&amp;decade=1930" target="_blank" rel="noopener noreferrer"><rect x="1286.3" y="527.1" width="44.2" height="62.9" fill="#d46a24" style="cursor:pointer"><title>tkr, 1930s: 2.0601 hits/million · open workbook examples · 268 workbook examples</title></rect></a>
+<text x="1308.4" y="607.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1930</text>
+<a href="../examples.html?word=maka&amp;resource=tkr&amp;decade=1940" target="_blank" rel="noopener noreferrer"><rect x="1344.5" y="485.8" width="44.2" height="104.2" fill="#d46a24" style="cursor:pointer"><title>tkr, 1940s: 3.4152 hits/million · open workbook examples · 455 workbook examples</title></rect></a>
+<text x="1366.6" y="607.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1940</text>
+<a href="../examples.html?word=maka&amp;resource=tkr&amp;decade=1950" target="_blank" rel="noopener noreferrer"><rect x="1402.6" y="475.1" width="44.2" height="114.9" fill="#d46a24" style="cursor:pointer"><title>tkr, 1950s: 3.7646 hits/million · open workbook examples · 508 workbook examples</title></rect></a>
+<text x="1424.7" y="607.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1950</text>
+<a href="../examples.html?word=maka&amp;resource=tkr&amp;decade=1960" target="_blank" rel="noopener noreferrer"><rect x="1460.7" y="529.6" width="44.2" height="60.4" fill="#d46a24" style="cursor:pointer"><title>tkr, 1960s: 1.9803 hits/million · open workbook examples · 289 workbook examples</title></rect></a>
+<text x="1482.8" y="607.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1960</text>
+<a href="../examples.html?word=maka&amp;resource=tkr&amp;decade=1970" target="_blank" rel="noopener noreferrer"><rect x="1518.8" y="515.6" width="44.2" height="74.4" fill="#d46a24" style="cursor:pointer"><title>tkr, 1970s: 2.4382 hits/million · open workbook examples · 42 workbook examples</title></rect></a>
+<text x="1540.9" y="607.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1970</text>
+<text x="85.0" y="638.0" font-size="16" text-anchor="start" fill="#2e8964" font-weight="bold">kubhist2 · 1870–1909</text>
+<line x1="85.0" y1="840.0" x2="782.5" y2="840.0" stroke="#e1e7eb" />
+<text x="77.0" y="844.0" font-size="11" text-anchor="end" fill="#657381" font-weight="normal">0</text>
+<line x1="85.0" y1="745.0" x2="782.5" y2="745.0" stroke="#e1e7eb" />
+<text x="77.0" y="749.0" font-size="11" text-anchor="end" fill="#657381" font-weight="normal">30k</text>
+<line x1="85.0" y1="650.0" x2="782.5" y2="650.0" stroke="#e1e7eb" />
+<text x="77.0" y="654.0" font-size="11" text-anchor="end" fill="#657381" font-weight="normal">60k</text>
+<a href="../examples.html?word=maka&amp;resource=kubhist2&amp;decade=1870" target="_blank" rel="noopener noreferrer"><rect x="105.9" y="822.6" width="132.5" height="17.4" fill="#2e8964" style="cursor:pointer"><title>kubhist2, 1870s: 5,500.0000 hits · open workbook examples · 3,120 workbook examples</title></rect></a>
+<text x="172.2" y="857.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1870</text>
+<a href="../examples.html?word=maka&amp;resource=kubhist2&amp;decade=1880" target="_blank" rel="noopener noreferrer"><rect x="280.3" y="650.7" width="132.5" height="189.3" fill="#2e8964" style="cursor:pointer"><title>kubhist2, 1880s: 59,715.0000 hits · open workbook examples · 59,709 workbook examples</title></rect></a>
+<text x="346.6" y="857.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1880</text>
+<a href="../examples.html?word=maka&amp;resource=kubhist2&amp;decade=1890" target="_blank" rel="noopener noreferrer"><rect x="454.7" y="650.0" width="132.5" height="190.0" fill="#2e8964" style="cursor:pointer"><title>kubhist2, 1890s: 59,927.0000 hits · open workbook examples · 59,915 workbook examples</title></rect></a>
+<text x="520.9" y="857.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1890</text>
+<a href="../examples.html?word=maka&amp;resource=kubhist2&amp;decade=1900" target="_blank" rel="noopener noreferrer"><rect x="629.1" y="827.6" width="132.5" height="12.4" fill="#2e8964" style="cursor:pointer"><title>kubhist2, 1900s: 3,906.0000 hits · open workbook examples · 3,906 workbook examples</title></rect></a>
+<text x="695.3" y="857.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1900</text>
+<line x1="872.5" y1="840.0" x2="1570.0" y2="840.0" stroke="#e1e7eb" />
+<text x="864.5" y="844.0" font-size="11" text-anchor="end" fill="#657381" font-weight="normal">0</text>
+<line x1="872.5" y1="745.0" x2="1570.0" y2="745.0" stroke="#e1e7eb" />
+<text x="864.5" y="749.0" font-size="11" text-anchor="end" fill="#657381" font-weight="normal">28.9</text>
+<line x1="872.5" y1="650.0" x2="1570.0" y2="650.0" stroke="#e1e7eb" />
+<text x="864.5" y="654.0" font-size="11" text-anchor="end" fill="#657381" font-weight="normal">57.8</text>
+<a href="../examples.html?word=maka&amp;resource=kubhist2&amp;decade=1870" target="_blank" rel="noopener noreferrer"><rect x="893.4" y="653.1" width="132.5" height="186.9" fill="#2e8964" style="cursor:pointer"><title>kubhist2, 1870s: 56.8426 hits/million · open workbook examples · 3,120 workbook examples</title></rect></a>
+<text x="959.7" y="857.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1870</text>
+<a href="../examples.html?word=maka&amp;resource=kubhist2&amp;decade=1880" target="_blank" rel="noopener noreferrer"><rect x="1067.8" y="704.6" width="132.5" height="135.4" fill="#2e8964" style="cursor:pointer"><title>kubhist2, 1880s: 41.1740 hits/million · open workbook examples · 59,709 workbook examples</title></rect></a>
+<text x="1134.1" y="857.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1880</text>
+<a href="../examples.html?word=maka&amp;resource=kubhist2&amp;decade=1890" target="_blank" rel="noopener noreferrer"><rect x="1242.2" y="650.0" width="132.5" height="190.0" fill="#2e8964" style="cursor:pointer"><title>kubhist2, 1890s: 57.7820 hits/million · open workbook examples · 59,915 workbook examples</title></rect></a>
+<text x="1308.4" y="857.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1890</text>
+<a href="../examples.html?word=maka&amp;resource=kubhist2&amp;decade=1900" target="_blank" rel="noopener noreferrer"><rect x="1416.6" y="674.8" width="132.5" height="165.2" fill="#2e8964" style="cursor:pointer"><title>kubhist2, 1900s: 50.2362 hits/million · open workbook examples · 3,906 workbook examples</title></rect></a>
+<text x="1482.8" y="857.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1900</text>
+<text x="800.0" y="929.0" font-size="13" text-anchor="middle" fill="#263747" font-weight="normal">Decade</text>
+</svg>

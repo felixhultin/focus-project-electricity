@@ -1,0 +1,153 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 940" role="img" aria-label="qvinnor frequency by decade and resource">
+<rect width="100%" height="100%" fill="white" />
+<style>text{font-family:Arial,Helvetica,sans-serif}</style>
+<text x="85.0" y="39.0" font-size="27" text-anchor="start" fill="#263747" font-weight="bold">qvinnor</text>
+<text x="85.0" y="65.0" font-size="14" text-anchor="start" fill="#5a6876" font-weight="normal">Korp API frequency · click a bar for matching workbook examples</text>
+<text x="85.0" y="99.0" font-size="17" text-anchor="start" fill="#263747" font-weight="bold">Absolute frequency · hits</text>
+<text x="872.5" y="99.0" font-size="17" text-anchor="start" fill="#263747" font-weight="bold">Relative frequency · hits per million tokens</text>
+<text x="85.0" y="138.0" font-size="16" text-anchor="start" fill="#2678a9" font-weight="bold">lb · 1620–2029</text>
+<line x1="85.0" y1="340.0" x2="782.5" y2="340.0" stroke="#e1e7eb" />
+<text x="77.0" y="344.0" font-size="11" text-anchor="end" fill="#657381" font-weight="normal">0</text>
+<line x1="85.0" y1="245.0" x2="782.5" y2="245.0" stroke="#e1e7eb" />
+<text x="77.0" y="249.0" font-size="11" text-anchor="end" fill="#657381" font-weight="normal">338</text>
+<line x1="85.0" y1="150.0" x2="782.5" y2="150.0" stroke="#e1e7eb" />
+<text x="77.0" y="154.0" font-size="11" text-anchor="end" fill="#657381" font-weight="normal">676</text>
+<text x="93.5" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1620</text>
+<text x="127.5" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1640</text>
+<text x="161.6" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1660</text>
+<text x="195.6" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1680</text>
+<text x="229.6" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1700</text>
+<text x="263.6" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1720</text>
+<text x="297.7" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1740</text>
+<text x="331.7" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1760</text>
+<text x="365.7" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1780</text>
+<a href="../examples.html?word=qvinnor&amp;resource=lb&amp;decade=1800" target="_blank" rel="noopener noreferrer"><rect x="393.3" y="338.3" width="12.9" height="1.7" fill="#2678a9" style="cursor:pointer"><title>lb, 1800s: 6.0000 hits · open workbook examples · 6 workbook examples</title></rect></a>
+<text x="399.7" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1800</text>
+<a href="../examples.html?word=qvinnor&amp;resource=lb&amp;decade=1810" target="_blank" rel="noopener noreferrer"><rect x="410.3" y="339.2" width="12.9" height="0.8" fill="#2678a9" style="cursor:pointer"><title>lb, 1810s: 3.0000 hits · open workbook examples · 3 workbook examples</title></rect></a>
+<text x="433.8" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1820</text>
+<a href="../examples.html?word=qvinnor&amp;resource=lb&amp;decade=1830" target="_blank" rel="noopener noreferrer"><rect x="444.3" y="334.7" width="12.9" height="5.3" fill="#2678a9" style="cursor:pointer"><title>lb, 1830s: 19.0000 hits · open workbook examples · 19 workbook examples</title></rect></a>
+<a href="../examples.html?word=qvinnor&amp;resource=lb&amp;decade=1840" target="_blank" rel="noopener noreferrer"><rect x="461.3" y="250.3" width="12.9" height="89.7" fill="#2678a9" style="cursor:pointer"><title>lb, 1840s: 319.0000 hits · open workbook examples · 319 workbook examples</title></rect></a>
+<text x="467.8" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1840</text>
+<a href="../examples.html?word=qvinnor&amp;resource=lb&amp;decade=1850" target="_blank" rel="noopener noreferrer"><rect x="478.3" y="244.2" width="12.9" height="95.8" fill="#2678a9" style="cursor:pointer"><title>lb, 1850s: 341.0000 hits · open workbook examples · 341 workbook examples</title></rect></a>
+<a href="../examples.html?word=qvinnor&amp;resource=lb&amp;decade=1860" target="_blank" rel="noopener noreferrer"><rect x="495.3" y="220.0" width="12.9" height="120.0" fill="#2678a9" style="cursor:pointer"><title>lb, 1860s: 427.0000 hits · open workbook examples · 427 workbook examples</title></rect></a>
+<text x="501.8" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1860</text>
+<a href="../examples.html?word=qvinnor&amp;resource=lb&amp;decade=1870" target="_blank" rel="noopener noreferrer"><rect x="512.3" y="243.3" width="12.9" height="96.7" fill="#2678a9" style="cursor:pointer"><title>lb, 1870s: 344.0000 hits · open workbook examples · 344 workbook examples</title></rect></a>
+<a href="../examples.html?word=qvinnor&amp;resource=lb&amp;decade=1880" target="_blank" rel="noopener noreferrer"><rect x="529.4" y="150.0" width="12.9" height="190.0" fill="#2678a9" style="cursor:pointer"><title>lb, 1880s: 676.0000 hits · open workbook examples · 676 workbook examples</title></rect></a>
+<text x="535.8" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1880</text>
+<a href="../examples.html?word=qvinnor&amp;resource=lb&amp;decade=1890" target="_blank" rel="noopener noreferrer"><rect x="546.4" y="264.7" width="12.9" height="75.3" fill="#2678a9" style="cursor:pointer"><title>lb, 1890s: 268.0000 hits · open workbook examples · 267 workbook examples</title></rect></a>
+<text x="569.8" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1900</text>
+<a href="../examples.html?word=qvinnor&amp;resource=lb&amp;decade=1910" target="_blank" rel="noopener noreferrer"><rect x="580.4" y="338.6" width="12.9" height="1.4" fill="#2678a9" style="cursor:pointer"><title>lb, 1910s: 5.0000 hits · open workbook examples · 5 workbook examples</title></rect></a>
+<a href="../examples.html?word=qvinnor&amp;resource=lb&amp;decade=1920" target="_blank" rel="noopener noreferrer"><rect x="597.4" y="323.1" width="12.9" height="16.9" fill="#2678a9" style="cursor:pointer"><title>lb, 1920s: 60.0000 hits · open workbook examples · 60 workbook examples</title></rect></a>
+<text x="603.9" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1920</text>
+<a href="../examples.html?word=qvinnor&amp;resource=lb&amp;decade=1930" target="_blank" rel="noopener noreferrer"><rect x="614.4" y="339.7" width="12.9" height="0.3" fill="#2678a9" style="cursor:pointer"><title>lb, 1930s: 1.0000 hits · open workbook examples · 1 workbook examples</title></rect></a>
+<text x="637.9" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1940</text>
+<text x="671.9" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1960</text>
+<text x="705.9" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1980</text>
+<text x="740.0" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">2000</text>
+<text x="774.0" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">2020</text>
+<line x1="872.5" y1="340.0" x2="1570.0" y2="340.0" stroke="#e1e7eb" />
+<text x="864.5" y="344.0" font-size="11" text-anchor="end" fill="#657381" font-weight="normal">0</text>
+<line x1="872.5" y1="245.0" x2="1570.0" y2="245.0" stroke="#e1e7eb" />
+<text x="864.5" y="249.0" font-size="11" text-anchor="end" fill="#657381" font-weight="normal">7.1</text>
+<line x1="872.5" y1="150.0" x2="1570.0" y2="150.0" stroke="#e1e7eb" />
+<text x="864.5" y="154.0" font-size="11" text-anchor="end" fill="#657381" font-weight="normal">14.2</text>
+<text x="881.0" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1620</text>
+<text x="915.0" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1640</text>
+<text x="1017.1" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1700</text>
+<text x="1085.2" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1740</text>
+<text x="1119.2" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1760</text>
+<text x="1153.2" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1780</text>
+<a href="../examples.html?word=qvinnor&amp;resource=lb&amp;decade=1800" target="_blank" rel="noopener noreferrer"><rect x="1180.8" y="231.1" width="12.9" height="108.9" fill="#2678a9" style="cursor:pointer"><title>lb, 1800s: 8.1418 hits/million · open workbook examples · 6 workbook examples</title></rect></a>
+<text x="1187.2" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1800</text>
+<a href="../examples.html?word=qvinnor&amp;resource=lb&amp;decade=1810" target="_blank" rel="noopener noreferrer"><rect x="1197.8" y="310.7" width="12.9" height="29.3" fill="#2678a9" style="cursor:pointer"><title>lb, 1810s: 2.1908 hits/million · open workbook examples · 3 workbook examples</title></rect></a>
+<text x="1221.2" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1820</text>
+<a href="../examples.html?word=qvinnor&amp;resource=lb&amp;decade=1830" target="_blank" rel="noopener noreferrer"><rect x="1231.8" y="318.2" width="12.9" height="21.8" fill="#2678a9" style="cursor:pointer"><title>lb, 1830s: 1.6303 hits/million · open workbook examples · 19 workbook examples</title></rect></a>
+<a href="../examples.html?word=qvinnor&amp;resource=lb&amp;decade=1840" target="_blank" rel="noopener noreferrer"><rect x="1248.8" y="202.3" width="12.9" height="137.7" fill="#2678a9" style="cursor:pointer"><title>lb, 1840s: 10.2950 hits/million · open workbook examples · 319 workbook examples</title></rect></a>
+<text x="1255.3" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1840</text>
+<a href="../examples.html?word=qvinnor&amp;resource=lb&amp;decade=1850" target="_blank" rel="noopener noreferrer"><rect x="1265.8" y="150.4" width="12.9" height="189.6" fill="#2678a9" style="cursor:pointer"><title>lb, 1850s: 14.1754 hits/million · open workbook examples · 341 workbook examples</title></rect></a>
+<a href="../examples.html?word=qvinnor&amp;resource=lb&amp;decade=1860" target="_blank" rel="noopener noreferrer"><rect x="1282.8" y="150.0" width="12.9" height="190.0" fill="#2678a9" style="cursor:pointer"><title>lb, 1860s: 14.2019 hits/million · open workbook examples · 427 workbook examples</title></rect></a>
+<text x="1289.3" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1860</text>
+<a href="../examples.html?word=qvinnor&amp;resource=lb&amp;decade=1870" target="_blank" rel="noopener noreferrer"><rect x="1299.8" y="207.0" width="12.9" height="133.0" fill="#2678a9" style="cursor:pointer"><title>lb, 1870s: 9.9406 hits/million · open workbook examples · 344 workbook examples</title></rect></a>
+<a href="../examples.html?word=qvinnor&amp;resource=lb&amp;decade=1880" target="_blank" rel="noopener noreferrer"><rect x="1316.9" y="177.1" width="12.9" height="162.9" fill="#2678a9" style="cursor:pointer"><title>lb, 1880s: 12.1776 hits/million · open workbook examples · 676 workbook examples</title></rect></a>
+<text x="1323.3" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1880</text>
+<a href="../examples.html?word=qvinnor&amp;resource=lb&amp;decade=1890" target="_blank" rel="noopener noreferrer"><rect x="1333.9" y="282.4" width="12.9" height="57.6" fill="#2678a9" style="cursor:pointer"><title>lb, 1890s: 4.3073 hits/million · open workbook examples · 267 workbook examples</title></rect></a>
+<text x="1357.3" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1900</text>
+<a href="../examples.html?word=qvinnor&amp;resource=lb&amp;decade=1910" target="_blank" rel="noopener noreferrer"><rect x="1367.9" y="336.8" width="12.9" height="3.2" fill="#2678a9" style="cursor:pointer"><title>lb, 1910s: 0.2421 hits/million · open workbook examples · 5 workbook examples</title></rect></a>
+<a href="../examples.html?word=qvinnor&amp;resource=lb&amp;decade=1920" target="_blank" rel="noopener noreferrer"><rect x="1384.9" y="299.2" width="12.9" height="40.8" fill="#2678a9" style="cursor:pointer"><title>lb, 1920s: 3.0512 hits/million · open workbook examples · 60 workbook examples</title></rect></a>
+<text x="1391.4" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1920</text>
+<a href="../examples.html?word=qvinnor&amp;resource=lb&amp;decade=1930" target="_blank" rel="noopener noreferrer"><rect x="1401.9" y="339.2" width="12.9" height="0.8" fill="#2678a9" style="cursor:pointer"><title>lb, 1930s: 0.0616 hits/million · open workbook examples · 1 workbook examples</title></rect></a>
+<text x="1425.4" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1940</text>
+<text x="1459.4" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1960</text>
+<text x="1493.4" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1980</text>
+<text x="1527.5" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">2000</text>
+<text x="1561.5" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">2020</text>
+<text x="85.0" y="388.0" font-size="16" text-anchor="start" fill="#d46a24" font-weight="bold">tkr · 1860–1979</text>
+<line x1="85.0" y1="590.0" x2="782.5" y2="590.0" stroke="#e1e7eb" />
+<text x="77.0" y="594.0" font-size="11" text-anchor="end" fill="#657381" font-weight="normal">0</text>
+<line x1="85.0" y1="495.0" x2="782.5" y2="495.0" stroke="#e1e7eb" />
+<text x="77.0" y="499.0" font-size="11" text-anchor="end" fill="#657381" font-weight="normal">116</text>
+<line x1="85.0" y1="400.0" x2="782.5" y2="400.0" stroke="#e1e7eb" />
+<text x="77.0" y="404.0" font-size="11" text-anchor="end" fill="#657381" font-weight="normal">233</text>
+<a href="../examples.html?word=qvinnor&amp;resource=tkr&amp;decade=1860" target="_blank" rel="noopener noreferrer"><rect x="92.0" y="588.4" width="44.2" height="1.6" fill="#d46a24" style="cursor:pointer"><title>tkr, 1860s: 2.0000 hits · open workbook examples · 2 workbook examples</title></rect></a>
+<text x="114.1" y="607.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1860</text>
+<a href="../examples.html?word=qvinnor&amp;resource=tkr&amp;decade=1870" target="_blank" rel="noopener noreferrer"><rect x="150.1" y="585.9" width="44.2" height="4.1" fill="#d46a24" style="cursor:pointer"><title>tkr, 1870s: 5.0000 hits · open workbook examples · 5 workbook examples</title></rect></a>
+<text x="172.2" y="607.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1870</text>
+<a href="../examples.html?word=qvinnor&amp;resource=tkr&amp;decade=1880" target="_blank" rel="noopener noreferrer"><rect x="208.2" y="411.4" width="44.2" height="178.6" fill="#d46a24" style="cursor:pointer"><title>tkr, 1880s: 219.0000 hits · open workbook examples · 219 workbook examples</title></rect></a>
+<text x="230.3" y="607.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1880</text>
+<a href="../examples.html?word=qvinnor&amp;resource=tkr&amp;decade=1890" target="_blank" rel="noopener noreferrer"><rect x="266.4" y="400.0" width="44.2" height="190.0" fill="#d46a24" style="cursor:pointer"><title>tkr, 1890s: 233.0000 hits · open workbook examples · 233 workbook examples</title></rect></a>
+<text x="288.4" y="607.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1890</text>
+<a href="../examples.html?word=qvinnor&amp;resource=tkr&amp;decade=1900" target="_blank" rel="noopener noreferrer"><rect x="324.5" y="493.0" width="44.2" height="97.0" fill="#d46a24" style="cursor:pointer"><title>tkr, 1900s: 119.0000 hits · open workbook examples · 119 workbook examples</title></rect></a>
+<text x="346.6" y="607.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1900</text>
+<text x="404.7" y="607.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1910</text>
+<text x="462.8" y="607.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1920</text>
+<text x="520.9" y="607.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1930</text>
+<text x="579.1" y="607.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1940</text>
+<text x="637.2" y="607.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1950</text>
+<text x="695.3" y="607.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1960</text>
+<text x="753.4" y="607.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1970</text>
+<line x1="872.5" y1="590.0" x2="1570.0" y2="590.0" stroke="#e1e7eb" />
+<text x="864.5" y="594.0" font-size="11" text-anchor="end" fill="#657381" font-weight="normal">0</text>
+<line x1="872.5" y1="495.0" x2="1570.0" y2="495.0" stroke="#e1e7eb" />
+<text x="864.5" y="499.0" font-size="11" text-anchor="end" fill="#657381" font-weight="normal">2.42</text>
+<line x1="872.5" y1="400.0" x2="1570.0" y2="400.0" stroke="#e1e7eb" />
+<text x="864.5" y="404.0" font-size="11" text-anchor="end" fill="#657381" font-weight="normal">4.83</text>
+<a href="../examples.html?word=qvinnor&amp;resource=tkr&amp;decade=1860" target="_blank" rel="noopener noreferrer"><rect x="879.5" y="584.5" width="44.2" height="5.5" fill="#d46a24" style="cursor:pointer"><title>tkr, 1860s: 0.1398 hits/million · open workbook examples · 2 workbook examples</title></rect></a>
+<text x="901.6" y="607.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1860</text>
+<a href="../examples.html?word=qvinnor&amp;resource=tkr&amp;decade=1870" target="_blank" rel="noopener noreferrer"><rect x="937.6" y="586.0" width="44.2" height="4.0" fill="#d46a24" style="cursor:pointer"><title>tkr, 1870s: 0.1027 hits/million · open workbook examples · 5 workbook examples</title></rect></a>
+<text x="959.7" y="607.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1870</text>
+<a href="../examples.html?word=qvinnor&amp;resource=tkr&amp;decade=1880" target="_blank" rel="noopener noreferrer"><rect x="995.7" y="400.0" width="44.2" height="190.0" fill="#d46a24" style="cursor:pointer"><title>tkr, 1880s: 4.8343 hits/million · open workbook examples · 219 workbook examples</title></rect></a>
+<text x="1017.8" y="607.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1880</text>
+<a href="../examples.html?word=qvinnor&amp;resource=tkr&amp;decade=1890" target="_blank" rel="noopener noreferrer"><rect x="1053.8" y="423.5" width="44.2" height="166.5" fill="#d46a24" style="cursor:pointer"><title>tkr, 1890s: 4.2371 hits/million · open workbook examples · 233 workbook examples</title></rect></a>
+<text x="1075.9" y="607.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1890</text>
+<a href="../examples.html?word=qvinnor&amp;resource=tkr&amp;decade=1900" target="_blank" rel="noopener noreferrer"><rect x="1112.0" y="538.9" width="44.2" height="51.1" fill="#d46a24" style="cursor:pointer"><title>tkr, 1900s: 1.2989 hits/million · open workbook examples · 119 workbook examples</title></rect></a>
+<text x="1134.1" y="607.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1900</text>
+<text x="1192.2" y="607.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1910</text>
+<text x="1250.3" y="607.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1920</text>
+<text x="1308.4" y="607.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1930</text>
+<text x="1366.6" y="607.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1940</text>
+<text x="1424.7" y="607.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1950</text>
+<text x="1482.8" y="607.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1960</text>
+<text x="1540.9" y="607.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1970</text>
+<text x="85.0" y="638.0" font-size="16" text-anchor="start" fill="#2e8964" font-weight="bold">kubhist2 · 1870–1909</text>
+<line x1="85.0" y1="840.0" x2="782.5" y2="840.0" stroke="#e1e7eb" />
+<text x="77.0" y="844.0" font-size="11" text-anchor="end" fill="#657381" font-weight="normal">0</text>
+<line x1="85.0" y1="745.0" x2="782.5" y2="745.0" stroke="#e1e7eb" />
+<text x="77.0" y="749.0" font-size="11" text-anchor="end" fill="#657381" font-weight="normal">0</text>
+<line x1="85.0" y1="650.0" x2="782.5" y2="650.0" stroke="#e1e7eb" />
+<text x="77.0" y="654.0" font-size="11" text-anchor="end" fill="#657381" font-weight="normal">1</text>
+<text x="172.2" y="857.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1870</text>
+<text x="346.6" y="857.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1880</text>
+<text x="520.9" y="857.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1890</text>
+<text x="695.3" y="857.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1900</text>
+<line x1="872.5" y1="840.0" x2="1570.0" y2="840.0" stroke="#e1e7eb" />
+<text x="864.5" y="844.0" font-size="11" text-anchor="end" fill="#657381" font-weight="normal">0</text>
+<line x1="872.5" y1="745.0" x2="1570.0" y2="745.0" stroke="#e1e7eb" />
+<text x="864.5" y="749.0" font-size="11" text-anchor="end" fill="#657381" font-weight="normal">0.5</text>
+<line x1="872.5" y1="650.0" x2="1570.0" y2="650.0" stroke="#e1e7eb" />
+<text x="864.5" y="654.0" font-size="11" text-anchor="end" fill="#657381" font-weight="normal">1</text>
+<text x="959.7" y="857.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1870</text>
+<text x="1134.1" y="857.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1880</text>
+<text x="1308.4" y="857.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1890</text>
+<text x="1482.8" y="857.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1900</text>
+<text x="800.0" y="929.0" font-size="13" text-anchor="middle" fill="#263747" font-weight="normal">Decade</text>
+</svg>

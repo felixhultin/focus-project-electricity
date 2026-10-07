@@ -1,0 +1,189 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 940" role="img" aria-label="hertiginna frequency by decade and resource">
+<rect width="100%" height="100%" fill="white" />
+<style>text{font-family:Arial,Helvetica,sans-serif}</style>
+<text x="85.0" y="39.0" font-size="27" text-anchor="start" fill="#263747" font-weight="bold">hertiginna</text>
+<text x="85.0" y="65.0" font-size="14" text-anchor="start" fill="#5a6876" font-weight="normal">Korp API frequency · click a bar for matching workbook examples</text>
+<text x="85.0" y="99.0" font-size="17" text-anchor="start" fill="#263747" font-weight="bold">Absolute frequency · hits</text>
+<text x="872.5" y="99.0" font-size="17" text-anchor="start" fill="#263747" font-weight="bold">Relative frequency · hits per million tokens</text>
+<text x="85.0" y="138.0" font-size="16" text-anchor="start" fill="#2678a9" font-weight="bold">lb · 1620–2029</text>
+<line x1="85.0" y1="340.0" x2="782.5" y2="340.0" stroke="#e1e7eb" />
+<text x="77.0" y="344.0" font-size="11" text-anchor="end" fill="#657381" font-weight="normal">0</text>
+<line x1="85.0" y1="245.0" x2="782.5" y2="245.0" stroke="#e1e7eb" />
+<text x="77.0" y="249.0" font-size="11" text-anchor="end" fill="#657381" font-weight="normal">476</text>
+<line x1="85.0" y1="150.0" x2="782.5" y2="150.0" stroke="#e1e7eb" />
+<text x="77.0" y="154.0" font-size="11" text-anchor="end" fill="#657381" font-weight="normal">952</text>
+<text x="93.5" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1620</text>
+<text x="127.5" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1640</text>
+<text x="161.6" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1660</text>
+<text x="195.6" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1680</text>
+<text x="229.6" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1700</text>
+<text x="263.6" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1720</text>
+<a href="../examples.html?word=hertiginna&amp;resource=lb&amp;decade=1730" target="_blank" rel="noopener noreferrer"><rect x="274.2" y="339.8" width="12.9" height="0.2" fill="#2678a9" style="cursor:pointer"><title>lb, 1730s: 1.0000 hits · open workbook examples · 1 workbook examples</title></rect></a>
+<text x="297.7" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1740</text>
+<text x="331.7" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1760</text>
+<text x="365.7" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1780</text>
+<a href="../examples.html?word=hertiginna&amp;resource=lb&amp;decade=1800" target="_blank" rel="noopener noreferrer"><rect x="393.3" y="339.8" width="12.9" height="0.2" fill="#2678a9" style="cursor:pointer"><title>lb, 1800s: 1.0000 hits · open workbook examples · 1 workbook examples</title></rect></a>
+<text x="399.7" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1800</text>
+<a href="../examples.html?word=hertiginna&amp;resource=lb&amp;decade=1810" target="_blank" rel="noopener noreferrer"><rect x="410.3" y="338.6" width="12.9" height="1.4" fill="#2678a9" style="cursor:pointer"><title>lb, 1810s: 7.0000 hits · open workbook examples · 7 workbook examples</title></rect></a>
+<a href="../examples.html?word=hertiginna&amp;resource=lb&amp;decade=1820" target="_blank" rel="noopener noreferrer"><rect x="427.3" y="338.2" width="12.9" height="1.8" fill="#2678a9" style="cursor:pointer"><title>lb, 1820s: 9.0000 hits · open workbook examples · 9 workbook examples</title></rect></a>
+<text x="433.8" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1820</text>
+<a href="../examples.html?word=hertiginna&amp;resource=lb&amp;decade=1830" target="_blank" rel="noopener noreferrer"><rect x="444.3" y="326.6" width="12.9" height="13.4" fill="#2678a9" style="cursor:pointer"><title>lb, 1830s: 67.0000 hits · open workbook examples · 66 workbook examples</title></rect></a>
+<a href="../examples.html?word=hertiginna&amp;resource=lb&amp;decade=1840" target="_blank" rel="noopener noreferrer"><rect x="461.3" y="181.9" width="12.9" height="158.1" fill="#2678a9" style="cursor:pointer"><title>lb, 1840s: 792.0000 hits · open workbook examples · 792 workbook examples</title></rect></a>
+<text x="467.8" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1840</text>
+<a href="../examples.html?word=hertiginna&amp;resource=lb&amp;decade=1850" target="_blank" rel="noopener noreferrer"><rect x="478.3" y="224.0" width="12.9" height="116.0" fill="#2678a9" style="cursor:pointer"><title>lb, 1850s: 581.0000 hits · open workbook examples · 581 workbook examples</title></rect></a>
+<a href="../examples.html?word=hertiginna&amp;resource=lb&amp;decade=1860" target="_blank" rel="noopener noreferrer"><rect x="495.3" y="291.3" width="12.9" height="48.7" fill="#2678a9" style="cursor:pointer"><title>lb, 1860s: 244.0000 hits · open workbook examples · 243 workbook examples</title></rect></a>
+<text x="501.8" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1860</text>
+<a href="../examples.html?word=hertiginna&amp;resource=lb&amp;decade=1870" target="_blank" rel="noopener noreferrer"><rect x="512.3" y="245.6" width="12.9" height="94.4" fill="#2678a9" style="cursor:pointer"><title>lb, 1870s: 473.0000 hits · open workbook examples · 473 workbook examples</title></rect></a>
+<a href="../examples.html?word=hertiginna&amp;resource=lb&amp;decade=1880" target="_blank" rel="noopener noreferrer"><rect x="529.4" y="268.8" width="12.9" height="71.2" fill="#2678a9" style="cursor:pointer"><title>lb, 1880s: 357.0000 hits · open workbook examples · 357 workbook examples</title></rect></a>
+<text x="535.8" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1880</text>
+<a href="../examples.html?word=hertiginna&amp;resource=lb&amp;decade=1890" target="_blank" rel="noopener noreferrer"><rect x="546.4" y="150.0" width="12.9" height="190.0" fill="#2678a9" style="cursor:pointer"><title>lb, 1890s: 952.0000 hits · open workbook examples · 951 workbook examples</title></rect></a>
+<a href="../examples.html?word=hertiginna&amp;resource=lb&amp;decade=1900" target="_blank" rel="noopener noreferrer"><rect x="563.4" y="226.4" width="12.9" height="113.6" fill="#2678a9" style="cursor:pointer"><title>lb, 1900s: 569.0000 hits · open workbook examples · 569 workbook examples</title></rect></a>
+<text x="569.8" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1900</text>
+<a href="../examples.html?word=hertiginna&amp;resource=lb&amp;decade=1910" target="_blank" rel="noopener noreferrer"><rect x="580.4" y="305.7" width="12.9" height="34.3" fill="#2678a9" style="cursor:pointer"><title>lb, 1910s: 172.0000 hits · open workbook examples · 172 workbook examples</title></rect></a>
+<a href="../examples.html?word=hertiginna&amp;resource=lb&amp;decade=1920" target="_blank" rel="noopener noreferrer"><rect x="597.4" y="258.6" width="12.9" height="81.4" fill="#2678a9" style="cursor:pointer"><title>lb, 1920s: 408.0000 hits · open workbook examples · 408 workbook examples</title></rect></a>
+<text x="603.9" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1920</text>
+<a href="../examples.html?word=hertiginna&amp;resource=lb&amp;decade=1930" target="_blank" rel="noopener noreferrer"><rect x="614.4" y="298.5" width="12.9" height="41.5" fill="#2678a9" style="cursor:pointer"><title>lb, 1930s: 208.0000 hits · open workbook examples · 208 workbook examples</title></rect></a>
+<a href="../examples.html?word=hertiginna&amp;resource=lb&amp;decade=1940" target="_blank" rel="noopener noreferrer"><rect x="631.4" y="335.0" width="12.9" height="5.0" fill="#2678a9" style="cursor:pointer"><title>lb, 1940s: 25.0000 hits · open workbook examples · 25 workbook examples</title></rect></a>
+<text x="637.9" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1940</text>
+<a href="../examples.html?word=hertiginna&amp;resource=lb&amp;decade=1960" target="_blank" rel="noopener noreferrer"><rect x="665.5" y="339.4" width="12.9" height="0.6" fill="#2678a9" style="cursor:pointer"><title>lb, 1960s: 3.0000 hits · open workbook examples · 3 workbook examples</title></rect></a>
+<text x="671.9" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1960</text>
+<a href="../examples.html?word=hertiginna&amp;resource=lb&amp;decade=1980" target="_blank" rel="noopener noreferrer"><rect x="699.5" y="339.8" width="12.9" height="0.2" fill="#2678a9" style="cursor:pointer"><title>lb, 1980s: 1.0000 hits · open workbook examples · 1 workbook examples</title></rect></a>
+<text x="705.9" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1980</text>
+<text x="740.0" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">2000</text>
+<a href="../examples.html?word=hertiginna&amp;resource=lb&amp;decade=2020" target="_blank" rel="noopener noreferrer"><rect x="767.5" y="338.4" width="12.9" height="1.6" fill="#2678a9" style="cursor:pointer"><title>lb, 2020s: 8.0000 hits · open workbook examples · 8 workbook examples</title></rect></a>
+<text x="774.0" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">2020</text>
+<line x1="872.5" y1="340.0" x2="1570.0" y2="340.0" stroke="#e1e7eb" />
+<text x="864.5" y="344.0" font-size="11" text-anchor="end" fill="#657381" font-weight="normal">0</text>
+<line x1="872.5" y1="245.0" x2="1570.0" y2="245.0" stroke="#e1e7eb" />
+<text x="864.5" y="249.0" font-size="11" text-anchor="end" fill="#657381" font-weight="normal">15</text>
+<line x1="872.5" y1="150.0" x2="1570.0" y2="150.0" stroke="#e1e7eb" />
+<text x="864.5" y="154.0" font-size="11" text-anchor="end" fill="#657381" font-weight="normal">30</text>
+<text x="881.0" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1620</text>
+<text x="915.0" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1640</text>
+<text x="1017.1" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1700</text>
+<a href="../examples.html?word=hertiginna&amp;resource=lb&amp;decade=1730" target="_blank" rel="noopener noreferrer"><rect x="1061.7" y="150.0" width="12.9" height="190.0" fill="#2678a9" style="cursor:pointer"><title>lb, 1730s: 29.9572 hits/million · open workbook examples · 1 workbook examples</title></rect></a>
+<text x="1085.2" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1740</text>
+<text x="1119.2" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1760</text>
+<text x="1153.2" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1780</text>
+<a href="../examples.html?word=hertiginna&amp;resource=lb&amp;decade=1800" target="_blank" rel="noopener noreferrer"><rect x="1180.8" y="331.4" width="12.9" height="8.6" fill="#2678a9" style="cursor:pointer"><title>lb, 1800s: 1.3570 hits/million · open workbook examples · 1 workbook examples</title></rect></a>
+<text x="1187.2" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1800</text>
+<a href="../examples.html?word=hertiginna&amp;resource=lb&amp;decade=1810" target="_blank" rel="noopener noreferrer"><rect x="1197.8" y="307.6" width="12.9" height="32.4" fill="#2678a9" style="cursor:pointer"><title>lb, 1810s: 5.1118 hits/million · open workbook examples · 7 workbook examples</title></rect></a>
+<a href="../examples.html?word=hertiginna&amp;resource=lb&amp;decade=1820" target="_blank" rel="noopener noreferrer"><rect x="1214.8" y="272.2" width="12.9" height="67.8" fill="#2678a9" style="cursor:pointer"><title>lb, 1820s: 10.6856 hits/million · open workbook examples · 9 workbook examples</title></rect></a>
+<text x="1221.2" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1820</text>
+<a href="../examples.html?word=hertiginna&amp;resource=lb&amp;decade=1830" target="_blank" rel="noopener noreferrer"><rect x="1231.8" y="303.5" width="12.9" height="36.5" fill="#2678a9" style="cursor:pointer"><title>lb, 1830s: 5.7491 hits/million · open workbook examples · 66 workbook examples</title></rect></a>
+<a href="../examples.html?word=hertiginna&amp;resource=lb&amp;decade=1840" target="_blank" rel="noopener noreferrer"><rect x="1248.8" y="177.9" width="12.9" height="162.1" fill="#2678a9" style="cursor:pointer"><title>lb, 1840s: 25.5601 hits/million · open workbook examples · 792 workbook examples</title></rect></a>
+<text x="1255.3" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1840</text>
+<a href="../examples.html?word=hertiginna&amp;resource=lb&amp;decade=1850" target="_blank" rel="noopener noreferrer"><rect x="1265.8" y="186.8" width="12.9" height="153.2" fill="#2678a9" style="cursor:pointer"><title>lb, 1850s: 24.1522 hits/million · open workbook examples · 581 workbook examples</title></rect></a>
+<a href="../examples.html?word=hertiginna&amp;resource=lb&amp;decade=1860" target="_blank" rel="noopener noreferrer"><rect x="1282.8" y="288.5" width="12.9" height="51.5" fill="#2678a9" style="cursor:pointer"><title>lb, 1860s: 8.1154 hits/million · open workbook examples · 243 workbook examples</title></rect></a>
+<text x="1289.3" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1860</text>
+<a href="../examples.html?word=hertiginna&amp;resource=lb&amp;decade=1870" target="_blank" rel="noopener noreferrer"><rect x="1299.8" y="253.3" width="12.9" height="86.7" fill="#2678a9" style="cursor:pointer"><title>lb, 1870s: 13.6684 hits/million · open workbook examples · 473 workbook examples</title></rect></a>
+<a href="../examples.html?word=hertiginna&amp;resource=lb&amp;decade=1880" target="_blank" rel="noopener noreferrer"><rect x="1316.9" y="299.2" width="12.9" height="40.8" fill="#2678a9" style="cursor:pointer"><title>lb, 1880s: 6.4310 hits/million · open workbook examples · 357 workbook examples</title></rect></a>
+<text x="1323.3" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1880</text>
+<a href="../examples.html?word=hertiginna&amp;resource=lb&amp;decade=1890" target="_blank" rel="noopener noreferrer"><rect x="1333.9" y="243.0" width="12.9" height="97.0" fill="#2678a9" style="cursor:pointer"><title>lb, 1890s: 15.3007 hits/million · open workbook examples · 951 workbook examples</title></rect></a>
+<a href="../examples.html?word=hertiginna&amp;resource=lb&amp;decade=1900" target="_blank" rel="noopener noreferrer"><rect x="1350.9" y="190.0" width="12.9" height="150.0" fill="#2678a9" style="cursor:pointer"><title>lb, 1900s: 23.6506 hits/million · open workbook examples · 569 workbook examples</title></rect></a>
+<text x="1357.3" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1900</text>
+<a href="../examples.html?word=hertiginna&amp;resource=lb&amp;decade=1910" target="_blank" rel="noopener noreferrer"><rect x="1367.9" y="287.2" width="12.9" height="52.8" fill="#2678a9" style="cursor:pointer"><title>lb, 1910s: 8.3279 hits/million · open workbook examples · 172 workbook examples</title></rect></a>
+<a href="../examples.html?word=hertiginna&amp;resource=lb&amp;decade=1920" target="_blank" rel="noopener noreferrer"><rect x="1384.9" y="208.4" width="12.9" height="131.6" fill="#2678a9" style="cursor:pointer"><title>lb, 1920s: 20.7480 hits/million · open workbook examples · 408 workbook examples</title></rect></a>
+<text x="1391.4" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1920</text>
+<a href="../examples.html?word=hertiginna&amp;resource=lb&amp;decade=1930" target="_blank" rel="noopener noreferrer"><rect x="1401.9" y="258.7" width="12.9" height="81.3" fill="#2678a9" style="cursor:pointer"><title>lb, 1930s: 12.8125 hits/million · open workbook examples · 208 workbook examples</title></rect></a>
+<a href="../examples.html?word=hertiginna&amp;resource=lb&amp;decade=1940" target="_blank" rel="noopener noreferrer"><rect x="1418.9" y="304.8" width="12.9" height="35.2" fill="#2678a9" style="cursor:pointer"><title>lb, 1940s: 5.5517 hits/million · open workbook examples · 25 workbook examples</title></rect></a>
+<text x="1425.4" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1940</text>
+<a href="../examples.html?word=hertiginna&amp;resource=lb&amp;decade=1960" target="_blank" rel="noopener noreferrer"><rect x="1453.0" y="316.3" width="12.9" height="23.7" fill="#2678a9" style="cursor:pointer"><title>lb, 1960s: 3.7358 hits/million · open workbook examples · 3 workbook examples</title></rect></a>
+<text x="1459.4" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1960</text>
+<a href="../examples.html?word=hertiginna&amp;resource=lb&amp;decade=1980" target="_blank" rel="noopener noreferrer"><rect x="1487.0" y="325.6" width="12.9" height="14.4" fill="#2678a9" style="cursor:pointer"><title>lb, 1980s: 2.2639 hits/million · open workbook examples · 1 workbook examples</title></rect></a>
+<text x="1493.4" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1980</text>
+<text x="1527.5" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">2000</text>
+<a href="../examples.html?word=hertiginna&amp;resource=lb&amp;decade=2020" target="_blank" rel="noopener noreferrer"><rect x="1555.0" y="233.4" width="12.9" height="106.6" fill="#2678a9" style="cursor:pointer"><title>lb, 2020s: 16.8129 hits/million · open workbook examples · 8 workbook examples</title></rect></a>
+<text x="1561.5" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">2020</text>
+<text x="85.0" y="388.0" font-size="16" text-anchor="start" fill="#d46a24" font-weight="bold">tkr · 1860–1979</text>
+<line x1="85.0" y1="590.0" x2="782.5" y2="590.0" stroke="#e1e7eb" />
+<text x="77.0" y="594.0" font-size="11" text-anchor="end" fill="#657381" font-weight="normal">0</text>
+<line x1="85.0" y1="495.0" x2="782.5" y2="495.0" stroke="#e1e7eb" />
+<text x="77.0" y="499.0" font-size="11" text-anchor="end" fill="#657381" font-weight="normal">96</text>
+<line x1="85.0" y1="400.0" x2="782.5" y2="400.0" stroke="#e1e7eb" />
+<text x="77.0" y="404.0" font-size="11" text-anchor="end" fill="#657381" font-weight="normal">192</text>
+<a href="../examples.html?word=hertiginna&amp;resource=tkr&amp;decade=1860" target="_blank" rel="noopener noreferrer"><rect x="92.0" y="589.0" width="44.2" height="1.0" fill="#d46a24" style="cursor:pointer"><title>tkr, 1860s: 1.0000 hits · open workbook examples · 1 workbook examples</title></rect></a>
+<text x="114.1" y="607.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1860</text>
+<a href="../examples.html?word=hertiginna&amp;resource=tkr&amp;decade=1870" target="_blank" rel="noopener noreferrer"><rect x="150.1" y="494.0" width="44.2" height="96.0" fill="#d46a24" style="cursor:pointer"><title>tkr, 1870s: 97.0000 hits · open workbook examples · 97 workbook examples</title></rect></a>
+<text x="172.2" y="607.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1870</text>
+<a href="../examples.html?word=hertiginna&amp;resource=tkr&amp;decade=1880" target="_blank" rel="noopener noreferrer"><rect x="208.2" y="558.3" width="44.2" height="31.7" fill="#d46a24" style="cursor:pointer"><title>tkr, 1880s: 32.0000 hits · open workbook examples · 32 workbook examples</title></rect></a>
+<text x="230.3" y="607.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1880</text>
+<a href="../examples.html?word=hertiginna&amp;resource=tkr&amp;decade=1890" target="_blank" rel="noopener noreferrer"><rect x="266.4" y="561.3" width="44.2" height="28.7" fill="#d46a24" style="cursor:pointer"><title>tkr, 1890s: 29.0000 hits · open workbook examples · 29 workbook examples</title></rect></a>
+<text x="288.4" y="607.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1890</text>
+<a href="../examples.html?word=hertiginna&amp;resource=tkr&amp;decade=1900" target="_blank" rel="noopener noreferrer"><rect x="324.5" y="539.5" width="44.2" height="50.5" fill="#d46a24" style="cursor:pointer"><title>tkr, 1900s: 51.0000 hits · open workbook examples · 51 workbook examples</title></rect></a>
+<text x="346.6" y="607.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1900</text>
+<a href="../examples.html?word=hertiginna&amp;resource=tkr&amp;decade=1910" target="_blank" rel="noopener noreferrer"><rect x="382.6" y="548.4" width="44.2" height="41.6" fill="#d46a24" style="cursor:pointer"><title>tkr, 1910s: 42.0000 hits · open workbook examples · 42 workbook examples</title></rect></a>
+<text x="404.7" y="607.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1910</text>
+<a href="../examples.html?word=hertiginna&amp;resource=tkr&amp;decade=1920" target="_blank" rel="noopener noreferrer"><rect x="440.7" y="579.1" width="44.2" height="10.9" fill="#d46a24" style="cursor:pointer"><title>tkr, 1920s: 11.0000 hits · open workbook examples · 11 workbook examples</title></rect></a>
+<text x="462.8" y="607.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1920</text>
+<a href="../examples.html?word=hertiginna&amp;resource=tkr&amp;decade=1930" target="_blank" rel="noopener noreferrer"><rect x="498.9" y="585.1" width="44.2" height="4.9" fill="#d46a24" style="cursor:pointer"><title>tkr, 1930s: 5.0000 hits · open workbook examples · 5 workbook examples</title></rect></a>
+<text x="520.9" y="607.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1930</text>
+<a href="../examples.html?word=hertiginna&amp;resource=tkr&amp;decade=1940" target="_blank" rel="noopener noreferrer"><rect x="557.0" y="508.9" width="44.2" height="81.1" fill="#d46a24" style="cursor:pointer"><title>tkr, 1940s: 82.0000 hits · open workbook examples · 82 workbook examples</title></rect></a>
+<text x="579.1" y="607.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1940</text>
+<a href="../examples.html?word=hertiginna&amp;resource=tkr&amp;decade=1950" target="_blank" rel="noopener noreferrer"><rect x="615.1" y="400.0" width="44.2" height="190.0" fill="#d46a24" style="cursor:pointer"><title>tkr, 1950s: 192.0000 hits · open workbook examples · 192 workbook examples</title></rect></a>
+<text x="637.2" y="607.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1950</text>
+<a href="../examples.html?word=hertiginna&amp;resource=tkr&amp;decade=1960" target="_blank" rel="noopener noreferrer"><rect x="673.2" y="490.1" width="44.2" height="99.9" fill="#d46a24" style="cursor:pointer"><title>tkr, 1960s: 101.0000 hits · open workbook examples · 101 workbook examples</title></rect></a>
+<text x="695.3" y="607.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1960</text>
+<a href="../examples.html?word=hertiginna&amp;resource=tkr&amp;decade=1970" target="_blank" rel="noopener noreferrer"><rect x="731.3" y="582.1" width="44.2" height="7.9" fill="#d46a24" style="cursor:pointer"><title>tkr, 1970s: 8.0000 hits · open workbook examples · 8 workbook examples</title></rect></a>
+<text x="753.4" y="607.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1970</text>
+<line x1="872.5" y1="590.0" x2="1570.0" y2="590.0" stroke="#e1e7eb" />
+<text x="864.5" y="594.0" font-size="11" text-anchor="end" fill="#657381" font-weight="normal">0</text>
+<line x1="872.5" y1="495.0" x2="1570.0" y2="495.0" stroke="#e1e7eb" />
+<text x="864.5" y="499.0" font-size="11" text-anchor="end" fill="#657381" font-weight="normal">0.997</text>
+<line x1="872.5" y1="400.0" x2="1570.0" y2="400.0" stroke="#e1e7eb" />
+<text x="864.5" y="404.0" font-size="11" text-anchor="end" fill="#657381" font-weight="normal">1.99</text>
+<a href="../examples.html?word=hertiginna&amp;resource=tkr&amp;decade=1860" target="_blank" rel="noopener noreferrer"><rect x="879.5" y="583.3" width="44.2" height="6.7" fill="#d46a24" style="cursor:pointer"><title>tkr, 1860s: 0.0699 hits/million · open workbook examples · 1 workbook examples</title></rect></a>
+<text x="901.6" y="607.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1860</text>
+<a href="../examples.html?word=hertiginna&amp;resource=tkr&amp;decade=1870" target="_blank" rel="noopener noreferrer"><rect x="937.6" y="400.0" width="44.2" height="190.0" fill="#d46a24" style="cursor:pointer"><title>tkr, 1870s: 1.9933 hits/million · open workbook examples · 97 workbook examples</title></rect></a>
+<text x="959.7" y="607.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1870</text>
+<a href="../examples.html?word=hertiginna&amp;resource=tkr&amp;decade=1880" target="_blank" rel="noopener noreferrer"><rect x="995.7" y="522.7" width="44.2" height="67.3" fill="#d46a24" style="cursor:pointer"><title>tkr, 1880s: 0.7064 hits/million · open workbook examples · 32 workbook examples</title></rect></a>
+<text x="1017.8" y="607.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1880</text>
+<a href="../examples.html?word=hertiginna&amp;resource=tkr&amp;decade=1890" target="_blank" rel="noopener noreferrer"><rect x="1053.8" y="539.7" width="44.2" height="50.3" fill="#d46a24" style="cursor:pointer"><title>tkr, 1890s: 0.5274 hits/million · open workbook examples · 29 workbook examples</title></rect></a>
+<text x="1075.9" y="607.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1890</text>
+<a href="../examples.html?word=hertiginna&amp;resource=tkr&amp;decade=1900" target="_blank" rel="noopener noreferrer"><rect x="1112.0" y="536.9" width="44.2" height="53.1" fill="#d46a24" style="cursor:pointer"><title>tkr, 1900s: 0.5567 hits/million · open workbook examples · 51 workbook examples</title></rect></a>
+<text x="1134.1" y="607.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1900</text>
+<a href="../examples.html?word=hertiginna&amp;resource=tkr&amp;decade=1910" target="_blank" rel="noopener noreferrer"><rect x="1170.1" y="562.7" width="44.2" height="27.3" fill="#d46a24" style="cursor:pointer"><title>tkr, 1910s: 0.2868 hits/million · open workbook examples · 42 workbook examples</title></rect></a>
+<text x="1192.2" y="607.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1910</text>
+<a href="../examples.html?word=hertiginna&amp;resource=tkr&amp;decade=1920" target="_blank" rel="noopener noreferrer"><rect x="1228.2" y="581.9" width="44.2" height="8.1" fill="#d46a24" style="cursor:pointer"><title>tkr, 1920s: 0.0852 hits/million · open workbook examples · 11 workbook examples</title></rect></a>
+<text x="1250.3" y="607.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1920</text>
+<a href="../examples.html?word=hertiginna&amp;resource=tkr&amp;decade=1930" target="_blank" rel="noopener noreferrer"><rect x="1286.3" y="586.3" width="44.2" height="3.7" fill="#d46a24" style="cursor:pointer"><title>tkr, 1930s: 0.0384 hits/million · open workbook examples · 5 workbook examples</title></rect></a>
+<text x="1308.4" y="607.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1930</text>
+<a href="../examples.html?word=hertiginna&amp;resource=tkr&amp;decade=1940" target="_blank" rel="noopener noreferrer"><rect x="1344.5" y="531.3" width="44.2" height="58.7" fill="#d46a24" style="cursor:pointer"><title>tkr, 1940s: 0.6155 hits/million · open workbook examples · 82 workbook examples</title></rect></a>
+<text x="1366.6" y="607.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1940</text>
+<a href="../examples.html?word=hertiginna&amp;resource=tkr&amp;decade=1950" target="_blank" rel="noopener noreferrer"><rect x="1402.6" y="454.4" width="44.2" height="135.6" fill="#d46a24" style="cursor:pointer"><title>tkr, 1950s: 1.4228 hits/million · open workbook examples · 192 workbook examples</title></rect></a>
+<text x="1424.7" y="607.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1950</text>
+<a href="../examples.html?word=hertiginna&amp;resource=tkr&amp;decade=1960" target="_blank" rel="noopener noreferrer"><rect x="1460.7" y="524.0" width="44.2" height="66.0" fill="#d46a24" style="cursor:pointer"><title>tkr, 1960s: 0.6921 hits/million · open workbook examples · 101 workbook examples</title></rect></a>
+<text x="1482.8" y="607.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1960</text>
+<a href="../examples.html?word=hertiginna&amp;resource=tkr&amp;decade=1970" target="_blank" rel="noopener noreferrer"><rect x="1518.8" y="545.7" width="44.2" height="44.3" fill="#d46a24" style="cursor:pointer"><title>tkr, 1970s: 0.4644 hits/million · open workbook examples · 8 workbook examples</title></rect></a>
+<text x="1540.9" y="607.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1970</text>
+<text x="85.0" y="638.0" font-size="16" text-anchor="start" fill="#2e8964" font-weight="bold">kubhist2 · 1870–1909</text>
+<line x1="85.0" y1="840.0" x2="782.5" y2="840.0" stroke="#e1e7eb" />
+<text x="77.0" y="844.0" font-size="11" text-anchor="end" fill="#657381" font-weight="normal">0</text>
+<line x1="85.0" y1="745.0" x2="782.5" y2="745.0" stroke="#e1e7eb" />
+<text x="77.0" y="749.0" font-size="11" text-anchor="end" fill="#657381" font-weight="normal">6762</text>
+<line x1="85.0" y1="650.0" x2="782.5" y2="650.0" stroke="#e1e7eb" />
+<text x="77.0" y="654.0" font-size="11" text-anchor="end" fill="#657381" font-weight="normal">14k</text>
+<a href="../examples.html?word=hertiginna&amp;resource=kubhist2&amp;decade=1870" target="_blank" rel="noopener noreferrer"><rect x="105.9" y="830.2" width="132.5" height="9.8" fill="#2e8964" style="cursor:pointer"><title>kubhist2, 1870s: 701.0000 hits · open workbook examples · 434 workbook examples</title></rect></a>
+<text x="172.2" y="857.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1870</text>
+<a href="../examples.html?word=hertiginna&amp;resource=kubhist2&amp;decade=1880" target="_blank" rel="noopener noreferrer"><rect x="280.3" y="650.0" width="132.5" height="190.0" fill="#2e8964" style="cursor:pointer"><title>kubhist2, 1880s: 13,525.0000 hits · open workbook examples · 13,519 workbook examples</title></rect></a>
+<text x="346.6" y="857.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1880</text>
+<a href="../examples.html?word=hertiginna&amp;resource=kubhist2&amp;decade=1890" target="_blank" rel="noopener noreferrer"><rect x="454.7" y="699.2" width="132.5" height="140.8" fill="#2e8964" style="cursor:pointer"><title>kubhist2, 1890s: 10,021.0000 hits · open workbook examples · 10,017 workbook examples</title></rect></a>
+<text x="520.9" y="857.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1890</text>
+<a href="../examples.html?word=hertiginna&amp;resource=kubhist2&amp;decade=1900" target="_blank" rel="noopener noreferrer"><rect x="629.1" y="821.2" width="132.5" height="18.8" fill="#2e8964" style="cursor:pointer"><title>kubhist2, 1900s: 1,337.0000 hits · open workbook examples · 1,336 workbook examples</title></rect></a>
+<text x="695.3" y="857.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1900</text>
+<line x1="872.5" y1="840.0" x2="1570.0" y2="840.0" stroke="#e1e7eb" />
+<text x="864.5" y="844.0" font-size="11" text-anchor="end" fill="#657381" font-weight="normal">0</text>
+<line x1="872.5" y1="745.0" x2="1570.0" y2="745.0" stroke="#e1e7eb" />
+<text x="864.5" y="749.0" font-size="11" text-anchor="end" fill="#657381" font-weight="normal">8.6</text>
+<line x1="872.5" y1="650.0" x2="1570.0" y2="650.0" stroke="#e1e7eb" />
+<text x="864.5" y="654.0" font-size="11" text-anchor="end" fill="#657381" font-weight="normal">17.2</text>
+<a href="../examples.html?word=hertiginna&amp;resource=kubhist2&amp;decade=1870" target="_blank" rel="noopener noreferrer"><rect x="893.4" y="759.9" width="132.5" height="80.1" fill="#2e8964" style="cursor:pointer"><title>kubhist2, 1870s: 7.2448 hits/million · open workbook examples · 434 workbook examples</title></rect></a>
+<text x="959.7" y="857.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1870</text>
+<a href="../examples.html?word=hertiginna&amp;resource=kubhist2&amp;decade=1880" target="_blank" rel="noopener noreferrer"><rect x="1067.8" y="737.0" width="132.5" height="103.0" fill="#2e8964" style="cursor:pointer"><title>kubhist2, 1880s: 9.3256 hits/million · open workbook examples · 13,519 workbook examples</title></rect></a>
+<text x="1134.1" y="857.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1880</text>
+<a href="../examples.html?word=hertiginna&amp;resource=kubhist2&amp;decade=1890" target="_blank" rel="noopener noreferrer"><rect x="1242.2" y="733.2" width="132.5" height="106.8" fill="#2e8964" style="cursor:pointer"><title>kubhist2, 1890s: 9.6623 hits/million · open workbook examples · 10,017 workbook examples</title></rect></a>
+<text x="1308.4" y="857.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1890</text>
+<a href="../examples.html?word=hertiginna&amp;resource=kubhist2&amp;decade=1900" target="_blank" rel="noopener noreferrer"><rect x="1416.6" y="650.0" width="132.5" height="190.0" fill="#2e8964" style="cursor:pointer"><title>kubhist2, 1900s: 17.1955 hits/million · open workbook examples · 1,336 workbook examples</title></rect></a>
+<text x="1482.8" y="857.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1900</text>
+<text x="800.0" y="929.0" font-size="13" text-anchor="middle" fill="#263747" font-weight="normal">Decade</text>
+</svg>

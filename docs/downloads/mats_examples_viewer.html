@@ -17,7 +17,7 @@
 </style>
 <p><a href="index.html">← Frequency plots</a> · <a href="source-breakdown.html">Authors and newspapers</a></p>
 <h1>Examples from the source workbooks</h1>
-<p class="intro">Each excerpt is an occurrence recorded in <code>data/mats</code>. Examples with a source URL link to that page. Plot bars open the examples for the same word, resource, and decade. The API and workbook counts are shown together below.</p>
+<p class="intro" id="intro">Each excerpt is an occurrence recorded in the source workbooks. Examples with a source URL link to that page. Plot bars open the examples for the same word, resource, and decade. The API and workbook counts are shown together below.</p>
 <div class="filters">
   <label>Word<select id="word"></select></label>
   <label>Resource<select id="resource"></select></label>
@@ -66,12 +66,17 @@
   function selectedBuckets() {
     return manifest.buckets.filter(matches);
   }
+  function availableCount(bucket) {
+    return bucket.sample_count == null ? bucket.count : bucket.sample_count;
+  }
   function korpUrl(word, resource, decade) {
     const years = Array.from({length:10},(_,i) => {
       const year = Number(decade)+i;
       return `(int(_.text_datefrom) >= ${year}0101 & int(_.text_dateto) <= ${year}1231)`;
     });
-    const cqp = `[lemma contains "${word}" & (${years.join(' | ')})]`;
+    const parts=word.split(/\s+/);
+    const cqp = `[lemma contains "${parts[0]}" & (${years.join(' | ')})]`+
+      parts.slice(1).map(part=>`[lemma contains "${part}"]`).join('');
     const values = {
       corpus:manifest.korp.corpora[resource].join(',').toLowerCase(),
       search:`cqp|${cqp}`,search_tab:'2',result_tab:'0'
@@ -90,9 +95,10 @@
     const result = [];
     let passed = 0;
     for (const bucket of buckets) {
+      const available=availableCount(bucket);
       const bucketStart = Math.max(0,start-passed);
-      const bucketEnd = Math.min(bucket.count,end-passed);
-      passed += bucket.count;
+      const bucketEnd = Math.min(available,end-passed);
+      passed += available;
       if (bucketEnd <= bucketStart) continue;
       const first = Math.floor(bucketStart/manifest.chunk_size);
       const last = Math.floor((bucketEnd-1)/manifest.chunk_size);
@@ -134,6 +140,7 @@
     const currentRequest = ++request;
     buckets = selectedBuckets();
     const total = buckets.reduce((sum,b) => sum+b.count,0);
+    const available = buckets.reduce((sum,b) => sum+availableCount(b),0);
     const withSourceUrl = buckets.reduce((sum,b) => sum+b.with_source_url,0);
     const apiTotal = (manifest.api_buckets || []).filter(matches).reduce((sum,b) => sum+b.absolute,0);
     const difference = apiTotal-total;
@@ -141,23 +148,25 @@
     const showKorpLink = Boolean(manifest.korp) && $('resource').value !== 'all' && /^\d{4}$/.test($('decade').value);
     $('korp-link').hidden = !showKorpLink;
     if (showKorpLink) $('korp-link').href = korpUrl($('word').value,$('resource').value,$('decade').value);
-    const pageCount = Math.max(1,Math.ceil(total/PAGE_SIZE));
+    const pageCount = Math.max(1,Math.ceil(available/PAGE_SIZE));
     page = Math.min(Math.max(1,page),pageCount);
     updateUrl();
     $('examples').replaceChildren();
-    $('pager').hidden = total === 0;
+    $('pager').hidden = available === 0;
     $('page').value = page;
     $('page').max = pageCount;
     $('page-count').textContent = `of ${pageCount.toLocaleString()}`;
     $('previous').disabled = page === 1;
     $('next').disabled = page === pageCount;
-    if (!total) { $('status').textContent = 'No workbook examples for these filters.'; return; }
-    $('status').textContent = `Loading ${total.toLocaleString()} workbook examples…`;
+    if (!available) { $('status').textContent = 'No workbook examples for these filters.'; return; }
+    $('status').textContent = `Loading workbook examples…`;
     try {
-      const rows = await loadRows((page-1)*PAGE_SIZE,Math.min(page*PAGE_SIZE,total));
+      const rows = await loadRows((page-1)*PAGE_SIZE,Math.min(page*PAGE_SIZE,available));
       if (currentRequest !== request) return;
       $('examples').replaceChildren(...rows.map(renderRow));
-      $('status').textContent = `Showing ${(page-1)*PAGE_SIZE+1}–${(page-1)*PAGE_SIZE+rows.length} of ${total.toLocaleString()} workbook examples.`;
+      $('status').textContent = manifest.sample_limit
+        ? `Showing ${(page-1)*PAGE_SIZE+1}–${(page-1)*PAGE_SIZE+rows.length} of ${available.toLocaleString()} sampled examples (${total.toLocaleString()} exact workbook matches).`
+        : `Showing ${(page-1)*PAGE_SIZE+1}–${(page-1)*PAGE_SIZE+rows.length} of ${total.toLocaleString()} workbook examples.`;
     } catch (error) {
       if (currentRequest === request) $('status').textContent = `Could not load examples: ${error.message}`;
     }
@@ -167,6 +176,7 @@
       const response = await fetch('example_data/manifest.json');
       if (!response.ok) throw new Error(`Manifest request failed (${response.status})`);
       manifest = await response.json();
+      if(manifest.dataset)$('intro').firstChild.textContent=`Each excerpt is an occurrence recorded in ${manifest.dataset}. `;
       setOptions($('word'),manifest.words.map(w => [w,w]),params.get('word'));
       setOptions($('resource'),[['all','All resources'],...manifest.resources.map(r => [r,r])],params.get('resource'));
       updateFilters();

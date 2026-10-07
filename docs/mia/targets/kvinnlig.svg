@@ -1,0 +1,171 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 940" role="img" aria-label="kvinnlig frequency by decade and resource">
+<rect width="100%" height="100%" fill="white" />
+<style>text{font-family:Arial,Helvetica,sans-serif}</style>
+<text x="85.0" y="39.0" font-size="27" text-anchor="start" fill="#263747" font-weight="bold">kvinnlig</text>
+<text x="85.0" y="65.0" font-size="14" text-anchor="start" fill="#5a6876" font-weight="normal">Korp API frequency · click a bar for matching workbook examples</text>
+<text x="85.0" y="99.0" font-size="17" text-anchor="start" fill="#263747" font-weight="bold">Absolute frequency · hits</text>
+<text x="872.5" y="99.0" font-size="17" text-anchor="start" fill="#263747" font-weight="bold">Relative frequency · hits per million tokens</text>
+<text x="85.0" y="138.0" font-size="16" text-anchor="start" fill="#2678a9" font-weight="bold">lb · 1620–2029</text>
+<line x1="85.0" y1="340.0" x2="782.5" y2="340.0" stroke="#e1e7eb" />
+<text x="77.0" y="344.0" font-size="11" text-anchor="end" fill="#657381" font-weight="normal">0</text>
+<line x1="85.0" y1="245.0" x2="782.5" y2="245.0" stroke="#e1e7eb" />
+<text x="77.0" y="249.0" font-size="11" text-anchor="end" fill="#657381" font-weight="normal">506</text>
+<line x1="85.0" y1="150.0" x2="782.5" y2="150.0" stroke="#e1e7eb" />
+<text x="77.0" y="154.0" font-size="11" text-anchor="end" fill="#657381" font-weight="normal">1013</text>
+<text x="93.5" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1620</text>
+<text x="127.5" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1640</text>
+<text x="161.6" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1660</text>
+<text x="195.6" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1680</text>
+<text x="229.6" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1700</text>
+<text x="263.6" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1720</text>
+<text x="297.7" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1740</text>
+<text x="331.7" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1760</text>
+<text x="365.7" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1780</text>
+<text x="399.7" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1800</text>
+<text x="433.8" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1820</text>
+<text x="467.8" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1840</text>
+<text x="501.8" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1860</text>
+<a href="../examples.html?word=kvinnlig&amp;resource=lb&amp;decade=1880" target="_blank" rel="noopener noreferrer"><rect x="529.4" y="339.2" width="12.9" height="0.8" fill="#2678a9" style="cursor:pointer"><title>lb, 1880s: 4.0000 hits · open workbook examples · 4 workbook examples</title></rect></a>
+<text x="535.8" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1880</text>
+<a href="../examples.html?word=kvinnlig&amp;resource=lb&amp;decade=1890" target="_blank" rel="noopener noreferrer"><rect x="546.4" y="150.0" width="12.9" height="190.0" fill="#2678a9" style="cursor:pointer"><title>lb, 1890s: 1,013.0000 hits · open workbook examples · 1,013 workbook examples</title></rect></a>
+<a href="../examples.html?word=kvinnlig&amp;resource=lb&amp;decade=1900" target="_blank" rel="noopener noreferrer"><rect x="563.4" y="224.5" width="12.9" height="115.5" fill="#2678a9" style="cursor:pointer"><title>lb, 1900s: 616.0000 hits · open workbook examples · 616 workbook examples</title></rect></a>
+<text x="569.8" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1900</text>
+<a href="../examples.html?word=kvinnlig&amp;resource=lb&amp;decade=1910" target="_blank" rel="noopener noreferrer"><rect x="580.4" y="218.8" width="12.9" height="121.2" fill="#2678a9" style="cursor:pointer"><title>lb, 1910s: 646.0000 hits · open workbook examples · 646 workbook examples</title></rect></a>
+<a href="../examples.html?word=kvinnlig&amp;resource=lb&amp;decade=1920" target="_blank" rel="noopener noreferrer"><rect x="597.4" y="272.9" width="12.9" height="67.1" fill="#2678a9" style="cursor:pointer"><title>lb, 1920s: 358.0000 hits · open workbook examples · 358 workbook examples</title></rect></a>
+<text x="603.9" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1920</text>
+<a href="../examples.html?word=kvinnlig&amp;resource=lb&amp;decade=1930" target="_blank" rel="noopener noreferrer"><rect x="614.4" y="272.3" width="12.9" height="67.7" fill="#2678a9" style="cursor:pointer"><title>lb, 1930s: 361.0000 hits · open workbook examples · 361 workbook examples</title></rect></a>
+<a href="../examples.html?word=kvinnlig&amp;resource=lb&amp;decade=1940" target="_blank" rel="noopener noreferrer"><rect x="631.4" y="301.7" width="12.9" height="38.3" fill="#2678a9" style="cursor:pointer"><title>lb, 1940s: 204.0000 hits · open workbook examples · 204 workbook examples</title></rect></a>
+<text x="637.9" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1940</text>
+<a href="../examples.html?word=kvinnlig&amp;resource=lb&amp;decade=1950" target="_blank" rel="noopener noreferrer"><rect x="648.4" y="336.4" width="12.9" height="3.6" fill="#2678a9" style="cursor:pointer"><title>lb, 1950s: 19.0000 hits · open workbook examples · 19 workbook examples</title></rect></a>
+<a href="../examples.html?word=kvinnlig&amp;resource=lb&amp;decade=1960" target="_blank" rel="noopener noreferrer"><rect x="665.5" y="338.1" width="12.9" height="1.9" fill="#2678a9" style="cursor:pointer"><title>lb, 1960s: 10.0000 hits · open workbook examples · 10 workbook examples</title></rect></a>
+<text x="671.9" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1960</text>
+<a href="../examples.html?word=kvinnlig&amp;resource=lb&amp;decade=1970" target="_blank" rel="noopener noreferrer"><rect x="682.5" y="337.4" width="12.9" height="2.6" fill="#2678a9" style="cursor:pointer"><title>lb, 1970s: 14.0000 hits · open workbook examples · 14 workbook examples</title></rect></a>
+<a href="../examples.html?word=kvinnlig&amp;resource=lb&amp;decade=1980" target="_blank" rel="noopener noreferrer"><rect x="699.5" y="339.1" width="12.9" height="0.9" fill="#2678a9" style="cursor:pointer"><title>lb, 1980s: 5.0000 hits · open workbook examples · 5 workbook examples</title></rect></a>
+<text x="705.9" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1980</text>
+<a href="../examples.html?word=kvinnlig&amp;resource=lb&amp;decade=1990" target="_blank" rel="noopener noreferrer"><rect x="716.5" y="339.2" width="12.9" height="0.8" fill="#2678a9" style="cursor:pointer"><title>lb, 1990s: 4.0000 hits · open workbook examples · 4 workbook examples</title></rect></a>
+<text x="740.0" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">2000</text>
+<a href="../examples.html?word=kvinnlig&amp;resource=lb&amp;decade=2010" target="_blank" rel="noopener noreferrer"><rect x="750.5" y="339.6" width="12.9" height="0.4" fill="#2678a9" style="cursor:pointer"><title>lb, 2010s: 2.0000 hits · open workbook examples · 2 workbook examples</title></rect></a>
+<a href="../examples.html?word=kvinnlig&amp;resource=lb&amp;decade=2020" target="_blank" rel="noopener noreferrer"><rect x="767.5" y="337.2" width="12.9" height="2.8" fill="#2678a9" style="cursor:pointer"><title>lb, 2020s: 15.0000 hits · open workbook examples · 15 workbook examples</title></rect></a>
+<text x="774.0" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">2020</text>
+<line x1="872.5" y1="340.0" x2="1570.0" y2="340.0" stroke="#e1e7eb" />
+<text x="864.5" y="344.0" font-size="11" text-anchor="end" fill="#657381" font-weight="normal">0</text>
+<line x1="872.5" y1="245.0" x2="1570.0" y2="245.0" stroke="#e1e7eb" />
+<text x="864.5" y="249.0" font-size="11" text-anchor="end" fill="#657381" font-weight="normal">79.1</text>
+<line x1="872.5" y1="150.0" x2="1570.0" y2="150.0" stroke="#e1e7eb" />
+<text x="864.5" y="154.0" font-size="11" text-anchor="end" fill="#657381" font-weight="normal">158</text>
+<text x="881.0" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1620</text>
+<text x="915.0" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1640</text>
+<text x="1017.1" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1700</text>
+<text x="1085.2" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1740</text>
+<text x="1119.2" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1760</text>
+<text x="1153.2" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1780</text>
+<text x="1187.2" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1800</text>
+<text x="1221.2" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1820</text>
+<text x="1255.3" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1840</text>
+<text x="1289.3" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1860</text>
+<a href="../examples.html?word=kvinnlig&amp;resource=lb&amp;decade=1880" target="_blank" rel="noopener noreferrer"><rect x="1316.9" y="339.9" width="12.9" height="0.1" fill="#2678a9" style="cursor:pointer"><title>lb, 1880s: 0.0721 hits/million · open workbook examples · 4 workbook examples</title></rect></a>
+<text x="1323.3" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1880</text>
+<a href="../examples.html?word=kvinnlig&amp;resource=lb&amp;decade=1890" target="_blank" rel="noopener noreferrer"><rect x="1333.9" y="320.4" width="12.9" height="19.6" fill="#2678a9" style="cursor:pointer"><title>lb, 1890s: 16.2811 hits/million · open workbook examples · 1,013 workbook examples</title></rect></a>
+<a href="../examples.html?word=kvinnlig&amp;resource=lb&amp;decade=1900" target="_blank" rel="noopener noreferrer"><rect x="1350.9" y="309.2" width="12.9" height="30.8" fill="#2678a9" style="cursor:pointer"><title>lb, 1900s: 25.6041 hits/million · open workbook examples · 616 workbook examples</title></rect></a>
+<text x="1357.3" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1900</text>
+<a href="../examples.html?word=kvinnlig&amp;resource=lb&amp;decade=1910" target="_blank" rel="noopener noreferrer"><rect x="1367.9" y="302.4" width="12.9" height="37.6" fill="#2678a9" style="cursor:pointer"><title>lb, 1910s: 31.2782 hits/million · open workbook examples · 646 workbook examples</title></rect></a>
+<a href="../examples.html?word=kvinnlig&amp;resource=lb&amp;decade=1920" target="_blank" rel="noopener noreferrer"><rect x="1384.9" y="318.1" width="12.9" height="21.9" fill="#2678a9" style="cursor:pointer"><title>lb, 1920s: 18.2053 hits/million · open workbook examples · 358 workbook examples</title></rect></a>
+<text x="1391.4" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1920</text>
+<a href="../examples.html?word=kvinnlig&amp;resource=lb&amp;decade=1930" target="_blank" rel="noopener noreferrer"><rect x="1401.9" y="313.3" width="12.9" height="26.7" fill="#2678a9" style="cursor:pointer"><title>lb, 1930s: 22.2371 hits/million · open workbook examples · 361 workbook examples</title></rect></a>
+<a href="../examples.html?word=kvinnlig&amp;resource=lb&amp;decade=1940" target="_blank" rel="noopener noreferrer"><rect x="1418.9" y="285.6" width="12.9" height="54.4" fill="#2678a9" style="cursor:pointer"><title>lb, 1940s: 45.3016 hits/million · open workbook examples · 204 workbook examples</title></rect></a>
+<text x="1425.4" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1940</text>
+<a href="../examples.html?word=kvinnlig&amp;resource=lb&amp;decade=1950" target="_blank" rel="noopener noreferrer"><rect x="1435.9" y="309.1" width="12.9" height="30.9" fill="#2678a9" style="cursor:pointer"><title>lb, 1950s: 25.7575 hits/million · open workbook examples · 19 workbook examples</title></rect></a>
+<a href="../examples.html?word=kvinnlig&amp;resource=lb&amp;decade=1960" target="_blank" rel="noopener noreferrer"><rect x="1453.0" y="325.0" width="12.9" height="15.0" fill="#2678a9" style="cursor:pointer"><title>lb, 1960s: 12.4525 hits/million · open workbook examples · 10 workbook examples</title></rect></a>
+<text x="1459.4" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1960</text>
+<a href="../examples.html?word=kvinnlig&amp;resource=lb&amp;decade=1970" target="_blank" rel="noopener noreferrer"><rect x="1470.0" y="150.0" width="12.9" height="190.0" fill="#2678a9" style="cursor:pointer"><title>lb, 1970s: 158.1957 hits/million · open workbook examples · 14 workbook examples</title></rect></a>
+<a href="../examples.html?word=kvinnlig&amp;resource=lb&amp;decade=1980" target="_blank" rel="noopener noreferrer"><rect x="1487.0" y="326.4" width="12.9" height="13.6" fill="#2678a9" style="cursor:pointer"><title>lb, 1980s: 11.3195 hits/million · open workbook examples · 5 workbook examples</title></rect></a>
+<text x="1493.4" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1980</text>
+<a href="../examples.html?word=kvinnlig&amp;resource=lb&amp;decade=1990" target="_blank" rel="noopener noreferrer"><rect x="1504.0" y="323.4" width="12.9" height="16.6" fill="#2678a9" style="cursor:pointer"><title>lb, 1990s: 13.8164 hits/million · open workbook examples · 4 workbook examples</title></rect></a>
+<text x="1527.5" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">2000</text>
+<a href="../examples.html?word=kvinnlig&amp;resource=lb&amp;decade=2010" target="_blank" rel="noopener noreferrer"><rect x="1538.0" y="333.2" width="12.9" height="6.8" fill="#2678a9" style="cursor:pointer"><title>lb, 2010s: 5.6231 hits/million · open workbook examples · 2 workbook examples</title></rect></a>
+<a href="../examples.html?word=kvinnlig&amp;resource=lb&amp;decade=2020" target="_blank" rel="noopener noreferrer"><rect x="1555.0" y="302.1" width="12.9" height="37.9" fill="#2678a9" style="cursor:pointer"><title>lb, 2020s: 31.5243 hits/million · open workbook examples · 15 workbook examples</title></rect></a>
+<text x="1561.5" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">2020</text>
+<text x="85.0" y="388.0" font-size="16" text-anchor="start" fill="#d46a24" font-weight="bold">tkr · 1860–1979</text>
+<line x1="85.0" y1="590.0" x2="782.5" y2="590.0" stroke="#e1e7eb" />
+<text x="77.0" y="594.0" font-size="11" text-anchor="end" fill="#657381" font-weight="normal">0</text>
+<line x1="85.0" y1="495.0" x2="782.5" y2="495.0" stroke="#e1e7eb" />
+<text x="77.0" y="499.0" font-size="11" text-anchor="end" fill="#657381" font-weight="normal">16k</text>
+<line x1="85.0" y1="400.0" x2="782.5" y2="400.0" stroke="#e1e7eb" />
+<text x="77.0" y="404.0" font-size="11" text-anchor="end" fill="#657381" font-weight="normal">32k</text>
+<text x="114.1" y="607.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1860</text>
+<text x="172.2" y="607.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1870</text>
+<text x="230.3" y="607.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1880</text>
+<a href="../examples.html?word=kvinnlig&amp;resource=tkr&amp;decade=1890" target="_blank" rel="noopener noreferrer"><rect x="266.4" y="589.9" width="44.2" height="0.1" fill="#d46a24" style="cursor:pointer"><title>tkr, 1890s: 19.0000 hits · open workbook examples · 19 workbook examples</title></rect></a>
+<text x="288.4" y="607.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1890</text>
+<a href="../examples.html?word=kvinnlig&amp;resource=tkr&amp;decade=1900" target="_blank" rel="noopener noreferrer"><rect x="324.5" y="548.3" width="44.2" height="41.7" fill="#d46a24" style="cursor:pointer"><title>tkr, 1900s: 6,985.0000 hits · open workbook examples · 6,985 workbook examples</title></rect></a>
+<text x="346.6" y="607.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1900</text>
+<a href="../examples.html?word=kvinnlig&amp;resource=tkr&amp;decade=1910" target="_blank" rel="noopener noreferrer"><rect x="382.6" y="400.0" width="44.2" height="190.0" fill="#d46a24" style="cursor:pointer"><title>tkr, 1910s: 31,814.0000 hits · open workbook examples · 31,797 workbook examples</title></rect></a>
+<text x="404.7" y="607.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1910</text>
+<a href="../examples.html?word=kvinnlig&amp;resource=tkr&amp;decade=1920" target="_blank" rel="noopener noreferrer"><rect x="440.7" y="466.3" width="44.2" height="123.7" fill="#d46a24" style="cursor:pointer"><title>tkr, 1920s: 20,709.0000 hits · open workbook examples · 20,703 workbook examples</title></rect></a>
+<text x="462.8" y="607.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1920</text>
+<a href="../examples.html?word=kvinnlig&amp;resource=tkr&amp;decade=1930" target="_blank" rel="noopener noreferrer"><rect x="498.9" y="510.5" width="44.2" height="79.5" fill="#d46a24" style="cursor:pointer"><title>tkr, 1930s: 13,307.0000 hits · open workbook examples · 13,301 workbook examples</title></rect></a>
+<text x="520.9" y="607.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1930</text>
+<a href="../examples.html?word=kvinnlig&amp;resource=tkr&amp;decade=1940" target="_blank" rel="noopener noreferrer"><rect x="557.0" y="533.6" width="44.2" height="56.4" fill="#d46a24" style="cursor:pointer"><title>tkr, 1940s: 9,442.0000 hits · open workbook examples · 9,440 workbook examples</title></rect></a>
+<text x="579.1" y="607.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1940</text>
+<a href="../examples.html?word=kvinnlig&amp;resource=tkr&amp;decade=1950" target="_blank" rel="noopener noreferrer"><rect x="615.1" y="555.5" width="44.2" height="34.5" fill="#d46a24" style="cursor:pointer"><title>tkr, 1950s: 5,773.0000 hits · open workbook examples · 5,773 workbook examples</title></rect></a>
+<text x="637.2" y="607.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1950</text>
+<a href="../examples.html?word=kvinnlig&amp;resource=tkr&amp;decade=1960" target="_blank" rel="noopener noreferrer"><rect x="673.2" y="563.3" width="44.2" height="26.7" fill="#d46a24" style="cursor:pointer"><title>tkr, 1960s: 4,472.0000 hits · open workbook examples · 4,471 workbook examples</title></rect></a>
+<text x="695.3" y="607.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1960</text>
+<a href="../examples.html?word=kvinnlig&amp;resource=tkr&amp;decade=1970" target="_blank" rel="noopener noreferrer"><rect x="731.3" y="587.5" width="44.2" height="2.5" fill="#d46a24" style="cursor:pointer"><title>tkr, 1970s: 417.0000 hits · open workbook examples · 417 workbook examples</title></rect></a>
+<text x="753.4" y="607.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1970</text>
+<line x1="872.5" y1="590.0" x2="1570.0" y2="590.0" stroke="#e1e7eb" />
+<text x="864.5" y="594.0" font-size="11" text-anchor="end" fill="#657381" font-weight="normal">0</text>
+<line x1="872.5" y1="495.0" x2="1570.0" y2="495.0" stroke="#e1e7eb" />
+<text x="864.5" y="499.0" font-size="11" text-anchor="end" fill="#657381" font-weight="normal">109</text>
+<line x1="872.5" y1="400.0" x2="1570.0" y2="400.0" stroke="#e1e7eb" />
+<text x="864.5" y="404.0" font-size="11" text-anchor="end" fill="#657381" font-weight="normal">217</text>
+<text x="901.6" y="607.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1860</text>
+<text x="959.7" y="607.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1870</text>
+<text x="1017.8" y="607.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1880</text>
+<a href="../examples.html?word=kvinnlig&amp;resource=tkr&amp;decade=1890" target="_blank" rel="noopener noreferrer"><rect x="1053.8" y="589.7" width="44.2" height="0.3" fill="#d46a24" style="cursor:pointer"><title>tkr, 1890s: 0.3455 hits/million · open workbook examples · 19 workbook examples</title></rect></a>
+<text x="1075.9" y="607.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1890</text>
+<a href="../examples.html?word=kvinnlig&amp;resource=tkr&amp;decade=1900" target="_blank" rel="noopener noreferrer"><rect x="1112.0" y="523.3" width="44.2" height="66.7" fill="#d46a24" style="cursor:pointer"><title>tkr, 1900s: 76.2449 hits/million · open workbook examples · 6,985 workbook examples</title></rect></a>
+<text x="1134.1" y="607.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1900</text>
+<a href="../examples.html?word=kvinnlig&amp;resource=tkr&amp;decade=1910" target="_blank" rel="noopener noreferrer"><rect x="1170.1" y="400.0" width="44.2" height="190.0" fill="#d46a24" style="cursor:pointer"><title>tkr, 1910s: 217.2301 hits/million · open workbook examples · 31,797 workbook examples</title></rect></a>
+<text x="1192.2" y="607.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1910</text>
+<a href="../examples.html?word=kvinnlig&amp;resource=tkr&amp;decade=1920" target="_blank" rel="noopener noreferrer"><rect x="1228.2" y="449.7" width="44.2" height="140.3" fill="#d46a24" style="cursor:pointer"><title>tkr, 1920s: 160.4197 hits/million · open workbook examples · 20,703 workbook examples</title></rect></a>
+<text x="1250.3" y="607.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1920</text>
+<a href="../examples.html?word=kvinnlig&amp;resource=tkr&amp;decade=1930" target="_blank" rel="noopener noreferrer"><rect x="1286.3" y="500.5" width="44.2" height="89.5" fill="#d46a24" style="cursor:pointer"><title>tkr, 1930s: 102.2883 hits/million · open workbook examples · 13,301 workbook examples</title></rect></a>
+<text x="1308.4" y="607.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1930</text>
+<a href="../examples.html?word=kvinnlig&amp;resource=tkr&amp;decade=1940" target="_blank" rel="noopener noreferrer"><rect x="1344.5" y="528.0" width="44.2" height="62.0" fill="#d46a24" style="cursor:pointer"><title>tkr, 1940s: 70.8701 hits/million · open workbook examples · 9,440 workbook examples</title></rect></a>
+<text x="1366.6" y="607.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1940</text>
+<a href="../examples.html?word=kvinnlig&amp;resource=tkr&amp;decade=1950" target="_blank" rel="noopener noreferrer"><rect x="1402.6" y="552.6" width="44.2" height="37.4" fill="#d46a24" style="cursor:pointer"><title>tkr, 1950s: 42.7818 hits/million · open workbook examples · 5,773 workbook examples</title></rect></a>
+<text x="1424.7" y="607.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1950</text>
+<a href="../examples.html?word=kvinnlig&amp;resource=tkr&amp;decade=1960" target="_blank" rel="noopener noreferrer"><rect x="1460.7" y="563.2" width="44.2" height="26.8" fill="#d46a24" style="cursor:pointer"><title>tkr, 1960s: 30.6438 hits/million · open workbook examples · 4,471 workbook examples</title></rect></a>
+<text x="1482.8" y="607.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1960</text>
+<a href="../examples.html?word=kvinnlig&amp;resource=tkr&amp;decade=1970" target="_blank" rel="noopener noreferrer"><rect x="1518.8" y="568.8" width="44.2" height="21.2" fill="#d46a24" style="cursor:pointer"><title>tkr, 1970s: 24.2083 hits/million · open workbook examples · 417 workbook examples</title></rect></a>
+<text x="1540.9" y="607.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1970</text>
+<text x="85.0" y="638.0" font-size="16" text-anchor="start" fill="#2e8964" font-weight="bold">kubhist2 · 1870–1909</text>
+<line x1="85.0" y1="840.0" x2="782.5" y2="840.0" stroke="#e1e7eb" />
+<text x="77.0" y="844.0" font-size="11" text-anchor="end" fill="#657381" font-weight="normal">0</text>
+<line x1="85.0" y1="745.0" x2="782.5" y2="745.0" stroke="#e1e7eb" />
+<text x="77.0" y="749.0" font-size="11" text-anchor="end" fill="#657381" font-weight="normal">1447</text>
+<line x1="85.0" y1="650.0" x2="782.5" y2="650.0" stroke="#e1e7eb" />
+<text x="77.0" y="654.0" font-size="11" text-anchor="end" fill="#657381" font-weight="normal">2894</text>
+<text x="172.2" y="857.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1870</text>
+<a href="../examples.html?word=kvinnlig&amp;resource=kubhist2&amp;decade=1880" target="_blank" rel="noopener noreferrer"><rect x="280.3" y="839.1" width="132.5" height="0.9" fill="#2e8964" style="cursor:pointer"><title>kubhist2, 1880s: 14.0000 hits · open workbook examples · 14 workbook examples</title></rect></a>
+<text x="346.6" y="857.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1880</text>
+<a href="../examples.html?word=kvinnlig&amp;resource=kubhist2&amp;decade=1890" target="_blank" rel="noopener noreferrer"><rect x="454.7" y="650.0" width="132.5" height="190.0" fill="#2e8964" style="cursor:pointer"><title>kubhist2, 1890s: 2,894.0000 hits · open workbook examples · 2,892 workbook examples</title></rect></a>
+<text x="520.9" y="857.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1890</text>
+<a href="../examples.html?word=kvinnlig&amp;resource=kubhist2&amp;decade=1900" target="_blank" rel="noopener noreferrer"><rect x="629.1" y="673.6" width="132.5" height="166.4" fill="#2e8964" style="cursor:pointer"><title>kubhist2, 1900s: 2,534.0000 hits · open workbook examples · 2,533 workbook examples</title></rect></a>
+<text x="695.3" y="857.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1900</text>
+<line x1="872.5" y1="840.0" x2="1570.0" y2="840.0" stroke="#e1e7eb" />
+<text x="864.5" y="844.0" font-size="11" text-anchor="end" fill="#657381" font-weight="normal">0</text>
+<line x1="872.5" y1="745.0" x2="1570.0" y2="745.0" stroke="#e1e7eb" />
+<text x="864.5" y="749.0" font-size="11" text-anchor="end" fill="#657381" font-weight="normal">16.3</text>
+<line x1="872.5" y1="650.0" x2="1570.0" y2="650.0" stroke="#e1e7eb" />
+<text x="864.5" y="654.0" font-size="11" text-anchor="end" fill="#657381" font-weight="normal">32.6</text>
+<text x="959.7" y="857.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1870</text>
+<a href="../examples.html?word=kvinnlig&amp;resource=kubhist2&amp;decade=1880" target="_blank" rel="noopener noreferrer"><rect x="1067.8" y="839.9" width="132.5" height="0.1" fill="#2e8964" style="cursor:pointer"><title>kubhist2, 1880s: 0.0097 hits/million · open workbook examples · 14 workbook examples</title></rect></a>
+<text x="1134.1" y="857.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1880</text>
+<a href="../examples.html?word=kvinnlig&amp;resource=kubhist2&amp;decade=1890" target="_blank" rel="noopener noreferrer"><rect x="1242.2" y="823.7" width="132.5" height="16.3" fill="#2e8964" style="cursor:pointer"><title>kubhist2, 1890s: 2.7904 hits/million · open workbook examples · 2,892 workbook examples</title></rect></a>
+<text x="1308.4" y="857.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1890</text>
+<a href="../examples.html?word=kvinnlig&amp;resource=kubhist2&amp;decade=1900" target="_blank" rel="noopener noreferrer"><rect x="1416.6" y="650.0" width="132.5" height="190.0" fill="#2e8964" style="cursor:pointer"><title>kubhist2, 1900s: 32.5905 hits/million · open workbook examples · 2,533 workbook examples</title></rect></a>
+<text x="1482.8" y="857.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1900</text>
+<text x="800.0" y="929.0" font-size="13" text-anchor="middle" fill="#263747" font-weight="normal">Decade</text>
+</svg>

@@ -41,10 +41,15 @@
       return `(int(_.text_datefrom) >= ${year}0101 & int(_.text_dateto) <= ${year}1231)`;
     }).join(' | ');
   }
+  function wordQuery(word,extra=''){
+    const parts=word.split(/\s+/);
+    return `[lemma contains "${parts[0]}"${extra}]`+
+      parts.slice(1).map(part=>`[lemma contains "${part}"]`).join('');
+  }
   function linkFor(author,word,decade){
     const escaped=author.replace(/[.*+?^${}()|[\]\\]/g,'\\$&').replace(/"/g,'\\"');
     const years=yearConstraint(decade);
-    const cqp=`[lemma contains "${word}" & _.text_author = "${escaped}"${years?` & (${years})`:''}]`;
+    const cqp=wordQuery(word,` & _.text_author = "${escaped}"${years?` & (${years})`:''}`);
     const values={corpus:'lb-open',search:`cqp|${cqp}`,search_tab:'2',result_tab:'0'};
     const hash=Object.entries(values).map(([k,v])=>`${encodeURIComponent(k)}=${encodeURIComponent(v)}`).join('&');
     return `https://spraakbanken.gu.se/korp/?mode=lb#?${hash}`;
@@ -52,7 +57,7 @@
   function newspaperLink(paper,word,decade){
     const corpora=(data.newspaper_corpora[paper]||[]).join(',').toLowerCase();
     const years=yearConstraint(decade);
-    const cqp=`[lemma contains "${word}"${years?` & (${years})`:''}]`;
+    const cqp=wordQuery(word,years?` & (${years})`:'');
     const values={corpus:corpora,search:`cqp|${cqp}`,search_tab:'2',result_tab:'0'};
     const hash=Object.entries(values).map(([k,v])=>`${encodeURIComponent(k)}=${encodeURIComponent(v)}`).join('&');
     return `https://spraakbanken.gu.se/korp/?mode=kubhist#?${hash}`;

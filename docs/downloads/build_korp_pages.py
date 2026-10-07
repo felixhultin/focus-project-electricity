@@ -74,6 +74,7 @@ def main():
         raise ValueError("Cannot locate target navigation in source index")
     links = (
         '<p class="site-links">'
+        '<a href="mia/">Mia frequency site</a> · '
         '<a href="examples.html">Browse workbook examples</a> · '
         '<a href="source-breakdown.html">Authors and newspapers</a> · '
         '<a href="methodology.html">Method and sources</a> · '

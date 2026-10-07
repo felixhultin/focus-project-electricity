@@ -1,0 +1,219 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 940" role="img" aria-label="gammal frequency by decade and resource">
+<rect width="100%" height="100%" fill="white" />
+<style>text{font-family:Arial,Helvetica,sans-serif}</style>
+<text x="85.0" y="39.0" font-size="27" text-anchor="start" fill="#263747" font-weight="bold">gammal</text>
+<text x="85.0" y="65.0" font-size="14" text-anchor="start" fill="#5a6876" font-weight="normal">Korp API frequency · click a bar for matching workbook examples</text>
+<text x="85.0" y="99.0" font-size="17" text-anchor="start" fill="#263747" font-weight="bold">Absolute frequency · hits</text>
+<text x="872.5" y="99.0" font-size="17" text-anchor="start" fill="#263747" font-weight="bold">Relative frequency · hits per million tokens</text>
+<text x="85.0" y="138.0" font-size="16" text-anchor="start" fill="#2678a9" font-weight="bold">lb · 1620–2029</text>
+<line x1="85.0" y1="340.0" x2="782.5" y2="340.0" stroke="#e1e7eb" />
+<text x="77.0" y="344.0" font-size="11" text-anchor="end" fill="#657381" font-weight="normal">0</text>
+<line x1="85.0" y1="245.0" x2="782.5" y2="245.0" stroke="#e1e7eb" />
+<text x="77.0" y="249.0" font-size="11" text-anchor="end" fill="#657381" font-weight="normal">35k</text>
+<line x1="85.0" y1="150.0" x2="782.5" y2="150.0" stroke="#e1e7eb" />
+<text x="77.0" y="154.0" font-size="11" text-anchor="end" fill="#657381" font-weight="normal">70k</text>
+<a href="../examples.html?word=gammal&amp;resource=lb&amp;decade=1620" target="_blank" rel="noopener noreferrer"><rect x="87.0" y="340.0" width="12.9" height="0.0" fill="#2678a9" style="cursor:pointer"><title>lb, 1620s: 5.0000 hits · open workbook examples · 0 workbook examples</title></rect></a>
+<text x="93.5" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1620</text>
+<a href="../examples.html?word=gammal&amp;resource=lb&amp;decade=1640" target="_blank" rel="noopener noreferrer"><rect x="121.1" y="340.0" width="12.9" height="0.0" fill="#2678a9" style="cursor:pointer"><title>lb, 1640s: 8.0000 hits · open workbook examples · 0 workbook examples</title></rect></a>
+<text x="127.5" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1640</text>
+<text x="161.6" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1660</text>
+<text x="195.6" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1680</text>
+<a href="../examples.html?word=gammal&amp;resource=lb&amp;decade=1700" target="_blank" rel="noopener noreferrer"><rect x="223.1" y="337.7" width="12.9" height="2.3" fill="#2678a9" style="cursor:pointer"><title>lb, 1700s: 841.0000 hits · open workbook examples · 0 workbook examples</title></rect></a>
+<text x="229.6" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1700</text>
+<a href="../examples.html?word=gammal&amp;resource=lb&amp;decade=1710" target="_blank" rel="noopener noreferrer"><rect x="240.2" y="339.9" width="12.9" height="0.1" fill="#2678a9" style="cursor:pointer"><title>lb, 1710s: 33.0000 hits · open workbook examples · 0 workbook examples</title></rect></a>
+<text x="263.6" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1720</text>
+<a href="../examples.html?word=gammal&amp;resource=lb&amp;decade=1730" target="_blank" rel="noopener noreferrer"><rect x="274.2" y="340.0" width="12.9" height="0.0" fill="#2678a9" style="cursor:pointer"><title>lb, 1730s: 8.0000 hits · open workbook examples · 0 workbook examples</title></rect></a>
+<a href="../examples.html?word=gammal&amp;resource=lb&amp;decade=1740" target="_blank" rel="noopener noreferrer"><rect x="291.2" y="339.9" width="12.9" height="0.1" fill="#2678a9" style="cursor:pointer"><title>lb, 1740s: 41.0000 hits · open workbook examples · 0 workbook examples</title></rect></a>
+<text x="297.7" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1740</text>
+<a href="../examples.html?word=gammal&amp;resource=lb&amp;decade=1750" target="_blank" rel="noopener noreferrer"><rect x="308.2" y="339.8" width="12.9" height="0.2" fill="#2678a9" style="cursor:pointer"><title>lb, 1750s: 70.0000 hits · open workbook examples · 0 workbook examples</title></rect></a>
+<a href="../examples.html?word=gammal&amp;resource=lb&amp;decade=1760" target="_blank" rel="noopener noreferrer"><rect x="325.2" y="340.0" width="12.9" height="0.0" fill="#2678a9" style="cursor:pointer"><title>lb, 1760s: 13.0000 hits · open workbook examples · 0 workbook examples</title></rect></a>
+<text x="331.7" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1760</text>
+<a href="../examples.html?word=gammal&amp;resource=lb&amp;decade=1770" target="_blank" rel="noopener noreferrer"><rect x="342.2" y="339.9" width="12.9" height="0.1" fill="#2678a9" style="cursor:pointer"><title>lb, 1770s: 23.0000 hits · open workbook examples · 0 workbook examples</title></rect></a>
+<a href="../examples.html?word=gammal&amp;resource=lb&amp;decade=1780" target="_blank" rel="noopener noreferrer"><rect x="359.2" y="340.0" width="12.9" height="0.0" fill="#2678a9" style="cursor:pointer"><title>lb, 1780s: 17.0000 hits · open workbook examples · 0 workbook examples</title></rect></a>
+<text x="365.7" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1780</text>
+<a href="../examples.html?word=gammal&amp;resource=lb&amp;decade=1790" target="_blank" rel="noopener noreferrer"><rect x="376.2" y="339.0" width="12.9" height="1.0" fill="#2678a9" style="cursor:pointer"><title>lb, 1790s: 360.0000 hits · open workbook examples · 0 workbook examples</title></rect></a>
+<a href="../examples.html?word=gammal&amp;resource=lb&amp;decade=1800" target="_blank" rel="noopener noreferrer"><rect x="393.3" y="338.9" width="12.9" height="1.1" fill="#2678a9" style="cursor:pointer"><title>lb, 1800s: 419.0000 hits · open workbook examples · 0 workbook examples</title></rect></a>
+<text x="399.7" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1800</text>
+<a href="../examples.html?word=gammal&amp;resource=lb&amp;decade=1810" target="_blank" rel="noopener noreferrer"><rect x="410.3" y="337.5" width="12.9" height="2.5" fill="#2678a9" style="cursor:pointer"><title>lb, 1810s: 929.0000 hits · open workbook examples · 0 workbook examples</title></rect></a>
+<a href="../examples.html?word=gammal&amp;resource=lb&amp;decade=1820" target="_blank" rel="noopener noreferrer"><rect x="427.3" y="338.7" width="12.9" height="1.3" fill="#2678a9" style="cursor:pointer"><title>lb, 1820s: 465.0000 hits · open workbook examples · 0 workbook examples</title></rect></a>
+<text x="433.8" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1820</text>
+<a href="../examples.html?word=gammal&amp;resource=lb&amp;decade=1830" target="_blank" rel="noopener noreferrer"><rect x="444.3" y="313.3" width="12.9" height="26.7" fill="#2678a9" style="cursor:pointer"><title>lb, 1830s: 9,906.0000 hits · open workbook examples · 0 workbook examples</title></rect></a>
+<a href="../examples.html?word=gammal&amp;resource=lb&amp;decade=1840" target="_blank" rel="noopener noreferrer"><rect x="461.3" y="261.6" width="12.9" height="78.4" fill="#2678a9" style="cursor:pointer"><title>lb, 1840s: 29,105.0000 hits · open workbook examples · 0 workbook examples</title></rect></a>
+<text x="467.8" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1840</text>
+<a href="../examples.html?word=gammal&amp;resource=lb&amp;decade=1850" target="_blank" rel="noopener noreferrer"><rect x="478.3" y="269.9" width="12.9" height="70.1" fill="#2678a9" style="cursor:pointer"><title>lb, 1850s: 26,027.0000 hits · open workbook examples · 0 workbook examples</title></rect></a>
+<a href="../examples.html?word=gammal&amp;resource=lb&amp;decade=1860" target="_blank" rel="noopener noreferrer"><rect x="495.3" y="253.6" width="12.9" height="86.4" fill="#2678a9" style="cursor:pointer"><title>lb, 1860s: 32,057.0000 hits · open workbook examples · 0 workbook examples</title></rect></a>
+<text x="501.8" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1860</text>
+<a href="../examples.html?word=gammal&amp;resource=lb&amp;decade=1870" target="_blank" rel="noopener noreferrer"><rect x="512.3" y="229.3" width="12.9" height="110.7" fill="#2678a9" style="cursor:pointer"><title>lb, 1870s: 41,070.0000 hits · open workbook examples · 0 workbook examples</title></rect></a>
+<a href="../examples.html?word=gammal&amp;resource=lb&amp;decade=1880" target="_blank" rel="noopener noreferrer"><rect x="529.4" y="164.3" width="12.9" height="175.7" fill="#2678a9" style="cursor:pointer"><title>lb, 1880s: 65,173.0000 hits · open workbook examples · 0 workbook examples</title></rect></a>
+<text x="535.8" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1880</text>
+<a href="../examples.html?word=gammal&amp;resource=lb&amp;decade=1890" target="_blank" rel="noopener noreferrer"><rect x="546.4" y="150.0" width="12.9" height="190.0" fill="#2678a9" style="cursor:pointer"><title>lb, 1890s: 70,496.0000 hits · open workbook examples · 0 workbook examples</title></rect></a>
+<a href="../examples.html?word=gammal&amp;resource=lb&amp;decade=1900" target="_blank" rel="noopener noreferrer"><rect x="563.4" y="275.7" width="12.9" height="64.3" fill="#2678a9" style="cursor:pointer"><title>lb, 1900s: 23,861.0000 hits · open workbook examples · 0 workbook examples</title></rect></a>
+<text x="569.8" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1900</text>
+<a href="../examples.html?word=gammal&amp;resource=lb&amp;decade=1910" target="_blank" rel="noopener noreferrer"><rect x="580.4" y="286.5" width="12.9" height="53.5" fill="#2678a9" style="cursor:pointer"><title>lb, 1910s: 19,835.0000 hits · open workbook examples · 0 workbook examples</title></rect></a>
+<a href="../examples.html?word=gammal&amp;resource=lb&amp;decade=1920" target="_blank" rel="noopener noreferrer"><rect x="597.4" y="288.9" width="12.9" height="51.1" fill="#2678a9" style="cursor:pointer"><title>lb, 1920s: 18,967.0000 hits · open workbook examples · 0 workbook examples</title></rect></a>
+<text x="603.9" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1920</text>
+<a href="../examples.html?word=gammal&amp;resource=lb&amp;decade=1930" target="_blank" rel="noopener noreferrer"><rect x="614.4" y="307.3" width="12.9" height="32.7" fill="#2678a9" style="cursor:pointer"><title>lb, 1930s: 12,122.0000 hits · open workbook examples · 0 workbook examples</title></rect></a>
+<a href="../examples.html?word=gammal&amp;resource=lb&amp;decade=1940" target="_blank" rel="noopener noreferrer"><rect x="631.4" y="328.0" width="12.9" height="12.0" fill="#2678a9" style="cursor:pointer"><title>lb, 1940s: 4,458.0000 hits · open workbook examples · 0 workbook examples</title></rect></a>
+<text x="637.9" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1940</text>
+<a href="../examples.html?word=gammal&amp;resource=lb&amp;decade=1950" target="_blank" rel="noopener noreferrer"><rect x="648.4" y="337.0" width="12.9" height="3.0" fill="#2678a9" style="cursor:pointer"><title>lb, 1950s: 1,120.0000 hits · open workbook examples · 0 workbook examples</title></rect></a>
+<a href="../examples.html?word=gammal&amp;resource=lb&amp;decade=1960" target="_blank" rel="noopener noreferrer"><rect x="665.5" y="338.4" width="12.9" height="1.6" fill="#2678a9" style="cursor:pointer"><title>lb, 1960s: 595.0000 hits · open workbook examples · 0 workbook examples</title></rect></a>
+<text x="671.9" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1960</text>
+<a href="../examples.html?word=gammal&amp;resource=lb&amp;decade=1970" target="_blank" rel="noopener noreferrer"><rect x="682.5" y="339.9" width="12.9" height="0.1" fill="#2678a9" style="cursor:pointer"><title>lb, 1970s: 30.0000 hits · open workbook examples · 0 workbook examples</title></rect></a>
+<a href="../examples.html?word=gammal&amp;resource=lb&amp;decade=1980" target="_blank" rel="noopener noreferrer"><rect x="699.5" y="339.6" width="12.9" height="0.4" fill="#2678a9" style="cursor:pointer"><title>lb, 1980s: 159.0000 hits · open workbook examples · 0 workbook examples</title></rect></a>
+<text x="705.9" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1980</text>
+<a href="../examples.html?word=gammal&amp;resource=lb&amp;decade=1990" target="_blank" rel="noopener noreferrer"><rect x="716.5" y="339.6" width="12.9" height="0.4" fill="#2678a9" style="cursor:pointer"><title>lb, 1990s: 163.0000 hits · open workbook examples · 0 workbook examples</title></rect></a>
+<a href="../examples.html?word=gammal&amp;resource=lb&amp;decade=2000" target="_blank" rel="noopener noreferrer"><rect x="733.5" y="339.8" width="12.9" height="0.2" fill="#2678a9" style="cursor:pointer"><title>lb, 2000s: 80.0000 hits · open workbook examples · 0 workbook examples</title></rect></a>
+<text x="740.0" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">2000</text>
+<a href="../examples.html?word=gammal&amp;resource=lb&amp;decade=2010" target="_blank" rel="noopener noreferrer"><rect x="750.5" y="338.0" width="12.9" height="2.0" fill="#2678a9" style="cursor:pointer"><title>lb, 2010s: 738.0000 hits · open workbook examples · 0 workbook examples</title></rect></a>
+<a href="../examples.html?word=gammal&amp;resource=lb&amp;decade=2020" target="_blank" rel="noopener noreferrer"><rect x="767.5" y="339.1" width="12.9" height="0.9" fill="#2678a9" style="cursor:pointer"><title>lb, 2020s: 342.0000 hits · open workbook examples · 0 workbook examples</title></rect></a>
+<text x="774.0" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">2020</text>
+<line x1="872.5" y1="340.0" x2="1570.0" y2="340.0" stroke="#e1e7eb" />
+<text x="864.5" y="344.0" font-size="11" text-anchor="end" fill="#657381" font-weight="normal">0</text>
+<line x1="872.5" y1="245.0" x2="1570.0" y2="245.0" stroke="#e1e7eb" />
+<text x="864.5" y="249.0" font-size="11" text-anchor="end" fill="#657381" font-weight="normal">1.04e+03</text>
+<line x1="872.5" y1="150.0" x2="1570.0" y2="150.0" stroke="#e1e7eb" />
+<text x="864.5" y="154.0" font-size="11" text-anchor="end" fill="#657381" font-weight="normal">2.07e+03</text>
+<a href="../examples.html?word=gammal&amp;resource=lb&amp;decade=1620" target="_blank" rel="noopener noreferrer"><rect x="874.5" y="302.3" width="12.9" height="37.7" fill="#2678a9" style="cursor:pointer"><title>lb, 1620s: 411.2519 hits/million · open workbook examples · 0 workbook examples</title></rect></a>
+<text x="881.0" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1620</text>
+<a href="../examples.html?word=gammal&amp;resource=lb&amp;decade=1640" target="_blank" rel="noopener noreferrer"><rect x="908.6" y="324.8" width="12.9" height="15.2" fill="#2678a9" style="cursor:pointer"><title>lb, 1640s: 165.9441 hits/million · open workbook examples · 0 workbook examples</title></rect></a>
+<text x="915.0" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1640</text>
+<a href="../examples.html?word=gammal&amp;resource=lb&amp;decade=1700" target="_blank" rel="noopener noreferrer"><rect x="1010.6" y="297.1" width="12.9" height="42.9" fill="#2678a9" style="cursor:pointer"><title>lb, 1700s: 468.0783 hits/million · open workbook examples · 0 workbook examples</title></rect></a>
+<text x="1017.1" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1700</text>
+<a href="../examples.html?word=gammal&amp;resource=lb&amp;decade=1710" target="_blank" rel="noopener noreferrer"><rect x="1027.7" y="293.3" width="12.9" height="46.7" fill="#2678a9" style="cursor:pointer"><title>lb, 1710s: 510.5277 hits/million · open workbook examples · 0 workbook examples</title></rect></a>
+<a href="../examples.html?word=gammal&amp;resource=lb&amp;decade=1730" target="_blank" rel="noopener noreferrer"><rect x="1061.7" y="318.1" width="12.9" height="21.9" fill="#2678a9" style="cursor:pointer"><title>lb, 1730s: 239.6573 hits/million · open workbook examples · 0 workbook examples</title></rect></a>
+<a href="../examples.html?word=gammal&amp;resource=lb&amp;decade=1740" target="_blank" rel="noopener noreferrer"><rect x="1078.7" y="261.1" width="12.9" height="78.9" fill="#2678a9" style="cursor:pointer"><title>lb, 1740s: 862.0508 hits/million · open workbook examples · 0 workbook examples</title></rect></a>
+<text x="1085.2" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1740</text>
+<a href="../examples.html?word=gammal&amp;resource=lb&amp;decade=1750" target="_blank" rel="noopener noreferrer"><rect x="1095.7" y="334.2" width="12.9" height="5.8" fill="#2678a9" style="cursor:pointer"><title>lb, 1750s: 63.8706 hits/million · open workbook examples · 0 workbook examples</title></rect></a>
+<a href="../examples.html?word=gammal&amp;resource=lb&amp;decade=1760" target="_blank" rel="noopener noreferrer"><rect x="1112.7" y="291.3" width="12.9" height="48.7" fill="#2678a9" style="cursor:pointer"><title>lb, 1760s: 532.3069 hits/million · open workbook examples · 0 workbook examples</title></rect></a>
+<text x="1119.2" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1760</text>
+<a href="../examples.html?word=gammal&amp;resource=lb&amp;decade=1770" target="_blank" rel="noopener noreferrer"><rect x="1129.7" y="309.9" width="12.9" height="30.1" fill="#2678a9" style="cursor:pointer"><title>lb, 1770s: 329.0085 hits/million · open workbook examples · 0 workbook examples</title></rect></a>
+<a href="../examples.html?word=gammal&amp;resource=lb&amp;decade=1780" target="_blank" rel="noopener noreferrer"><rect x="1146.7" y="308.0" width="12.9" height="32.0" fill="#2678a9" style="cursor:pointer"><title>lb, 1780s: 349.6432 hits/million · open workbook examples · 0 workbook examples</title></rect></a>
+<text x="1153.2" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1780</text>
+<a href="../examples.html?word=gammal&amp;resource=lb&amp;decade=1790" target="_blank" rel="noopener noreferrer"><rect x="1163.7" y="298.2" width="12.9" height="41.8" fill="#2678a9" style="cursor:pointer"><title>lb, 1790s: 456.1714 hits/million · open workbook examples · 0 workbook examples</title></rect></a>
+<a href="../examples.html?word=gammal&amp;resource=lb&amp;decade=1800" target="_blank" rel="noopener noreferrer"><rect x="1180.8" y="287.9" width="12.9" height="52.1" fill="#2678a9" style="cursor:pointer"><title>lb, 1800s: 568.5658 hits/million · open workbook examples · 0 workbook examples</title></rect></a>
+<text x="1187.2" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1800</text>
+<a href="../examples.html?word=gammal&amp;resource=lb&amp;decade=1810" target="_blank" rel="noopener noreferrer"><rect x="1197.8" y="277.9" width="12.9" height="62.1" fill="#2678a9" style="cursor:pointer"><title>lb, 1810s: 678.4028 hits/million · open workbook examples · 0 workbook examples</title></rect></a>
+<a href="../examples.html?word=gammal&amp;resource=lb&amp;decade=1820" target="_blank" rel="noopener noreferrer"><rect x="1214.8" y="289.4" width="12.9" height="50.6" fill="#2678a9" style="cursor:pointer"><title>lb, 1820s: 552.0900 hits/million · open workbook examples · 0 workbook examples</title></rect></a>
+<text x="1221.2" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1820</text>
+<a href="../examples.html?word=gammal&amp;resource=lb&amp;decade=1830" target="_blank" rel="noopener noreferrer"><rect x="1231.8" y="262.2" width="12.9" height="77.8" fill="#2678a9" style="cursor:pointer"><title>lb, 1830s: 850.0108 hits/million · open workbook examples · 0 workbook examples</title></rect></a>
+<a href="../examples.html?word=gammal&amp;resource=lb&amp;decade=1840" target="_blank" rel="noopener noreferrer"><rect x="1248.8" y="254.0" width="12.9" height="86.0" fill="#2678a9" style="cursor:pointer"><title>lb, 1840s: 939.2998 hits/million · open workbook examples · 0 workbook examples</title></rect></a>
+<text x="1255.3" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1840</text>
+<a href="../examples.html?word=gammal&amp;resource=lb&amp;decade=1850" target="_blank" rel="noopener noreferrer"><rect x="1265.8" y="240.9" width="12.9" height="99.1" fill="#2678a9" style="cursor:pointer"><title>lb, 1850s: 1,081.9445 hits/million · open workbook examples · 0 workbook examples</title></rect></a>
+<a href="../examples.html?word=gammal&amp;resource=lb&amp;decade=1860" target="_blank" rel="noopener noreferrer"><rect x="1282.8" y="242.4" width="12.9" height="97.6" fill="#2678a9" style="cursor:pointer"><title>lb, 1860s: 1,066.2059 hits/million · open workbook examples · 0 workbook examples</title></rect></a>
+<text x="1289.3" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1860</text>
+<a href="../examples.html?word=gammal&amp;resource=lb&amp;decade=1870" target="_blank" rel="noopener noreferrer"><rect x="1299.8" y="231.3" width="12.9" height="108.7" fill="#2678a9" style="cursor:pointer"><title>lb, 1870s: 1,186.8094 hits/million · open workbook examples · 0 workbook examples</title></rect></a>
+<a href="../examples.html?word=gammal&amp;resource=lb&amp;decade=1880" target="_blank" rel="noopener noreferrer"><rect x="1316.9" y="232.5" width="12.9" height="107.5" fill="#2678a9" style="cursor:pointer"><title>lb, 1880s: 1,174.0356 hits/million · open workbook examples · 0 workbook examples</title></rect></a>
+<text x="1323.3" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1880</text>
+<a href="../examples.html?word=gammal&amp;resource=lb&amp;decade=1890" target="_blank" rel="noopener noreferrer"><rect x="1333.9" y="236.2" width="12.9" height="103.8" fill="#2678a9" style="cursor:pointer"><title>lb, 1890s: 1,133.0245 hits/million · open workbook examples · 0 workbook examples</title></rect></a>
+<a href="../examples.html?word=gammal&amp;resource=lb&amp;decade=1900" target="_blank" rel="noopener noreferrer"><rect x="1350.9" y="249.2" width="12.9" height="90.8" fill="#2678a9" style="cursor:pointer"><title>lb, 1900s: 991.7862 hits/million · open workbook examples · 0 workbook examples</title></rect></a>
+<text x="1357.3" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1900</text>
+<a href="../examples.html?word=gammal&amp;resource=lb&amp;decade=1910" target="_blank" rel="noopener noreferrer"><rect x="1367.9" y="252.1" width="12.9" height="87.9" fill="#2678a9" style="cursor:pointer"><title>lb, 1910s: 960.3750 hits/million · open workbook examples · 0 workbook examples</title></rect></a>
+<a href="../examples.html?word=gammal&amp;resource=lb&amp;decade=1920" target="_blank" rel="noopener noreferrer"><rect x="1384.9" y="251.7" width="12.9" height="88.3" fill="#2678a9" style="cursor:pointer"><title>lb, 1920s: 964.5265 hits/million · open workbook examples · 0 workbook examples</title></rect></a>
+<text x="1391.4" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1920</text>
+<a href="../examples.html?word=gammal&amp;resource=lb&amp;decade=1930" target="_blank" rel="noopener noreferrer"><rect x="1401.9" y="271.6" width="12.9" height="68.4" fill="#2678a9" style="cursor:pointer"><title>lb, 1930s: 746.6991 hits/million · open workbook examples · 0 workbook examples</title></rect></a>
+<a href="../examples.html?word=gammal&amp;resource=lb&amp;decade=1940" target="_blank" rel="noopener noreferrer"><rect x="1418.9" y="249.3" width="12.9" height="90.7" fill="#2678a9" style="cursor:pointer"><title>lb, 1940s: 989.9728 hits/million · open workbook examples · 0 workbook examples</title></rect></a>
+<text x="1425.4" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1940</text>
+<a href="../examples.html?word=gammal&amp;resource=lb&amp;decade=1950" target="_blank" rel="noopener noreferrer"><rect x="1435.9" y="201.0" width="12.9" height="139.0" fill="#2678a9" style="cursor:pointer"><title>lb, 1950s: 1,518.3373 hits/million · open workbook examples · 0 workbook examples</title></rect></a>
+<a href="../examples.html?word=gammal&amp;resource=lb&amp;decade=1960" target="_blank" rel="noopener noreferrer"><rect x="1453.0" y="272.2" width="12.9" height="67.8" fill="#2678a9" style="cursor:pointer"><title>lb, 1960s: 740.9243 hits/million · open workbook examples · 0 workbook examples</title></rect></a>
+<text x="1459.4" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1960</text>
+<a href="../examples.html?word=gammal&amp;resource=lb&amp;decade=1970" target="_blank" rel="noopener noreferrer"><rect x="1470.0" y="309.0" width="12.9" height="31.0" fill="#2678a9" style="cursor:pointer"><title>lb, 1970s: 338.9907 hits/million · open workbook examples · 0 workbook examples</title></rect></a>
+<a href="../examples.html?word=gammal&amp;resource=lb&amp;decade=1980" target="_blank" rel="noopener noreferrer"><rect x="1487.0" y="307.0" width="12.9" height="33.0" fill="#2678a9" style="cursor:pointer"><title>lb, 1980s: 359.9606 hits/million · open workbook examples · 0 workbook examples</title></rect></a>
+<text x="1493.4" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1980</text>
+<a href="../examples.html?word=gammal&amp;resource=lb&amp;decade=1990" target="_blank" rel="noopener noreferrer"><rect x="1504.0" y="288.4" width="12.9" height="51.6" fill="#2678a9" style="cursor:pointer"><title>lb, 1990s: 563.0183 hits/million · open workbook examples · 0 workbook examples</title></rect></a>
+<a href="../examples.html?word=gammal&amp;resource=lb&amp;decade=2000" target="_blank" rel="noopener noreferrer"><rect x="1521.0" y="270.2" width="12.9" height="69.8" fill="#2678a9" style="cursor:pointer"><title>lb, 2000s: 762.3912 hits/million · open workbook examples · 0 workbook examples</title></rect></a>
+<text x="1527.5" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">2000</text>
+<a href="../examples.html?word=gammal&amp;resource=lb&amp;decade=2010" target="_blank" rel="noopener noreferrer"><rect x="1538.0" y="150.0" width="12.9" height="190.0" fill="#2678a9" style="cursor:pointer"><title>lb, 2010s: 2,074.9163 hits/million · open workbook examples · 0 workbook examples</title></rect></a>
+<a href="../examples.html?word=gammal&amp;resource=lb&amp;decade=2020" target="_blank" rel="noopener noreferrer"><rect x="1555.0" y="274.2" width="12.9" height="65.8" fill="#2678a9" style="cursor:pointer"><title>lb, 2020s: 718.7532 hits/million · open workbook examples · 0 workbook examples</title></rect></a>
+<text x="1561.5" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">2020</text>
+<text x="85.0" y="388.0" font-size="16" text-anchor="start" fill="#d46a24" font-weight="bold">tkr · 1860–1979</text>
+<line x1="85.0" y1="590.0" x2="782.5" y2="590.0" stroke="#e1e7eb" />
+<text x="77.0" y="594.0" font-size="11" text-anchor="end" fill="#657381" font-weight="normal">0</text>
+<line x1="85.0" y1="495.0" x2="782.5" y2="495.0" stroke="#e1e7eb" />
+<text x="77.0" y="499.0" font-size="11" text-anchor="end" fill="#657381" font-weight="normal">18k</text>
+<line x1="85.0" y1="400.0" x2="782.5" y2="400.0" stroke="#e1e7eb" />
+<text x="77.0" y="404.0" font-size="11" text-anchor="end" fill="#657381" font-weight="normal">36k</text>
+<a href="../examples.html?word=gammal&amp;resource=tkr&amp;decade=1860" target="_blank" rel="noopener noreferrer"><rect x="92.0" y="566.2" width="44.2" height="23.8" fill="#d46a24" style="cursor:pointer"><title>tkr, 1860s: 4,540.0000 hits · open workbook examples · 0 workbook examples</title></rect></a>
+<text x="114.1" y="607.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1860</text>
+<a href="../examples.html?word=gammal&amp;resource=tkr&amp;decade=1870" target="_blank" rel="noopener noreferrer"><rect x="150.1" y="513.3" width="44.2" height="76.7" fill="#d46a24" style="cursor:pointer"><title>tkr, 1870s: 14,610.0000 hits · open workbook examples · 0 workbook examples</title></rect></a>
+<text x="172.2" y="607.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1870</text>
+<a href="../examples.html?word=gammal&amp;resource=tkr&amp;decade=1880" target="_blank" rel="noopener noreferrer"><rect x="208.2" y="520.0" width="44.2" height="70.0" fill="#d46a24" style="cursor:pointer"><title>tkr, 1880s: 13,330.0000 hits · open workbook examples · 0 workbook examples</title></rect></a>
+<text x="230.3" y="607.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1880</text>
+<a href="../examples.html?word=gammal&amp;resource=tkr&amp;decade=1890" target="_blank" rel="noopener noreferrer"><rect x="266.4" y="512.6" width="44.2" height="77.4" fill="#d46a24" style="cursor:pointer"><title>tkr, 1890s: 14,740.0000 hits · open workbook examples · 0 workbook examples</title></rect></a>
+<text x="288.4" y="607.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1890</text>
+<a href="../examples.html?word=gammal&amp;resource=tkr&amp;decade=1900" target="_blank" rel="noopener noreferrer"><rect x="324.5" y="461.1" width="44.2" height="128.9" fill="#d46a24" style="cursor:pointer"><title>tkr, 1900s: 24,568.0000 hits · open workbook examples · 0 workbook examples</title></rect></a>
+<text x="346.6" y="607.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1900</text>
+<a href="../examples.html?word=gammal&amp;resource=tkr&amp;decade=1910" target="_blank" rel="noopener noreferrer"><rect x="382.6" y="400.0" width="44.2" height="190.0" fill="#d46a24" style="cursor:pointer"><title>tkr, 1910s: 36,200.0000 hits · open workbook examples · 0 workbook examples</title></rect></a>
+<text x="404.7" y="607.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1910</text>
+<a href="../examples.html?word=gammal&amp;resource=tkr&amp;decade=1920" target="_blank" rel="noopener noreferrer"><rect x="440.7" y="406.3" width="44.2" height="183.7" fill="#d46a24" style="cursor:pointer"><title>tkr, 1920s: 34,991.0000 hits · open workbook examples · 0 workbook examples</title></rect></a>
+<text x="462.8" y="607.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1920</text>
+<a href="../examples.html?word=gammal&amp;resource=tkr&amp;decade=1930" target="_blank" rel="noopener noreferrer"><rect x="498.9" y="419.9" width="44.2" height="170.1" fill="#d46a24" style="cursor:pointer"><title>tkr, 1930s: 32,416.0000 hits · open workbook examples · 0 workbook examples</title></rect></a>
+<text x="520.9" y="607.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1930</text>
+<a href="../examples.html?word=gammal&amp;resource=tkr&amp;decade=1940" target="_blank" rel="noopener noreferrer"><rect x="557.0" y="438.0" width="44.2" height="152.0" fill="#d46a24" style="cursor:pointer"><title>tkr, 1940s: 28,957.0000 hits · open workbook examples · 0 workbook examples</title></rect></a>
+<text x="579.1" y="607.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1940</text>
+<a href="../examples.html?word=gammal&amp;resource=tkr&amp;decade=1950" target="_blank" rel="noopener noreferrer"><rect x="615.1" y="425.2" width="44.2" height="164.8" fill="#d46a24" style="cursor:pointer"><title>tkr, 1950s: 31,395.0000 hits · open workbook examples · 0 workbook examples</title></rect></a>
+<text x="637.2" y="607.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1950</text>
+<a href="../examples.html?word=gammal&amp;resource=tkr&amp;decade=1960" target="_blank" rel="noopener noreferrer"><rect x="673.2" y="412.7" width="44.2" height="177.3" fill="#d46a24" style="cursor:pointer"><title>tkr, 1960s: 33,775.0000 hits · open workbook examples · 0 workbook examples</title></rect></a>
+<text x="695.3" y="607.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1960</text>
+<a href="../examples.html?word=gammal&amp;resource=tkr&amp;decade=1970" target="_blank" rel="noopener noreferrer"><rect x="731.3" y="559.1" width="44.2" height="30.9" fill="#d46a24" style="cursor:pointer"><title>tkr, 1970s: 5,881.0000 hits · open workbook examples · 0 workbook examples</title></rect></a>
+<text x="753.4" y="607.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1970</text>
+<line x1="872.5" y1="590.0" x2="1570.0" y2="590.0" stroke="#e1e7eb" />
+<text x="864.5" y="594.0" font-size="11" text-anchor="end" fill="#657381" font-weight="normal">0</text>
+<line x1="872.5" y1="495.0" x2="1570.0" y2="495.0" stroke="#e1e7eb" />
+<text x="864.5" y="499.0" font-size="11" text-anchor="end" fill="#657381" font-weight="normal">171</text>
+<line x1="872.5" y1="400.0" x2="1570.0" y2="400.0" stroke="#e1e7eb" />
+<text x="864.5" y="404.0" font-size="11" text-anchor="end" fill="#657381" font-weight="normal">341</text>
+<a href="../examples.html?word=gammal&amp;resource=tkr&amp;decade=1860" target="_blank" rel="noopener noreferrer"><rect x="879.5" y="413.3" width="44.2" height="176.7" fill="#d46a24" style="cursor:pointer"><title>tkr, 1860s: 317.4502 hits/million · open workbook examples · 0 workbook examples</title></rect></a>
+<text x="901.6" y="607.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1860</text>
+<a href="../examples.html?word=gammal&amp;resource=tkr&amp;decade=1870" target="_blank" rel="noopener noreferrer"><rect x="937.6" y="422.9" width="44.2" height="167.1" fill="#d46a24" style="cursor:pointer"><title>tkr, 1870s: 300.2276 hits/million · open workbook examples · 0 workbook examples</title></rect></a>
+<text x="959.7" y="607.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1870</text>
+<a href="../examples.html?word=gammal&amp;resource=tkr&amp;decade=1880" target="_blank" rel="noopener noreferrer"><rect x="995.7" y="426.2" width="44.2" height="163.8" fill="#d46a24" style="cursor:pointer"><title>tkr, 1880s: 294.2549 hits/million · open workbook examples · 0 workbook examples</title></rect></a>
+<text x="1017.8" y="607.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1880</text>
+<a href="../examples.html?word=gammal&amp;resource=tkr&amp;decade=1890" target="_blank" rel="noopener noreferrer"><rect x="1053.8" y="440.8" width="44.2" height="149.2" fill="#d46a24" style="cursor:pointer"><title>tkr, 1890s: 268.0463 hits/million · open workbook examples · 0 workbook examples</title></rect></a>
+<text x="1075.9" y="607.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1890</text>
+<a href="../examples.html?word=gammal&amp;resource=tkr&amp;decade=1900" target="_blank" rel="noopener noreferrer"><rect x="1112.0" y="440.8" width="44.2" height="149.2" fill="#d46a24" style="cursor:pointer"><title>tkr, 1900s: 268.1723 hits/million · open workbook examples · 0 workbook examples</title></rect></a>
+<text x="1134.1" y="607.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1900</text>
+<a href="../examples.html?word=gammal&amp;resource=tkr&amp;decade=1910" target="_blank" rel="noopener noreferrer"><rect x="1170.1" y="452.4" width="44.2" height="137.6" fill="#d46a24" style="cursor:pointer"><title>tkr, 1910s: 247.1783 hits/million · open workbook examples · 0 workbook examples</title></rect></a>
+<text x="1192.2" y="607.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1910</text>
+<a href="../examples.html?word=gammal&amp;resource=tkr&amp;decade=1920" target="_blank" rel="noopener noreferrer"><rect x="1228.2" y="439.2" width="44.2" height="150.8" fill="#d46a24" style="cursor:pointer"><title>tkr, 1920s: 271.0534 hits/million · open workbook examples · 0 workbook examples</title></rect></a>
+<text x="1250.3" y="607.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1920</text>
+<a href="../examples.html?word=gammal&amp;resource=tkr&amp;decade=1930" target="_blank" rel="noopener noreferrer"><rect x="1286.3" y="451.3" width="44.2" height="138.7" fill="#d46a24" style="cursor:pointer"><title>tkr, 1930s: 249.1754 hits/million · open workbook examples · 0 workbook examples</title></rect></a>
+<text x="1308.4" y="607.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1930</text>
+<a href="../examples.html?word=gammal&amp;resource=tkr&amp;decade=1940" target="_blank" rel="noopener noreferrer"><rect x="1344.5" y="469.0" width="44.2" height="121.0" fill="#d46a24" style="cursor:pointer"><title>tkr, 1940s: 217.3464 hits/million · open workbook examples · 0 workbook examples</title></rect></a>
+<text x="1366.6" y="607.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1940</text>
+<a href="../examples.html?word=gammal&amp;resource=tkr&amp;decade=1950" target="_blank" rel="noopener noreferrer"><rect x="1402.6" y="460.5" width="44.2" height="129.5" fill="#d46a24" style="cursor:pointer"><title>tkr, 1950s: 232.6579 hits/million · open workbook examples · 0 workbook examples</title></rect></a>
+<text x="1424.7" y="607.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1950</text>
+<a href="../examples.html?word=gammal&amp;resource=tkr&amp;decade=1960" target="_blank" rel="noopener noreferrer"><rect x="1460.7" y="461.2" width="44.2" height="128.8" fill="#d46a24" style="cursor:pointer"><title>tkr, 1960s: 231.4385 hits/million · open workbook examples · 0 workbook examples</title></rect></a>
+<text x="1482.8" y="607.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1960</text>
+<a href="../examples.html?word=gammal&amp;resource=tkr&amp;decade=1970" target="_blank" rel="noopener noreferrer"><rect x="1518.8" y="400.0" width="44.2" height="190.0" fill="#d46a24" style="cursor:pointer"><title>tkr, 1970s: 341.4121 hits/million · open workbook examples · 0 workbook examples</title></rect></a>
+<text x="1540.9" y="607.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1970</text>
+<text x="85.0" y="638.0" font-size="16" text-anchor="start" fill="#2e8964" font-weight="bold">kubhist2 · 1870–1909</text>
+<line x1="85.0" y1="840.0" x2="782.5" y2="840.0" stroke="#e1e7eb" />
+<text x="77.0" y="844.0" font-size="11" text-anchor="end" fill="#657381" font-weight="normal">0</text>
+<line x1="85.0" y1="745.0" x2="782.5" y2="745.0" stroke="#e1e7eb" />
+<text x="77.0" y="749.0" font-size="11" text-anchor="end" fill="#657381" font-weight="normal">5e+02k</text>
+<line x1="85.0" y1="650.0" x2="782.5" y2="650.0" stroke="#e1e7eb" />
+<text x="77.0" y="654.0" font-size="11" text-anchor="end" fill="#657381" font-weight="normal">1e+03k</text>
+<a href="../examples.html?word=gammal&amp;resource=kubhist2&amp;decade=1870" target="_blank" rel="noopener noreferrer"><rect x="105.9" y="829.3" width="132.5" height="10.7" fill="#2e8964" style="cursor:pointer"><title>kubhist2, 1870s: 56,234.0000 hits · open workbook examples · 27,153 workbook examples</title></rect></a>
+<text x="172.2" y="857.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1870</text>
+<a href="../examples.html?word=gammal&amp;resource=kubhist2&amp;decade=1880" target="_blank" rel="noopener noreferrer"><rect x="280.3" y="650.0" width="132.5" height="190.0" fill="#2e8964" style="cursor:pointer"><title>kubhist2, 1880s: 998,280.0000 hits · open workbook examples · 30,275 workbook examples</title></rect></a>
+<text x="346.6" y="857.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1880</text>
+<a href="../examples.html?word=gammal&amp;resource=kubhist2&amp;decade=1890" target="_blank" rel="noopener noreferrer"><rect x="454.7" y="700.6" width="132.5" height="139.4" fill="#2e8964" style="cursor:pointer"><title>kubhist2, 1890s: 732,297.0000 hits · open workbook examples · 0 workbook examples</title></rect></a>
+<text x="520.9" y="857.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1890</text>
+<a href="../examples.html?word=gammal&amp;resource=kubhist2&amp;decade=1900" target="_blank" rel="noopener noreferrer"><rect x="629.1" y="829.0" width="132.5" height="11.0" fill="#2e8964" style="cursor:pointer"><title>kubhist2, 1900s: 57,599.0000 hits · open workbook examples · 0 workbook examples</title></rect></a>
+<text x="695.3" y="857.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1900</text>
+<line x1="872.5" y1="840.0" x2="1570.0" y2="840.0" stroke="#e1e7eb" />
+<text x="864.5" y="844.0" font-size="11" text-anchor="end" fill="#657381" font-weight="normal">0</text>
+<line x1="872.5" y1="745.0" x2="1570.0" y2="745.0" stroke="#e1e7eb" />
+<text x="864.5" y="749.0" font-size="11" text-anchor="end" fill="#657381" font-weight="normal">370</text>
+<line x1="872.5" y1="650.0" x2="1570.0" y2="650.0" stroke="#e1e7eb" />
+<text x="864.5" y="654.0" font-size="11" text-anchor="end" fill="#657381" font-weight="normal">741</text>
+<a href="../examples.html?word=gammal&amp;resource=kubhist2&amp;decade=1870" target="_blank" rel="noopener noreferrer"><rect x="893.4" y="690.9" width="132.5" height="149.1" fill="#2e8964" style="cursor:pointer"><title>kubhist2, 1870s: 581.1796 hits/million · open workbook examples · 27,153 workbook examples</title></rect></a>
+<text x="959.7" y="857.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1870</text>
+<a href="../examples.html?word=gammal&amp;resource=kubhist2&amp;decade=1880" target="_blank" rel="noopener noreferrer"><rect x="1067.8" y="663.5" width="132.5" height="176.5" fill="#2e8964" style="cursor:pointer"><title>kubhist2, 1880s: 688.3219 hits/million · open workbook examples · 30,275 workbook examples</title></rect></a>
+<text x="1134.1" y="857.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1880</text>
+<a href="../examples.html?word=gammal&amp;resource=kubhist2&amp;decade=1890" target="_blank" rel="noopener noreferrer"><rect x="1242.2" y="658.9" width="132.5" height="181.1" fill="#2e8964" style="cursor:pointer"><title>kubhist2, 1890s: 706.0853 hits/million · open workbook examples · 0 workbook examples</title></rect></a>
+<text x="1308.4" y="857.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1890</text>
+<a href="../examples.html?word=gammal&amp;resource=kubhist2&amp;decade=1900" target="_blank" rel="noopener noreferrer"><rect x="1416.6" y="650.0" width="132.5" height="190.0" fill="#2e8964" style="cursor:pointer"><title>kubhist2, 1900s: 740.7971 hits/million · open workbook examples · 0 workbook examples</title></rect></a>
+<text x="1482.8" y="857.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1900</text>
+<text x="800.0" y="929.0" font-size="13" text-anchor="middle" fill="#263747" font-weight="normal">Decade</text>
+</svg>

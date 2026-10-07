@@ -1,0 +1,219 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 940" role="img" aria-label="dotter frequency by decade and resource">
+<rect width="100%" height="100%" fill="white" />
+<style>text{font-family:Arial,Helvetica,sans-serif}</style>
+<text x="85.0" y="39.0" font-size="27" text-anchor="start" fill="#263747" font-weight="bold">dotter</text>
+<text x="85.0" y="65.0" font-size="14" text-anchor="start" fill="#5a6876" font-weight="normal">Korp API frequency · click a bar for matching workbook examples</text>
+<text x="85.0" y="99.0" font-size="17" text-anchor="start" fill="#263747" font-weight="bold">Absolute frequency · hits</text>
+<text x="872.5" y="99.0" font-size="17" text-anchor="start" fill="#263747" font-weight="bold">Relative frequency · hits per million tokens</text>
+<text x="85.0" y="138.0" font-size="16" text-anchor="start" fill="#2678a9" font-weight="bold">lb · 1620–2029</text>
+<line x1="85.0" y1="340.0" x2="782.5" y2="340.0" stroke="#e1e7eb" />
+<text x="77.0" y="344.0" font-size="11" text-anchor="end" fill="#657381" font-weight="normal">0</text>
+<line x1="85.0" y1="245.0" x2="782.5" y2="245.0" stroke="#e1e7eb" />
+<text x="77.0" y="249.0" font-size="11" text-anchor="end" fill="#657381" font-weight="normal">13k</text>
+<line x1="85.0" y1="150.0" x2="782.5" y2="150.0" stroke="#e1e7eb" />
+<text x="77.0" y="154.0" font-size="11" text-anchor="end" fill="#657381" font-weight="normal">26k</text>
+<a href="../examples.html?word=dotter&amp;resource=lb&amp;decade=1620" target="_blank" rel="noopener noreferrer"><rect x="87.0" y="340.0" width="12.9" height="0.0" fill="#2678a9" style="cursor:pointer"><title>lb, 1620s: 4.0000 hits · open workbook examples · 0 workbook examples</title></rect></a>
+<text x="93.5" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1620</text>
+<a href="../examples.html?word=dotter&amp;resource=lb&amp;decade=1640" target="_blank" rel="noopener noreferrer"><rect x="121.1" y="339.6" width="12.9" height="0.4" fill="#2678a9" style="cursor:pointer"><title>lb, 1640s: 51.0000 hits · open workbook examples · 0 workbook examples</title></rect></a>
+<text x="127.5" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1640</text>
+<text x="161.6" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1660</text>
+<text x="195.6" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1680</text>
+<a href="../examples.html?word=dotter&amp;resource=lb&amp;decade=1700" target="_blank" rel="noopener noreferrer"><rect x="223.1" y="334.4" width="12.9" height="5.6" fill="#2678a9" style="cursor:pointer"><title>lb, 1700s: 770.0000 hits · open workbook examples · 770 workbook examples</title></rect></a>
+<text x="229.6" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1700</text>
+<a href="../examples.html?word=dotter&amp;resource=lb&amp;decade=1710" target="_blank" rel="noopener noreferrer"><rect x="240.2" y="339.8" width="12.9" height="0.2" fill="#2678a9" style="cursor:pointer"><title>lb, 1710s: 22.0000 hits · open workbook examples · 22 workbook examples</title></rect></a>
+<text x="263.6" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1720</text>
+<a href="../examples.html?word=dotter&amp;resource=lb&amp;decade=1730" target="_blank" rel="noopener noreferrer"><rect x="274.2" y="340.0" width="12.9" height="0.0" fill="#2678a9" style="cursor:pointer"><title>lb, 1730s: 2.0000 hits · open workbook examples · 2 workbook examples</title></rect></a>
+<a href="../examples.html?word=dotter&amp;resource=lb&amp;decade=1740" target="_blank" rel="noopener noreferrer"><rect x="291.2" y="339.9" width="12.9" height="0.1" fill="#2678a9" style="cursor:pointer"><title>lb, 1740s: 14.0000 hits · open workbook examples · 14 workbook examples</title></rect></a>
+<text x="297.7" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1740</text>
+<a href="../examples.html?word=dotter&amp;resource=lb&amp;decade=1750" target="_blank" rel="noopener noreferrer"><rect x="308.2" y="339.9" width="12.9" height="0.1" fill="#2678a9" style="cursor:pointer"><title>lb, 1750s: 10.0000 hits · open workbook examples · 10 workbook examples</title></rect></a>
+<a href="../examples.html?word=dotter&amp;resource=lb&amp;decade=1760" target="_blank" rel="noopener noreferrer"><rect x="325.2" y="340.0" width="12.9" height="0.0" fill="#2678a9" style="cursor:pointer"><title>lb, 1760s: 1.0000 hits · open workbook examples · 1 workbook examples</title></rect></a>
+<text x="331.7" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1760</text>
+<a href="../examples.html?word=dotter&amp;resource=lb&amp;decade=1770" target="_blank" rel="noopener noreferrer"><rect x="342.2" y="340.0" width="12.9" height="0.0" fill="#2678a9" style="cursor:pointer"><title>lb, 1770s: 1.0000 hits · open workbook examples · 1 workbook examples</title></rect></a>
+<a href="../examples.html?word=dotter&amp;resource=lb&amp;decade=1780" target="_blank" rel="noopener noreferrer"><rect x="359.2" y="340.0" width="12.9" height="0.0" fill="#2678a9" style="cursor:pointer"><title>lb, 1780s: 4.0000 hits · open workbook examples · 4 workbook examples</title></rect></a>
+<text x="365.7" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1780</text>
+<a href="../examples.html?word=dotter&amp;resource=lb&amp;decade=1790" target="_blank" rel="noopener noreferrer"><rect x="376.2" y="339.5" width="12.9" height="0.5" fill="#2678a9" style="cursor:pointer"><title>lb, 1790s: 75.0000 hits · open workbook examples · 74 workbook examples</title></rect></a>
+<a href="../examples.html?word=dotter&amp;resource=lb&amp;decade=1800" target="_blank" rel="noopener noreferrer"><rect x="393.3" y="339.5" width="12.9" height="0.5" fill="#2678a9" style="cursor:pointer"><title>lb, 1800s: 64.0000 hits · open workbook examples · 64 workbook examples</title></rect></a>
+<text x="399.7" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1800</text>
+<a href="../examples.html?word=dotter&amp;resource=lb&amp;decade=1810" target="_blank" rel="noopener noreferrer"><rect x="410.3" y="338.9" width="12.9" height="1.1" fill="#2678a9" style="cursor:pointer"><title>lb, 1810s: 155.0000 hits · open workbook examples · 155 workbook examples</title></rect></a>
+<a href="../examples.html?word=dotter&amp;resource=lb&amp;decade=1820" target="_blank" rel="noopener noreferrer"><rect x="427.3" y="337.5" width="12.9" height="2.5" fill="#2678a9" style="cursor:pointer"><title>lb, 1820s: 350.0000 hits · open workbook examples · 350 workbook examples</title></rect></a>
+<text x="433.8" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1820</text>
+<a href="../examples.html?word=dotter&amp;resource=lb&amp;decade=1830" target="_blank" rel="noopener noreferrer"><rect x="444.3" y="303.6" width="12.9" height="36.4" fill="#2678a9" style="cursor:pointer"><title>lb, 1830s: 4,997.0000 hits · open workbook examples · 4,996 workbook examples</title></rect></a>
+<a href="../examples.html?word=dotter&amp;resource=lb&amp;decade=1840" target="_blank" rel="noopener noreferrer"><rect x="461.3" y="242.6" width="12.9" height="97.4" fill="#2678a9" style="cursor:pointer"><title>lb, 1840s: 13,371.0000 hits · open workbook examples · 13,369 workbook examples</title></rect></a>
+<text x="467.8" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1840</text>
+<a href="../examples.html?word=dotter&amp;resource=lb&amp;decade=1850" target="_blank" rel="noopener noreferrer"><rect x="478.3" y="279.0" width="12.9" height="61.0" fill="#2678a9" style="cursor:pointer"><title>lb, 1850s: 8,381.0000 hits · open workbook examples · 8,380 workbook examples</title></rect></a>
+<a href="../examples.html?word=dotter&amp;resource=lb&amp;decade=1860" target="_blank" rel="noopener noreferrer"><rect x="495.3" y="256.9" width="12.9" height="83.1" fill="#2678a9" style="cursor:pointer"><title>lb, 1860s: 11,409.0000 hits · open workbook examples · 11,406 workbook examples</title></rect></a>
+<text x="501.8" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1860</text>
+<a href="../examples.html?word=dotter&amp;resource=lb&amp;decade=1870" target="_blank" rel="noopener noreferrer"><rect x="512.3" y="230.9" width="12.9" height="109.1" fill="#2678a9" style="cursor:pointer"><title>lb, 1870s: 14,988.0000 hits · open workbook examples · 14,984 workbook examples</title></rect></a>
+<a href="../examples.html?word=dotter&amp;resource=lb&amp;decade=1880" target="_blank" rel="noopener noreferrer"><rect x="529.4" y="220.1" width="12.9" height="119.9" fill="#2678a9" style="cursor:pointer"><title>lb, 1880s: 16,473.0000 hits · open workbook examples · 16,470 workbook examples</title></rect></a>
+<text x="535.8" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1880</text>
+<a href="../examples.html?word=dotter&amp;resource=lb&amp;decade=1890" target="_blank" rel="noopener noreferrer"><rect x="546.4" y="200.6" width="12.9" height="139.4" fill="#2678a9" style="cursor:pointer"><title>lb, 1890s: 19,148.0000 hits · open workbook examples · 19,143 workbook examples</title></rect></a>
+<a href="../examples.html?word=dotter&amp;resource=lb&amp;decade=1900" target="_blank" rel="noopener noreferrer"><rect x="563.4" y="296.8" width="12.9" height="43.2" fill="#2678a9" style="cursor:pointer"><title>lb, 1900s: 5,936.0000 hits · open workbook examples · 5,934 workbook examples</title></rect></a>
+<text x="569.8" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1900</text>
+<a href="../examples.html?word=dotter&amp;resource=lb&amp;decade=1910" target="_blank" rel="noopener noreferrer"><rect x="580.4" y="303.7" width="12.9" height="36.3" fill="#2678a9" style="cursor:pointer"><title>lb, 1910s: 4,986.0000 hits · open workbook examples · 4,986 workbook examples</title></rect></a>
+<a href="../examples.html?word=dotter&amp;resource=lb&amp;decade=1920" target="_blank" rel="noopener noreferrer"><rect x="597.4" y="150.0" width="12.9" height="190.0" fill="#2678a9" style="cursor:pointer"><title>lb, 1920s: 26,096.0000 hits · open workbook examples · 26,092 workbook examples</title></rect></a>
+<text x="603.9" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1920</text>
+<a href="../examples.html?word=dotter&amp;resource=lb&amp;decade=1930" target="_blank" rel="noopener noreferrer"><rect x="614.4" y="157.6" width="12.9" height="182.4" fill="#2678a9" style="cursor:pointer"><title>lb, 1930s: 25,057.0000 hits · open workbook examples · 25,053 workbook examples</title></rect></a>
+<a href="../examples.html?word=dotter&amp;resource=lb&amp;decade=1940" target="_blank" rel="noopener noreferrer"><rect x="631.4" y="333.1" width="12.9" height="6.9" fill="#2678a9" style="cursor:pointer"><title>lb, 1940s: 949.0000 hits · open workbook examples · 949 workbook examples</title></rect></a>
+<text x="637.9" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1940</text>
+<a href="../examples.html?word=dotter&amp;resource=lb&amp;decade=1950" target="_blank" rel="noopener noreferrer"><rect x="648.4" y="338.9" width="12.9" height="1.1" fill="#2678a9" style="cursor:pointer"><title>lb, 1950s: 148.0000 hits · open workbook examples · 148 workbook examples</title></rect></a>
+<a href="../examples.html?word=dotter&amp;resource=lb&amp;decade=1960" target="_blank" rel="noopener noreferrer"><rect x="665.5" y="339.8" width="12.9" height="0.2" fill="#2678a9" style="cursor:pointer"><title>lb, 1960s: 25.0000 hits · open workbook examples · 25 workbook examples</title></rect></a>
+<text x="671.9" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1960</text>
+<a href="../examples.html?word=dotter&amp;resource=lb&amp;decade=1970" target="_blank" rel="noopener noreferrer"><rect x="682.5" y="339.9" width="12.9" height="0.1" fill="#2678a9" style="cursor:pointer"><title>lb, 1970s: 13.0000 hits · open workbook examples · 13 workbook examples</title></rect></a>
+<a href="../examples.html?word=dotter&amp;resource=lb&amp;decade=1980" target="_blank" rel="noopener noreferrer"><rect x="699.5" y="339.9" width="12.9" height="0.1" fill="#2678a9" style="cursor:pointer"><title>lb, 1980s: 8.0000 hits · open workbook examples · 8 workbook examples</title></rect></a>
+<text x="705.9" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1980</text>
+<a href="../examples.html?word=dotter&amp;resource=lb&amp;decade=1990" target="_blank" rel="noopener noreferrer"><rect x="716.5" y="339.9" width="12.9" height="0.1" fill="#2678a9" style="cursor:pointer"><title>lb, 1990s: 13.0000 hits · open workbook examples · 13 workbook examples</title></rect></a>
+<a href="../examples.html?word=dotter&amp;resource=lb&amp;decade=2000" target="_blank" rel="noopener noreferrer"><rect x="733.5" y="340.0" width="12.9" height="0.0" fill="#2678a9" style="cursor:pointer"><title>lb, 2000s: 6.0000 hits · open workbook examples · 6 workbook examples</title></rect></a>
+<text x="740.0" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">2000</text>
+<a href="../examples.html?word=dotter&amp;resource=lb&amp;decade=2010" target="_blank" rel="noopener noreferrer"><rect x="750.5" y="339.3" width="12.9" height="0.7" fill="#2678a9" style="cursor:pointer"><title>lb, 2010s: 97.0000 hits · open workbook examples · 97 workbook examples</title></rect></a>
+<a href="../examples.html?word=dotter&amp;resource=lb&amp;decade=2020" target="_blank" rel="noopener noreferrer"><rect x="767.5" y="339.5" width="12.9" height="0.5" fill="#2678a9" style="cursor:pointer"><title>lb, 2020s: 67.0000 hits · open workbook examples · 67 workbook examples</title></rect></a>
+<text x="774.0" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">2020</text>
+<line x1="872.5" y1="340.0" x2="1570.0" y2="340.0" stroke="#e1e7eb" />
+<text x="864.5" y="344.0" font-size="11" text-anchor="end" fill="#657381" font-weight="normal">0</text>
+<line x1="872.5" y1="245.0" x2="1570.0" y2="245.0" stroke="#e1e7eb" />
+<text x="864.5" y="249.0" font-size="11" text-anchor="end" fill="#657381" font-weight="normal">772</text>
+<line x1="872.5" y1="150.0" x2="1570.0" y2="150.0" stroke="#e1e7eb" />
+<text x="864.5" y="154.0" font-size="11" text-anchor="end" fill="#657381" font-weight="normal">1.54e+03</text>
+<a href="../examples.html?word=dotter&amp;resource=lb&amp;decade=1620" target="_blank" rel="noopener noreferrer"><rect x="874.5" y="299.5" width="12.9" height="40.5" fill="#2678a9" style="cursor:pointer"><title>lb, 1620s: 329.0015 hits/million · open workbook examples · 0 workbook examples</title></rect></a>
+<text x="881.0" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1620</text>
+<a href="../examples.html?word=dotter&amp;resource=lb&amp;decade=1640" target="_blank" rel="noopener noreferrer"><rect x="908.6" y="209.8" width="12.9" height="130.2" fill="#2678a9" style="cursor:pointer"><title>lb, 1640s: 1,057.8938 hits/million · open workbook examples · 0 workbook examples</title></rect></a>
+<text x="915.0" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1640</text>
+<a href="../examples.html?word=dotter&amp;resource=lb&amp;decade=1700" target="_blank" rel="noopener noreferrer"><rect x="1010.6" y="287.2" width="12.9" height="52.8" fill="#2678a9" style="cursor:pointer"><title>lb, 1700s: 428.5616 hits/million · open workbook examples · 770 workbook examples</title></rect></a>
+<text x="1017.1" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1700</text>
+<a href="../examples.html?word=dotter&amp;resource=lb&amp;decade=1710" target="_blank" rel="noopener noreferrer"><rect x="1027.7" y="298.1" width="12.9" height="41.9" fill="#2678a9" style="cursor:pointer"><title>lb, 1710s: 340.3518 hits/million · open workbook examples · 22 workbook examples</title></rect></a>
+<a href="../examples.html?word=dotter&amp;resource=lb&amp;decade=1730" target="_blank" rel="noopener noreferrer"><rect x="1061.7" y="332.6" width="12.9" height="7.4" fill="#2678a9" style="cursor:pointer"><title>lb, 1730s: 59.9143 hits/million · open workbook examples · 2 workbook examples</title></rect></a>
+<a href="../examples.html?word=dotter&amp;resource=lb&amp;decade=1740" target="_blank" rel="noopener noreferrer"><rect x="1078.7" y="303.8" width="12.9" height="36.2" fill="#2678a9" style="cursor:pointer"><title>lb, 1740s: 294.3588 hits/million · open workbook examples · 14 workbook examples</title></rect></a>
+<text x="1085.2" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1740</text>
+<a href="../examples.html?word=dotter&amp;resource=lb&amp;decade=1750" target="_blank" rel="noopener noreferrer"><rect x="1095.7" y="338.9" width="12.9" height="1.1" fill="#2678a9" style="cursor:pointer"><title>lb, 1750s: 9.1244 hits/million · open workbook examples · 10 workbook examples</title></rect></a>
+<a href="../examples.html?word=dotter&amp;resource=lb&amp;decade=1760" target="_blank" rel="noopener noreferrer"><rect x="1112.7" y="335.0" width="12.9" height="5.0" fill="#2678a9" style="cursor:pointer"><title>lb, 1760s: 40.9467 hits/million · open workbook examples · 1 workbook examples</title></rect></a>
+<text x="1119.2" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1760</text>
+<a href="../examples.html?word=dotter&amp;resource=lb&amp;decade=1770" target="_blank" rel="noopener noreferrer"><rect x="1129.7" y="338.2" width="12.9" height="1.8" fill="#2678a9" style="cursor:pointer"><title>lb, 1770s: 14.3047 hits/million · open workbook examples · 1 workbook examples</title></rect></a>
+<a href="../examples.html?word=dotter&amp;resource=lb&amp;decade=1780" target="_blank" rel="noopener noreferrer"><rect x="1146.7" y="329.9" width="12.9" height="10.1" fill="#2678a9" style="cursor:pointer"><title>lb, 1780s: 82.2690 hits/million · open workbook examples · 4 workbook examples</title></rect></a>
+<text x="1153.2" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1780</text>
+<a href="../examples.html?word=dotter&amp;resource=lb&amp;decade=1790" target="_blank" rel="noopener noreferrer"><rect x="1163.7" y="328.3" width="12.9" height="11.7" fill="#2678a9" style="cursor:pointer"><title>lb, 1790s: 95.0357 hits/million · open workbook examples · 74 workbook examples</title></rect></a>
+<a href="../examples.html?word=dotter&amp;resource=lb&amp;decade=1800" target="_blank" rel="noopener noreferrer"><rect x="1180.8" y="329.3" width="12.9" height="10.7" fill="#2678a9" style="cursor:pointer"><title>lb, 1800s: 86.8454 hits/million · open workbook examples · 64 workbook examples</title></rect></a>
+<text x="1187.2" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1800</text>
+<a href="../examples.html?word=dotter&amp;resource=lb&amp;decade=1810" target="_blank" rel="noopener noreferrer"><rect x="1197.8" y="326.1" width="12.9" height="13.9" fill="#2678a9" style="cursor:pointer"><title>lb, 1810s: 113.1888 hits/million · open workbook examples · 155 workbook examples</title></rect></a>
+<a href="../examples.html?word=dotter&amp;resource=lb&amp;decade=1820" target="_blank" rel="noopener noreferrer"><rect x="1214.8" y="288.8" width="12.9" height="51.2" fill="#2678a9" style="cursor:pointer"><title>lb, 1820s: 415.5516 hits/million · open workbook examples · 350 workbook examples</title></rect></a>
+<text x="1221.2" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1820</text>
+<a href="../examples.html?word=dotter&amp;resource=lb&amp;decade=1830" target="_blank" rel="noopener noreferrer"><rect x="1231.8" y="287.2" width="12.9" height="52.8" fill="#2678a9" style="cursor:pointer"><title>lb, 1830s: 428.7809 hits/million · open workbook examples · 4,996 workbook examples</title></rect></a>
+<a href="../examples.html?word=dotter&amp;resource=lb&amp;decade=1840" target="_blank" rel="noopener noreferrer"><rect x="1248.8" y="286.9" width="12.9" height="53.1" fill="#2678a9" style="cursor:pointer"><title>lb, 1840s: 431.5196 hits/million · open workbook examples · 13,369 workbook examples</title></rect></a>
+<text x="1255.3" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1840</text>
+<a href="../examples.html?word=dotter&amp;resource=lb&amp;decade=1850" target="_blank" rel="noopener noreferrer"><rect x="1265.8" y="297.1" width="12.9" height="42.9" fill="#2678a9" style="cursor:pointer"><title>lb, 1850s: 348.3988 hits/million · open workbook examples · 8,380 workbook examples</title></rect></a>
+<a href="../examples.html?word=dotter&amp;resource=lb&amp;decade=1860" target="_blank" rel="noopener noreferrer"><rect x="1282.8" y="293.3" width="12.9" height="46.7" fill="#2678a9" style="cursor:pointer"><title>lb, 1860s: 379.4598 hits/million · open workbook examples · 11,406 workbook examples</title></rect></a>
+<text x="1289.3" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1860</text>
+<a href="../examples.html?word=dotter&amp;resource=lb&amp;decade=1870" target="_blank" rel="noopener noreferrer"><rect x="1299.8" y="286.7" width="12.9" height="53.3" fill="#2678a9" style="cursor:pointer"><title>lb, 1870s: 433.1118 hits/million · open workbook examples · 14,984 workbook examples</title></rect></a>
+<a href="../examples.html?word=dotter&amp;resource=lb&amp;decade=1880" target="_blank" rel="noopener noreferrer"><rect x="1316.9" y="303.5" width="12.9" height="36.5" fill="#2678a9" style="cursor:pointer"><title>lb, 1880s: 296.7469 hits/million · open workbook examples · 16,470 workbook examples</title></rect></a>
+<text x="1323.3" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1880</text>
+<a href="../examples.html?word=dotter&amp;resource=lb&amp;decade=1890" target="_blank" rel="noopener noreferrer"><rect x="1333.9" y="302.1" width="12.9" height="37.9" fill="#2678a9" style="cursor:pointer"><title>lb, 1890s: 307.7501 hits/million · open workbook examples · 19,143 workbook examples</title></rect></a>
+<a href="../examples.html?word=dotter&amp;resource=lb&amp;decade=1900" target="_blank" rel="noopener noreferrer"><rect x="1350.9" y="309.6" width="12.9" height="30.4" fill="#2678a9" style="cursor:pointer"><title>lb, 1900s: 246.7308 hits/million · open workbook examples · 5,934 workbook examples</title></rect></a>
+<text x="1357.3" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1900</text>
+<a href="../examples.html?word=dotter&amp;resource=lb&amp;decade=1910" target="_blank" rel="noopener noreferrer"><rect x="1367.9" y="310.3" width="12.9" height="29.7" fill="#2678a9" style="cursor:pointer"><title>lb, 1910s: 241.4132 hits/million · open workbook examples · 4,986 workbook examples</title></rect></a>
+<a href="../examples.html?word=dotter&amp;resource=lb&amp;decade=1920" target="_blank" rel="noopener noreferrer"><rect x="1384.9" y="176.6" width="12.9" height="163.4" fill="#2678a9" style="cursor:pointer"><title>lb, 1920s: 1,327.0567 hits/million · open workbook examples · 26,092 workbook examples</title></rect></a>
+<text x="1391.4" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1920</text>
+<a href="../examples.html?word=dotter&amp;resource=lb&amp;decade=1930" target="_blank" rel="noopener noreferrer"><rect x="1401.9" y="150.0" width="12.9" height="190.0" fill="#2678a9" style="cursor:pointer"><title>lb, 1930s: 1,543.4778 hits/million · open workbook examples · 25,053 workbook examples</title></rect></a>
+<a href="../examples.html?word=dotter&amp;resource=lb&amp;decade=1940" target="_blank" rel="noopener noreferrer"><rect x="1418.9" y="314.1" width="12.9" height="25.9" fill="#2678a9" style="cursor:pointer"><title>lb, 1940s: 210.7412 hits/million · open workbook examples · 949 workbook examples</title></rect></a>
+<text x="1425.4" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1940</text>
+<a href="../examples.html?word=dotter&amp;resource=lb&amp;decade=1950" target="_blank" rel="noopener noreferrer"><rect x="1435.9" y="315.3" width="12.9" height="24.7" fill="#2678a9" style="cursor:pointer"><title>lb, 1950s: 200.6374 hits/million · open workbook examples · 148 workbook examples</title></rect></a>
+<a href="../examples.html?word=dotter&amp;resource=lb&amp;decade=1960" target="_blank" rel="noopener noreferrer"><rect x="1453.0" y="336.2" width="12.9" height="3.8" fill="#2678a9" style="cursor:pointer"><title>lb, 1960s: 31.1313 hits/million · open workbook examples · 25 workbook examples</title></rect></a>
+<text x="1459.4" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1960</text>
+<a href="../examples.html?word=dotter&amp;resource=lb&amp;decade=1970" target="_blank" rel="noopener noreferrer"><rect x="1470.0" y="321.9" width="12.9" height="18.1" fill="#2678a9" style="cursor:pointer"><title>lb, 1970s: 146.8960 hits/million · open workbook examples · 13 workbook examples</title></rect></a>
+<a href="../examples.html?word=dotter&amp;resource=lb&amp;decade=1980" target="_blank" rel="noopener noreferrer"><rect x="1487.0" y="337.8" width="12.9" height="2.2" fill="#2678a9" style="cursor:pointer"><title>lb, 1980s: 18.1112 hits/million · open workbook examples · 8 workbook examples</title></rect></a>
+<text x="1493.4" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1980</text>
+<a href="../examples.html?word=dotter&amp;resource=lb&amp;decade=1990" target="_blank" rel="noopener noreferrer"><rect x="1504.0" y="334.5" width="12.9" height="5.5" fill="#2678a9" style="cursor:pointer"><title>lb, 1990s: 44.9033 hits/million · open workbook examples · 13 workbook examples</title></rect></a>
+<a href="../examples.html?word=dotter&amp;resource=lb&amp;decade=2000" target="_blank" rel="noopener noreferrer"><rect x="1521.0" y="333.0" width="12.9" height="7.0" fill="#2678a9" style="cursor:pointer"><title>lb, 2000s: 57.1793 hits/million · open workbook examples · 6 workbook examples</title></rect></a>
+<text x="1527.5" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">2000</text>
+<a href="../examples.html?word=dotter&amp;resource=lb&amp;decade=2010" target="_blank" rel="noopener noreferrer"><rect x="1538.0" y="306.4" width="12.9" height="33.6" fill="#2678a9" style="cursor:pointer"><title>lb, 2010s: 272.7193 hits/million · open workbook examples · 97 workbook examples</title></rect></a>
+<a href="../examples.html?word=dotter&amp;resource=lb&amp;decade=2020" target="_blank" rel="noopener noreferrer"><rect x="1555.0" y="322.7" width="12.9" height="17.3" fill="#2678a9" style="cursor:pointer"><title>lb, 2020s: 140.8084 hits/million · open workbook examples · 67 workbook examples</title></rect></a>
+<text x="1561.5" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">2020</text>
+<text x="85.0" y="388.0" font-size="16" text-anchor="start" fill="#d46a24" font-weight="bold">tkr · 1860–1979</text>
+<line x1="85.0" y1="590.0" x2="782.5" y2="590.0" stroke="#e1e7eb" />
+<text x="77.0" y="594.0" font-size="11" text-anchor="end" fill="#657381" font-weight="normal">0</text>
+<line x1="85.0" y1="495.0" x2="782.5" y2="495.0" stroke="#e1e7eb" />
+<text x="77.0" y="499.0" font-size="11" text-anchor="end" fill="#657381" font-weight="normal">699</text>
+<line x1="85.0" y1="400.0" x2="782.5" y2="400.0" stroke="#e1e7eb" />
+<text x="77.0" y="404.0" font-size="11" text-anchor="end" fill="#657381" font-weight="normal">1398</text>
+<a href="../examples.html?word=dotter&amp;resource=tkr&amp;decade=1860" target="_blank" rel="noopener noreferrer"><rect x="92.0" y="557.2" width="44.2" height="32.8" fill="#d46a24" style="cursor:pointer"><title>tkr, 1860s: 241.0000 hits · open workbook examples · 241 workbook examples</title></rect></a>
+<text x="114.1" y="607.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1860</text>
+<a href="../examples.html?word=dotter&amp;resource=tkr&amp;decade=1870" target="_blank" rel="noopener noreferrer"><rect x="150.1" y="453.1" width="44.2" height="136.9" fill="#d46a24" style="cursor:pointer"><title>tkr, 1870s: 1,007.0000 hits · open workbook examples · 1,007 workbook examples</title></rect></a>
+<text x="172.2" y="607.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1870</text>
+<a href="../examples.html?word=dotter&amp;resource=tkr&amp;decade=1880" target="_blank" rel="noopener noreferrer"><rect x="208.2" y="512.3" width="44.2" height="77.7" fill="#d46a24" style="cursor:pointer"><title>tkr, 1880s: 572.0000 hits · open workbook examples · 572 workbook examples</title></rect></a>
+<text x="230.3" y="607.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1880</text>
+<a href="../examples.html?word=dotter&amp;resource=tkr&amp;decade=1890" target="_blank" rel="noopener noreferrer"><rect x="266.4" y="482.5" width="44.2" height="107.5" fill="#d46a24" style="cursor:pointer"><title>tkr, 1890s: 791.0000 hits · open workbook examples · 791 workbook examples</title></rect></a>
+<text x="288.4" y="607.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1890</text>
+<a href="../examples.html?word=dotter&amp;resource=tkr&amp;decade=1900" target="_blank" rel="noopener noreferrer"><rect x="324.5" y="471.4" width="44.2" height="118.6" fill="#d46a24" style="cursor:pointer"><title>tkr, 1900s: 873.0000 hits · open workbook examples · 873 workbook examples</title></rect></a>
+<text x="346.6" y="607.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1900</text>
+<a href="../examples.html?word=dotter&amp;resource=tkr&amp;decade=1910" target="_blank" rel="noopener noreferrer"><rect x="382.6" y="407.6" width="44.2" height="182.4" fill="#d46a24" style="cursor:pointer"><title>tkr, 1910s: 1,342.0000 hits · open workbook examples · 1,341 workbook examples</title></rect></a>
+<text x="404.7" y="607.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1910</text>
+<a href="../examples.html?word=dotter&amp;resource=tkr&amp;decade=1920" target="_blank" rel="noopener noreferrer"><rect x="440.7" y="429.8" width="44.2" height="160.2" fill="#d46a24" style="cursor:pointer"><title>tkr, 1920s: 1,179.0000 hits · open workbook examples · 1,179 workbook examples</title></rect></a>
+<text x="462.8" y="607.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1920</text>
+<a href="../examples.html?word=dotter&amp;resource=tkr&amp;decade=1930" target="_blank" rel="noopener noreferrer"><rect x="498.9" y="400.0" width="44.2" height="190.0" fill="#d46a24" style="cursor:pointer"><title>tkr, 1930s: 1,398.0000 hits · open workbook examples · 1,398 workbook examples</title></rect></a>
+<text x="520.9" y="607.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1930</text>
+<a href="../examples.html?word=dotter&amp;resource=tkr&amp;decade=1940" target="_blank" rel="noopener noreferrer"><rect x="557.0" y="506.0" width="44.2" height="84.0" fill="#d46a24" style="cursor:pointer"><title>tkr, 1940s: 618.0000 hits · open workbook examples · 618 workbook examples</title></rect></a>
+<text x="579.1" y="607.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1940</text>
+<a href="../examples.html?word=dotter&amp;resource=tkr&amp;decade=1950" target="_blank" rel="noopener noreferrer"><rect x="615.1" y="543.8" width="44.2" height="46.2" fill="#d46a24" style="cursor:pointer"><title>tkr, 1950s: 340.0000 hits · open workbook examples · 340 workbook examples</title></rect></a>
+<text x="637.2" y="607.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1950</text>
+<a href="../examples.html?word=dotter&amp;resource=tkr&amp;decade=1960" target="_blank" rel="noopener noreferrer"><rect x="673.2" y="542.2" width="44.2" height="47.8" fill="#d46a24" style="cursor:pointer"><title>tkr, 1960s: 352.0000 hits · open workbook examples · 352 workbook examples</title></rect></a>
+<text x="695.3" y="607.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1960</text>
+<a href="../examples.html?word=dotter&amp;resource=tkr&amp;decade=1970" target="_blank" rel="noopener noreferrer"><rect x="731.3" y="584.8" width="44.2" height="5.2" fill="#d46a24" style="cursor:pointer"><title>tkr, 1970s: 38.0000 hits · open workbook examples · 38 workbook examples</title></rect></a>
+<text x="753.4" y="607.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1970</text>
+<line x1="872.5" y1="590.0" x2="1570.0" y2="590.0" stroke="#e1e7eb" />
+<text x="864.5" y="594.0" font-size="11" text-anchor="end" fill="#657381" font-weight="normal">0</text>
+<line x1="872.5" y1="495.0" x2="1570.0" y2="495.0" stroke="#e1e7eb" />
+<text x="864.5" y="499.0" font-size="11" text-anchor="end" fill="#657381" font-weight="normal">10.3</text>
+<line x1="872.5" y1="400.0" x2="1570.0" y2="400.0" stroke="#e1e7eb" />
+<text x="864.5" y="404.0" font-size="11" text-anchor="end" fill="#657381" font-weight="normal">20.7</text>
+<a href="../examples.html?word=dotter&amp;resource=tkr&amp;decade=1860" target="_blank" rel="noopener noreferrer"><rect x="879.5" y="435.3" width="44.2" height="154.7" fill="#d46a24" style="cursor:pointer"><title>tkr, 1860s: 16.8514 hits/million · open workbook examples · 241 workbook examples</title></rect></a>
+<text x="901.6" y="607.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1860</text>
+<a href="../examples.html?word=dotter&amp;resource=tkr&amp;decade=1870" target="_blank" rel="noopener noreferrer"><rect x="937.6" y="400.0" width="44.2" height="190.0" fill="#d46a24" style="cursor:pointer"><title>tkr, 1870s: 20.6933 hits/million · open workbook examples · 1,007 workbook examples</title></rect></a>
+<text x="959.7" y="607.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1870</text>
+<a href="../examples.html?word=dotter&amp;resource=tkr&amp;decade=1880" target="_blank" rel="noopener noreferrer"><rect x="995.7" y="474.1" width="44.2" height="115.9" fill="#d46a24" style="cursor:pointer"><title>tkr, 1880s: 12.6267 hits/million · open workbook examples · 572 workbook examples</title></rect></a>
+<text x="1017.8" y="607.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1880</text>
+<a href="../examples.html?word=dotter&amp;resource=tkr&amp;decade=1890" target="_blank" rel="noopener noreferrer"><rect x="1053.8" y="457.9" width="44.2" height="132.1" fill="#d46a24" style="cursor:pointer"><title>tkr, 1890s: 14.3843 hits/million · open workbook examples · 791 workbook examples</title></rect></a>
+<text x="1075.9" y="607.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1890</text>
+<a href="../examples.html?word=dotter&amp;resource=tkr&amp;decade=1900" target="_blank" rel="noopener noreferrer"><rect x="1112.0" y="502.5" width="44.2" height="87.5" fill="#d46a24" style="cursor:pointer"><title>tkr, 1900s: 9.5292 hits/million · open workbook examples · 873 workbook examples</title></rect></a>
+<text x="1134.1" y="607.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1900</text>
+<a href="../examples.html?word=dotter&amp;resource=tkr&amp;decade=1910" target="_blank" rel="noopener noreferrer"><rect x="1170.1" y="505.9" width="44.2" height="84.1" fill="#d46a24" style="cursor:pointer"><title>tkr, 1910s: 9.1634 hits/million · open workbook examples · 1,341 workbook examples</title></rect></a>
+<text x="1192.2" y="607.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1910</text>
+<a href="../examples.html?word=dotter&amp;resource=tkr&amp;decade=1920" target="_blank" rel="noopener noreferrer"><rect x="1228.2" y="506.1" width="44.2" height="83.9" fill="#d46a24" style="cursor:pointer"><title>tkr, 1920s: 9.1330 hits/million · open workbook examples · 1,179 workbook examples</title></rect></a>
+<text x="1250.3" y="607.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1920</text>
+<a href="../examples.html?word=dotter&amp;resource=tkr&amp;decade=1930" target="_blank" rel="noopener noreferrer"><rect x="1286.3" y="491.3" width="44.2" height="98.7" fill="#d46a24" style="cursor:pointer"><title>tkr, 1930s: 10.7461 hits/million · open workbook examples · 1,398 workbook examples</title></rect></a>
+<text x="1308.4" y="607.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1930</text>
+<a href="../examples.html?word=dotter&amp;resource=tkr&amp;decade=1940" target="_blank" rel="noopener noreferrer"><rect x="1344.5" y="547.4" width="44.2" height="42.6" fill="#d46a24" style="cursor:pointer"><title>tkr, 1940s: 4.6386 hits/million · open workbook examples · 618 workbook examples</title></rect></a>
+<text x="1366.6" y="607.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1940</text>
+<a href="../examples.html?word=dotter&amp;resource=tkr&amp;decade=1950" target="_blank" rel="noopener noreferrer"><rect x="1402.6" y="566.9" width="44.2" height="23.1" fill="#d46a24" style="cursor:pointer"><title>tkr, 1950s: 2.5196 hits/million · open workbook examples · 340 workbook examples</title></rect></a>
+<text x="1424.7" y="607.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1950</text>
+<a href="../examples.html?word=dotter&amp;resource=tkr&amp;decade=1960" target="_blank" rel="noopener noreferrer"><rect x="1460.7" y="567.9" width="44.2" height="22.1" fill="#d46a24" style="cursor:pointer"><title>tkr, 1960s: 2.4120 hits/million · open workbook examples · 352 workbook examples</title></rect></a>
+<text x="1482.8" y="607.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1960</text>
+<a href="../examples.html?word=dotter&amp;resource=tkr&amp;decade=1970" target="_blank" rel="noopener noreferrer"><rect x="1518.8" y="569.7" width="44.2" height="20.3" fill="#d46a24" style="cursor:pointer"><title>tkr, 1970s: 2.2060 hits/million · open workbook examples · 38 workbook examples</title></rect></a>
+<text x="1540.9" y="607.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1970</text>
+<text x="85.0" y="638.0" font-size="16" text-anchor="start" fill="#2e8964" font-weight="bold">kubhist2 · 1870–1909</text>
+<line x1="85.0" y1="840.0" x2="782.5" y2="840.0" stroke="#e1e7eb" />
+<text x="77.0" y="844.0" font-size="11" text-anchor="end" fill="#657381" font-weight="normal">0</text>
+<line x1="85.0" y1="745.0" x2="782.5" y2="745.0" stroke="#e1e7eb" />
+<text x="77.0" y="749.0" font-size="11" text-anchor="end" fill="#657381" font-weight="normal">1.2e+02k</text>
+<line x1="85.0" y1="650.0" x2="782.5" y2="650.0" stroke="#e1e7eb" />
+<text x="77.0" y="654.0" font-size="11" text-anchor="end" fill="#657381" font-weight="normal">2.4e+02k</text>
+<a href="../examples.html?word=dotter&amp;resource=kubhist2&amp;decade=1870" target="_blank" rel="noopener noreferrer"><rect x="105.9" y="830.5" width="132.5" height="9.5" fill="#2e8964" style="cursor:pointer"><title>kubhist2, 1870s: 11,849.0000 hits · open workbook examples · 5,526 workbook examples</title></rect></a>
+<text x="172.2" y="857.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1870</text>
+<a href="../examples.html?word=dotter&amp;resource=kubhist2&amp;decade=1880" target="_blank" rel="noopener noreferrer"><rect x="280.3" y="650.0" width="132.5" height="190.0" fill="#2e8964" style="cursor:pointer"><title>kubhist2, 1880s: 236,709.0000 hits · open workbook examples · 236,659 workbook examples</title></rect></a>
+<text x="346.6" y="857.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1880</text>
+<a href="../examples.html?word=dotter&amp;resource=kubhist2&amp;decade=1890" target="_blank" rel="noopener noreferrer"><rect x="454.7" y="690.3" width="132.5" height="149.7" fill="#2e8964" style="cursor:pointer"><title>kubhist2, 1890s: 186,495.0000 hits · open workbook examples · 186,439 workbook examples</title></rect></a>
+<text x="520.9" y="857.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1890</text>
+<a href="../examples.html?word=dotter&amp;resource=kubhist2&amp;decade=1900" target="_blank" rel="noopener noreferrer"><rect x="629.1" y="826.3" width="132.5" height="13.7" fill="#2e8964" style="cursor:pointer"><title>kubhist2, 1900s: 17,063.0000 hits · open workbook examples · 17,062 workbook examples</title></rect></a>
+<text x="695.3" y="857.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1900</text>
+<line x1="872.5" y1="840.0" x2="1570.0" y2="840.0" stroke="#e1e7eb" />
+<text x="864.5" y="844.0" font-size="11" text-anchor="end" fill="#657381" font-weight="normal">0</text>
+<line x1="872.5" y1="745.0" x2="1570.0" y2="745.0" stroke="#e1e7eb" />
+<text x="864.5" y="749.0" font-size="11" text-anchor="end" fill="#657381" font-weight="normal">110</text>
+<line x1="872.5" y1="650.0" x2="1570.0" y2="650.0" stroke="#e1e7eb" />
+<text x="864.5" y="654.0" font-size="11" text-anchor="end" fill="#657381" font-weight="normal">219</text>
+<a href="../examples.html?word=dotter&amp;resource=kubhist2&amp;decade=1870" target="_blank" rel="noopener noreferrer"><rect x="893.4" y="734.0" width="132.5" height="106.0" fill="#2e8964" style="cursor:pointer"><title>kubhist2, 1870s: 122.4597 hits/million · open workbook examples · 5,526 workbook examples</title></rect></a>
+<text x="959.7" y="857.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1870</text>
+<a href="../examples.html?word=dotter&amp;resource=kubhist2&amp;decade=1880" target="_blank" rel="noopener noreferrer"><rect x="1067.8" y="698.7" width="132.5" height="141.3" fill="#2e8964" style="cursor:pointer"><title>kubhist2, 1880s: 163.2127 hits/million · open workbook examples · 236,659 workbook examples</title></rect></a>
+<text x="1134.1" y="857.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1880</text>
+<a href="../examples.html?word=dotter&amp;resource=kubhist2&amp;decade=1890" target="_blank" rel="noopener noreferrer"><rect x="1242.2" y="684.3" width="132.5" height="155.7" fill="#2e8964" style="cursor:pointer"><title>kubhist2, 1890s: 179.8196 hits/million · open workbook examples · 186,439 workbook examples</title></rect></a>
+<text x="1308.4" y="857.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1890</text>
+<a href="../examples.html?word=dotter&amp;resource=kubhist2&amp;decade=1900" target="_blank" rel="noopener noreferrer"><rect x="1416.6" y="650.0" width="132.5" height="190.0" fill="#2e8964" style="cursor:pointer"><title>kubhist2, 1900s: 219.4521 hits/million · open workbook examples · 17,062 workbook examples</title></rect></a>
+<text x="1482.8" y="857.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1900</text>
+<text x="800.0" y="929.0" font-size="13" text-anchor="middle" fill="#263747" font-weight="normal">Decade</text>
+</svg>

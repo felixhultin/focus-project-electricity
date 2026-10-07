@@ -1,0 +1,193 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 940" role="img" aria-label="farmor frequency by decade and resource">
+<rect width="100%" height="100%" fill="white" />
+<style>text{font-family:Arial,Helvetica,sans-serif}</style>
+<text x="85.0" y="39.0" font-size="27" text-anchor="start" fill="#263747" font-weight="bold">farmor</text>
+<text x="85.0" y="65.0" font-size="14" text-anchor="start" fill="#5a6876" font-weight="normal">Korp API frequency · click a bar for matching workbook examples</text>
+<text x="85.0" y="99.0" font-size="17" text-anchor="start" fill="#263747" font-weight="bold">Absolute frequency · hits</text>
+<text x="872.5" y="99.0" font-size="17" text-anchor="start" fill="#263747" font-weight="bold">Relative frequency · hits per million tokens</text>
+<text x="85.0" y="138.0" font-size="16" text-anchor="start" fill="#2678a9" font-weight="bold">lb · 1620–2029</text>
+<line x1="85.0" y1="340.0" x2="782.5" y2="340.0" stroke="#e1e7eb" />
+<text x="77.0" y="344.0" font-size="11" text-anchor="end" fill="#657381" font-weight="normal">0</text>
+<line x1="85.0" y1="245.0" x2="782.5" y2="245.0" stroke="#e1e7eb" />
+<text x="77.0" y="249.0" font-size="11" text-anchor="end" fill="#657381" font-weight="normal">488</text>
+<line x1="85.0" y1="150.0" x2="782.5" y2="150.0" stroke="#e1e7eb" />
+<text x="77.0" y="154.0" font-size="11" text-anchor="end" fill="#657381" font-weight="normal">975</text>
+<text x="93.5" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1620</text>
+<text x="127.5" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1640</text>
+<text x="161.6" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1660</text>
+<text x="195.6" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1680</text>
+<text x="229.6" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1700</text>
+<text x="263.6" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1720</text>
+<a href="../examples.html?word=farmor&amp;resource=lb&amp;decade=1740" target="_blank" rel="noopener noreferrer"><rect x="291.2" y="339.8" width="12.9" height="0.2" fill="#2678a9" style="cursor:pointer"><title>lb, 1740s: 1.0000 hits · open workbook examples · 1 workbook examples</title></rect></a>
+<text x="297.7" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1740</text>
+<a href="../examples.html?word=farmor&amp;resource=lb&amp;decade=1750" target="_blank" rel="noopener noreferrer"><rect x="308.2" y="339.6" width="12.9" height="0.4" fill="#2678a9" style="cursor:pointer"><title>lb, 1750s: 2.0000 hits · open workbook examples · 2 workbook examples</title></rect></a>
+<text x="331.7" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1760</text>
+<text x="365.7" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1780</text>
+<a href="../examples.html?word=farmor&amp;resource=lb&amp;decade=1800" target="_blank" rel="noopener noreferrer"><rect x="393.3" y="339.8" width="12.9" height="0.2" fill="#2678a9" style="cursor:pointer"><title>lb, 1800s: 1.0000 hits · open workbook examples · 1 workbook examples</title></rect></a>
+<text x="399.7" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1800</text>
+<a href="../examples.html?word=farmor&amp;resource=lb&amp;decade=1810" target="_blank" rel="noopener noreferrer"><rect x="410.3" y="339.6" width="12.9" height="0.4" fill="#2678a9" style="cursor:pointer"><title>lb, 1810s: 2.0000 hits · open workbook examples · 2 workbook examples</title></rect></a>
+<text x="433.8" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1820</text>
+<a href="../examples.html?word=farmor&amp;resource=lb&amp;decade=1830" target="_blank" rel="noopener noreferrer"><rect x="444.3" y="333.4" width="12.9" height="6.6" fill="#2678a9" style="cursor:pointer"><title>lb, 1830s: 34.0000 hits · open workbook examples · 34 workbook examples</title></rect></a>
+<a href="../examples.html?word=farmor&amp;resource=lb&amp;decade=1840" target="_blank" rel="noopener noreferrer"><rect x="461.3" y="285.6" width="12.9" height="54.4" fill="#2678a9" style="cursor:pointer"><title>lb, 1840s: 279.0000 hits · open workbook examples · 279 workbook examples</title></rect></a>
+<text x="467.8" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1840</text>
+<a href="../examples.html?word=farmor&amp;resource=lb&amp;decade=1850" target="_blank" rel="noopener noreferrer"><rect x="478.3" y="254.5" width="12.9" height="85.5" fill="#2678a9" style="cursor:pointer"><title>lb, 1850s: 439.0000 hits · open workbook examples · 439 workbook examples</title></rect></a>
+<a href="../examples.html?word=farmor&amp;resource=lb&amp;decade=1860" target="_blank" rel="noopener noreferrer"><rect x="495.3" y="185.9" width="12.9" height="154.1" fill="#2678a9" style="cursor:pointer"><title>lb, 1860s: 791.0000 hits · open workbook examples · 791 workbook examples</title></rect></a>
+<text x="501.8" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1860</text>
+<a href="../examples.html?word=farmor&amp;resource=lb&amp;decade=1870" target="_blank" rel="noopener noreferrer"><rect x="512.3" y="208.7" width="12.9" height="131.3" fill="#2678a9" style="cursor:pointer"><title>lb, 1870s: 674.0000 hits · open workbook examples · 674 workbook examples</title></rect></a>
+<a href="../examples.html?word=farmor&amp;resource=lb&amp;decade=1880" target="_blank" rel="noopener noreferrer"><rect x="529.4" y="157.0" width="12.9" height="183.0" fill="#2678a9" style="cursor:pointer"><title>lb, 1880s: 939.0000 hits · open workbook examples · 939 workbook examples</title></rect></a>
+<text x="535.8" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1880</text>
+<a href="../examples.html?word=farmor&amp;resource=lb&amp;decade=1890" target="_blank" rel="noopener noreferrer"><rect x="546.4" y="150.0" width="12.9" height="190.0" fill="#2678a9" style="cursor:pointer"><title>lb, 1890s: 975.0000 hits · open workbook examples · 975 workbook examples</title></rect></a>
+<a href="../examples.html?word=farmor&amp;resource=lb&amp;decade=1900" target="_blank" rel="noopener noreferrer"><rect x="563.4" y="267.7" width="12.9" height="72.3" fill="#2678a9" style="cursor:pointer"><title>lb, 1900s: 371.0000 hits · open workbook examples · 371 workbook examples</title></rect></a>
+<text x="569.8" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1900</text>
+<a href="../examples.html?word=farmor&amp;resource=lb&amp;decade=1910" target="_blank" rel="noopener noreferrer"><rect x="580.4" y="296.0" width="12.9" height="44.0" fill="#2678a9" style="cursor:pointer"><title>lb, 1910s: 226.0000 hits · open workbook examples · 226 workbook examples</title></rect></a>
+<a href="../examples.html?word=farmor&amp;resource=lb&amp;decade=1920" target="_blank" rel="noopener noreferrer"><rect x="597.4" y="220.0" width="12.9" height="120.0" fill="#2678a9" style="cursor:pointer"><title>lb, 1920s: 616.0000 hits · open workbook examples · 616 workbook examples</title></rect></a>
+<text x="603.9" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1920</text>
+<a href="../examples.html?word=farmor&amp;resource=lb&amp;decade=1930" target="_blank" rel="noopener noreferrer"><rect x="614.4" y="247.8" width="12.9" height="92.2" fill="#2678a9" style="cursor:pointer"><title>lb, 1930s: 473.0000 hits · open workbook examples · 473 workbook examples</title></rect></a>
+<a href="../examples.html?word=farmor&amp;resource=lb&amp;decade=1940" target="_blank" rel="noopener noreferrer"><rect x="631.4" y="306.7" width="12.9" height="33.3" fill="#2678a9" style="cursor:pointer"><title>lb, 1940s: 171.0000 hits · open workbook examples · 171 workbook examples</title></rect></a>
+<text x="637.9" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1940</text>
+<a href="../examples.html?word=farmor&amp;resource=lb&amp;decade=1950" target="_blank" rel="noopener noreferrer"><rect x="648.4" y="339.0" width="12.9" height="1.0" fill="#2678a9" style="cursor:pointer"><title>lb, 1950s: 5.0000 hits · open workbook examples · 5 workbook examples</title></rect></a>
+<text x="671.9" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1960</text>
+<a href="../examples.html?word=farmor&amp;resource=lb&amp;decade=1980" target="_blank" rel="noopener noreferrer"><rect x="699.5" y="338.6" width="12.9" height="1.4" fill="#2678a9" style="cursor:pointer"><title>lb, 1980s: 7.0000 hits · open workbook examples · 7 workbook examples</title></rect></a>
+<text x="705.9" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1980</text>
+<a href="../examples.html?word=farmor&amp;resource=lb&amp;decade=1990" target="_blank" rel="noopener noreferrer"><rect x="716.5" y="339.2" width="12.9" height="0.8" fill="#2678a9" style="cursor:pointer"><title>lb, 1990s: 4.0000 hits · open workbook examples · 4 workbook examples</title></rect></a>
+<a href="../examples.html?word=farmor&amp;resource=lb&amp;decade=2000" target="_blank" rel="noopener noreferrer"><rect x="733.5" y="339.8" width="12.9" height="0.2" fill="#2678a9" style="cursor:pointer"><title>lb, 2000s: 1.0000 hits · open workbook examples · 1 workbook examples</title></rect></a>
+<text x="740.0" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">2000</text>
+<a href="../examples.html?word=farmor&amp;resource=lb&amp;decade=2010" target="_blank" rel="noopener noreferrer"><rect x="750.5" y="337.5" width="12.9" height="2.5" fill="#2678a9" style="cursor:pointer"><title>lb, 2010s: 13.0000 hits · open workbook examples · 13 workbook examples</title></rect></a>
+<a href="../examples.html?word=farmor&amp;resource=lb&amp;decade=2020" target="_blank" rel="noopener noreferrer"><rect x="767.5" y="339.8" width="12.9" height="0.2" fill="#2678a9" style="cursor:pointer"><title>lb, 2020s: 1.0000 hits · open workbook examples · 1 workbook examples</title></rect></a>
+<text x="774.0" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">2020</text>
+<line x1="872.5" y1="340.0" x2="1570.0" y2="340.0" stroke="#e1e7eb" />
+<text x="864.5" y="344.0" font-size="11" text-anchor="end" fill="#657381" font-weight="normal">0</text>
+<line x1="872.5" y1="245.0" x2="1570.0" y2="245.0" stroke="#e1e7eb" />
+<text x="864.5" y="249.0" font-size="11" text-anchor="end" fill="#657381" font-weight="normal">19</text>
+<line x1="872.5" y1="150.0" x2="1570.0" y2="150.0" stroke="#e1e7eb" />
+<text x="864.5" y="154.0" font-size="11" text-anchor="end" fill="#657381" font-weight="normal">38</text>
+<text x="881.0" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1620</text>
+<text x="915.0" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1640</text>
+<text x="1017.1" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1700</text>
+<a href="../examples.html?word=farmor&amp;resource=lb&amp;decade=1740" target="_blank" rel="noopener noreferrer"><rect x="1078.7" y="234.8" width="12.9" height="105.2" fill="#2678a9" style="cursor:pointer"><title>lb, 1740s: 21.0256 hits/million · open workbook examples · 1 workbook examples</title></rect></a>
+<text x="1085.2" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1740</text>
+<a href="../examples.html?word=farmor&amp;resource=lb&amp;decade=1750" target="_blank" rel="noopener noreferrer"><rect x="1095.7" y="330.9" width="12.9" height="9.1" fill="#2678a9" style="cursor:pointer"><title>lb, 1750s: 1.8249 hits/million · open workbook examples · 2 workbook examples</title></rect></a>
+<text x="1119.2" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1760</text>
+<text x="1153.2" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1780</text>
+<a href="../examples.html?word=farmor&amp;resource=lb&amp;decade=1800" target="_blank" rel="noopener noreferrer"><rect x="1180.8" y="333.2" width="12.9" height="6.8" fill="#2678a9" style="cursor:pointer"><title>lb, 1800s: 1.3570 hits/million · open workbook examples · 1 workbook examples</title></rect></a>
+<text x="1187.2" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1800</text>
+<a href="../examples.html?word=farmor&amp;resource=lb&amp;decade=1810" target="_blank" rel="noopener noreferrer"><rect x="1197.8" y="332.7" width="12.9" height="7.3" fill="#2678a9" style="cursor:pointer"><title>lb, 1810s: 1.4605 hits/million · open workbook examples · 2 workbook examples</title></rect></a>
+<text x="1221.2" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1820</text>
+<a href="../examples.html?word=farmor&amp;resource=lb&amp;decade=1830" target="_blank" rel="noopener noreferrer"><rect x="1231.8" y="325.4" width="12.9" height="14.6" fill="#2678a9" style="cursor:pointer"><title>lb, 1830s: 2.9175 hits/million · open workbook examples · 34 workbook examples</title></rect></a>
+<a href="../examples.html?word=farmor&amp;resource=lb&amp;decade=1840" target="_blank" rel="noopener noreferrer"><rect x="1248.8" y="294.9" width="12.9" height="45.1" fill="#2678a9" style="cursor:pointer"><title>lb, 1840s: 9.0041 hits/million · open workbook examples · 279 workbook examples</title></rect></a>
+<text x="1255.3" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1840</text>
+<a href="../examples.html?word=farmor&amp;resource=lb&amp;decade=1850" target="_blank" rel="noopener noreferrer"><rect x="1265.8" y="248.7" width="12.9" height="91.3" fill="#2678a9" style="cursor:pointer"><title>lb, 1850s: 18.2493 hits/million · open workbook examples · 439 workbook examples</title></rect></a>
+<a href="../examples.html?word=farmor&amp;resource=lb&amp;decade=1860" target="_blank" rel="noopener noreferrer"><rect x="1282.8" y="208.4" width="12.9" height="131.6" fill="#2678a9" style="cursor:pointer"><title>lb, 1860s: 26.3084 hits/million · open workbook examples · 791 workbook examples</title></rect></a>
+<text x="1289.3" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1860</text>
+<a href="../examples.html?word=farmor&amp;resource=lb&amp;decade=1870" target="_blank" rel="noopener noreferrer"><rect x="1299.8" y="242.5" width="12.9" height="97.5" fill="#2678a9" style="cursor:pointer"><title>lb, 1870s: 19.4767 hits/million · open workbook examples · 674 workbook examples</title></rect></a>
+<a href="../examples.html?word=farmor&amp;resource=lb&amp;decade=1880" target="_blank" rel="noopener noreferrer"><rect x="1316.9" y="255.4" width="12.9" height="84.6" fill="#2678a9" style="cursor:pointer"><title>lb, 1880s: 16.9153 hits/million · open workbook examples · 939 workbook examples</title></rect></a>
+<text x="1323.3" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1880</text>
+<a href="../examples.html?word=farmor&amp;resource=lb&amp;decade=1890" target="_blank" rel="noopener noreferrer"><rect x="1333.9" y="261.6" width="12.9" height="78.4" fill="#2678a9" style="cursor:pointer"><title>lb, 1890s: 15.6704 hits/million · open workbook examples · 975 workbook examples</title></rect></a>
+<a href="../examples.html?word=farmor&amp;resource=lb&amp;decade=1900" target="_blank" rel="noopener noreferrer"><rect x="1350.9" y="262.8" width="12.9" height="77.2" fill="#2678a9" style="cursor:pointer"><title>lb, 1900s: 15.4207 hits/million · open workbook examples · 371 workbook examples</title></rect></a>
+<text x="1357.3" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1900</text>
+<a href="../examples.html?word=farmor&amp;resource=lb&amp;decade=1910" target="_blank" rel="noopener noreferrer"><rect x="1367.9" y="285.2" width="12.9" height="54.8" fill="#2678a9" style="cursor:pointer"><title>lb, 1910s: 10.9425 hits/million · open workbook examples · 226 workbook examples</title></rect></a>
+<a href="../examples.html?word=farmor&amp;resource=lb&amp;decade=1920" target="_blank" rel="noopener noreferrer"><rect x="1384.9" y="183.3" width="12.9" height="156.7" fill="#2678a9" style="cursor:pointer"><title>lb, 1920s: 31.3254 hits/million · open workbook examples · 616 workbook examples</title></rect></a>
+<text x="1391.4" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1920</text>
+<a href="../examples.html?word=farmor&amp;resource=lb&amp;decade=1930" target="_blank" rel="noopener noreferrer"><rect x="1401.9" y="194.2" width="12.9" height="145.8" fill="#2678a9" style="cursor:pointer"><title>lb, 1930s: 29.1362 hits/million · open workbook examples · 473 workbook examples</title></rect></a>
+<a href="../examples.html?word=farmor&amp;resource=lb&amp;decade=1940" target="_blank" rel="noopener noreferrer"><rect x="1418.9" y="150.0" width="12.9" height="190.0" fill="#2678a9" style="cursor:pointer"><title>lb, 1940s: 37.9734 hits/million · open workbook examples · 171 workbook examples</title></rect></a>
+<text x="1425.4" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1940</text>
+<a href="../examples.html?word=farmor&amp;resource=lb&amp;decade=1950" target="_blank" rel="noopener noreferrer"><rect x="1435.9" y="306.1" width="12.9" height="33.9" fill="#2678a9" style="cursor:pointer"><title>lb, 1950s: 6.7783 hits/million · open workbook examples · 5 workbook examples</title></rect></a>
+<text x="1459.4" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1960</text>
+<a href="../examples.html?word=farmor&amp;resource=lb&amp;decade=1980" target="_blank" rel="noopener noreferrer"><rect x="1487.0" y="260.7" width="12.9" height="79.3" fill="#2678a9" style="cursor:pointer"><title>lb, 1980s: 15.8473 hits/million · open workbook examples · 7 workbook examples</title></rect></a>
+<text x="1493.4" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1980</text>
+<a href="../examples.html?word=farmor&amp;resource=lb&amp;decade=1990" target="_blank" rel="noopener noreferrer"><rect x="1504.0" y="270.9" width="12.9" height="69.1" fill="#2678a9" style="cursor:pointer"><title>lb, 1990s: 13.8164 hits/million · open workbook examples · 4 workbook examples</title></rect></a>
+<a href="../examples.html?word=farmor&amp;resource=lb&amp;decade=2000" target="_blank" rel="noopener noreferrer"><rect x="1521.0" y="292.3" width="12.9" height="47.7" fill="#2678a9" style="cursor:pointer"><title>lb, 2000s: 9.5299 hits/million · open workbook examples · 1 workbook examples</title></rect></a>
+<text x="1527.5" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">2000</text>
+<a href="../examples.html?word=farmor&amp;resource=lb&amp;decade=2010" target="_blank" rel="noopener noreferrer"><rect x="1538.0" y="157.1" width="12.9" height="182.9" fill="#2678a9" style="cursor:pointer"><title>lb, 2010s: 36.5500 hits/million · open workbook examples · 13 workbook examples</title></rect></a>
+<a href="../examples.html?word=farmor&amp;resource=lb&amp;decade=2020" target="_blank" rel="noopener noreferrer"><rect x="1555.0" y="329.5" width="12.9" height="10.5" fill="#2678a9" style="cursor:pointer"><title>lb, 2020s: 2.1016 hits/million · open workbook examples · 1 workbook examples</title></rect></a>
+<text x="1561.5" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">2020</text>
+<text x="85.0" y="388.0" font-size="16" text-anchor="start" fill="#d46a24" font-weight="bold">tkr · 1860–1979</text>
+<line x1="85.0" y1="590.0" x2="782.5" y2="590.0" stroke="#e1e7eb" />
+<text x="77.0" y="594.0" font-size="11" text-anchor="end" fill="#657381" font-weight="normal">0</text>
+<line x1="85.0" y1="495.0" x2="782.5" y2="495.0" stroke="#e1e7eb" />
+<text x="77.0" y="499.0" font-size="11" text-anchor="end" fill="#657381" font-weight="normal">29</text>
+<line x1="85.0" y1="400.0" x2="782.5" y2="400.0" stroke="#e1e7eb" />
+<text x="77.0" y="404.0" font-size="11" text-anchor="end" fill="#657381" font-weight="normal">58</text>
+<text x="114.1" y="607.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1860</text>
+<a href="../examples.html?word=farmor&amp;resource=tkr&amp;decade=1870" target="_blank" rel="noopener noreferrer"><rect x="150.1" y="573.6" width="44.2" height="16.4" fill="#d46a24" style="cursor:pointer"><title>tkr, 1870s: 5.0000 hits · open workbook examples · 5 workbook examples</title></rect></a>
+<text x="172.2" y="607.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1870</text>
+<a href="../examples.html?word=farmor&amp;resource=tkr&amp;decade=1880" target="_blank" rel="noopener noreferrer"><rect x="208.2" y="573.6" width="44.2" height="16.4" fill="#d46a24" style="cursor:pointer"><title>tkr, 1880s: 5.0000 hits · open workbook examples · 5 workbook examples</title></rect></a>
+<text x="230.3" y="607.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1880</text>
+<a href="../examples.html?word=farmor&amp;resource=tkr&amp;decade=1890" target="_blank" rel="noopener noreferrer"><rect x="266.4" y="586.7" width="44.2" height="3.3" fill="#d46a24" style="cursor:pointer"><title>tkr, 1890s: 1.0000 hits · open workbook examples · 1 workbook examples</title></rect></a>
+<text x="288.4" y="607.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1890</text>
+<a href="../examples.html?word=farmor&amp;resource=tkr&amp;decade=1900" target="_blank" rel="noopener noreferrer"><rect x="324.5" y="580.2" width="44.2" height="9.8" fill="#d46a24" style="cursor:pointer"><title>tkr, 1900s: 3.0000 hits · open workbook examples · 3 workbook examples</title></rect></a>
+<text x="346.6" y="607.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1900</text>
+<a href="../examples.html?word=farmor&amp;resource=tkr&amp;decade=1910" target="_blank" rel="noopener noreferrer"><rect x="382.6" y="560.5" width="44.2" height="29.5" fill="#d46a24" style="cursor:pointer"><title>tkr, 1910s: 9.0000 hits · open workbook examples · 9 workbook examples</title></rect></a>
+<text x="404.7" y="607.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1910</text>
+<a href="../examples.html?word=farmor&amp;resource=tkr&amp;decade=1920" target="_blank" rel="noopener noreferrer"><rect x="440.7" y="472.1" width="44.2" height="117.9" fill="#d46a24" style="cursor:pointer"><title>tkr, 1920s: 36.0000 hits · open workbook examples · 36 workbook examples</title></rect></a>
+<text x="462.8" y="607.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1920</text>
+<a href="../examples.html?word=farmor&amp;resource=tkr&amp;decade=1930" target="_blank" rel="noopener noreferrer"><rect x="498.9" y="508.1" width="44.2" height="81.9" fill="#d46a24" style="cursor:pointer"><title>tkr, 1930s: 25.0000 hits · open workbook examples · 25 workbook examples</title></rect></a>
+<text x="520.9" y="607.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1930</text>
+<a href="../examples.html?word=farmor&amp;resource=tkr&amp;decade=1940" target="_blank" rel="noopener noreferrer"><rect x="557.0" y="570.3" width="44.2" height="19.7" fill="#d46a24" style="cursor:pointer"><title>tkr, 1940s: 6.0000 hits · open workbook examples · 6 workbook examples</title></rect></a>
+<text x="579.1" y="607.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1940</text>
+<a href="../examples.html?word=farmor&amp;resource=tkr&amp;decade=1950" target="_blank" rel="noopener noreferrer"><rect x="615.1" y="537.6" width="44.2" height="52.4" fill="#d46a24" style="cursor:pointer"><title>tkr, 1950s: 16.0000 hits · open workbook examples · 16 workbook examples</title></rect></a>
+<text x="637.2" y="607.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1950</text>
+<a href="../examples.html?word=farmor&amp;resource=tkr&amp;decade=1960" target="_blank" rel="noopener noreferrer"><rect x="673.2" y="400.0" width="44.2" height="190.0" fill="#d46a24" style="cursor:pointer"><title>tkr, 1960s: 58.0000 hits · open workbook examples · 58 workbook examples</title></rect></a>
+<text x="695.3" y="607.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1960</text>
+<a href="../examples.html?word=farmor&amp;resource=tkr&amp;decade=1970" target="_blank" rel="noopener noreferrer"><rect x="731.3" y="586.7" width="44.2" height="3.3" fill="#d46a24" style="cursor:pointer"><title>tkr, 1970s: 1.0000 hits · open workbook examples · 1 workbook examples</title></rect></a>
+<text x="753.4" y="607.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1970</text>
+<line x1="872.5" y1="590.0" x2="1570.0" y2="590.0" stroke="#e1e7eb" />
+<text x="864.5" y="594.0" font-size="11" text-anchor="end" fill="#657381" font-weight="normal">0</text>
+<line x1="872.5" y1="495.0" x2="1570.0" y2="495.0" stroke="#e1e7eb" />
+<text x="864.5" y="499.0" font-size="11" text-anchor="end" fill="#657381" font-weight="normal">0.5</text>
+<line x1="872.5" y1="400.0" x2="1570.0" y2="400.0" stroke="#e1e7eb" />
+<text x="864.5" y="404.0" font-size="11" text-anchor="end" fill="#657381" font-weight="normal">1</text>
+<text x="901.6" y="607.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1860</text>
+<a href="../examples.html?word=farmor&amp;resource=tkr&amp;decade=1870" target="_blank" rel="noopener noreferrer"><rect x="937.6" y="570.5" width="44.2" height="19.5" fill="#d46a24" style="cursor:pointer"><title>tkr, 1870s: 0.1027 hits/million · open workbook examples · 5 workbook examples</title></rect></a>
+<text x="959.7" y="607.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1870</text>
+<a href="../examples.html?word=farmor&amp;resource=tkr&amp;decade=1880" target="_blank" rel="noopener noreferrer"><rect x="995.7" y="569.0" width="44.2" height="21.0" fill="#d46a24" style="cursor:pointer"><title>tkr, 1880s: 0.1104 hits/million · open workbook examples · 5 workbook examples</title></rect></a>
+<text x="1017.8" y="607.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1880</text>
+<a href="../examples.html?word=farmor&amp;resource=tkr&amp;decade=1890" target="_blank" rel="noopener noreferrer"><rect x="1053.8" y="586.5" width="44.2" height="3.5" fill="#d46a24" style="cursor:pointer"><title>tkr, 1890s: 0.0182 hits/million · open workbook examples · 1 workbook examples</title></rect></a>
+<text x="1075.9" y="607.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1890</text>
+<a href="../examples.html?word=farmor&amp;resource=tkr&amp;decade=1900" target="_blank" rel="noopener noreferrer"><rect x="1112.0" y="583.8" width="44.2" height="6.2" fill="#d46a24" style="cursor:pointer"><title>tkr, 1900s: 0.0327 hits/million · open workbook examples · 3 workbook examples</title></rect></a>
+<text x="1134.1" y="607.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1900</text>
+<a href="../examples.html?word=farmor&amp;resource=tkr&amp;decade=1910" target="_blank" rel="noopener noreferrer"><rect x="1170.1" y="578.3" width="44.2" height="11.7" fill="#d46a24" style="cursor:pointer"><title>tkr, 1910s: 0.0615 hits/million · open workbook examples · 9 workbook examples</title></rect></a>
+<text x="1192.2" y="607.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1910</text>
+<a href="../examples.html?word=farmor&amp;resource=tkr&amp;decade=1920" target="_blank" rel="noopener noreferrer"><rect x="1228.2" y="537.0" width="44.2" height="53.0" fill="#d46a24" style="cursor:pointer"><title>tkr, 1920s: 0.2789 hits/million · open workbook examples · 36 workbook examples</title></rect></a>
+<text x="1250.3" y="607.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1920</text>
+<a href="../examples.html?word=farmor&amp;resource=tkr&amp;decade=1930" target="_blank" rel="noopener noreferrer"><rect x="1286.3" y="553.5" width="44.2" height="36.5" fill="#d46a24" style="cursor:pointer"><title>tkr, 1930s: 0.1922 hits/million · open workbook examples · 25 workbook examples</title></rect></a>
+<text x="1308.4" y="607.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1930</text>
+<a href="../examples.html?word=farmor&amp;resource=tkr&amp;decade=1940" target="_blank" rel="noopener noreferrer"><rect x="1344.5" y="581.4" width="44.2" height="8.6" fill="#d46a24" style="cursor:pointer"><title>tkr, 1940s: 0.0450 hits/million · open workbook examples · 6 workbook examples</title></rect></a>
+<text x="1366.6" y="607.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1940</text>
+<a href="../examples.html?word=farmor&amp;resource=tkr&amp;decade=1950" target="_blank" rel="noopener noreferrer"><rect x="1402.6" y="567.5" width="44.2" height="22.5" fill="#d46a24" style="cursor:pointer"><title>tkr, 1950s: 0.1186 hits/million · open workbook examples · 16 workbook examples</title></rect></a>
+<text x="1424.7" y="607.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1950</text>
+<a href="../examples.html?word=farmor&amp;resource=tkr&amp;decade=1960" target="_blank" rel="noopener noreferrer"><rect x="1460.7" y="514.5" width="44.2" height="75.5" fill="#d46a24" style="cursor:pointer"><title>tkr, 1960s: 0.3974 hits/million · open workbook examples · 58 workbook examples</title></rect></a>
+<text x="1482.8" y="607.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1960</text>
+<a href="../examples.html?word=farmor&amp;resource=tkr&amp;decade=1970" target="_blank" rel="noopener noreferrer"><rect x="1518.8" y="579.0" width="44.2" height="11.0" fill="#d46a24" style="cursor:pointer"><title>tkr, 1970s: 0.0581 hits/million · open workbook examples · 1 workbook examples</title></rect></a>
+<text x="1540.9" y="607.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1970</text>
+<text x="85.0" y="638.0" font-size="16" text-anchor="start" fill="#2e8964" font-weight="bold">kubhist2 · 1870–1909</text>
+<line x1="85.0" y1="840.0" x2="782.5" y2="840.0" stroke="#e1e7eb" />
+<text x="77.0" y="844.0" font-size="11" text-anchor="end" fill="#657381" font-weight="normal">0</text>
+<line x1="85.0" y1="745.0" x2="782.5" y2="745.0" stroke="#e1e7eb" />
+<text x="77.0" y="749.0" font-size="11" text-anchor="end" fill="#657381" font-weight="normal">2440</text>
+<line x1="85.0" y1="650.0" x2="782.5" y2="650.0" stroke="#e1e7eb" />
+<text x="77.0" y="654.0" font-size="11" text-anchor="end" fill="#657381" font-weight="normal">4880</text>
+<a href="../examples.html?word=farmor&amp;resource=kubhist2&amp;decade=1870" target="_blank" rel="noopener noreferrer"><rect x="105.9" y="835.1" width="132.5" height="4.9" fill="#2e8964" style="cursor:pointer"><title>kubhist2, 1870s: 126.0000 hits · open workbook examples · 56 workbook examples</title></rect></a>
+<text x="172.2" y="857.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1870</text>
+<a href="../examples.html?word=farmor&amp;resource=kubhist2&amp;decade=1880" target="_blank" rel="noopener noreferrer"><rect x="280.3" y="650.0" width="132.5" height="190.0" fill="#2e8964" style="cursor:pointer"><title>kubhist2, 1880s: 4,880.0000 hits · open workbook examples · 4,879 workbook examples</title></rect></a>
+<text x="346.6" y="857.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1880</text>
+<a href="../examples.html?word=farmor&amp;resource=kubhist2&amp;decade=1890" target="_blank" rel="noopener noreferrer"><rect x="454.7" y="694.0" width="132.5" height="146.0" fill="#2e8964" style="cursor:pointer"><title>kubhist2, 1890s: 3,751.0000 hits · open workbook examples · 3,751 workbook examples</title></rect></a>
+<text x="520.9" y="857.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1890</text>
+<a href="../examples.html?word=farmor&amp;resource=kubhist2&amp;decade=1900" target="_blank" rel="noopener noreferrer"><rect x="629.1" y="822.9" width="132.5" height="17.1" fill="#2e8964" style="cursor:pointer"><title>kubhist2, 1900s: 439.0000 hits · open workbook examples · 439 workbook examples</title></rect></a>
+<text x="695.3" y="857.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1900</text>
+<line x1="872.5" y1="840.0" x2="1570.0" y2="840.0" stroke="#e1e7eb" />
+<text x="864.5" y="844.0" font-size="11" text-anchor="end" fill="#657381" font-weight="normal">0</text>
+<line x1="872.5" y1="745.0" x2="1570.0" y2="745.0" stroke="#e1e7eb" />
+<text x="864.5" y="749.0" font-size="11" text-anchor="end" fill="#657381" font-weight="normal">2.82</text>
+<line x1="872.5" y1="650.0" x2="1570.0" y2="650.0" stroke="#e1e7eb" />
+<text x="864.5" y="654.0" font-size="11" text-anchor="end" fill="#657381" font-weight="normal">5.65</text>
+<a href="../examples.html?word=farmor&amp;resource=kubhist2&amp;decade=1870" target="_blank" rel="noopener noreferrer"><rect x="893.4" y="796.2" width="132.5" height="43.8" fill="#2e8964" style="cursor:pointer"><title>kubhist2, 1870s: 1.3022 hits/million · open workbook examples · 56 workbook examples</title></rect></a>
+<text x="959.7" y="857.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1870</text>
+<a href="../examples.html?word=farmor&amp;resource=kubhist2&amp;decade=1880" target="_blank" rel="noopener noreferrer"><rect x="1067.8" y="726.8" width="132.5" height="113.2" fill="#2e8964" style="cursor:pointer"><title>kubhist2, 1880s: 3.3648 hits/million · open workbook examples · 4,879 workbook examples</title></rect></a>
+<text x="1134.1" y="857.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1880</text>
+<a href="../examples.html?word=farmor&amp;resource=kubhist2&amp;decade=1890" target="_blank" rel="noopener noreferrer"><rect x="1242.2" y="718.3" width="132.5" height="121.7" fill="#2e8964" style="cursor:pointer"><title>kubhist2, 1890s: 3.6167 hits/million · open workbook examples · 3,751 workbook examples</title></rect></a>
+<text x="1308.4" y="857.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1890</text>
+<a href="../examples.html?word=farmor&amp;resource=kubhist2&amp;decade=1900" target="_blank" rel="noopener noreferrer"><rect x="1416.6" y="650.0" width="132.5" height="190.0" fill="#2e8964" style="cursor:pointer"><title>kubhist2, 1900s: 5.6461 hits/million · open workbook examples · 439 workbook examples</title></rect></a>
+<text x="1482.8" y="857.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1900</text>
+<text x="800.0" y="929.0" font-size="13" text-anchor="middle" fill="#263747" font-weight="normal">Decade</text>
+</svg>

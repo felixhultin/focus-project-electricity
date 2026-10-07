@@ -1,0 +1,213 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 940" role="img" aria-label="hustru frequency by decade and resource">
+<rect width="100%" height="100%" fill="white" />
+<style>text{font-family:Arial,Helvetica,sans-serif}</style>
+<text x="85.0" y="39.0" font-size="27" text-anchor="start" fill="#263747" font-weight="bold">hustru</text>
+<text x="85.0" y="65.0" font-size="14" text-anchor="start" fill="#5a6876" font-weight="normal">Korp API frequency · click a bar for matching workbook examples</text>
+<text x="85.0" y="99.0" font-size="17" text-anchor="start" fill="#263747" font-weight="bold">Absolute frequency · hits</text>
+<text x="872.5" y="99.0" font-size="17" text-anchor="start" fill="#263747" font-weight="bold">Relative frequency · hits per million tokens</text>
+<text x="85.0" y="138.0" font-size="16" text-anchor="start" fill="#2678a9" font-weight="bold">lb · 1620–2029</text>
+<line x1="85.0" y1="340.0" x2="782.5" y2="340.0" stroke="#e1e7eb" />
+<text x="77.0" y="344.0" font-size="11" text-anchor="end" fill="#657381" font-weight="normal">0</text>
+<line x1="85.0" y1="245.0" x2="782.5" y2="245.0" stroke="#e1e7eb" />
+<text x="77.0" y="249.0" font-size="11" text-anchor="end" fill="#657381" font-weight="normal">10k</text>
+<line x1="85.0" y1="150.0" x2="782.5" y2="150.0" stroke="#e1e7eb" />
+<text x="77.0" y="154.0" font-size="11" text-anchor="end" fill="#657381" font-weight="normal">20k</text>
+<a href="../examples.html?word=hustru&amp;resource=lb&amp;decade=1620" target="_blank" rel="noopener noreferrer"><rect x="87.0" y="340.0" width="12.9" height="0.0" fill="#2678a9" style="cursor:pointer"><title>lb, 1620s: 5.0000 hits · open workbook examples · 0 workbook examples</title></rect></a>
+<text x="93.5" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1620</text>
+<a href="../examples.html?word=hustru&amp;resource=lb&amp;decade=1640" target="_blank" rel="noopener noreferrer"><rect x="121.1" y="340.0" width="12.9" height="0.0" fill="#2678a9" style="cursor:pointer"><title>lb, 1640s: 2.0000 hits · open workbook examples · 0 workbook examples</title></rect></a>
+<text x="127.5" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1640</text>
+<text x="161.6" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1660</text>
+<text x="195.6" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1680</text>
+<a href="../examples.html?word=hustru&amp;resource=lb&amp;decade=1700" target="_blank" rel="noopener noreferrer"><rect x="223.1" y="331.0" width="12.9" height="9.0" fill="#2678a9" style="cursor:pointer"><title>lb, 1700s: 956.0000 hits · open workbook examples · 956 workbook examples</title></rect></a>
+<text x="229.6" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1700</text>
+<a href="../examples.html?word=hustru&amp;resource=lb&amp;decade=1710" target="_blank" rel="noopener noreferrer"><rect x="240.2" y="339.7" width="12.9" height="0.3" fill="#2678a9" style="cursor:pointer"><title>lb, 1710s: 28.0000 hits · open workbook examples · 28 workbook examples</title></rect></a>
+<text x="263.6" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1720</text>
+<a href="../examples.html?word=hustru&amp;resource=lb&amp;decade=1740" target="_blank" rel="noopener noreferrer"><rect x="291.2" y="339.9" width="12.9" height="0.1" fill="#2678a9" style="cursor:pointer"><title>lb, 1740s: 13.0000 hits · open workbook examples · 13 workbook examples</title></rect></a>
+<text x="297.7" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1740</text>
+<a href="../examples.html?word=hustru&amp;resource=lb&amp;decade=1750" target="_blank" rel="noopener noreferrer"><rect x="308.2" y="339.9" width="12.9" height="0.1" fill="#2678a9" style="cursor:pointer"><title>lb, 1750s: 8.0000 hits · open workbook examples · 8 workbook examples</title></rect></a>
+<text x="331.7" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1760</text>
+<a href="../examples.html?word=hustru&amp;resource=lb&amp;decade=1770" target="_blank" rel="noopener noreferrer"><rect x="342.2" y="340.0" width="12.9" height="0.0" fill="#2678a9" style="cursor:pointer"><title>lb, 1770s: 3.0000 hits · open workbook examples · 3 workbook examples</title></rect></a>
+<text x="365.7" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1780</text>
+<a href="../examples.html?word=hustru&amp;resource=lb&amp;decade=1790" target="_blank" rel="noopener noreferrer"><rect x="376.2" y="339.7" width="12.9" height="0.3" fill="#2678a9" style="cursor:pointer"><title>lb, 1790s: 33.0000 hits · open workbook examples · 33 workbook examples</title></rect></a>
+<a href="../examples.html?word=hustru&amp;resource=lb&amp;decade=1800" target="_blank" rel="noopener noreferrer"><rect x="393.3" y="339.6" width="12.9" height="0.4" fill="#2678a9" style="cursor:pointer"><title>lb, 1800s: 40.0000 hits · open workbook examples · 40 workbook examples</title></rect></a>
+<text x="399.7" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1800</text>
+<a href="../examples.html?word=hustru&amp;resource=lb&amp;decade=1810" target="_blank" rel="noopener noreferrer"><rect x="410.3" y="339.1" width="12.9" height="0.9" fill="#2678a9" style="cursor:pointer"><title>lb, 1810s: 101.0000 hits · open workbook examples · 101 workbook examples</title></rect></a>
+<a href="../examples.html?word=hustru&amp;resource=lb&amp;decade=1820" target="_blank" rel="noopener noreferrer"><rect x="427.3" y="337.5" width="12.9" height="2.5" fill="#2678a9" style="cursor:pointer"><title>lb, 1820s: 272.0000 hits · open workbook examples · 272 workbook examples</title></rect></a>
+<text x="433.8" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1820</text>
+<a href="../examples.html?word=hustru&amp;resource=lb&amp;decade=1830" target="_blank" rel="noopener noreferrer"><rect x="444.3" y="323.2" width="12.9" height="16.8" fill="#2678a9" style="cursor:pointer"><title>lb, 1830s: 1,788.0000 hits · open workbook examples · 1,786 workbook examples</title></rect></a>
+<a href="../examples.html?word=hustru&amp;resource=lb&amp;decade=1840" target="_blank" rel="noopener noreferrer"><rect x="461.3" y="275.0" width="12.9" height="65.0" fill="#2678a9" style="cursor:pointer"><title>lb, 1840s: 6,939.0000 hits · open workbook examples · 6,938 workbook examples</title></rect></a>
+<text x="467.8" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1840</text>
+<a href="../examples.html?word=hustru&amp;resource=lb&amp;decade=1850" target="_blank" rel="noopener noreferrer"><rect x="478.3" y="273.1" width="12.9" height="66.9" fill="#2678a9" style="cursor:pointer"><title>lb, 1850s: 7,142.0000 hits · open workbook examples · 7,140 workbook examples</title></rect></a>
+<a href="../examples.html?word=hustru&amp;resource=lb&amp;decade=1860" target="_blank" rel="noopener noreferrer"><rect x="495.3" y="259.4" width="12.9" height="80.6" fill="#2678a9" style="cursor:pointer"><title>lb, 1860s: 8,604.0000 hits · open workbook examples · 8,604 workbook examples</title></rect></a>
+<text x="501.8" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1860</text>
+<a href="../examples.html?word=hustru&amp;resource=lb&amp;decade=1870" target="_blank" rel="noopener noreferrer"><rect x="512.3" y="243.3" width="12.9" height="96.7" fill="#2678a9" style="cursor:pointer"><title>lb, 1870s: 10,317.0000 hits · open workbook examples · 10,316 workbook examples</title></rect></a>
+<a href="../examples.html?word=hustru&amp;resource=lb&amp;decade=1880" target="_blank" rel="noopener noreferrer"><rect x="529.4" y="193.2" width="12.9" height="146.8" fill="#2678a9" style="cursor:pointer"><title>lb, 1880s: 15,663.0000 hits · open workbook examples · 15,660 workbook examples</title></rect></a>
+<text x="535.8" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1880</text>
+<a href="../examples.html?word=hustru&amp;resource=lb&amp;decade=1890" target="_blank" rel="noopener noreferrer"><rect x="546.4" y="150.0" width="12.9" height="190.0" fill="#2678a9" style="cursor:pointer"><title>lb, 1890s: 20,274.0000 hits · open workbook examples · 20,271 workbook examples</title></rect></a>
+<a href="../examples.html?word=hustru&amp;resource=lb&amp;decade=1900" target="_blank" rel="noopener noreferrer"><rect x="563.4" y="291.9" width="12.9" height="48.1" fill="#2678a9" style="cursor:pointer"><title>lb, 1900s: 5,133.0000 hits · open workbook examples · 5,133 workbook examples</title></rect></a>
+<text x="569.8" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1900</text>
+<a href="../examples.html?word=hustru&amp;resource=lb&amp;decade=1910" target="_blank" rel="noopener noreferrer"><rect x="580.4" y="293.0" width="12.9" height="47.0" fill="#2678a9" style="cursor:pointer"><title>lb, 1910s: 5,011.0000 hits · open workbook examples · 5,010 workbook examples</title></rect></a>
+<a href="../examples.html?word=hustru&amp;resource=lb&amp;decade=1920" target="_blank" rel="noopener noreferrer"><rect x="597.4" y="300.3" width="12.9" height="39.7" fill="#2678a9" style="cursor:pointer"><title>lb, 1920s: 4,239.0000 hits · open workbook examples · 4,239 workbook examples</title></rect></a>
+<text x="603.9" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1920</text>
+<a href="../examples.html?word=hustru&amp;resource=lb&amp;decade=1930" target="_blank" rel="noopener noreferrer"><rect x="614.4" y="295.9" width="12.9" height="44.1" fill="#2678a9" style="cursor:pointer"><title>lb, 1930s: 4,708.0000 hits · open workbook examples · 4,708 workbook examples</title></rect></a>
+<a href="../examples.html?word=hustru&amp;resource=lb&amp;decade=1940" target="_blank" rel="noopener noreferrer"><rect x="631.4" y="328.4" width="12.9" height="11.6" fill="#2678a9" style="cursor:pointer"><title>lb, 1940s: 1,235.0000 hits · open workbook examples · 1,235 workbook examples</title></rect></a>
+<text x="637.9" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1940</text>
+<a href="../examples.html?word=hustru&amp;resource=lb&amp;decade=1950" target="_blank" rel="noopener noreferrer"><rect x="648.4" y="337.6" width="12.9" height="2.4" fill="#2678a9" style="cursor:pointer"><title>lb, 1950s: 254.0000 hits · open workbook examples · 254 workbook examples</title></rect></a>
+<a href="../examples.html?word=hustru&amp;resource=lb&amp;decade=1960" target="_blank" rel="noopener noreferrer"><rect x="665.5" y="339.6" width="12.9" height="0.4" fill="#2678a9" style="cursor:pointer"><title>lb, 1960s: 40.0000 hits · open workbook examples · 40 workbook examples</title></rect></a>
+<text x="671.9" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1960</text>
+<a href="../examples.html?word=hustru&amp;resource=lb&amp;decade=1970" target="_blank" rel="noopener noreferrer"><rect x="682.5" y="339.8" width="12.9" height="0.2" fill="#2678a9" style="cursor:pointer"><title>lb, 1970s: 23.0000 hits · open workbook examples · 23 workbook examples</title></rect></a>
+<a href="../examples.html?word=hustru&amp;resource=lb&amp;decade=1980" target="_blank" rel="noopener noreferrer"><rect x="699.5" y="339.9" width="12.9" height="0.1" fill="#2678a9" style="cursor:pointer"><title>lb, 1980s: 14.0000 hits · open workbook examples · 14 workbook examples</title></rect></a>
+<text x="705.9" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1980</text>
+<a href="../examples.html?word=hustru&amp;resource=lb&amp;decade=1990" target="_blank" rel="noopener noreferrer"><rect x="716.5" y="339.8" width="12.9" height="0.2" fill="#2678a9" style="cursor:pointer"><title>lb, 1990s: 22.0000 hits · open workbook examples · 22 workbook examples</title></rect></a>
+<a href="../examples.html?word=hustru&amp;resource=lb&amp;decade=2000" target="_blank" rel="noopener noreferrer"><rect x="733.5" y="339.9" width="12.9" height="0.1" fill="#2678a9" style="cursor:pointer"><title>lb, 2000s: 8.0000 hits · open workbook examples · 8 workbook examples</title></rect></a>
+<text x="740.0" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">2000</text>
+<a href="../examples.html?word=hustru&amp;resource=lb&amp;decade=2010" target="_blank" rel="noopener noreferrer"><rect x="750.5" y="338.0" width="12.9" height="2.0" fill="#2678a9" style="cursor:pointer"><title>lb, 2010s: 215.0000 hits · open workbook examples · 215 workbook examples</title></rect></a>
+<a href="../examples.html?word=hustru&amp;resource=lb&amp;decade=2020" target="_blank" rel="noopener noreferrer"><rect x="767.5" y="339.5" width="12.9" height="0.5" fill="#2678a9" style="cursor:pointer"><title>lb, 2020s: 56.0000 hits · open workbook examples · 56 workbook examples</title></rect></a>
+<text x="774.0" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">2020</text>
+<line x1="872.5" y1="340.0" x2="1570.0" y2="340.0" stroke="#e1e7eb" />
+<text x="864.5" y="344.0" font-size="11" text-anchor="end" fill="#657381" font-weight="normal">0</text>
+<line x1="872.5" y1="245.0" x2="1570.0" y2="245.0" stroke="#e1e7eb" />
+<text x="864.5" y="249.0" font-size="11" text-anchor="end" fill="#657381" font-weight="normal">302</text>
+<line x1="872.5" y1="150.0" x2="1570.0" y2="150.0" stroke="#e1e7eb" />
+<text x="864.5" y="154.0" font-size="11" text-anchor="end" fill="#657381" font-weight="normal">604</text>
+<a href="../examples.html?word=hustru&amp;resource=lb&amp;decade=1620" target="_blank" rel="noopener noreferrer"><rect x="874.5" y="210.7" width="12.9" height="129.3" fill="#2678a9" style="cursor:pointer"><title>lb, 1620s: 411.2519 hits/million · open workbook examples · 0 workbook examples</title></rect></a>
+<text x="881.0" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1620</text>
+<a href="../examples.html?word=hustru&amp;resource=lb&amp;decade=1640" target="_blank" rel="noopener noreferrer"><rect x="908.6" y="327.0" width="12.9" height="13.0" fill="#2678a9" style="cursor:pointer"><title>lb, 1640s: 41.4860 hits/million · open workbook examples · 0 workbook examples</title></rect></a>
+<text x="915.0" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1640</text>
+<a href="../examples.html?word=hustru&amp;resource=lb&amp;decade=1700" target="_blank" rel="noopener noreferrer"><rect x="1010.6" y="172.8" width="12.9" height="167.2" fill="#2678a9" style="cursor:pointer"><title>lb, 1700s: 532.0842 hits/million · open workbook examples · 956 workbook examples</title></rect></a>
+<text x="1017.1" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1700</text>
+<a href="../examples.html?word=hustru&amp;resource=lb&amp;decade=1710" target="_blank" rel="noopener noreferrer"><rect x="1027.7" y="203.8" width="12.9" height="136.2" fill="#2678a9" style="cursor:pointer"><title>lb, 1710s: 433.1750 hits/million · open workbook examples · 28 workbook examples</title></rect></a>
+<a href="../examples.html?word=hustru&amp;resource=lb&amp;decade=1740" target="_blank" rel="noopener noreferrer"><rect x="1078.7" y="254.1" width="12.9" height="85.9" fill="#2678a9" style="cursor:pointer"><title>lb, 1740s: 273.3332 hits/million · open workbook examples · 13 workbook examples</title></rect></a>
+<text x="1085.2" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1740</text>
+<a href="../examples.html?word=hustru&amp;resource=lb&amp;decade=1750" target="_blank" rel="noopener noreferrer"><rect x="1095.7" y="337.7" width="12.9" height="2.3" fill="#2678a9" style="cursor:pointer"><title>lb, 1750s: 7.2995 hits/million · open workbook examples · 8 workbook examples</title></rect></a>
+<text x="1119.2" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1760</text>
+<a href="../examples.html?word=hustru&amp;resource=lb&amp;decade=1770" target="_blank" rel="noopener noreferrer"><rect x="1129.7" y="326.5" width="12.9" height="13.5" fill="#2678a9" style="cursor:pointer"><title>lb, 1770s: 42.9142 hits/million · open workbook examples · 3 workbook examples</title></rect></a>
+<text x="1153.2" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1780</text>
+<a href="../examples.html?word=hustru&amp;resource=lb&amp;decade=1790" target="_blank" rel="noopener noreferrer"><rect x="1163.7" y="326.9" width="12.9" height="13.1" fill="#2678a9" style="cursor:pointer"><title>lb, 1790s: 41.8157 hits/million · open workbook examples · 33 workbook examples</title></rect></a>
+<a href="../examples.html?word=hustru&amp;resource=lb&amp;decade=1800" target="_blank" rel="noopener noreferrer"><rect x="1180.8" y="322.9" width="12.9" height="17.1" fill="#2678a9" style="cursor:pointer"><title>lb, 1800s: 54.2784 hits/million · open workbook examples · 40 workbook examples</title></rect></a>
+<text x="1187.2" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1800</text>
+<a href="../examples.html?word=hustru&amp;resource=lb&amp;decade=1810" target="_blank" rel="noopener noreferrer"><rect x="1197.8" y="316.8" width="12.9" height="23.2" fill="#2678a9" style="cursor:pointer"><title>lb, 1810s: 73.7553 hits/million · open workbook examples · 101 workbook examples</title></rect></a>
+<a href="../examples.html?word=hustru&amp;resource=lb&amp;decade=1820" target="_blank" rel="noopener noreferrer"><rect x="1214.8" y="238.5" width="12.9" height="101.5" fill="#2678a9" style="cursor:pointer"><title>lb, 1820s: 322.9430 hits/million · open workbook examples · 272 workbook examples</title></rect></a>
+<text x="1221.2" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1820</text>
+<a href="../examples.html?word=hustru&amp;resource=lb&amp;decade=1830" target="_blank" rel="noopener noreferrer"><rect x="1231.8" y="291.8" width="12.9" height="48.2" fill="#2678a9" style="cursor:pointer"><title>lb, 1830s: 153.4241 hits/million · open workbook examples · 1,786 workbook examples</title></rect></a>
+<a href="../examples.html?word=hustru&amp;resource=lb&amp;decade=1840" target="_blank" rel="noopener noreferrer"><rect x="1248.8" y="269.6" width="12.9" height="70.4" fill="#2678a9" style="cursor:pointer"><title>lb, 1840s: 223.9409 hits/million · open workbook examples · 6,938 workbook examples</title></rect></a>
+<text x="1255.3" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1840</text>
+<a href="../examples.html?word=hustru&amp;resource=lb&amp;decade=1850" target="_blank" rel="noopener noreferrer"><rect x="1265.8" y="246.7" width="12.9" height="93.3" fill="#2678a9" style="cursor:pointer"><title>lb, 1850s: 296.8935 hits/million · open workbook examples · 7,140 workbook examples</title></rect></a>
+<a href="../examples.html?word=hustru&amp;resource=lb&amp;decade=1860" target="_blank" rel="noopener noreferrer"><rect x="1282.8" y="250.1" width="12.9" height="89.9" fill="#2678a9" style="cursor:pointer"><title>lb, 1860s: 286.1664 hits/million · open workbook examples · 8,604 workbook examples</title></rect></a>
+<text x="1289.3" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1860</text>
+<a href="../examples.html?word=hustru&amp;resource=lb&amp;decade=1870" target="_blank" rel="noopener noreferrer"><rect x="1299.8" y="246.3" width="12.9" height="93.7" fill="#2678a9" style="cursor:pointer"><title>lb, 1870s: 298.1328 hits/million · open workbook examples · 10,316 workbook examples</title></rect></a>
+<a href="../examples.html?word=hustru&amp;resource=lb&amp;decade=1880" target="_blank" rel="noopener noreferrer"><rect x="1316.9" y="251.3" width="12.9" height="88.7" fill="#2678a9" style="cursor:pointer"><title>lb, 1880s: 282.1555 hits/million · open workbook examples · 15,660 workbook examples</title></rect></a>
+<text x="1323.3" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1880</text>
+<a href="../examples.html?word=hustru&amp;resource=lb&amp;decade=1890" target="_blank" rel="noopener noreferrer"><rect x="1333.9" y="237.6" width="12.9" height="102.4" fill="#2678a9" style="cursor:pointer"><title>lb, 1890s: 325.8474 hits/million · open workbook examples · 20,271 workbook examples</title></rect></a>
+<a href="../examples.html?word=hustru&amp;resource=lb&amp;decade=1900" target="_blank" rel="noopener noreferrer"><rect x="1350.9" y="272.9" width="12.9" height="67.1" fill="#2678a9" style="cursor:pointer"><title>lb, 1900s: 213.3539 hits/million · open workbook examples · 5,133 workbook examples</title></rect></a>
+<text x="1357.3" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1900</text>
+<a href="../examples.html?word=hustru&amp;resource=lb&amp;decade=1910" target="_blank" rel="noopener noreferrer"><rect x="1367.9" y="263.7" width="12.9" height="76.3" fill="#2678a9" style="cursor:pointer"><title>lb, 1910s: 242.6236 hits/million · open workbook examples · 5,010 workbook examples</title></rect></a>
+<a href="../examples.html?word=hustru&amp;resource=lb&amp;decade=1920" target="_blank" rel="noopener noreferrer"><rect x="1384.9" y="272.2" width="12.9" height="67.8" fill="#2678a9" style="cursor:pointer"><title>lb, 1920s: 215.5653 hits/million · open workbook examples · 4,239 workbook examples</title></rect></a>
+<text x="1391.4" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1920</text>
+<a href="../examples.html?word=hustru&amp;resource=lb&amp;decade=1930" target="_blank" rel="noopener noreferrer"><rect x="1401.9" y="248.8" width="12.9" height="91.2" fill="#2678a9" style="cursor:pointer"><title>lb, 1930s: 290.0065 hits/million · open workbook examples · 4,708 workbook examples</title></rect></a>
+<a href="../examples.html?word=hustru&amp;resource=lb&amp;decade=1940" target="_blank" rel="noopener noreferrer"><rect x="1418.9" y="253.8" width="12.9" height="86.2" fill="#2678a9" style="cursor:pointer"><title>lb, 1940s: 274.2522 hits/million · open workbook examples · 1,235 workbook examples</title></rect></a>
+<text x="1425.4" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1940</text>
+<a href="../examples.html?word=hustru&amp;resource=lb&amp;decade=1950" target="_blank" rel="noopener noreferrer"><rect x="1435.9" y="231.8" width="12.9" height="108.2" fill="#2678a9" style="cursor:pointer"><title>lb, 1950s: 344.3372 hits/million · open workbook examples · 254 workbook examples</title></rect></a>
+<a href="../examples.html?word=hustru&amp;resource=lb&amp;decade=1960" target="_blank" rel="noopener noreferrer"><rect x="1453.0" y="324.3" width="12.9" height="15.7" fill="#2678a9" style="cursor:pointer"><title>lb, 1960s: 49.8100 hits/million · open workbook examples · 40 workbook examples</title></rect></a>
+<text x="1459.4" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1960</text>
+<a href="../examples.html?word=hustru&amp;resource=lb&amp;decade=1970" target="_blank" rel="noopener noreferrer"><rect x="1470.0" y="258.3" width="12.9" height="81.7" fill="#2678a9" style="cursor:pointer"><title>lb, 1970s: 259.8929 hits/million · open workbook examples · 23 workbook examples</title></rect></a>
+<a href="../examples.html?word=hustru&amp;resource=lb&amp;decade=1980" target="_blank" rel="noopener noreferrer"><rect x="1487.0" y="330.0" width="12.9" height="10.0" fill="#2678a9" style="cursor:pointer"><title>lb, 1980s: 31.6946 hits/million · open workbook examples · 14 workbook examples</title></rect></a>
+<text x="1493.4" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1980</text>
+<a href="../examples.html?word=hustru&amp;resource=lb&amp;decade=1990" target="_blank" rel="noopener noreferrer"><rect x="1504.0" y="316.1" width="12.9" height="23.9" fill="#2678a9" style="cursor:pointer"><title>lb, 1990s: 75.9902 hits/million · open workbook examples · 22 workbook examples</title></rect></a>
+<a href="../examples.html?word=hustru&amp;resource=lb&amp;decade=2000" target="_blank" rel="noopener noreferrer"><rect x="1521.0" y="316.0" width="12.9" height="24.0" fill="#2678a9" style="cursor:pointer"><title>lb, 2000s: 76.2391 hits/million · open workbook examples · 8 workbook examples</title></rect></a>
+<text x="1527.5" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">2000</text>
+<a href="../examples.html?word=hustru&amp;resource=lb&amp;decade=2010" target="_blank" rel="noopener noreferrer"><rect x="1538.0" y="150.0" width="12.9" height="190.0" fill="#2678a9" style="cursor:pointer"><title>lb, 2010s: 604.4810 hits/million · open workbook examples · 215 workbook examples</title></rect></a>
+<a href="../examples.html?word=hustru&amp;resource=lb&amp;decade=2020" target="_blank" rel="noopener noreferrer"><rect x="1555.0" y="303.0" width="12.9" height="37.0" fill="#2678a9" style="cursor:pointer"><title>lb, 2020s: 117.6906 hits/million · open workbook examples · 56 workbook examples</title></rect></a>
+<text x="1561.5" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">2020</text>
+<text x="85.0" y="388.0" font-size="16" text-anchor="start" fill="#d46a24" font-weight="bold">tkr · 1860–1979</text>
+<line x1="85.0" y1="590.0" x2="782.5" y2="590.0" stroke="#e1e7eb" />
+<text x="77.0" y="594.0" font-size="11" text-anchor="end" fill="#657381" font-weight="normal">0</text>
+<line x1="85.0" y1="495.0" x2="782.5" y2="495.0" stroke="#e1e7eb" />
+<text x="77.0" y="499.0" font-size="11" text-anchor="end" fill="#657381" font-weight="normal">3820</text>
+<line x1="85.0" y1="400.0" x2="782.5" y2="400.0" stroke="#e1e7eb" />
+<text x="77.0" y="404.0" font-size="11" text-anchor="end" fill="#657381" font-weight="normal">7640</text>
+<a href="../examples.html?word=hustru&amp;resource=tkr&amp;decade=1860" target="_blank" rel="noopener noreferrer"><rect x="92.0" y="574.8" width="44.2" height="15.2" fill="#d46a24" style="cursor:pointer"><title>tkr, 1860s: 611.0000 hits · open workbook examples · 611 workbook examples</title></rect></a>
+<text x="114.1" y="607.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1860</text>
+<a href="../examples.html?word=hustru&amp;resource=tkr&amp;decade=1870" target="_blank" rel="noopener noreferrer"><rect x="150.1" y="535.1" width="44.2" height="54.9" fill="#d46a24" style="cursor:pointer"><title>tkr, 1870s: 2,207.0000 hits · open workbook examples · 2,205 workbook examples</title></rect></a>
+<text x="172.2" y="607.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1870</text>
+<a href="../examples.html?word=hustru&amp;resource=tkr&amp;decade=1880" target="_blank" rel="noopener noreferrer"><rect x="208.2" y="554.1" width="44.2" height="35.9" fill="#d46a24" style="cursor:pointer"><title>tkr, 1880s: 1,444.0000 hits · open workbook examples · 1,443 workbook examples</title></rect></a>
+<text x="230.3" y="607.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1880</text>
+<a href="../examples.html?word=hustru&amp;resource=tkr&amp;decade=1890" target="_blank" rel="noopener noreferrer"><rect x="266.4" y="477.8" width="44.2" height="112.2" fill="#d46a24" style="cursor:pointer"><title>tkr, 1890s: 4,510.0000 hits · open workbook examples · 4,510 workbook examples</title></rect></a>
+<text x="288.4" y="607.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1890</text>
+<a href="../examples.html?word=hustru&amp;resource=tkr&amp;decade=1900" target="_blank" rel="noopener noreferrer"><rect x="324.5" y="497.2" width="44.2" height="92.8" fill="#d46a24" style="cursor:pointer"><title>tkr, 1900s: 3,732.0000 hits · open workbook examples · 3,731 workbook examples</title></rect></a>
+<text x="346.6" y="607.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1900</text>
+<a href="../examples.html?word=hustru&amp;resource=tkr&amp;decade=1910" target="_blank" rel="noopener noreferrer"><rect x="382.6" y="400.0" width="44.2" height="190.0" fill="#d46a24" style="cursor:pointer"><title>tkr, 1910s: 7,640.0000 hits · open workbook examples · 7,637 workbook examples</title></rect></a>
+<text x="404.7" y="607.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1910</text>
+<a href="../examples.html?word=hustru&amp;resource=tkr&amp;decade=1920" target="_blank" rel="noopener noreferrer"><rect x="440.7" y="435.3" width="44.2" height="154.7" fill="#d46a24" style="cursor:pointer"><title>tkr, 1920s: 6,222.0000 hits · open workbook examples · 6,220 workbook examples</title></rect></a>
+<text x="462.8" y="607.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1920</text>
+<a href="../examples.html?word=hustru&amp;resource=tkr&amp;decade=1930" target="_blank" rel="noopener noreferrer"><rect x="498.9" y="483.9" width="44.2" height="106.1" fill="#d46a24" style="cursor:pointer"><title>tkr, 1930s: 4,268.0000 hits · open workbook examples · 4,268 workbook examples</title></rect></a>
+<text x="520.9" y="607.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1930</text>
+<a href="../examples.html?word=hustru&amp;resource=tkr&amp;decade=1940" target="_blank" rel="noopener noreferrer"><rect x="557.0" y="458.0" width="44.2" height="132.0" fill="#d46a24" style="cursor:pointer"><title>tkr, 1940s: 5,307.0000 hits · open workbook examples · 5,304 workbook examples</title></rect></a>
+<text x="579.1" y="607.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1940</text>
+<a href="../examples.html?word=hustru&amp;resource=tkr&amp;decade=1950" target="_blank" rel="noopener noreferrer"><rect x="615.1" y="482.6" width="44.2" height="107.4" fill="#d46a24" style="cursor:pointer"><title>tkr, 1950s: 4,320.0000 hits · open workbook examples · 4,320 workbook examples</title></rect></a>
+<text x="637.2" y="607.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1950</text>
+<a href="../examples.html?word=hustru&amp;resource=tkr&amp;decade=1960" target="_blank" rel="noopener noreferrer"><rect x="673.2" y="475.1" width="44.2" height="114.9" fill="#d46a24" style="cursor:pointer"><title>tkr, 1960s: 4,619.0000 hits · open workbook examples · 4,618 workbook examples</title></rect></a>
+<text x="695.3" y="607.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1960</text>
+<a href="../examples.html?word=hustru&amp;resource=tkr&amp;decade=1970" target="_blank" rel="noopener noreferrer"><rect x="731.3" y="578.2" width="44.2" height="11.8" fill="#d46a24" style="cursor:pointer"><title>tkr, 1970s: 474.0000 hits · open workbook examples · 474 workbook examples</title></rect></a>
+<text x="753.4" y="607.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1970</text>
+<line x1="872.5" y1="590.0" x2="1570.0" y2="590.0" stroke="#e1e7eb" />
+<text x="864.5" y="594.0" font-size="11" text-anchor="end" fill="#657381" font-weight="normal">0</text>
+<line x1="872.5" y1="495.0" x2="1570.0" y2="495.0" stroke="#e1e7eb" />
+<text x="864.5" y="499.0" font-size="11" text-anchor="end" fill="#657381" font-weight="normal">41</text>
+<line x1="872.5" y1="400.0" x2="1570.0" y2="400.0" stroke="#e1e7eb" />
+<text x="864.5" y="404.0" font-size="11" text-anchor="end" fill="#657381" font-weight="normal">82</text>
+<a href="../examples.html?word=hustru&amp;resource=tkr&amp;decade=1860" target="_blank" rel="noopener noreferrer"><rect x="879.5" y="491.0" width="44.2" height="99.0" fill="#d46a24" style="cursor:pointer"><title>tkr, 1860s: 42.7229 hits/million · open workbook examples · 611 workbook examples</title></rect></a>
+<text x="901.6" y="607.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1860</text>
+<a href="../examples.html?word=hustru&amp;resource=tkr&amp;decade=1870" target="_blank" rel="noopener noreferrer"><rect x="937.6" y="484.9" width="44.2" height="105.1" fill="#d46a24" style="cursor:pointer"><title>tkr, 1870s: 45.3527 hits/million · open workbook examples · 2,205 workbook examples</title></rect></a>
+<text x="959.7" y="607.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1870</text>
+<a href="../examples.html?word=hustru&amp;resource=tkr&amp;decade=1880" target="_blank" rel="noopener noreferrer"><rect x="995.7" y="516.2" width="44.2" height="73.8" fill="#d46a24" style="cursor:pointer"><title>tkr, 1880s: 31.8758 hits/million · open workbook examples · 1,443 workbook examples</title></rect></a>
+<text x="1017.8" y="607.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1880</text>
+<a href="../examples.html?word=hustru&amp;resource=tkr&amp;decade=1890" target="_blank" rel="noopener noreferrer"><rect x="1053.8" y="400.0" width="44.2" height="190.0" fill="#d46a24" style="cursor:pointer"><title>tkr, 1890s: 82.0142 hits/million · open workbook examples · 4,510 workbook examples</title></rect></a>
+<text x="1075.9" y="607.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1890</text>
+<a href="../examples.html?word=hustru&amp;resource=tkr&amp;decade=1900" target="_blank" rel="noopener noreferrer"><rect x="1112.0" y="495.6" width="44.2" height="94.4" fill="#d46a24" style="cursor:pointer"><title>tkr, 1900s: 40.7367 hits/million · open workbook examples · 3,731 workbook examples</title></rect></a>
+<text x="1134.1" y="607.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1900</text>
+<a href="../examples.html?word=hustru&amp;resource=tkr&amp;decade=1910" target="_blank" rel="noopener noreferrer"><rect x="1170.1" y="469.1" width="44.2" height="120.9" fill="#d46a24" style="cursor:pointer"><title>tkr, 1910s: 52.1669 hits/million · open workbook examples · 7,637 workbook examples</title></rect></a>
+<text x="1192.2" y="607.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1910</text>
+<a href="../examples.html?word=hustru&amp;resource=tkr&amp;decade=1920" target="_blank" rel="noopener noreferrer"><rect x="1228.2" y="478.3" width="44.2" height="111.7" fill="#d46a24" style="cursor:pointer"><title>tkr, 1920s: 48.1979 hits/million · open workbook examples · 6,220 workbook examples</title></rect></a>
+<text x="1250.3" y="607.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1920</text>
+<a href="../examples.html?word=hustru&amp;resource=tkr&amp;decade=1930" target="_blank" rel="noopener noreferrer"><rect x="1286.3" y="514.0" width="44.2" height="76.0" fill="#d46a24" style="cursor:pointer"><title>tkr, 1930s: 32.8073 hits/million · open workbook examples · 4,268 workbook examples</title></rect></a>
+<text x="1308.4" y="607.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1930</text>
+<a href="../examples.html?word=hustru&amp;resource=tkr&amp;decade=1940" target="_blank" rel="noopener noreferrer"><rect x="1344.5" y="497.7" width="44.2" height="92.3" fill="#d46a24" style="cursor:pointer"><title>tkr, 1940s: 39.8334 hits/million · open workbook examples · 5,304 workbook examples</title></rect></a>
+<text x="1366.6" y="607.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1940</text>
+<a href="../examples.html?word=hustru&amp;resource=tkr&amp;decade=1950" target="_blank" rel="noopener noreferrer"><rect x="1402.6" y="515.8" width="44.2" height="74.2" fill="#d46a24" style="cursor:pointer"><title>tkr, 1950s: 32.0141 hits/million · open workbook examples · 4,320 workbook examples</title></rect></a>
+<text x="1424.7" y="607.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1950</text>
+<a href="../examples.html?word=hustru&amp;resource=tkr&amp;decade=1960" target="_blank" rel="noopener noreferrer"><rect x="1460.7" y="516.7" width="44.2" height="73.3" fill="#d46a24" style="cursor:pointer"><title>tkr, 1960s: 31.6511 hits/million · open workbook examples · 4,618 workbook examples</title></rect></a>
+<text x="1482.8" y="607.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1960</text>
+<a href="../examples.html?word=hustru&amp;resource=tkr&amp;decade=1970" target="_blank" rel="noopener noreferrer"><rect x="1518.8" y="526.3" width="44.2" height="63.7" fill="#d46a24" style="cursor:pointer"><title>tkr, 1970s: 27.5173 hits/million · open workbook examples · 474 workbook examples</title></rect></a>
+<text x="1540.9" y="607.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1970</text>
+<text x="85.0" y="638.0" font-size="16" text-anchor="start" fill="#2e8964" font-weight="bold">kubhist2 · 1870–1909</text>
+<line x1="85.0" y1="840.0" x2="782.5" y2="840.0" stroke="#e1e7eb" />
+<text x="77.0" y="844.0" font-size="11" text-anchor="end" fill="#657381" font-weight="normal">0</text>
+<line x1="85.0" y1="745.0" x2="782.5" y2="745.0" stroke="#e1e7eb" />
+<text x="77.0" y="749.0" font-size="11" text-anchor="end" fill="#657381" font-weight="normal">1.5e+02k</text>
+<line x1="85.0" y1="650.0" x2="782.5" y2="650.0" stroke="#e1e7eb" />
+<text x="77.0" y="654.0" font-size="11" text-anchor="end" fill="#657381" font-weight="normal">3.1e+02k</text>
+<a href="../examples.html?word=hustru&amp;resource=kubhist2&amp;decade=1870" target="_blank" rel="noopener noreferrer"><rect x="105.9" y="829.6" width="132.5" height="10.4" fill="#2e8964" style="cursor:pointer"><title>kubhist2, 1870s: 16,905.0000 hits · open workbook examples · 8,668 workbook examples</title></rect></a>
+<text x="172.2" y="857.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1870</text>
+<a href="../examples.html?word=hustru&amp;resource=kubhist2&amp;decade=1880" target="_blank" rel="noopener noreferrer"><rect x="280.3" y="650.0" width="132.5" height="190.0" fill="#2e8964" style="cursor:pointer"><title>kubhist2, 1880s: 307,436.0000 hits · open workbook examples · 307,352 workbook examples</title></rect></a>
+<text x="346.6" y="857.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1880</text>
+<a href="../examples.html?word=hustru&amp;resource=kubhist2&amp;decade=1890" target="_blank" rel="noopener noreferrer"><rect x="454.7" y="705.4" width="132.5" height="134.6" fill="#2e8964" style="cursor:pointer"><title>kubhist2, 1890s: 217,868.0000 hits · open workbook examples · 217,818 workbook examples</title></rect></a>
+<text x="520.9" y="857.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1890</text>
+<a href="../examples.html?word=hustru&amp;resource=kubhist2&amp;decade=1900" target="_blank" rel="noopener noreferrer"><rect x="629.1" y="830.0" width="132.5" height="10.0" fill="#2e8964" style="cursor:pointer"><title>kubhist2, 1900s: 16,120.0000 hits · open workbook examples · 16,117 workbook examples</title></rect></a>
+<text x="695.3" y="857.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1900</text>
+<line x1="872.5" y1="840.0" x2="1570.0" y2="840.0" stroke="#e1e7eb" />
+<text x="864.5" y="844.0" font-size="11" text-anchor="end" fill="#657381" font-weight="normal">0</text>
+<line x1="872.5" y1="745.0" x2="1570.0" y2="745.0" stroke="#e1e7eb" />
+<text x="864.5" y="749.0" font-size="11" text-anchor="end" fill="#657381" font-weight="normal">106</text>
+<line x1="872.5" y1="650.0" x2="1570.0" y2="650.0" stroke="#e1e7eb" />
+<text x="864.5" y="654.0" font-size="11" text-anchor="end" fill="#657381" font-weight="normal">212</text>
+<a href="../examples.html?word=hustru&amp;resource=kubhist2&amp;decade=1870" target="_blank" rel="noopener noreferrer"><rect x="893.4" y="683.4" width="132.5" height="156.6" fill="#2e8964" style="cursor:pointer"><title>kubhist2, 1870s: 174.7135 hits/million · open workbook examples · 8,668 workbook examples</title></rect></a>
+<text x="959.7" y="857.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1870</text>
+<a href="../examples.html?word=hustru&amp;resource=kubhist2&amp;decade=1880" target="_blank" rel="noopener noreferrer"><rect x="1067.8" y="650.0" width="132.5" height="190.0" fill="#2e8964" style="cursor:pointer"><title>kubhist2, 1880s: 211.9796 hits/million · open workbook examples · 307,352 workbook examples</title></rect></a>
+<text x="1134.1" y="857.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1880</text>
+<a href="../examples.html?word=hustru&amp;resource=kubhist2&amp;decade=1890" target="_blank" rel="noopener noreferrer"><rect x="1242.2" y="651.7" width="132.5" height="188.3" fill="#2e8964" style="cursor:pointer"><title>kubhist2, 1890s: 210.0697 hits/million · open workbook examples · 217,818 workbook examples</title></rect></a>
+<text x="1308.4" y="857.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1890</text>
+<a href="../examples.html?word=hustru&amp;resource=kubhist2&amp;decade=1900" target="_blank" rel="noopener noreferrer"><rect x="1416.6" y="654.2" width="132.5" height="185.8" fill="#2e8964" style="cursor:pointer"><title>kubhist2, 1900s: 207.3239 hits/million · open workbook examples · 16,117 workbook examples</title></rect></a>
+<text x="1482.8" y="857.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1900</text>
+<text x="800.0" y="929.0" font-size="13" text-anchor="middle" fill="#263747" font-weight="normal">Decade</text>
+</svg>

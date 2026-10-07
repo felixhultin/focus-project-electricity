@@ -1,0 +1,217 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 940" role="img" aria-label="syster frequency by decade and resource">
+<rect width="100%" height="100%" fill="white" />
+<style>text{font-family:Arial,Helvetica,sans-serif}</style>
+<text x="85.0" y="39.0" font-size="27" text-anchor="start" fill="#263747" font-weight="bold">syster</text>
+<text x="85.0" y="65.0" font-size="14" text-anchor="start" fill="#5a6876" font-weight="normal">Korp API frequency · click a bar for matching workbook examples</text>
+<text x="85.0" y="99.0" font-size="17" text-anchor="start" fill="#263747" font-weight="bold">Absolute frequency · hits</text>
+<text x="872.5" y="99.0" font-size="17" text-anchor="start" fill="#263747" font-weight="bold">Relative frequency · hits per million tokens</text>
+<text x="85.0" y="138.0" font-size="16" text-anchor="start" fill="#2678a9" font-weight="bold">lb · 1620–2029</text>
+<line x1="85.0" y1="340.0" x2="782.5" y2="340.0" stroke="#e1e7eb" />
+<text x="77.0" y="344.0" font-size="11" text-anchor="end" fill="#657381" font-weight="normal">0</text>
+<line x1="85.0" y1="245.0" x2="782.5" y2="245.0" stroke="#e1e7eb" />
+<text x="77.0" y="249.0" font-size="11" text-anchor="end" fill="#657381" font-weight="normal">5682</text>
+<line x1="85.0" y1="150.0" x2="782.5" y2="150.0" stroke="#e1e7eb" />
+<text x="77.0" y="154.0" font-size="11" text-anchor="end" fill="#657381" font-weight="normal">11k</text>
+<a href="../examples.html?word=syster&amp;resource=lb&amp;decade=1620" target="_blank" rel="noopener noreferrer"><rect x="87.0" y="339.9" width="12.9" height="0.1" fill="#2678a9" style="cursor:pointer"><title>lb, 1620s: 4.0000 hits · open workbook examples · 0 workbook examples</title></rect></a>
+<text x="93.5" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1620</text>
+<a href="../examples.html?word=syster&amp;resource=lb&amp;decade=1640" target="_blank" rel="noopener noreferrer"><rect x="121.1" y="339.8" width="12.9" height="0.2" fill="#2678a9" style="cursor:pointer"><title>lb, 1640s: 12.0000 hits · open workbook examples · 0 workbook examples</title></rect></a>
+<text x="127.5" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1640</text>
+<text x="161.6" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1660</text>
+<text x="195.6" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1680</text>
+<a href="../examples.html?word=syster&amp;resource=lb&amp;decade=1700" target="_blank" rel="noopener noreferrer"><rect x="223.1" y="337.1" width="12.9" height="2.9" fill="#2678a9" style="cursor:pointer"><title>lb, 1700s: 172.0000 hits · open workbook examples · 172 workbook examples</title></rect></a>
+<text x="229.6" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1700</text>
+<a href="../examples.html?word=syster&amp;resource=lb&amp;decade=1710" target="_blank" rel="noopener noreferrer"><rect x="240.2" y="339.8" width="12.9" height="0.2" fill="#2678a9" style="cursor:pointer"><title>lb, 1710s: 12.0000 hits · open workbook examples · 12 workbook examples</title></rect></a>
+<text x="263.6" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1720</text>
+<a href="../examples.html?word=syster&amp;resource=lb&amp;decade=1730" target="_blank" rel="noopener noreferrer"><rect x="274.2" y="340.0" width="12.9" height="0.0" fill="#2678a9" style="cursor:pointer"><title>lb, 1730s: 1.0000 hits · open workbook examples · 1 workbook examples</title></rect></a>
+<a href="../examples.html?word=syster&amp;resource=lb&amp;decade=1740" target="_blank" rel="noopener noreferrer"><rect x="291.2" y="339.9" width="12.9" height="0.1" fill="#2678a9" style="cursor:pointer"><title>lb, 1740s: 8.0000 hits · open workbook examples · 8 workbook examples</title></rect></a>
+<text x="297.7" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1740</text>
+<a href="../examples.html?word=syster&amp;resource=lb&amp;decade=1750" target="_blank" rel="noopener noreferrer"><rect x="308.2" y="339.9" width="12.9" height="0.1" fill="#2678a9" style="cursor:pointer"><title>lb, 1750s: 7.0000 hits · open workbook examples · 7 workbook examples</title></rect></a>
+<text x="331.7" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1760</text>
+<a href="../examples.html?word=syster&amp;resource=lb&amp;decade=1770" target="_blank" rel="noopener noreferrer"><rect x="342.2" y="339.9" width="12.9" height="0.1" fill="#2678a9" style="cursor:pointer"><title>lb, 1770s: 3.0000 hits · open workbook examples · 3 workbook examples</title></rect></a>
+<a href="../examples.html?word=syster&amp;resource=lb&amp;decade=1780" target="_blank" rel="noopener noreferrer"><rect x="359.2" y="340.0" width="12.9" height="0.0" fill="#2678a9" style="cursor:pointer"><title>lb, 1780s: 1.0000 hits · open workbook examples · 1 workbook examples</title></rect></a>
+<text x="365.7" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1780</text>
+<a href="../examples.html?word=syster&amp;resource=lb&amp;decade=1790" target="_blank" rel="noopener noreferrer"><rect x="376.2" y="339.5" width="12.9" height="0.5" fill="#2678a9" style="cursor:pointer"><title>lb, 1790s: 30.0000 hits · open workbook examples · 30 workbook examples</title></rect></a>
+<a href="../examples.html?word=syster&amp;resource=lb&amp;decade=1800" target="_blank" rel="noopener noreferrer"><rect x="393.3" y="339.2" width="12.9" height="0.8" fill="#2678a9" style="cursor:pointer"><title>lb, 1800s: 49.0000 hits · open workbook examples · 49 workbook examples</title></rect></a>
+<text x="399.7" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1800</text>
+<a href="../examples.html?word=syster&amp;resource=lb&amp;decade=1810" target="_blank" rel="noopener noreferrer"><rect x="410.3" y="339.3" width="12.9" height="0.7" fill="#2678a9" style="cursor:pointer"><title>lb, 1810s: 41.0000 hits · open workbook examples · 41 workbook examples</title></rect></a>
+<a href="../examples.html?word=syster&amp;resource=lb&amp;decade=1820" target="_blank" rel="noopener noreferrer"><rect x="427.3" y="337.3" width="12.9" height="2.7" fill="#2678a9" style="cursor:pointer"><title>lb, 1820s: 159.0000 hits · open workbook examples · 159 workbook examples</title></rect></a>
+<text x="433.8" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1820</text>
+<a href="../examples.html?word=syster&amp;resource=lb&amp;decade=1830" target="_blank" rel="noopener noreferrer"><rect x="444.3" y="305.2" width="12.9" height="34.8" fill="#2678a9" style="cursor:pointer"><title>lb, 1830s: 2,083.0000 hits · open workbook examples · 2,083 workbook examples</title></rect></a>
+<a href="../examples.html?word=syster&amp;resource=lb&amp;decade=1840" target="_blank" rel="noopener noreferrer"><rect x="461.3" y="236.6" width="12.9" height="103.4" fill="#2678a9" style="cursor:pointer"><title>lb, 1840s: 6,181.0000 hits · open workbook examples · 6,179 workbook examples</title></rect></a>
+<text x="467.8" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1840</text>
+<a href="../examples.html?word=syster&amp;resource=lb&amp;decade=1850" target="_blank" rel="noopener noreferrer"><rect x="478.3" y="253.7" width="12.9" height="86.3" fill="#2678a9" style="cursor:pointer"><title>lb, 1850s: 5,162.0000 hits · open workbook examples · 5,162 workbook examples</title></rect></a>
+<a href="../examples.html?word=syster&amp;resource=lb&amp;decade=1860" target="_blank" rel="noopener noreferrer"><rect x="495.3" y="233.1" width="12.9" height="106.9" fill="#2678a9" style="cursor:pointer"><title>lb, 1860s: 6,391.0000 hits · open workbook examples · 6,391 workbook examples</title></rect></a>
+<text x="501.8" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1860</text>
+<a href="../examples.html?word=syster&amp;resource=lb&amp;decade=1870" target="_blank" rel="noopener noreferrer"><rect x="512.3" y="223.2" width="12.9" height="116.8" fill="#2678a9" style="cursor:pointer"><title>lb, 1870s: 6,986.0000 hits · open workbook examples · 6,984 workbook examples</title></rect></a>
+<a href="../examples.html?word=syster&amp;resource=lb&amp;decade=1880" target="_blank" rel="noopener noreferrer"><rect x="529.4" y="201.5" width="12.9" height="138.5" fill="#2678a9" style="cursor:pointer"><title>lb, 1880s: 8,285.0000 hits · open workbook examples · 8,285 workbook examples</title></rect></a>
+<text x="535.8" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1880</text>
+<a href="../examples.html?word=syster&amp;resource=lb&amp;decade=1890" target="_blank" rel="noopener noreferrer"><rect x="546.4" y="150.0" width="12.9" height="190.0" fill="#2678a9" style="cursor:pointer"><title>lb, 1890s: 11,363.0000 hits · open workbook examples · 11,359 workbook examples</title></rect></a>
+<a href="../examples.html?word=syster&amp;resource=lb&amp;decade=1900" target="_blank" rel="noopener noreferrer"><rect x="563.4" y="282.2" width="12.9" height="57.8" fill="#2678a9" style="cursor:pointer"><title>lb, 1900s: 3,457.0000 hits · open workbook examples · 3,456 workbook examples</title></rect></a>
+<text x="569.8" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1900</text>
+<a href="../examples.html?word=syster&amp;resource=lb&amp;decade=1910" target="_blank" rel="noopener noreferrer"><rect x="580.4" y="286.1" width="12.9" height="53.9" fill="#2678a9" style="cursor:pointer"><title>lb, 1910s: 3,223.0000 hits · open workbook examples · 3,223 workbook examples</title></rect></a>
+<a href="../examples.html?word=syster&amp;resource=lb&amp;decade=1920" target="_blank" rel="noopener noreferrer"><rect x="597.4" y="292.1" width="12.9" height="47.9" fill="#2678a9" style="cursor:pointer"><title>lb, 1920s: 2,866.0000 hits · open workbook examples · 2,866 workbook examples</title></rect></a>
+<text x="603.9" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1920</text>
+<a href="../examples.html?word=syster&amp;resource=lb&amp;decade=1930" target="_blank" rel="noopener noreferrer"><rect x="614.4" y="283.1" width="12.9" height="56.9" fill="#2678a9" style="cursor:pointer"><title>lb, 1930s: 3,401.0000 hits · open workbook examples · 3,401 workbook examples</title></rect></a>
+<a href="../examples.html?word=syster&amp;resource=lb&amp;decade=1940" target="_blank" rel="noopener noreferrer"><rect x="631.4" y="326.4" width="12.9" height="13.6" fill="#2678a9" style="cursor:pointer"><title>lb, 1940s: 813.0000 hits · open workbook examples · 813 workbook examples</title></rect></a>
+<text x="637.9" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1940</text>
+<a href="../examples.html?word=syster&amp;resource=lb&amp;decade=1950" target="_blank" rel="noopener noreferrer"><rect x="648.4" y="338.2" width="12.9" height="1.8" fill="#2678a9" style="cursor:pointer"><title>lb, 1950s: 110.0000 hits · open workbook examples · 110 workbook examples</title></rect></a>
+<a href="../examples.html?word=syster&amp;resource=lb&amp;decade=1960" target="_blank" rel="noopener noreferrer"><rect x="665.5" y="339.6" width="12.9" height="0.4" fill="#2678a9" style="cursor:pointer"><title>lb, 1960s: 22.0000 hits · open workbook examples · 22 workbook examples</title></rect></a>
+<text x="671.9" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1960</text>
+<a href="../examples.html?word=syster&amp;resource=lb&amp;decade=1970" target="_blank" rel="noopener noreferrer"><rect x="682.5" y="339.8" width="12.9" height="0.2" fill="#2678a9" style="cursor:pointer"><title>lb, 1970s: 14.0000 hits · open workbook examples · 14 workbook examples</title></rect></a>
+<a href="../examples.html?word=syster&amp;resource=lb&amp;decade=1980" target="_blank" rel="noopener noreferrer"><rect x="699.5" y="339.8" width="12.9" height="0.2" fill="#2678a9" style="cursor:pointer"><title>lb, 1980s: 14.0000 hits · open workbook examples · 14 workbook examples</title></rect></a>
+<text x="705.9" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1980</text>
+<a href="../examples.html?word=syster&amp;resource=lb&amp;decade=1990" target="_blank" rel="noopener noreferrer"><rect x="716.5" y="339.7" width="12.9" height="0.3" fill="#2678a9" style="cursor:pointer"><title>lb, 1990s: 19.0000 hits · open workbook examples · 19 workbook examples</title></rect></a>
+<a href="../examples.html?word=syster&amp;resource=lb&amp;decade=2000" target="_blank" rel="noopener noreferrer"><rect x="733.5" y="339.3" width="12.9" height="0.7" fill="#2678a9" style="cursor:pointer"><title>lb, 2000s: 39.0000 hits · open workbook examples · 39 workbook examples</title></rect></a>
+<text x="740.0" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">2000</text>
+<a href="../examples.html?word=syster&amp;resource=lb&amp;decade=2010" target="_blank" rel="noopener noreferrer"><rect x="750.5" y="339.1" width="12.9" height="0.9" fill="#2678a9" style="cursor:pointer"><title>lb, 2010s: 56.0000 hits · open workbook examples · 56 workbook examples</title></rect></a>
+<a href="../examples.html?word=syster&amp;resource=lb&amp;decade=2020" target="_blank" rel="noopener noreferrer"><rect x="767.5" y="338.2" width="12.9" height="1.8" fill="#2678a9" style="cursor:pointer"><title>lb, 2020s: 110.0000 hits · open workbook examples · 110 workbook examples</title></rect></a>
+<text x="774.0" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">2020</text>
+<line x1="872.5" y1="340.0" x2="1570.0" y2="340.0" stroke="#e1e7eb" />
+<text x="864.5" y="344.0" font-size="11" text-anchor="end" fill="#657381" font-weight="normal">0</text>
+<line x1="872.5" y1="245.0" x2="1570.0" y2="245.0" stroke="#e1e7eb" />
+<text x="864.5" y="249.0" font-size="11" text-anchor="end" fill="#657381" font-weight="normal">186</text>
+<line x1="872.5" y1="150.0" x2="1570.0" y2="150.0" stroke="#e1e7eb" />
+<text x="864.5" y="154.0" font-size="11" text-anchor="end" fill="#657381" font-weight="normal">372</text>
+<a href="../examples.html?word=syster&amp;resource=lb&amp;decade=1620" target="_blank" rel="noopener noreferrer"><rect x="874.5" y="171.8" width="12.9" height="168.2" fill="#2678a9" style="cursor:pointer"><title>lb, 1620s: 329.0015 hits/million · open workbook examples · 0 workbook examples</title></rect></a>
+<text x="881.0" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1620</text>
+<a href="../examples.html?word=syster&amp;resource=lb&amp;decade=1640" target="_blank" rel="noopener noreferrer"><rect x="908.6" y="212.8" width="12.9" height="127.2" fill="#2678a9" style="cursor:pointer"><title>lb, 1640s: 248.9162 hits/million · open workbook examples · 0 workbook examples</title></rect></a>
+<text x="915.0" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1640</text>
+<a href="../examples.html?word=syster&amp;resource=lb&amp;decade=1700" target="_blank" rel="noopener noreferrer"><rect x="1010.6" y="291.1" width="12.9" height="48.9" fill="#2678a9" style="cursor:pointer"><title>lb, 1700s: 95.7306 hits/million · open workbook examples · 172 workbook examples</title></rect></a>
+<text x="1017.1" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1700</text>
+<a href="../examples.html?word=syster&amp;resource=lb&amp;decade=1710" target="_blank" rel="noopener noreferrer"><rect x="1027.7" y="245.1" width="12.9" height="94.9" fill="#2678a9" style="cursor:pointer"><title>lb, 1710s: 185.6464 hits/million · open workbook examples · 12 workbook examples</title></rect></a>
+<a href="../examples.html?word=syster&amp;resource=lb&amp;decade=1730" target="_blank" rel="noopener noreferrer"><rect x="1061.7" y="324.7" width="12.9" height="15.3" fill="#2678a9" style="cursor:pointer"><title>lb, 1730s: 29.9572 hits/million · open workbook examples · 1 workbook examples</title></rect></a>
+<a href="../examples.html?word=syster&amp;resource=lb&amp;decade=1740" target="_blank" rel="noopener noreferrer"><rect x="1078.7" y="254.0" width="12.9" height="86.0" fill="#2678a9" style="cursor:pointer"><title>lb, 1740s: 168.2050 hits/million · open workbook examples · 8 workbook examples</title></rect></a>
+<text x="1085.2" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1740</text>
+<a href="../examples.html?word=syster&amp;resource=lb&amp;decade=1750" target="_blank" rel="noopener noreferrer"><rect x="1095.7" y="336.7" width="12.9" height="3.3" fill="#2678a9" style="cursor:pointer"><title>lb, 1750s: 6.3871 hits/million · open workbook examples · 7 workbook examples</title></rect></a>
+<text x="1119.2" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1760</text>
+<a href="../examples.html?word=syster&amp;resource=lb&amp;decade=1770" target="_blank" rel="noopener noreferrer"><rect x="1129.7" y="318.1" width="12.9" height="21.9" fill="#2678a9" style="cursor:pointer"><title>lb, 1770s: 42.9142 hits/million · open workbook examples · 3 workbook examples</title></rect></a>
+<a href="../examples.html?word=syster&amp;resource=lb&amp;decade=1780" target="_blank" rel="noopener noreferrer"><rect x="1146.7" y="329.5" width="12.9" height="10.5" fill="#2678a9" style="cursor:pointer"><title>lb, 1780s: 20.5672 hits/million · open workbook examples · 1 workbook examples</title></rect></a>
+<text x="1153.2" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1780</text>
+<a href="../examples.html?word=syster&amp;resource=lb&amp;decade=1790" target="_blank" rel="noopener noreferrer"><rect x="1163.7" y="320.6" width="12.9" height="19.4" fill="#2678a9" style="cursor:pointer"><title>lb, 1790s: 38.0143 hits/million · open workbook examples · 30 workbook examples</title></rect></a>
+<a href="../examples.html?word=syster&amp;resource=lb&amp;decade=1800" target="_blank" rel="noopener noreferrer"><rect x="1180.8" y="306.0" width="12.9" height="34.0" fill="#2678a9" style="cursor:pointer"><title>lb, 1800s: 66.4910 hits/million · open workbook examples · 49 workbook examples</title></rect></a>
+<text x="1187.2" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1800</text>
+<a href="../examples.html?word=syster&amp;resource=lb&amp;decade=1810" target="_blank" rel="noopener noreferrer"><rect x="1197.8" y="324.7" width="12.9" height="15.3" fill="#2678a9" style="cursor:pointer"><title>lb, 1810s: 29.9403 hits/million · open workbook examples · 41 workbook examples</title></rect></a>
+<a href="../examples.html?word=syster&amp;resource=lb&amp;decade=1820" target="_blank" rel="noopener noreferrer"><rect x="1214.8" y="243.5" width="12.9" height="96.5" fill="#2678a9" style="cursor:pointer"><title>lb, 1820s: 188.7792 hits/million · open workbook examples · 159 workbook examples</title></rect></a>
+<text x="1221.2" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1820</text>
+<a href="../examples.html?word=syster&amp;resource=lb&amp;decade=1830" target="_blank" rel="noopener noreferrer"><rect x="1231.8" y="248.6" width="12.9" height="91.4" fill="#2678a9" style="cursor:pointer"><title>lb, 1830s: 178.7374 hits/million · open workbook examples · 2,083 workbook examples</title></rect></a>
+<a href="../examples.html?word=syster&amp;resource=lb&amp;decade=1840" target="_blank" rel="noopener noreferrer"><rect x="1248.8" y="238.0" width="12.9" height="102.0" fill="#2678a9" style="cursor:pointer"><title>lb, 1840s: 199.4782 hits/million · open workbook examples · 6,179 workbook examples</title></rect></a>
+<text x="1255.3" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1840</text>
+<a href="../examples.html?word=syster&amp;resource=lb&amp;decade=1850" target="_blank" rel="noopener noreferrer"><rect x="1265.8" y="230.3" width="12.9" height="109.7" fill="#2678a9" style="cursor:pointer"><title>lb, 1850s: 214.5848 hits/million · open workbook examples · 5,162 workbook examples</title></rect></a>
+<a href="../examples.html?word=syster&amp;resource=lb&amp;decade=1860" target="_blank" rel="noopener noreferrer"><rect x="1282.8" y="231.3" width="12.9" height="108.7" fill="#2678a9" style="cursor:pointer"><title>lb, 1860s: 212.5627 hits/million · open workbook examples · 6,391 workbook examples</title></rect></a>
+<text x="1289.3" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1860</text>
+<a href="../examples.html?word=syster&amp;resource=lb&amp;decade=1870" target="_blank" rel="noopener noreferrer"><rect x="1299.8" y="236.8" width="12.9" height="103.2" fill="#2678a9" style="cursor:pointer"><title>lb, 1870s: 201.8761 hits/million · open workbook examples · 6,984 workbook examples</title></rect></a>
+<a href="../examples.html?word=syster&amp;resource=lb&amp;decade=1880" target="_blank" rel="noopener noreferrer"><rect x="1316.9" y="263.7" width="12.9" height="76.3" fill="#2678a9" style="cursor:pointer"><title>lb, 1880s: 149.2472 hits/million · open workbook examples · 8,285 workbook examples</title></rect></a>
+<text x="1323.3" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1880</text>
+<a href="../examples.html?word=syster&amp;resource=lb&amp;decade=1890" target="_blank" rel="noopener noreferrer"><rect x="1333.9" y="246.6" width="12.9" height="93.4" fill="#2678a9" style="cursor:pointer"><title>lb, 1890s: 182.6282 hits/million · open workbook examples · 11,359 workbook examples</title></rect></a>
+<a href="../examples.html?word=syster&amp;resource=lb&amp;decade=1900" target="_blank" rel="noopener noreferrer"><rect x="1350.9" y="266.5" width="12.9" height="73.5" fill="#2678a9" style="cursor:pointer"><title>lb, 1900s: 143.6907 hits/million · open workbook examples · 3,456 workbook examples</title></rect></a>
+<text x="1357.3" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1900</text>
+<a href="../examples.html?word=syster&amp;resource=lb&amp;decade=1910" target="_blank" rel="noopener noreferrer"><rect x="1367.9" y="260.2" width="12.9" height="79.8" fill="#2678a9" style="cursor:pointer"><title>lb, 1910s: 156.0519 hits/million · open workbook examples · 3,223 workbook examples</title></rect></a>
+<a href="../examples.html?word=syster&amp;resource=lb&amp;decade=1920" target="_blank" rel="noopener noreferrer"><rect x="1384.9" y="265.5" width="12.9" height="74.5" fill="#2678a9" style="cursor:pointer"><title>lb, 1920s: 145.7443 hits/million · open workbook examples · 2,866 workbook examples</title></rect></a>
+<text x="1391.4" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1920</text>
+<a href="../examples.html?word=syster&amp;resource=lb&amp;decade=1930" target="_blank" rel="noopener noreferrer"><rect x="1401.9" y="232.9" width="12.9" height="107.1" fill="#2678a9" style="cursor:pointer"><title>lb, 1930s: 209.4971 hits/million · open workbook examples · 3,401 workbook examples</title></rect></a>
+<a href="../examples.html?word=syster&amp;resource=lb&amp;decade=1940" target="_blank" rel="noopener noreferrer"><rect x="1418.9" y="247.7" width="12.9" height="92.3" fill="#2678a9" style="cursor:pointer"><title>lb, 1940s: 180.5401 hits/million · open workbook examples · 813 workbook examples</title></rect></a>
+<text x="1425.4" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1940</text>
+<a href="../examples.html?word=syster&amp;resource=lb&amp;decade=1950" target="_blank" rel="noopener noreferrer"><rect x="1435.9" y="263.8" width="12.9" height="76.2" fill="#2678a9" style="cursor:pointer"><title>lb, 1950s: 149.1224 hits/million · open workbook examples · 110 workbook examples</title></rect></a>
+<a href="../examples.html?word=syster&amp;resource=lb&amp;decade=1960" target="_blank" rel="noopener noreferrer"><rect x="1453.0" y="326.0" width="12.9" height="14.0" fill="#2678a9" style="cursor:pointer"><title>lb, 1960s: 27.3955 hits/million · open workbook examples · 22 workbook examples</title></rect></a>
+<text x="1459.4" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1960</text>
+<a href="../examples.html?word=syster&amp;resource=lb&amp;decade=1970" target="_blank" rel="noopener noreferrer"><rect x="1470.0" y="259.1" width="12.9" height="80.9" fill="#2678a9" style="cursor:pointer"><title>lb, 1970s: 158.1957 hits/million · open workbook examples · 14 workbook examples</title></rect></a>
+<a href="../examples.html?word=syster&amp;resource=lb&amp;decade=1980" target="_blank" rel="noopener noreferrer"><rect x="1487.0" y="323.8" width="12.9" height="16.2" fill="#2678a9" style="cursor:pointer"><title>lb, 1980s: 31.6946 hits/million · open workbook examples · 14 workbook examples</title></rect></a>
+<text x="1493.4" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1980</text>
+<a href="../examples.html?word=syster&amp;resource=lb&amp;decade=1990" target="_blank" rel="noopener noreferrer"><rect x="1504.0" y="306.5" width="12.9" height="33.5" fill="#2678a9" style="cursor:pointer"><title>lb, 1990s: 65.6279 hits/million · open workbook examples · 19 workbook examples</title></rect></a>
+<a href="../examples.html?word=syster&amp;resource=lb&amp;decade=2000" target="_blank" rel="noopener noreferrer"><rect x="1521.0" y="150.0" width="12.9" height="190.0" fill="#2678a9" style="cursor:pointer"><title>lb, 2000s: 371.6657 hits/million · open workbook examples · 39 workbook examples</title></rect></a>
+<text x="1527.5" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">2000</text>
+<a href="../examples.html?word=syster&amp;resource=lb&amp;decade=2010" target="_blank" rel="noopener noreferrer"><rect x="1538.0" y="259.5" width="12.9" height="80.5" fill="#2678a9" style="cursor:pointer"><title>lb, 2010s: 157.4462 hits/million · open workbook examples · 56 workbook examples</title></rect></a>
+<a href="../examples.html?word=syster&amp;resource=lb&amp;decade=2020" target="_blank" rel="noopener noreferrer"><rect x="1555.0" y="221.8" width="12.9" height="118.2" fill="#2678a9" style="cursor:pointer"><title>lb, 2020s: 231.1779 hits/million · open workbook examples · 110 workbook examples</title></rect></a>
+<text x="1561.5" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">2020</text>
+<text x="85.0" y="388.0" font-size="16" text-anchor="start" fill="#d46a24" font-weight="bold">tkr · 1860–1979</text>
+<line x1="85.0" y1="590.0" x2="782.5" y2="590.0" stroke="#e1e7eb" />
+<text x="77.0" y="594.0" font-size="11" text-anchor="end" fill="#657381" font-weight="normal">0</text>
+<line x1="85.0" y1="495.0" x2="782.5" y2="495.0" stroke="#e1e7eb" />
+<text x="77.0" y="499.0" font-size="11" text-anchor="end" fill="#657381" font-weight="normal">164</text>
+<line x1="85.0" y1="400.0" x2="782.5" y2="400.0" stroke="#e1e7eb" />
+<text x="77.0" y="404.0" font-size="11" text-anchor="end" fill="#657381" font-weight="normal">327</text>
+<a href="../examples.html?word=syster&amp;resource=tkr&amp;decade=1860" target="_blank" rel="noopener noreferrer"><rect x="92.0" y="566.8" width="44.2" height="23.2" fill="#d46a24" style="cursor:pointer"><title>tkr, 1860s: 40.0000 hits · open workbook examples · 40 workbook examples</title></rect></a>
+<text x="114.1" y="607.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1860</text>
+<a href="../examples.html?word=syster&amp;resource=tkr&amp;decade=1870" target="_blank" rel="noopener noreferrer"><rect x="150.1" y="545.8" width="44.2" height="44.2" fill="#d46a24" style="cursor:pointer"><title>tkr, 1870s: 76.0000 hits · open workbook examples · 76 workbook examples</title></rect></a>
+<text x="172.2" y="607.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1870</text>
+<a href="../examples.html?word=syster&amp;resource=tkr&amp;decade=1880" target="_blank" rel="noopener noreferrer"><rect x="208.2" y="538.9" width="44.2" height="51.1" fill="#d46a24" style="cursor:pointer"><title>tkr, 1880s: 88.0000 hits · open workbook examples · 88 workbook examples</title></rect></a>
+<text x="230.3" y="607.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1880</text>
+<a href="../examples.html?word=syster&amp;resource=tkr&amp;decade=1890" target="_blank" rel="noopener noreferrer"><rect x="266.4" y="529.6" width="44.2" height="60.4" fill="#d46a24" style="cursor:pointer"><title>tkr, 1890s: 104.0000 hits · open workbook examples · 104 workbook examples</title></rect></a>
+<text x="288.4" y="607.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1890</text>
+<a href="../examples.html?word=syster&amp;resource=tkr&amp;decade=1900" target="_blank" rel="noopener noreferrer"><rect x="324.5" y="510.4" width="44.2" height="79.6" fill="#d46a24" style="cursor:pointer"><title>tkr, 1900s: 137.0000 hits · open workbook examples · 137 workbook examples</title></rect></a>
+<text x="346.6" y="607.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1900</text>
+<a href="../examples.html?word=syster&amp;resource=tkr&amp;decade=1910" target="_blank" rel="noopener noreferrer"><rect x="382.6" y="400.0" width="44.2" height="190.0" fill="#d46a24" style="cursor:pointer"><title>tkr, 1910s: 327.0000 hits · open workbook examples · 327 workbook examples</title></rect></a>
+<text x="404.7" y="607.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1910</text>
+<a href="../examples.html?word=syster&amp;resource=tkr&amp;decade=1920" target="_blank" rel="noopener noreferrer"><rect x="440.7" y="498.8" width="44.2" height="91.2" fill="#d46a24" style="cursor:pointer"><title>tkr, 1920s: 157.0000 hits · open workbook examples · 157 workbook examples</title></rect></a>
+<text x="462.8" y="607.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1920</text>
+<a href="../examples.html?word=syster&amp;resource=tkr&amp;decade=1930" target="_blank" rel="noopener noreferrer"><rect x="498.9" y="458.1" width="44.2" height="131.9" fill="#d46a24" style="cursor:pointer"><title>tkr, 1930s: 227.0000 hits · open workbook examples · 227 workbook examples</title></rect></a>
+<text x="520.9" y="607.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1930</text>
+<a href="../examples.html?word=syster&amp;resource=tkr&amp;decade=1940" target="_blank" rel="noopener noreferrer"><rect x="557.0" y="462.8" width="44.2" height="127.2" fill="#d46a24" style="cursor:pointer"><title>tkr, 1940s: 219.0000 hits · open workbook examples · 218 workbook examples</title></rect></a>
+<text x="579.1" y="607.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1940</text>
+<a href="../examples.html?word=syster&amp;resource=tkr&amp;decade=1950" target="_blank" rel="noopener noreferrer"><rect x="615.1" y="493.5" width="44.2" height="96.5" fill="#d46a24" style="cursor:pointer"><title>tkr, 1950s: 166.0000 hits · open workbook examples · 166 workbook examples</title></rect></a>
+<text x="637.2" y="607.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1950</text>
+<a href="../examples.html?word=syster&amp;resource=tkr&amp;decade=1960" target="_blank" rel="noopener noreferrer"><rect x="673.2" y="500.5" width="44.2" height="89.5" fill="#d46a24" style="cursor:pointer"><title>tkr, 1960s: 154.0000 hits · open workbook examples · 154 workbook examples</title></rect></a>
+<text x="695.3" y="607.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1960</text>
+<a href="../examples.html?word=syster&amp;resource=tkr&amp;decade=1970" target="_blank" rel="noopener noreferrer"><rect x="731.3" y="577.8" width="44.2" height="12.2" fill="#d46a24" style="cursor:pointer"><title>tkr, 1970s: 21.0000 hits · open workbook examples · 21 workbook examples</title></rect></a>
+<text x="753.4" y="607.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1970</text>
+<line x1="872.5" y1="590.0" x2="1570.0" y2="590.0" stroke="#e1e7eb" />
+<text x="864.5" y="594.0" font-size="11" text-anchor="end" fill="#657381" font-weight="normal">0</text>
+<line x1="872.5" y1="495.0" x2="1570.0" y2="495.0" stroke="#e1e7eb" />
+<text x="864.5" y="499.0" font-size="11" text-anchor="end" fill="#657381" font-weight="normal">1.4</text>
+<line x1="872.5" y1="400.0" x2="1570.0" y2="400.0" stroke="#e1e7eb" />
+<text x="864.5" y="404.0" font-size="11" text-anchor="end" fill="#657381" font-weight="normal">2.8</text>
+<a href="../examples.html?word=syster&amp;resource=tkr&amp;decade=1860" target="_blank" rel="noopener noreferrer"><rect x="879.5" y="400.0" width="44.2" height="190.0" fill="#d46a24" style="cursor:pointer"><title>tkr, 1860s: 2.7969 hits/million · open workbook examples · 40 workbook examples</title></rect></a>
+<text x="901.6" y="607.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1860</text>
+<a href="../examples.html?word=syster&amp;resource=tkr&amp;decade=1870" target="_blank" rel="noopener noreferrer"><rect x="937.6" y="483.9" width="44.2" height="106.1" fill="#d46a24" style="cursor:pointer"><title>tkr, 1870s: 1.5618 hits/million · open workbook examples · 76 workbook examples</title></rect></a>
+<text x="959.7" y="607.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1870</text>
+<a href="../examples.html?word=syster&amp;resource=tkr&amp;decade=1880" target="_blank" rel="noopener noreferrer"><rect x="995.7" y="458.0" width="44.2" height="132.0" fill="#d46a24" style="cursor:pointer"><title>tkr, 1880s: 1.9426 hits/million · open workbook examples · 88 workbook examples</title></rect></a>
+<text x="1017.8" y="607.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1880</text>
+<a href="../examples.html?word=syster&amp;resource=tkr&amp;decade=1890" target="_blank" rel="noopener noreferrer"><rect x="1053.8" y="461.5" width="44.2" height="128.5" fill="#d46a24" style="cursor:pointer"><title>tkr, 1890s: 1.8912 hits/million · open workbook examples · 104 workbook examples</title></rect></a>
+<text x="1075.9" y="607.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1890</text>
+<a href="../examples.html?word=syster&amp;resource=tkr&amp;decade=1900" target="_blank" rel="noopener noreferrer"><rect x="1112.0" y="488.4" width="44.2" height="101.6" fill="#d46a24" style="cursor:pointer"><title>tkr, 1900s: 1.4954 hits/million · open workbook examples · 137 workbook examples</title></rect></a>
+<text x="1134.1" y="607.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1900</text>
+<a href="../examples.html?word=syster&amp;resource=tkr&amp;decade=1910" target="_blank" rel="noopener noreferrer"><rect x="1170.1" y="438.3" width="44.2" height="151.7" fill="#d46a24" style="cursor:pointer"><title>tkr, 1910s: 2.2328 hits/million · open workbook examples · 327 workbook examples</title></rect></a>
+<text x="1192.2" y="607.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1910</text>
+<a href="../examples.html?word=syster&amp;resource=tkr&amp;decade=1920" target="_blank" rel="noopener noreferrer"><rect x="1228.2" y="507.4" width="44.2" height="82.6" fill="#d46a24" style="cursor:pointer"><title>tkr, 1920s: 1.2162 hits/million · open workbook examples · 157 workbook examples</title></rect></a>
+<text x="1250.3" y="607.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1920</text>
+<a href="../examples.html?word=syster&amp;resource=tkr&amp;decade=1930" target="_blank" rel="noopener noreferrer"><rect x="1286.3" y="471.5" width="44.2" height="118.5" fill="#d46a24" style="cursor:pointer"><title>tkr, 1930s: 1.7449 hits/million · open workbook examples · 227 workbook examples</title></rect></a>
+<text x="1308.4" y="607.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1930</text>
+<a href="../examples.html?word=syster&amp;resource=tkr&amp;decade=1940" target="_blank" rel="noopener noreferrer"><rect x="1344.5" y="478.3" width="44.2" height="111.7" fill="#d46a24" style="cursor:pointer"><title>tkr, 1940s: 1.6438 hits/million · open workbook examples · 218 workbook examples</title></rect></a>
+<text x="1366.6" y="607.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1940</text>
+<a href="../examples.html?word=syster&amp;resource=tkr&amp;decade=1950" target="_blank" rel="noopener noreferrer"><rect x="1402.6" y="506.4" width="44.2" height="83.6" fill="#d46a24" style="cursor:pointer"><title>tkr, 1950s: 1.2302 hits/million · open workbook examples · 166 workbook examples</title></rect></a>
+<text x="1424.7" y="607.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1950</text>
+<a href="../examples.html?word=syster&amp;resource=tkr&amp;decade=1960" target="_blank" rel="noopener noreferrer"><rect x="1460.7" y="518.3" width="44.2" height="71.7" fill="#d46a24" style="cursor:pointer"><title>tkr, 1960s: 1.0553 hits/million · open workbook examples · 154 workbook examples</title></rect></a>
+<text x="1482.8" y="607.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1960</text>
+<a href="../examples.html?word=syster&amp;resource=tkr&amp;decade=1970" target="_blank" rel="noopener noreferrer"><rect x="1518.8" y="507.2" width="44.2" height="82.8" fill="#d46a24" style="cursor:pointer"><title>tkr, 1970s: 1.2191 hits/million · open workbook examples · 21 workbook examples</title></rect></a>
+<text x="1540.9" y="607.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1970</text>
+<text x="85.0" y="638.0" font-size="16" text-anchor="start" fill="#2e8964" font-weight="bold">kubhist2 · 1870–1909</text>
+<line x1="85.0" y1="840.0" x2="782.5" y2="840.0" stroke="#e1e7eb" />
+<text x="77.0" y="844.0" font-size="11" text-anchor="end" fill="#657381" font-weight="normal">0</text>
+<line x1="85.0" y1="745.0" x2="782.5" y2="745.0" stroke="#e1e7eb" />
+<text x="77.0" y="749.0" font-size="11" text-anchor="end" fill="#657381" font-weight="normal">37k</text>
+<line x1="85.0" y1="650.0" x2="782.5" y2="650.0" stroke="#e1e7eb" />
+<text x="77.0" y="654.0" font-size="11" text-anchor="end" fill="#657381" font-weight="normal">74k</text>
+<a href="../examples.html?word=syster&amp;resource=kubhist2&amp;decade=1870" target="_blank" rel="noopener noreferrer"><rect x="105.9" y="828.6" width="132.5" height="11.4" fill="#2e8964" style="cursor:pointer"><title>kubhist2, 1870s: 4,422.0000 hits · open workbook examples · 2,186 workbook examples</title></rect></a>
+<text x="172.2" y="857.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1870</text>
+<a href="../examples.html?word=syster&amp;resource=kubhist2&amp;decade=1880" target="_blank" rel="noopener noreferrer"><rect x="280.3" y="650.0" width="132.5" height="190.0" fill="#2e8964" style="cursor:pointer"><title>kubhist2, 1880s: 73,846.0000 hits · open workbook examples · 73,826 workbook examples</title></rect></a>
+<text x="346.6" y="857.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1880</text>
+<a href="../examples.html?word=syster&amp;resource=kubhist2&amp;decade=1890" target="_blank" rel="noopener noreferrer"><rect x="454.7" y="688.2" width="132.5" height="151.8" fill="#2e8964" style="cursor:pointer"><title>kubhist2, 1890s: 59,007.0000 hits · open workbook examples · 58,996 workbook examples</title></rect></a>
+<text x="520.9" y="857.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1890</text>
+<a href="../examples.html?word=syster&amp;resource=kubhist2&amp;decade=1900" target="_blank" rel="noopener noreferrer"><rect x="629.1" y="830.1" width="132.5" height="9.9" fill="#2e8964" style="cursor:pointer"><title>kubhist2, 1900s: 3,834.0000 hits · open workbook examples · 3,834 workbook examples</title></rect></a>
+<text x="695.3" y="857.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1900</text>
+<line x1="872.5" y1="840.0" x2="1570.0" y2="840.0" stroke="#e1e7eb" />
+<text x="864.5" y="844.0" font-size="11" text-anchor="end" fill="#657381" font-weight="normal">0</text>
+<line x1="872.5" y1="745.0" x2="1570.0" y2="745.0" stroke="#e1e7eb" />
+<text x="864.5" y="749.0" font-size="11" text-anchor="end" fill="#657381" font-weight="normal">28.4</text>
+<line x1="872.5" y1="650.0" x2="1570.0" y2="650.0" stroke="#e1e7eb" />
+<text x="864.5" y="654.0" font-size="11" text-anchor="end" fill="#657381" font-weight="normal">56.9</text>
+<a href="../examples.html?word=syster&amp;resource=kubhist2&amp;decade=1870" target="_blank" rel="noopener noreferrer"><rect x="893.4" y="687.4" width="132.5" height="152.6" fill="#2e8964" style="cursor:pointer"><title>kubhist2, 1870s: 45.7015 hits/million · open workbook examples · 2,186 workbook examples</title></rect></a>
+<text x="959.7" y="857.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1870</text>
+<a href="../examples.html?word=syster&amp;resource=kubhist2&amp;decade=1880" target="_blank" rel="noopener noreferrer"><rect x="1067.8" y="670.0" width="132.5" height="170.0" fill="#2e8964" style="cursor:pointer"><title>kubhist2, 1880s: 50.9174 hits/million · open workbook examples · 73,826 workbook examples</title></rect></a>
+<text x="1134.1" y="857.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1880</text>
+<a href="../examples.html?word=syster&amp;resource=kubhist2&amp;decade=1890" target="_blank" rel="noopener noreferrer"><rect x="1242.2" y="650.0" width="132.5" height="190.0" fill="#2e8964" style="cursor:pointer"><title>kubhist2, 1890s: 56.8949 hits/million · open workbook examples · 58,996 workbook examples</title></rect></a>
+<text x="1308.4" y="857.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1890</text>
+<a href="../examples.html?word=syster&amp;resource=kubhist2&amp;decade=1900" target="_blank" rel="noopener noreferrer"><rect x="1416.6" y="675.3" width="132.5" height="164.7" fill="#2e8964" style="cursor:pointer"><title>kubhist2, 1900s: 49.3102 hits/million · open workbook examples · 3,834 workbook examples</title></rect></a>
+<text x="1482.8" y="857.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1900</text>
+<text x="800.0" y="929.0" font-size="13" text-anchor="middle" fill="#263747" font-weight="normal">Decade</text>
+</svg>

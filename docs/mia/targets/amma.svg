@@ -1,0 +1,199 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 940" role="img" aria-label="amma frequency by decade and resource">
+<rect width="100%" height="100%" fill="white" />
+<style>text{font-family:Arial,Helvetica,sans-serif}</style>
+<text x="85.0" y="39.0" font-size="27" text-anchor="start" fill="#263747" font-weight="bold">amma</text>
+<text x="85.0" y="65.0" font-size="14" text-anchor="start" fill="#5a6876" font-weight="normal">Korp API frequency · click a bar for matching workbook examples</text>
+<text x="85.0" y="99.0" font-size="17" text-anchor="start" fill="#263747" font-weight="bold">Absolute frequency · hits</text>
+<text x="872.5" y="99.0" font-size="17" text-anchor="start" fill="#263747" font-weight="bold">Relative frequency · hits per million tokens</text>
+<text x="85.0" y="138.0" font-size="16" text-anchor="start" fill="#2678a9" font-weight="bold">lb · 1620–2029</text>
+<line x1="85.0" y1="340.0" x2="782.5" y2="340.0" stroke="#e1e7eb" />
+<text x="77.0" y="344.0" font-size="11" text-anchor="end" fill="#657381" font-weight="normal">0</text>
+<line x1="85.0" y1="245.0" x2="782.5" y2="245.0" stroke="#e1e7eb" />
+<text x="77.0" y="249.0" font-size="11" text-anchor="end" fill="#657381" font-weight="normal">332</text>
+<line x1="85.0" y1="150.0" x2="782.5" y2="150.0" stroke="#e1e7eb" />
+<text x="77.0" y="154.0" font-size="11" text-anchor="end" fill="#657381" font-weight="normal">664</text>
+<text x="93.5" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1620</text>
+<a href="../examples.html?word=amma&amp;resource=lb&amp;decade=1640" target="_blank" rel="noopener noreferrer"><rect x="121.1" y="339.4" width="12.9" height="0.6" fill="#2678a9" style="cursor:pointer"><title>lb, 1640s: 2.0000 hits · open workbook examples · 0 workbook examples</title></rect></a>
+<text x="127.5" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1640</text>
+<text x="161.6" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1660</text>
+<text x="195.6" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1680</text>
+<a href="../examples.html?word=amma&amp;resource=lb&amp;decade=1700" target="_blank" rel="noopener noreferrer"><rect x="223.1" y="336.3" width="12.9" height="3.7" fill="#2678a9" style="cursor:pointer"><title>lb, 1700s: 13.0000 hits · open workbook examples · 13 workbook examples</title></rect></a>
+<text x="229.6" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1700</text>
+<a href="../examples.html?word=amma&amp;resource=lb&amp;decade=1710" target="_blank" rel="noopener noreferrer"><rect x="240.2" y="339.7" width="12.9" height="0.3" fill="#2678a9" style="cursor:pointer"><title>lb, 1710s: 1.0000 hits · open workbook examples · 1 workbook examples</title></rect></a>
+<text x="263.6" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1720</text>
+<text x="297.7" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1740</text>
+<a href="../examples.html?word=amma&amp;resource=lb&amp;decade=1750" target="_blank" rel="noopener noreferrer"><rect x="308.2" y="338.9" width="12.9" height="1.1" fill="#2678a9" style="cursor:pointer"><title>lb, 1750s: 4.0000 hits · open workbook examples · 4 workbook examples</title></rect></a>
+<text x="331.7" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1760</text>
+<a href="../examples.html?word=amma&amp;resource=lb&amp;decade=1770" target="_blank" rel="noopener noreferrer"><rect x="342.2" y="339.1" width="12.9" height="0.9" fill="#2678a9" style="cursor:pointer"><title>lb, 1770s: 3.0000 hits · open workbook examples · 3 workbook examples</title></rect></a>
+<text x="365.7" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1780</text>
+<a href="../examples.html?word=amma&amp;resource=lb&amp;decade=1790" target="_blank" rel="noopener noreferrer"><rect x="376.2" y="327.7" width="12.9" height="12.3" fill="#2678a9" style="cursor:pointer"><title>lb, 1790s: 43.0000 hits · open workbook examples · 43 workbook examples</title></rect></a>
+<a href="../examples.html?word=amma&amp;resource=lb&amp;decade=1800" target="_blank" rel="noopener noreferrer"><rect x="393.3" y="337.4" width="12.9" height="2.6" fill="#2678a9" style="cursor:pointer"><title>lb, 1800s: 9.0000 hits · open workbook examples · 9 workbook examples</title></rect></a>
+<text x="399.7" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1800</text>
+<a href="../examples.html?word=amma&amp;resource=lb&amp;decade=1810" target="_blank" rel="noopener noreferrer"><rect x="410.3" y="336.6" width="12.9" height="3.4" fill="#2678a9" style="cursor:pointer"><title>lb, 1810s: 12.0000 hits · open workbook examples · 12 workbook examples</title></rect></a>
+<a href="../examples.html?word=amma&amp;resource=lb&amp;decade=1820" target="_blank" rel="noopener noreferrer"><rect x="427.3" y="334.3" width="12.9" height="5.7" fill="#2678a9" style="cursor:pointer"><title>lb, 1820s: 20.0000 hits · open workbook examples · 20 workbook examples</title></rect></a>
+<text x="433.8" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1820</text>
+<a href="../examples.html?word=amma&amp;resource=lb&amp;decade=1830" target="_blank" rel="noopener noreferrer"><rect x="444.3" y="290.5" width="12.9" height="49.5" fill="#2678a9" style="cursor:pointer"><title>lb, 1830s: 173.0000 hits · open workbook examples · 172 workbook examples</title></rect></a>
+<a href="../examples.html?word=amma&amp;resource=lb&amp;decade=1840" target="_blank" rel="noopener noreferrer"><rect x="461.3" y="240.4" width="12.9" height="99.6" fill="#2678a9" style="cursor:pointer"><title>lb, 1840s: 348.0000 hits · open workbook examples · 348 workbook examples</title></rect></a>
+<text x="467.8" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1840</text>
+<a href="../examples.html?word=amma&amp;resource=lb&amp;decade=1850" target="_blank" rel="noopener noreferrer"><rect x="478.3" y="238.1" width="12.9" height="101.9" fill="#2678a9" style="cursor:pointer"><title>lb, 1850s: 356.0000 hits · open workbook examples · 356 workbook examples</title></rect></a>
+<a href="../examples.html?word=amma&amp;resource=lb&amp;decade=1860" target="_blank" rel="noopener noreferrer"><rect x="495.3" y="218.1" width="12.9" height="121.9" fill="#2678a9" style="cursor:pointer"><title>lb, 1860s: 426.0000 hits · open workbook examples · 426 workbook examples</title></rect></a>
+<text x="501.8" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1860</text>
+<a href="../examples.html?word=amma&amp;resource=lb&amp;decade=1870" target="_blank" rel="noopener noreferrer"><rect x="512.3" y="231.0" width="12.9" height="109.0" fill="#2678a9" style="cursor:pointer"><title>lb, 1870s: 381.0000 hits · open workbook examples · 381 workbook examples</title></rect></a>
+<a href="../examples.html?word=amma&amp;resource=lb&amp;decade=1880" target="_blank" rel="noopener noreferrer"><rect x="529.4" y="150.0" width="12.9" height="190.0" fill="#2678a9" style="cursor:pointer"><title>lb, 1880s: 664.0000 hits · open workbook examples · 664 workbook examples</title></rect></a>
+<text x="535.8" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1880</text>
+<a href="../examples.html?word=amma&amp;resource=lb&amp;decade=1890" target="_blank" rel="noopener noreferrer"><rect x="546.4" y="190.1" width="12.9" height="149.9" fill="#2678a9" style="cursor:pointer"><title>lb, 1890s: 524.0000 hits · open workbook examples · 524 workbook examples</title></rect></a>
+<a href="../examples.html?word=amma&amp;resource=lb&amp;decade=1900" target="_blank" rel="noopener noreferrer"><rect x="563.4" y="290.5" width="12.9" height="49.5" fill="#2678a9" style="cursor:pointer"><title>lb, 1900s: 173.0000 hits · open workbook examples · 173 workbook examples</title></rect></a>
+<text x="569.8" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1900</text>
+<a href="../examples.html?word=amma&amp;resource=lb&amp;decade=1910" target="_blank" rel="noopener noreferrer"><rect x="580.4" y="305.9" width="12.9" height="34.1" fill="#2678a9" style="cursor:pointer"><title>lb, 1910s: 119.0000 hits · open workbook examples · 119 workbook examples</title></rect></a>
+<a href="../examples.html?word=amma&amp;resource=lb&amp;decade=1920" target="_blank" rel="noopener noreferrer"><rect x="597.4" y="320.3" width="12.9" height="19.7" fill="#2678a9" style="cursor:pointer"><title>lb, 1920s: 69.0000 hits · open workbook examples · 69 workbook examples</title></rect></a>
+<text x="603.9" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1920</text>
+<a href="../examples.html?word=amma&amp;resource=lb&amp;decade=1930" target="_blank" rel="noopener noreferrer"><rect x="614.4" y="322.5" width="12.9" height="17.5" fill="#2678a9" style="cursor:pointer"><title>lb, 1930s: 61.0000 hits · open workbook examples · 61 workbook examples</title></rect></a>
+<a href="../examples.html?word=amma&amp;resource=lb&amp;decade=1940" target="_blank" rel="noopener noreferrer"><rect x="631.4" y="335.4" width="12.9" height="4.6" fill="#2678a9" style="cursor:pointer"><title>lb, 1940s: 16.0000 hits · open workbook examples · 16 workbook examples</title></rect></a>
+<text x="637.9" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1940</text>
+<a href="../examples.html?word=amma&amp;resource=lb&amp;decade=1950" target="_blank" rel="noopener noreferrer"><rect x="648.4" y="338.6" width="12.9" height="1.4" fill="#2678a9" style="cursor:pointer"><title>lb, 1950s: 5.0000 hits · open workbook examples · 5 workbook examples</title></rect></a>
+<a href="../examples.html?word=amma&amp;resource=lb&amp;decade=1960" target="_blank" rel="noopener noreferrer"><rect x="665.5" y="338.6" width="12.9" height="1.4" fill="#2678a9" style="cursor:pointer"><title>lb, 1960s: 5.0000 hits · open workbook examples · 5 workbook examples</title></rect></a>
+<text x="671.9" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1960</text>
+<text x="705.9" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1980</text>
+<a href="../examples.html?word=amma&amp;resource=lb&amp;decade=1990" target="_blank" rel="noopener noreferrer"><rect x="716.5" y="337.1" width="12.9" height="2.9" fill="#2678a9" style="cursor:pointer"><title>lb, 1990s: 10.0000 hits · open workbook examples · 10 workbook examples</title></rect></a>
+<text x="740.0" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">2000</text>
+<text x="774.0" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">2020</text>
+<line x1="872.5" y1="340.0" x2="1570.0" y2="340.0" stroke="#e1e7eb" />
+<text x="864.5" y="344.0" font-size="11" text-anchor="end" fill="#657381" font-weight="normal">0</text>
+<line x1="872.5" y1="245.0" x2="1570.0" y2="245.0" stroke="#e1e7eb" />
+<text x="864.5" y="249.0" font-size="11" text-anchor="end" fill="#657381" font-weight="normal">27.2</text>
+<line x1="872.5" y1="150.0" x2="1570.0" y2="150.0" stroke="#e1e7eb" />
+<text x="864.5" y="154.0" font-size="11" text-anchor="end" fill="#657381" font-weight="normal">54.5</text>
+<text x="881.0" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1620</text>
+<a href="../examples.html?word=amma&amp;resource=lb&amp;decade=1640" target="_blank" rel="noopener noreferrer"><rect x="908.6" y="195.3" width="12.9" height="144.7" fill="#2678a9" style="cursor:pointer"><title>lb, 1640s: 41.4860 hits/million · open workbook examples · 0 workbook examples</title></rect></a>
+<text x="915.0" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1640</text>
+<a href="../examples.html?word=amma&amp;resource=lb&amp;decade=1700" target="_blank" rel="noopener noreferrer"><rect x="1010.6" y="314.8" width="12.9" height="25.2" fill="#2678a9" style="cursor:pointer"><title>lb, 1700s: 7.2355 hits/million · open workbook examples · 13 workbook examples</title></rect></a>
+<text x="1017.1" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1700</text>
+<a href="../examples.html?word=amma&amp;resource=lb&amp;decade=1710" target="_blank" rel="noopener noreferrer"><rect x="1027.7" y="286.1" width="12.9" height="53.9" fill="#2678a9" style="cursor:pointer"><title>lb, 1710s: 15.4705 hits/million · open workbook examples · 1 workbook examples</title></rect></a>
+<text x="1085.2" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1740</text>
+<a href="../examples.html?word=amma&amp;resource=lb&amp;decade=1750" target="_blank" rel="noopener noreferrer"><rect x="1095.7" y="327.3" width="12.9" height="12.7" fill="#2678a9" style="cursor:pointer"><title>lb, 1750s: 3.6497 hits/million · open workbook examples · 4 workbook examples</title></rect></a>
+<text x="1119.2" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1760</text>
+<a href="../examples.html?word=amma&amp;resource=lb&amp;decade=1770" target="_blank" rel="noopener noreferrer"><rect x="1129.7" y="190.4" width="12.9" height="149.6" fill="#2678a9" style="cursor:pointer"><title>lb, 1770s: 42.9142 hits/million · open workbook examples · 3 workbook examples</title></rect></a>
+<text x="1153.2" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1780</text>
+<a href="../examples.html?word=amma&amp;resource=lb&amp;decade=1790" target="_blank" rel="noopener noreferrer"><rect x="1163.7" y="150.0" width="12.9" height="190.0" fill="#2678a9" style="cursor:pointer"><title>lb, 1790s: 54.4871 hits/million · open workbook examples · 43 workbook examples</title></rect></a>
+<a href="../examples.html?word=amma&amp;resource=lb&amp;decade=1800" target="_blank" rel="noopener noreferrer"><rect x="1180.8" y="297.4" width="12.9" height="42.6" fill="#2678a9" style="cursor:pointer"><title>lb, 1800s: 12.2126 hits/million · open workbook examples · 9 workbook examples</title></rect></a>
+<text x="1187.2" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1800</text>
+<a href="../examples.html?word=amma&amp;resource=lb&amp;decade=1810" target="_blank" rel="noopener noreferrer"><rect x="1197.8" y="309.4" width="12.9" height="30.6" fill="#2678a9" style="cursor:pointer"><title>lb, 1810s: 8.7630 hits/million · open workbook examples · 12 workbook examples</title></rect></a>
+<a href="../examples.html?word=amma&amp;resource=lb&amp;decade=1820" target="_blank" rel="noopener noreferrer"><rect x="1214.8" y="257.2" width="12.9" height="82.8" fill="#2678a9" style="cursor:pointer"><title>lb, 1820s: 23.7458 hits/million · open workbook examples · 20 workbook examples</title></rect></a>
+<text x="1221.2" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1820</text>
+<a href="../examples.html?word=amma&amp;resource=lb&amp;decade=1830" target="_blank" rel="noopener noreferrer"><rect x="1231.8" y="288.2" width="12.9" height="51.8" fill="#2678a9" style="cursor:pointer"><title>lb, 1830s: 14.8447 hits/million · open workbook examples · 172 workbook examples</title></rect></a>
+<a href="../examples.html?word=amma&amp;resource=lb&amp;decade=1840" target="_blank" rel="noopener noreferrer"><rect x="1248.8" y="300.8" width="12.9" height="39.2" fill="#2678a9" style="cursor:pointer"><title>lb, 1840s: 11.2309 hits/million · open workbook examples · 348 workbook examples</title></rect></a>
+<text x="1255.3" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1840</text>
+<a href="../examples.html?word=amma&amp;resource=lb&amp;decade=1850" target="_blank" rel="noopener noreferrer"><rect x="1265.8" y="288.4" width="12.9" height="51.6" fill="#2678a9" style="cursor:pointer"><title>lb, 1850s: 14.7989 hits/million · open workbook examples · 356 workbook examples</title></rect></a>
+<a href="../examples.html?word=amma&amp;resource=lb&amp;decade=1860" target="_blank" rel="noopener noreferrer"><rect x="1282.8" y="290.6" width="12.9" height="49.4" fill="#2678a9" style="cursor:pointer"><title>lb, 1860s: 14.1686 hits/million · open workbook examples · 426 workbook examples</title></rect></a>
+<text x="1289.3" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1860</text>
+<a href="../examples.html?word=amma&amp;resource=lb&amp;decade=1870" target="_blank" rel="noopener noreferrer"><rect x="1299.8" y="301.6" width="12.9" height="38.4" fill="#2678a9" style="cursor:pointer"><title>lb, 1870s: 11.0098 hits/million · open workbook examples · 381 workbook examples</title></rect></a>
+<a href="../examples.html?word=amma&amp;resource=lb&amp;decade=1880" target="_blank" rel="noopener noreferrer"><rect x="1316.9" y="298.3" width="12.9" height="41.7" fill="#2678a9" style="cursor:pointer"><title>lb, 1880s: 11.9614 hits/million · open workbook examples · 664 workbook examples</title></rect></a>
+<text x="1323.3" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1880</text>
+<a href="../examples.html?word=amma&amp;resource=lb&amp;decade=1890" target="_blank" rel="noopener noreferrer"><rect x="1333.9" y="310.6" width="12.9" height="29.4" fill="#2678a9" style="cursor:pointer"><title>lb, 1890s: 8.4218 hits/million · open workbook examples · 524 workbook examples</title></rect></a>
+<a href="../examples.html?word=amma&amp;resource=lb&amp;decade=1900" target="_blank" rel="noopener noreferrer"><rect x="1350.9" y="314.9" width="12.9" height="25.1" fill="#2678a9" style="cursor:pointer"><title>lb, 1900s: 7.1908 hits/million · open workbook examples · 173 workbook examples</title></rect></a>
+<text x="1357.3" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1900</text>
+<a href="../examples.html?word=amma&amp;resource=lb&amp;decade=1910" target="_blank" rel="noopener noreferrer"><rect x="1367.9" y="319.9" width="12.9" height="20.1" fill="#2678a9" style="cursor:pointer"><title>lb, 1910s: 5.7618 hits/million · open workbook examples · 119 workbook examples</title></rect></a>
+<a href="../examples.html?word=amma&amp;resource=lb&amp;decade=1920" target="_blank" rel="noopener noreferrer"><rect x="1384.9" y="327.8" width="12.9" height="12.2" fill="#2678a9" style="cursor:pointer"><title>lb, 1920s: 3.5088 hits/million · open workbook examples · 69 workbook examples</title></rect></a>
+<text x="1391.4" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1920</text>
+<a href="../examples.html?word=amma&amp;resource=lb&amp;decade=1930" target="_blank" rel="noopener noreferrer"><rect x="1401.9" y="326.9" width="12.9" height="13.1" fill="#2678a9" style="cursor:pointer"><title>lb, 1930s: 3.7575 hits/million · open workbook examples · 61 workbook examples</title></rect></a>
+<a href="../examples.html?word=amma&amp;resource=lb&amp;decade=1940" target="_blank" rel="noopener noreferrer"><rect x="1418.9" y="327.6" width="12.9" height="12.4" fill="#2678a9" style="cursor:pointer"><title>lb, 1940s: 3.5531 hits/million · open workbook examples · 16 workbook examples</title></rect></a>
+<text x="1425.4" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1940</text>
+<a href="../examples.html?word=amma&amp;resource=lb&amp;decade=1950" target="_blank" rel="noopener noreferrer"><rect x="1435.9" y="316.4" width="12.9" height="23.6" fill="#2678a9" style="cursor:pointer"><title>lb, 1950s: 6.7783 hits/million · open workbook examples · 5 workbook examples</title></rect></a>
+<a href="../examples.html?word=amma&amp;resource=lb&amp;decade=1960" target="_blank" rel="noopener noreferrer"><rect x="1453.0" y="318.3" width="12.9" height="21.7" fill="#2678a9" style="cursor:pointer"><title>lb, 1960s: 6.2263 hits/million · open workbook examples · 5 workbook examples</title></rect></a>
+<text x="1459.4" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1960</text>
+<text x="1493.4" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1980</text>
+<a href="../examples.html?word=amma&amp;resource=lb&amp;decade=1990" target="_blank" rel="noopener noreferrer"><rect x="1504.0" y="219.6" width="12.9" height="120.4" fill="#2678a9" style="cursor:pointer"><title>lb, 1990s: 34.5410 hits/million · open workbook examples · 10 workbook examples</title></rect></a>
+<text x="1527.5" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">2000</text>
+<text x="1561.5" y="357.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">2020</text>
+<text x="85.0" y="388.0" font-size="16" text-anchor="start" fill="#d46a24" font-weight="bold">tkr · 1860–1979</text>
+<line x1="85.0" y1="590.0" x2="782.5" y2="590.0" stroke="#e1e7eb" />
+<text x="77.0" y="594.0" font-size="11" text-anchor="end" fill="#657381" font-weight="normal">0</text>
+<line x1="85.0" y1="495.0" x2="782.5" y2="495.0" stroke="#e1e7eb" />
+<text x="77.0" y="499.0" font-size="11" text-anchor="end" fill="#657381" font-weight="normal">156</text>
+<line x1="85.0" y1="400.0" x2="782.5" y2="400.0" stroke="#e1e7eb" />
+<text x="77.0" y="404.0" font-size="11" text-anchor="end" fill="#657381" font-weight="normal">312</text>
+<a href="../examples.html?word=amma&amp;resource=tkr&amp;decade=1860" target="_blank" rel="noopener noreferrer"><rect x="92.0" y="579.6" width="44.2" height="10.4" fill="#d46a24" style="cursor:pointer"><title>tkr, 1860s: 17.0000 hits · open workbook examples · 17 workbook examples</title></rect></a>
+<text x="114.1" y="607.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1860</text>
+<a href="../examples.html?word=amma&amp;resource=tkr&amp;decade=1870" target="_blank" rel="noopener noreferrer"><rect x="150.1" y="517.5" width="44.2" height="72.5" fill="#d46a24" style="cursor:pointer"><title>tkr, 1870s: 119.0000 hits · open workbook examples · 119 workbook examples</title></rect></a>
+<text x="172.2" y="607.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1870</text>
+<a href="../examples.html?word=amma&amp;resource=tkr&amp;decade=1880" target="_blank" rel="noopener noreferrer"><rect x="208.2" y="567.5" width="44.2" height="22.5" fill="#d46a24" style="cursor:pointer"><title>tkr, 1880s: 37.0000 hits · open workbook examples · 37 workbook examples</title></rect></a>
+<text x="230.3" y="607.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1880</text>
+<a href="../examples.html?word=amma&amp;resource=tkr&amp;decade=1890" target="_blank" rel="noopener noreferrer"><rect x="266.4" y="566.2" width="44.2" height="23.8" fill="#d46a24" style="cursor:pointer"><title>tkr, 1890s: 39.0000 hits · open workbook examples · 39 workbook examples</title></rect></a>
+<text x="288.4" y="607.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1890</text>
+<a href="../examples.html?word=amma&amp;resource=tkr&amp;decade=1900" target="_blank" rel="noopener noreferrer"><rect x="324.5" y="527.9" width="44.2" height="62.1" fill="#d46a24" style="cursor:pointer"><title>tkr, 1900s: 102.0000 hits · open workbook examples · 102 workbook examples</title></rect></a>
+<text x="346.6" y="607.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1900</text>
+<a href="../examples.html?word=amma&amp;resource=tkr&amp;decade=1910" target="_blank" rel="noopener noreferrer"><rect x="382.6" y="400.0" width="44.2" height="190.0" fill="#d46a24" style="cursor:pointer"><title>tkr, 1910s: 312.0000 hits · open workbook examples · 312 workbook examples</title></rect></a>
+<text x="404.7" y="607.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1910</text>
+<a href="../examples.html?word=amma&amp;resource=tkr&amp;decade=1920" target="_blank" rel="noopener noreferrer"><rect x="440.7" y="534.6" width="44.2" height="55.4" fill="#d46a24" style="cursor:pointer"><title>tkr, 1920s: 91.0000 hits · open workbook examples · 91 workbook examples</title></rect></a>
+<text x="462.8" y="607.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1920</text>
+<a href="../examples.html?word=amma&amp;resource=tkr&amp;decade=1930" target="_blank" rel="noopener noreferrer"><rect x="498.9" y="518.1" width="44.2" height="71.9" fill="#d46a24" style="cursor:pointer"><title>tkr, 1930s: 118.0000 hits · open workbook examples · 118 workbook examples</title></rect></a>
+<text x="520.9" y="607.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1930</text>
+<a href="../examples.html?word=amma&amp;resource=tkr&amp;decade=1940" target="_blank" rel="noopener noreferrer"><rect x="557.0" y="521.2" width="44.2" height="68.8" fill="#d46a24" style="cursor:pointer"><title>tkr, 1940s: 113.0000 hits · open workbook examples · 113 workbook examples</title></rect></a>
+<text x="579.1" y="607.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1940</text>
+<a href="../examples.html?word=amma&amp;resource=tkr&amp;decade=1950" target="_blank" rel="noopener noreferrer"><rect x="615.1" y="561.4" width="44.2" height="28.6" fill="#d46a24" style="cursor:pointer"><title>tkr, 1950s: 47.0000 hits · open workbook examples · 47 workbook examples</title></rect></a>
+<text x="637.2" y="607.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1950</text>
+<a href="../examples.html?word=amma&amp;resource=tkr&amp;decade=1960" target="_blank" rel="noopener noreferrer"><rect x="673.2" y="565.6" width="44.2" height="24.4" fill="#d46a24" style="cursor:pointer"><title>tkr, 1960s: 40.0000 hits · open workbook examples · 40 workbook examples</title></rect></a>
+<text x="695.3" y="607.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1960</text>
+<a href="../examples.html?word=amma&amp;resource=tkr&amp;decade=1970" target="_blank" rel="noopener noreferrer"><rect x="731.3" y="584.5" width="44.2" height="5.5" fill="#d46a24" style="cursor:pointer"><title>tkr, 1970s: 9.0000 hits · open workbook examples · 9 workbook examples</title></rect></a>
+<text x="753.4" y="607.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1970</text>
+<line x1="872.5" y1="590.0" x2="1570.0" y2="590.0" stroke="#e1e7eb" />
+<text x="864.5" y="594.0" font-size="11" text-anchor="end" fill="#657381" font-weight="normal">0</text>
+<line x1="872.5" y1="495.0" x2="1570.0" y2="495.0" stroke="#e1e7eb" />
+<text x="864.5" y="499.0" font-size="11" text-anchor="end" fill="#657381" font-weight="normal">1.22</text>
+<line x1="872.5" y1="400.0" x2="1570.0" y2="400.0" stroke="#e1e7eb" />
+<text x="864.5" y="404.0" font-size="11" text-anchor="end" fill="#657381" font-weight="normal">2.45</text>
+<a href="../examples.html?word=amma&amp;resource=tkr&amp;decade=1860" target="_blank" rel="noopener noreferrer"><rect x="879.5" y="497.6" width="44.2" height="92.4" fill="#d46a24" style="cursor:pointer"><title>tkr, 1860s: 1.1887 hits/million · open workbook examples · 17 workbook examples</title></rect></a>
+<text x="901.6" y="607.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1860</text>
+<a href="../examples.html?word=amma&amp;resource=tkr&amp;decade=1870" target="_blank" rel="noopener noreferrer"><rect x="937.6" y="400.0" width="44.2" height="190.0" fill="#d46a24" style="cursor:pointer"><title>tkr, 1870s: 2.4454 hits/million · open workbook examples · 119 workbook examples</title></rect></a>
+<text x="959.7" y="607.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1870</text>
+<a href="../examples.html?word=amma&amp;resource=tkr&amp;decade=1880" target="_blank" rel="noopener noreferrer"><rect x="995.7" y="526.5" width="44.2" height="63.5" fill="#d46a24" style="cursor:pointer"><title>tkr, 1880s: 0.8168 hits/million · open workbook examples · 37 workbook examples</title></rect></a>
+<text x="1017.8" y="607.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1880</text>
+<a href="../examples.html?word=amma&amp;resource=tkr&amp;decade=1890" target="_blank" rel="noopener noreferrer"><rect x="1053.8" y="534.9" width="44.2" height="55.1" fill="#d46a24" style="cursor:pointer"><title>tkr, 1890s: 0.7092 hits/million · open workbook examples · 39 workbook examples</title></rect></a>
+<text x="1075.9" y="607.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1890</text>
+<a href="../examples.html?word=amma&amp;resource=tkr&amp;decade=1900" target="_blank" rel="noopener noreferrer"><rect x="1112.0" y="503.5" width="44.2" height="86.5" fill="#d46a24" style="cursor:pointer"><title>tkr, 1900s: 1.1134 hits/million · open workbook examples · 102 workbook examples</title></rect></a>
+<text x="1134.1" y="607.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1900</text>
+<a href="../examples.html?word=amma&amp;resource=tkr&amp;decade=1910" target="_blank" rel="noopener noreferrer"><rect x="1170.1" y="424.5" width="44.2" height="165.5" fill="#d46a24" style="cursor:pointer"><title>tkr, 1910s: 2.1304 hits/million · open workbook examples · 312 workbook examples</title></rect></a>
+<text x="1192.2" y="607.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1910</text>
+<a href="../examples.html?word=amma&amp;resource=tkr&amp;decade=1920" target="_blank" rel="noopener noreferrer"><rect x="1228.2" y="535.2" width="44.2" height="54.8" fill="#d46a24" style="cursor:pointer"><title>tkr, 1920s: 0.7049 hits/million · open workbook examples · 91 workbook examples</title></rect></a>
+<text x="1250.3" y="607.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1920</text>
+<a href="../examples.html?word=amma&amp;resource=tkr&amp;decade=1930" target="_blank" rel="noopener noreferrer"><rect x="1286.3" y="519.5" width="44.2" height="70.5" fill="#d46a24" style="cursor:pointer"><title>tkr, 1930s: 0.9070 hits/million · open workbook examples · 118 workbook examples</title></rect></a>
+<text x="1308.4" y="607.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1930</text>
+<a href="../examples.html?word=amma&amp;resource=tkr&amp;decade=1940" target="_blank" rel="noopener noreferrer"><rect x="1344.5" y="524.1" width="44.2" height="65.9" fill="#d46a24" style="cursor:pointer"><title>tkr, 1940s: 0.8482 hits/million · open workbook examples · 113 workbook examples</title></rect></a>
+<text x="1366.6" y="607.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1940</text>
+<a href="../examples.html?word=amma&amp;resource=tkr&amp;decade=1950" target="_blank" rel="noopener noreferrer"><rect x="1402.6" y="562.9" width="44.2" height="27.1" fill="#d46a24" style="cursor:pointer"><title>tkr, 1950s: 0.3483 hits/million · open workbook examples · 47 workbook examples</title></rect></a>
+<text x="1424.7" y="607.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1950</text>
+<a href="../examples.html?word=amma&amp;resource=tkr&amp;decade=1960" target="_blank" rel="noopener noreferrer"><rect x="1460.7" y="568.7" width="44.2" height="21.3" fill="#d46a24" style="cursor:pointer"><title>tkr, 1960s: 0.2741 hits/million · open workbook examples · 40 workbook examples</title></rect></a>
+<text x="1482.8" y="607.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1960</text>
+<a href="../examples.html?word=amma&amp;resource=tkr&amp;decade=1970" target="_blank" rel="noopener noreferrer"><rect x="1518.8" y="549.4" width="44.2" height="40.6" fill="#d46a24" style="cursor:pointer"><title>tkr, 1970s: 0.5225 hits/million · open workbook examples · 9 workbook examples</title></rect></a>
+<text x="1540.9" y="607.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1970</text>
+<text x="85.0" y="638.0" font-size="16" text-anchor="start" fill="#2e8964" font-weight="bold">kubhist2 · 1870–1909</text>
+<line x1="85.0" y1="840.0" x2="782.5" y2="840.0" stroke="#e1e7eb" />
+<text x="77.0" y="844.0" font-size="11" text-anchor="end" fill="#657381" font-weight="normal">0</text>
+<line x1="85.0" y1="745.0" x2="782.5" y2="745.0" stroke="#e1e7eb" />
+<text x="77.0" y="749.0" font-size="11" text-anchor="end" fill="#657381" font-weight="normal">7694</text>
+<line x1="85.0" y1="650.0" x2="782.5" y2="650.0" stroke="#e1e7eb" />
+<text x="77.0" y="654.0" font-size="11" text-anchor="end" fill="#657381" font-weight="normal">15k</text>
+<a href="../examples.html?word=amma&amp;resource=kubhist2&amp;decade=1870" target="_blank" rel="noopener noreferrer"><rect x="105.9" y="821.8" width="132.5" height="18.2" fill="#2e8964" style="cursor:pointer"><title>kubhist2, 1870s: 1,471.0000 hits · open workbook examples · 783 workbook examples</title></rect></a>
+<text x="172.2" y="857.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1870</text>
+<a href="../examples.html?word=amma&amp;resource=kubhist2&amp;decade=1880" target="_blank" rel="noopener noreferrer"><rect x="280.3" y="650.0" width="132.5" height="190.0" fill="#2e8964" style="cursor:pointer"><title>kubhist2, 1880s: 15,387.0000 hits · open workbook examples · 15,386 workbook examples</title></rect></a>
+<text x="346.6" y="857.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1880</text>
+<a href="../examples.html?word=amma&amp;resource=kubhist2&amp;decade=1890" target="_blank" rel="noopener noreferrer"><rect x="454.7" y="744.9" width="132.5" height="95.1" fill="#2e8964" style="cursor:pointer"><title>kubhist2, 1890s: 7,698.0000 hits · open workbook examples · 7,698 workbook examples</title></rect></a>
+<text x="520.9" y="857.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1890</text>
+<a href="../examples.html?word=amma&amp;resource=kubhist2&amp;decade=1900" target="_blank" rel="noopener noreferrer"><rect x="629.1" y="833.3" width="132.5" height="6.7" fill="#2e8964" style="cursor:pointer"><title>kubhist2, 1900s: 544.0000 hits · open workbook examples · 544 workbook examples</title></rect></a>
+<text x="695.3" y="857.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1900</text>
+<line x1="872.5" y1="840.0" x2="1570.0" y2="840.0" stroke="#e1e7eb" />
+<text x="864.5" y="844.0" font-size="11" text-anchor="end" fill="#657381" font-weight="normal">0</text>
+<line x1="872.5" y1="745.0" x2="1570.0" y2="745.0" stroke="#e1e7eb" />
+<text x="864.5" y="749.0" font-size="11" text-anchor="end" fill="#657381" font-weight="normal">7.6</text>
+<line x1="872.5" y1="650.0" x2="1570.0" y2="650.0" stroke="#e1e7eb" />
+<text x="864.5" y="654.0" font-size="11" text-anchor="end" fill="#657381" font-weight="normal">15.2</text>
+<a href="../examples.html?word=amma&amp;resource=kubhist2&amp;decade=1870" target="_blank" rel="noopener noreferrer"><rect x="893.4" y="650.0" width="132.5" height="190.0" fill="#2e8964" style="cursor:pointer"><title>kubhist2, 1870s: 15.2028 hits/million · open workbook examples · 783 workbook examples</title></rect></a>
+<text x="959.7" y="857.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1870</text>
+<a href="../examples.html?word=amma&amp;resource=kubhist2&amp;decade=1880" target="_blank" rel="noopener noreferrer"><rect x="1067.8" y="707.4" width="132.5" height="132.6" fill="#2e8964" style="cursor:pointer"><title>kubhist2, 1880s: 10.6095 hits/million · open workbook examples · 15,386 workbook examples</title></rect></a>
+<text x="1134.1" y="857.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1880</text>
+<a href="../examples.html?word=amma&amp;resource=kubhist2&amp;decade=1890" target="_blank" rel="noopener noreferrer"><rect x="1242.2" y="747.2" width="132.5" height="92.8" fill="#2e8964" style="cursor:pointer"><title>kubhist2, 1890s: 7.4225 hits/million · open workbook examples · 7,698 workbook examples</title></rect></a>
+<text x="1308.4" y="857.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1890</text>
+<a href="../examples.html?word=amma&amp;resource=kubhist2&amp;decade=1900" target="_blank" rel="noopener noreferrer"><rect x="1416.6" y="752.6" width="132.5" height="87.4" fill="#2e8964" style="cursor:pointer"><title>kubhist2, 1900s: 6.9965 hits/million · open workbook examples · 544 workbook examples</title></rect></a>
+<text x="1482.8" y="857.0" font-size="10" text-anchor="middle" fill="#5a6876" font-weight="normal">1900</text>
+<text x="800.0" y="929.0" font-size="13" text-anchor="middle" fill="#263747" font-weight="normal">Decade</text>
+</svg>
