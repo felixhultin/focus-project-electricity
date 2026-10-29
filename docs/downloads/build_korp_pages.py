@@ -13,6 +13,7 @@ from pathlib import Path
 from urllib.parse import quote, parse_qs, urlsplit
 
 from build_mats_examples import build as build_examples
+from build_cluster_pages import integrate_navigation
 from korp_source_breakdown import build as build_source_breakdown
 
 
@@ -169,6 +170,7 @@ def main():
         json.dumps(manifest, ensure_ascii=False, separators=(",", ":")), encoding="utf-8"
     )
     build_source_breakdown(site=SITE)
+    integrate_navigation(SITE)
     total = sum(bucket["count"] for bucket in manifest["buckets"])
     linked = sum(bucket["with_source_url"] for bucket in manifest["buckets"])
     print(f"Built {SITE} with {len(plots)} interactive plots and {total:,} examples; {linked:,} source links")
