@@ -1,0 +1,51 @@
+<!doctype html>
+<html lang="en">
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Words associated over time · Mats</title>
+<style>
+:root{font:16px/1.5 system-ui,Arial,sans-serif;color:#263747;background:#f4f6f8}body{max-width:1380px;margin:auto;padding:24px}a{color:#17639b}h1{font-size:clamp(1.6rem,4vw,2.3rem);line-height:1.2;margin:1rem 0 .5rem}h2{font-size:1.15rem;margin-top:0}.intro,.note{color:#526170}.panel{background:#fff;border:1px solid #dbe3e9;border-radius:10px;padding:22px;margin:20px 0}.controls{display:flex;flex-wrap:wrap;gap:14px;align-items:end}label{display:flex;flex-direction:column;gap:5px;font-size:.9rem;font-weight:600;min-width:0}select,input,button{font:inherit;padding:8px 10px;border:1px solid #a9b5c3;border-radius:5px;background:white;color:inherit}select{max-width:100%}input[type=number]{width:100px}button{cursor:pointer}button:hover{background:#eef4fa}button:disabled{cursor:default;opacity:.55}button:focus-visible,select:focus-visible,input:focus-visible,[tabindex]:focus-visible{outline:3px solid #3b82f6;outline-offset:2px}[hidden]{display:none!important}details{margin-top:16px}summary{cursor:pointer;color:#17639b}.check{flex-direction:row;align-items:center}.toolbar{display:flex;justify-content:space-between;gap:12px;align-items:center;flex-wrap:wrap}.stats{font-weight:600}.scroll{overflow:auto}#chart svg{display:block;min-width:900px;width:100%;font-family:system-ui,Arial,sans-serif}.point{cursor:pointer}.point:hover circle,.point:focus circle{stroke:#102f4b;stroke-width:2.5}.point text{paint-order:stroke;stroke:white;stroke-width:3px;stroke-linejoin:round;fill:#1e293b;font-size:12px}.point.dimmed{opacity:.18}#status[role=alert]{color:#a12424}#selection{border-left:4px solid #2678a9}#selection h2{margin-bottom:6px}.passage{padding:12px;background:#f5f8fa;border-radius:5px;margin:10px 0}.passage p{margin:0 0 4px}.passage small{color:#526170}table{border-collapse:collapse;width:100%;font-size:.9rem}th,td{padding:8px 12px;border-bottom:1px solid #e1e7eb;text-align:left}td.num{text-align:right;font-variant-numeric:tabular-nums}.text-button{padding:0;border:0;color:#17639b;text-align:left;background:none}pre{white-space:pre-wrap;font-size:.85rem}#loading{min-height:1.5em}.plot-empty{padding:3rem;color:#526170}@media(max-width:600px){body{padding:12px}.panel{padding:14px}.controls{gap:10px}select{min-width:0}label{max-width:100%}}
+</style>
+<p class="site-links"><a href="index.html">← Frequency plots</a> · <a href="clusters.html">Model clusters</a> · <a href="examples.html">Source examples</a> · <a href="methodology.html">Method and sources</a></p>
+<h1>Which words were associated with <span id="headingWord">the selected term</span>?</h1>
+<p class="intro">Follow associated word forms through time. Each dot is a word in one year. Switch between embedding similarity and nearby-word frequency, then select a dot to inspect its evidence.</p>
+<noscript>This graph requires JavaScript.</noscript>
+<p id="status" role="status" aria-live="polite">Loading available corpora…</p>
+<section class="panel">
+<div class="controls">
+<label>Term<select id="word"></select></label>
+<label>Corpus<select id="corpus"></select></label>
+<label>Resource<select id="resource"><option value="all">All resources</option></select></label>
+<label>Association measure<select id="measure"><option value="similarity">Word2Vec cosine similarity</option><option value="cooccurrence">Co-occurrence share</option></select></label>
+<label>Words per year<select id="top"><option>1</option><option selected>3</option><option>5</option><option>10</option></select></label>
+</div>
+<details><summary>Year range and display</summary><div class="controls" style="margin-top:12px">
+<label>From year<input id="from" type="number" placeholder="All"></label>
+<label>Through year<input id="to" type="number" placeholder="All"></label>
+<label>Minimum usages per year<select id="minimum"><option>1</option><option selected>5</option><option>10</option><option>20</option></select></label>
+<label class="check"><input id="labels" type="checkbox" checked>Show word labels</label>
+<label class="check"><input id="expanded" type="checkbox">Expand timeline</label>
+<button id="reset">Reset filters</button>
+</div></details>
+<p id="methodNote" class="note"></p>
+<p id="resourceNote" class="note"></p>
+</section>
+<section class="panel">
+<div class="toolbar"><h2 id="chartTitle">Associated words by year</h2><button id="save">Save SVG</button></div>
+<p id="stats" class="stats" aria-live="polite"></p>
+<div id="chart" class="scroll" role="region" tabindex="0" aria-label="Word association graph; scroll horizontally when expanded"></div>
+<p id="chartNote" class="note">Labels that would overlap are hidden. Hover over or focus a dot to read its word and score. Select a dot to highlight that word across years.</p>
+<button id="clear" hidden>Clear word highlight</button>
+</section>
+<section id="selection" class="panel" hidden aria-live="polite"><h2 id="selectedTitle"></h2><p id="selectedStats"></p><div id="passages"></div><a id="examplesLink" href="examples.html">Browse source examples for this term and corpus</a></section>
+<section class="panel"><details><summary>View graph values as a table</summary><div class="scroll"><table><thead><tr><th>Year</th><th>Word</th><th id="scoreHeading">Score</th><th>Nearby usages / sampled usages</th></tr></thead><tbody id="values"></tbody></table></div></details>
+<details><summary>How these associations are calculated</summary>
+<p>The source is the existing yearly Mats sample, capped at 30 usages per term, year, and corpus. Every corpus is analysed separately. These plots describe the sample, whose balance differs from natural corpus frequencies.</p>
+<p>The resource selector restricts both measures and source excerpts to one newspaper (Kubhist/Kubhist2), document collection (TKR), or author identified by the source URL (Litteraturbanken). Newspaper identities come from source filenames, grouped across years. Word2Vec is trained independently within the selected resource. The original yearly quota applies across the corpus; resource subsets have no separate sampling quota. Small subsets can have no eligible annual points or insufficient context for a model.</p>
+<p><strong>Co-occurrence share</strong> counts a word at most once per target usage within ten word tokens on either side of the selected occurrence. The denominator is all sampled usages of that term in that year. Candidate words need at least two supporting usages. Common Swedish and historical function words are omitted from candidate labels.</p>
+<p><strong>Embedding similarity</strong> is cosine similarity between the target and a neighbour in a Gensim skip-gram Word2Vec model. For each displayed year, the model is trained on all Mats target contexts in the same corpus from that year and the two years on either side. Contexts contain up to 30 word tokens on each side of the selected occurrence, within a 2,000-character limit per side. The selected target form is normalized to its lemma; neighbouring forms are lowercased without lemmatization. The model uses 100 dimensions, a five-token training window, minimum frequency five, five negative samples, 15 epochs, and seed 42.</p>
+<p>A training window needs at least 50 contexts and 3,000 tokens. A target absent from the trained vocabulary has no embedding points for that year. Similarity scores come from independently trained time windows; small samples, changing genres, historical spelling, and OCR can affect the neighbours. Dots are descriptive model outputs, not validated meanings or full-corpus association estimates.</p>
+<pre id="settings"></pre>
+</details></section>
+<script src="assets/site-data.js"></script><script src="assets/word-associations.js"></script>
+</html>

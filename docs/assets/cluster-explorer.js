@@ -1,18 +1,28 @@
 'use strict';
 let catalog=[],activeData=null,request=0,initialState=true;
 const dataCache=new Map(),params=new URLSearchParams(location.search);
+const readJSON=path=>window.siteDataJSON(path);
 let desiredWord=params.get('word');
+let desiredResource=params.get('source');
 const $=id=>document.getElementById(id), esc=value=>String(value??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
 const option=(value,label)=>`<option value="${esc(value)}">${esc(label)}</option>`;
 let scoped=[], filtered=[], topClusters=[], page=0;
 const pageSize=50, color=c=>c==='other'?'#94a3b8':`hsl(${(Number(c)*137.508+210)%360} 58% 48%)`;
 function current(){return activeData;}
-function setupWords(){const old=desiredWord||$('lemma').value, words=[...new Set(current().rows.map(r=>r.lemma))].sort((a,b)=>a.localeCompare(b,'sv'));$('lemma').innerHTML=words.map(w=>option(w,w)).join('');$('lemma').value=words.includes(old)?old:(words.includes('ström')?'ström':words[0]);desiredWord=null;$('cluster').value='all';render();}
+function setupWords(){const old=desiredWord||$('lemma').value, words=(current().words||[...new Set(current().rows.map(r=>r.lemma))]).slice().sort((a,b)=>a.localeCompare(b,'sv'));$('lemma').innerHTML=words.map(w=>option(w,w)).join('');$('lemma').value=words.includes(old)?old:(words.includes('ström')?'ström':words[0]);desiredWord=null;$('cluster').value='all';render();}
 function chosenCluster(c){return $('cluster').value==='other'?!topClusters.includes(c):$('cluster').value==='all'||String(c)===$('cluster').value;}
+function setupResources(){
+ const select=$('resource');if(!select)return;
+ const old=desiredResource||select.value||'all';desiredResource=null;
+ const resources=new Map(current().rows.filter(r=>r.lemma===$('lemma').value&&r.resource_id).map(r=>[r.resource_id,r.resource_label||r.resource_id]));
+ select.innerHTML=option('all','All resources')+[...resources].sort((a,b)=>a[1].localeCompare(b[1],'sv')).map(([id,label])=>option(id,label)).join('');
+ select.value=resources.has(old)?old:'all';$('resourceControl').hidden=resources.size===0;
+}
 function render(){
  if(!current())return;
  const d=current(), low=$('from').value===''?null:Number($('from').value), high=$('to').value===''?null:Number($('to').value);
- scoped=d.rows.filter(r=>r.lemma===$('lemma').value&&(low===null||(r.year!==null&&r.year>=low))&&(high===null||(r.year!==null&&r.year<=high)));
+ setupResources();const resource=$('resource')?.value||'all';
+ scoped=d.rows.filter(r=>r.lemma===$('lemma').value&&(resource==='all'||r.resource_id===resource)&&(low===null||(r.year!==null&&r.year>=low))&&(high===null||(r.year!==null&&r.year<=high)));
  const counts=new Map();scoped.forEach(r=>counts.set(r.cluster,(counts.get(r.cluster)||0)+1));
  const ordered=[...counts.keys()].sort((a,b)=>counts.get(b)-counts.get(a)||a-b);topClusters=ordered.slice(0,10);
  const old=$('cluster').value;
@@ -29,7 +39,10 @@ function render(){
   ?' Shared clustering across '+sharing.corpora.map(c=>c.toUpperCase()).join(', ')+': the same cluster ID and color identify the same pooled cluster for this word and generator/encoder combination. IDs are not aligned across words or combinations. '+sharing.weighting
   :' Cluster IDs are local to each combination, word, and corpus; matching colors or IDs do not establish equivalent senses.');
  const coverage=d.manifest.definition_coverage;
+ if(d.manifest.preview)$('samplingNote').textContent='Provisional '+d.corpus.toUpperCase()+'-only clustering preview. Definition generation is complete for this corpus. Cluster IDs may change when shared clustering across all corpora finishes. '+$('samplingNote').textContent;
  if(coverage)$('samplingNote').textContent+=` Definition generation for this corpus: ${coverage.usable_definition_count.toLocaleString()} of ${coverage.source_usage_count.toLocaleString()} sampled usages have usable definitions; ${coverage.empty_definition_count.toLocaleString()} remained empty after an individual retry and were excluded. Charts show successful definitions only, so yearly balance can be affected.`;
+ if(d.method==='cooccurrence')$('samplingNote').textContent+=' TF–IDF weights describe nearby word forms within ±10 tokens. K-means groups contexts; candidate counts 2–12 are assessed by cosine silhouette, with one informative cluster when separation is weak. Cluster 0 contains contexts with no retained vocabulary. These groups may reflect topics, spelling, genre or OCR as well as meaning.';
+ if(resource!=='all')$('samplingNote').textContent+=' Resource: '+$('resource').selectedOptions[0].textContent+'. The yearly cap applies across the whole corpus; this resource subset is not separately balanced. Cluster IDs and characteristic words come from the shared fit.';
  $('settings').textContent=JSON.stringify(d.manifest,null,2);
  drawClusterOverview(ordered,counts);drawChart(counts);page=0;showRows();updateURL();
 }
@@ -50,17 +63,21 @@ function summarizeClusters(rows){
  }]));
 }
 function drawClusterOverview(ordered,counts){
- const panel=$('clusterOverview');panel.hidden=current().method!=='definitions';
+ const cooccurrence=current().method==='cooccurrence';
+ const panel=$('clusterOverview');panel.hidden=!['definitions','cooccurrence'].includes(current().method);
  $('clusterCards').innerHTML='';
  if(panel.hidden)return;
+ if($('overviewNote'))$('overviewNote').textContent=cooccurrence?'Characteristic words are the highest-weight TF–IDF features in each pooled cluster centroid. Example passages come from the current selection. These are context groups, not validated sense labels. Cluster 0, when present, has no retained context vocabulary.':'Each summary shows the most frequent generated definition in that cluster, with up to two alternatives. These are representative model outputs, not validated sense labels; mixed meanings or languages may occur. Counts and shares describe the selected sample. Choose a cluster to read its passages.';
  $('summaryScope').textContent=`${$('lemma').value} · ${current().corpus.toUpperCase()} · ${ordered.length} clusters in the selected years. Ordered by sampled usage count.`;
  const summaries=summarizeClusters(scoped);
  const card=cluster=>{
   const group=summaries.get(cluster),definitions=group.definitions;
   const years=group.firstYear===null?'Year unknown':group.firstYear===group.lastYear?String(group.firstYear):`${group.firstYear}–${group.lastYear}`;
-  const representative=definitions.length?esc(definitions[0][0]):'No definition available.';
-  const alternatives=definitions.slice(1,3);
-  return `<article class="cluster-card"><button class="cluster-heading" data-summary-cluster="${cluster}"><span class="dot" style="background:${color(cluster)}"></span>Cluster ${cluster} · Inspect passages</button><p class="cluster-size">${counts.get(cluster).toLocaleString()} usages · ${(group.n/scoped.length*100).toFixed(1)}% of selected sample · ${years}</p><p class="representative">${representative}</p>${alternatives.length?`<details><summary>Other frequent definitions</summary><ul>${alternatives.map(([text,n])=>`<li>${esc(text)} <small>(n=${n})</small></li>`).join('')}</ul></details>`:''}</article>`;
+  const keywords=current().manifest.characteristic_words?.[$('lemma').value]?.[String(cluster)]||[];
+  const representative=cooccurrence?(keywords.length?'Characteristic words: '+esc(keywords.join(' · ')):'No retained context vocabulary.'):(definitions.length?esc(definitions[0][0]):'No definition available.');
+  const alternatives=cooccurrence?[]:definitions.slice(1,3);
+  const example=cooccurrence?scoped.find(r=>r.cluster===cluster):null;
+  return `<article class="cluster-card"><button class="cluster-heading" data-summary-cluster="${cluster}"><span class="dot" style="background:${color(cluster)}"></span>Cluster ${cluster} · Inspect passages</button><p class="cluster-size">${counts.get(cluster).toLocaleString()} usages · ${(group.n/scoped.length*100).toFixed(1)}% of selected sample · ${years}</p><p class="representative">${representative}</p>${example?'<p class="note">Example: '+esc(example.text)+'</p>':''}${alternatives.length?`<details><summary>Other frequent definitions</summary><ul>${alternatives.map(([text,n])=>`<li>${esc(text)} <small>(n=${n})</small></li>`).join('')}</ul></details>`:''}</article>`;
  };
  $('clusterCards').innerHTML=ordered.length?`<div class="cluster-grid">${ordered.slice(0,10).map(card).join('')}</div>`+(ordered.length>10?`<details class="remaining-clusters"><summary>Show ${ordered.length-10} smaller clusters</summary><div class="cluster-grid">${ordered.slice(10).map(card).join('')}</div></details>`:''):'<p>No clusters match these years.</p>';
  panel.querySelectorAll('[data-summary-cluster]').forEach(button=>button.onclick=()=>{
@@ -105,6 +122,7 @@ function showRows(){
  const frequent=[...definitions].sort((a,b)=>b[1]-a[1]).slice(0,3);
  $('clusterSummary').textContent=$('cluster').value==='all'?'Choose a cluster to inspect recurring definitions.':`Most frequent definitions in this selection: ${frequent.map(([d,n])=>`${d} (n=${n})`).join(' · ')}`;
  if(current().method==='usages')$('clusterSummary').textContent='XL-LEXEME clusters source passages directly and does not generate definitions. Inspect the highlighted usages to interpret each cluster.';
+ if(current().method==='cooccurrence')$('clusterSummary').textContent='Co-occurrence clusters group usages by TF–IDF-weighted nearby words. Characteristic words are pooled cluster features; read passages to assess the possible meanings. No definitions are generated.';
  $('rows').innerHTML=filtered.slice(page*pageSize,(page+1)*pageSize).map(r=>{
  const text=esc(r.text.slice(0,r.start))+'<mark>'+esc(r.text.slice(r.start,r.end))+'</mark>'+esc(r.text.slice(r.end));
  const link=typeof r.url==='string'&&/^https?:\/\//i.test(r.url)?`<br><a href="${esc(r.url)}" target="_blank" rel="noopener noreferrer">Open source</a>`:'';
@@ -117,12 +135,13 @@ function updateURL(){
  const state=new URLSearchParams();state.set('model',current().model_alias);state.set('corpus',current().corpus);state.set('word',$('lemma').value);
  ['from','to','metric','cluster'].forEach(id=>{const v=$(id).value;if(v&&v!=='all'&&!(id==='metric'&&v==='share'))state.set(id,v);});
  if($('query').value)state.set('q',$('query').value);
+ if($('resource')?.value&&$('resource').value!=='all')state.set('source',$('resource').value);
  history.replaceState(null,'','?'+state.toString());
  $('examplesLink').href='examples.html?word='+encodeURIComponent($('lemma').value)+'&resource='+encodeURIComponent(current().corpus);
 }
 function setupCorpora(desired){
  const available=catalog.filter(d=>d.pipeline_id===$('model').value);
- const order=['tkr','kubhist','kubhist2','lb'];available.sort((a,b)=>order.indexOf(a.corpus)-order.indexOf(b.corpus));
+ const order=['tkr','kubhist','kubhist2','lb','kvinnsam'];available.sort((a,b)=>order.indexOf(a.corpus)-order.indexOf(b.corpus));
  $('corpus').innerHTML=available.map(d=>option(d.corpus,d.corpus.toUpperCase())).join('');
  $('corpus').value=available.some(d=>d.corpus===desired)?desired:available[0].corpus;
  $('availability').textContent=available[0].pipeline_label+' results are available for '+available.map(d=>d.corpus.toUpperCase()).join(', ')+'. Check the sampling notice for whether cluster IDs are shared across corpora.';
@@ -136,9 +155,15 @@ async function loadSelection(){
  $('chart').innerHTML='';$('rows').innerHTML='';$('stats').textContent='';$('legend').innerHTML='';$('count').textContent='';$('clusterSummary').textContent='';
  try{
   let data=dataCache.get(selected.id);
-  if(!data){const response=await fetch(selected.data,{cache:'no-cache'});if(!response.ok)throw new Error('HTTP '+response.status);data=await response.json();if(data.id!==selected.id||!Array.isArray(data.rows)||data.rows.length!==selected.usage_count)throw new Error('Dataset does not match its manifest');dataCache.set(selected.id,data);}
+  if(!data){data=await readJSON(selected.data);if(data.id!==selected.id||!Array.isArray(data.rows)||(!data.word_files&&data.rows.length!==selected.usage_count))throw new Error('Dataset does not match its manifest');dataCache.set(selected.id,data);}
+  if(data.word_files){
+   const word=[desiredWord,$('lemma').value,data.words[0]].find(w=>data.words.includes(w));
+   const key=selected.id+'::'+word;let rows=dataCache.get(key);
+   if(!rows){rows=await readJSON(data.word_files[word]);if(!Array.isArray(rows)||rows.length!==data.word_counts[word]||rows.some(r=>r.lemma!==word))throw new Error('Word data does not match its manifest');dataCache.set(key,rows);}
+   data={...data,rows};desiredWord=word;
+  }
   if(version!==request)return;
-  activeData=data;document.body.classList.toggle('no-definitions',data.method==='usages');
+  activeData=data;document.body.classList.toggle('no-definitions',data.method!=='definitions');
   setupWords();
   if(initialState){const cluster=params.get('cluster');if(cluster&&[...$('cluster').options].some(o=>o.value===cluster)){$('cluster').value=cluster;render();}initialState=false;}
   $('loading').textContent='';busy(false);showRows();
@@ -147,9 +172,14 @@ async function loadSelection(){
 async function start(){
  busy(true);
  try{
-  const response=await fetch('data/clusters/manifest.json',{cache:'no-cache'});if(!response.ok)throw new Error('HTTP '+response.status);
-  const manifest=await response.json();catalog=manifest.datasets;
-  if(!Array.isArray(catalog)||!catalog.length)throw new Error('No cluster result sets are available');
+  const manifest=await readJSON('data/clusters/manifest.json');catalog=manifest.datasets;
+  if(!Array.isArray(catalog))throw new Error('Invalid result catalog');
+  if(!catalog.length&&(manifest.pending||[]).length){
+   $('model').innerHTML=manifest.pending.map(d=>option(d.pipeline_id,d.pipeline_label+' — results pending')).join('');
+   $('loading').textContent='Analysis is running in the background. Results will appear here after generation and shared clustering finish; reload to check availability.';
+   $('experimentStatus').textContent=manifest.pending.map(d=>d.pipeline_label+': results pending.').join(' ');return;
+  }
+  if(!catalog.length)throw new Error('No cluster result sets are available');
   const models=[...new Map(catalog.map(d=>[d.pipeline_id,d])).values()];
   $('model').innerHTML=models.map(d=>option(d.pipeline_id,d.pipeline_label)).join('')+(manifest.pending||[]).map(d=>`<option value="${esc(d.pipeline_id)}" disabled>${esc(d.pipeline_label)} — results pending</option>`).join('');
   $('experimentStatus').textContent=(manifest.pending||[]).map(d=>d.pipeline_label+': results pending.').join(' ');
@@ -163,9 +193,10 @@ async function start(){
 }
 $('model').onchange=()=>{setupCorpora($('corpus').value);loadSelection();};
 $('corpus').onchange=loadSelection;
-$('lemma').onchange=()=>{$('cluster').value='all';render();};['from','to','metric'].forEach(id=>$(id).onchange=render);
+if($('resource'))$('resource').onchange=()=>{$('cluster').value='all';render();};
+$('lemma').onchange=()=>{if(current()?.word_files){desiredWord=$('lemma').value;loadSelection();}else{$('cluster').value='all';render();}};['from','to','metric'].forEach(id=>$(id).onchange=render);
 $('cluster').onchange=()=>{page=0;render();};$('query').oninput=()=>{page=0;showRows();updateURL();};
 $('prev').onclick=()=>{page--;showRows();};$('next').onclick=()=>{page++;showRows();};
-$('reset').onclick=()=>{$('from').value='';$('to').value='';$('query').value='';$('cluster').value='all';render();};
+$('reset').onclick=()=>{$('from').value='';$('to').value='';$('query').value='';$('cluster').value='all';if($('resource'))$('resource').value='all';render();};
 
 start();

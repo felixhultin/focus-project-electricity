@@ -21,7 +21,7 @@ try:
         browser=p.chromium.launch()
         page=browser.new_page(viewport={'width':1440,'height':1000})
         page.on('pageerror',lambda error:errors.append(str(error)))
-        page.goto(base+'/clusters.html?word=str%C3%B6m')
+        page.goto(base+'/clusters.html?model=llm-wsd&word=str%C3%B6m')
         page.wait_for_function('current() && document.getElementById("loading").textContent === ""')
         assert page.locator('#model option:not([disabled])').count()==page.evaluate('new Set(catalog.map(d=>d.pipeline_id)).size')
         assert page.locator('#model').locator('option:checked').inner_text().find('MPNet')>=0

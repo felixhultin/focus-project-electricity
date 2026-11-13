@@ -1,0 +1,1 @@
+{"schema_version":1,"corpora":[{"corpus":"tkr","data":"data/associations/tkr/manifest.json"},{"corpus":"kubhist","data":"data/associations/kubhist/manifest.json"},{"corpus":"kubhist2","data":"data/associations/kubhist2/manifest.json"},{"corpus":"lb","data":"data/associations/lb/manifest.json"}]}
