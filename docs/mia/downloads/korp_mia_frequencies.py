@@ -26,7 +26,7 @@ from xml.sax.saxutils import escape as xml_escape
 
 API = "https://ws.spraakbanken.gu.se/ws/korp/v8"
 RESOURCES = ("lb", "tkr", "kubhist2")
-COLORS = {"lb": "#2678a9", "tkr": "#d46a24", "kubhist2": "#2e8964"}
+COLORS = {"lb": "#2678a9", "tkr": "#d46a24", "kubhist2": "#2e8964", "kvinnsam": "#8c4a9d"}
 KORP_FRONTEND = "https://spraakbanken.gu.se/korp/"
 KORP_MODES = {"lb": "lb", "tkr": "default", "kubhist2": "kubhist"}
 
@@ -191,8 +191,9 @@ def label(x, y, content, size=13, anchor="start", color="#263747", weight="norma
             f'{xml_escape(str(content))}</text>')
 
 
-def draw_plot(path: Path, word: str, decades_by_resource, decade_data, active_corpora):
-    width, height = 1600, 940
+def draw_plot(path: Path, word: str, decades_by_resource, decade_data, active_corpora, resources=None):
+    resources = resources or RESOURCES
+    width, height = 1600, 190 + 250 * len(resources)
     margin_left, margin_right = 85, 30
     col_gap = 90
     col_width = (width - margin_left - margin_right - col_gap) / 2
@@ -203,11 +204,11 @@ def draw_plot(path: Path, word: str, decades_by_resource, decade_data, active_co
         '<rect width="100%" height="100%" fill="white"/>',
         '<style>text{font-family:Arial,Helvetica,sans-serif}</style>',
         label(margin_left, 39, word, 27, weight="bold"),
-        label(margin_left, 65, "Korp API frequency · click a bar for matching workbook examples", 14, color="#5a6876"),
+        label(margin_left, 65, "Korp API frequencies; Kvinnsam uses exported matches · click bars for examples" if 'kvinnsam' in resources else "Korp API frequency · click a bar for matching workbook examples", 14, color="#5a6876"),
         label(margin_left, 99, "Absolute frequency · hits", 17, weight="bold"),
         label(margin_left + col_width + col_gap, 99, "Relative frequency · hits per million tokens", 17, weight="bold"),
     ]
-    for row, resource in enumerate(RESOURCES):
+    for row, resource in enumerate(resources):
         decades = decades_by_resource[resource]
         step = col_width / len(decades)
         ytop = top + row * (plot_height + row_gap)
@@ -222,6 +223,11 @@ def draw_plot(path: Path, word: str, decades_by_resource, decade_data, active_co
                 parts.append(label(xleft, ytop - 12,
                                    f"{resource} · {decades[0]}–{decades[-1] + 9}",
                                    16, color=COLORS[resource], weight="bold"))
+            if not good:
+                parts.append(label(xleft + col_width / 2, ytop + plot_height / 2,
+                    'Unavailable: corpus token totals not supplied' if resource == 'kvinnsam' else 'No frequency data for this term',
+                    14, anchor='middle', color='#657381'))
+                continue
             for fraction in (0, .5, 1):
                 gy = baseline - fraction * plot_height
                 parts.append(f'<line x1="{xleft:.1f}" y1="{gy:.1f}" x2="{xleft+col_width:.1f}" '

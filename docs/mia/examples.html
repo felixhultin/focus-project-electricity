@@ -15,8 +15,8 @@
   .pager{display:flex;gap:.8rem;align-items:center;margin:1.5rem 0 3rem;flex-wrap:wrap}
   .pager input{font:inherit;width:5rem;padding:.3rem}
 </style>
-<p><a href="index.html">← Frequency plots</a> · <a href="source-breakdown.html">Authors and newspapers</a></p>
-<h1>Examples from the source workbooks</h1>
+<p><a href="index.html">← Frequency plots</a> · <a href="source-breakdown.html">Authors and newspapers</a> · <a href="clusters.html">Model clusters</a></p>
+<h1>Examples from the source exports</h1>
 <p class="intro" id="intro">Each excerpt is an occurrence recorded in the source workbooks. Examples with a source URL link to that page. Plot bars open the examples for the same word, resource, and decade. The API and workbook counts are shown together below.</p>
 <div class="filters">
   <label>Word<select id="word"></select></label>
@@ -131,7 +131,7 @@
       source.textContent = 'Open source ↗';
       meta.append(source);
     } else {
-      meta.append(document.createTextNode('No source URL in workbook'));
+      meta.append(document.createTextNode('No public source URL in export'));
     }
     item.append(meta);
     return item;
@@ -143,9 +143,14 @@
     const available = buckets.reduce((sum,b) => sum+availableCount(b),0);
     const withSourceUrl = buckets.reduce((sum,b) => sum+b.with_source_url,0);
     const apiTotal = (manifest.api_buckets || []).filter(matches).reduce((sum,b) => sum+b.absolute,0);
-    const difference = apiTotal-total;
-    $('comparison').textContent = `Korp API matches: ${apiTotal.toLocaleString()} · Workbook examples: ${total.toLocaleString()} (${withSourceUrl.toLocaleString()} with external URLs) · Difference: ${difference > 0 ? '+' : ''}${difference.toLocaleString()}.`;
-    const showKorpLink = Boolean(manifest.korp) && $('resource').value !== 'all' && /^\d{4}$/.test($('decade').value);
+    const comparableTotal = buckets.filter(b=>!manifest.resource_notes?.[b.resource]).reduce((sum,b)=>sum+b.count,0);
+    const difference = apiTotal-comparableTotal;
+    const localOnly = Boolean(manifest.resource_notes?.[$('resource').value]);
+    const localTotal = total-comparableTotal;
+    $('comparison').textContent = localOnly
+      ? `Kvinnsam exported matches: ${total.toLocaleString()} (${withSourceUrl.toLocaleString()} with public source links). ${manifest.resource_notes[$('resource').value]}`
+      : `Korp API matches: ${apiTotal.toLocaleString()} · Workbook examples: ${comparableTotal.toLocaleString()} · Difference: ${difference > 0 ? '+' : ''}${difference.toLocaleString()}.`+(localTotal?` Kvinnsam: ${localTotal.toLocaleString()} additional exported matches, excluded from this API comparison.`:'');
+    const showKorpLink = Boolean(manifest.korp?.corpora?.[$('resource').value]) && /^\d{4}$/.test($('decade').value);
     $('korp-link').hidden = !showKorpLink;
     if (showKorpLink) $('korp-link').href = korpUrl($('word').value,$('resource').value,$('decade').value);
     const pageCount = Math.max(1,Math.ceil(available/PAGE_SIZE));
@@ -158,31 +163,31 @@
     $('page-count').textContent = `of ${pageCount.toLocaleString()}`;
     $('previous').disabled = page === 1;
     $('next').disabled = page === pageCount;
-    if (!available) { $('status').textContent = 'No workbook examples for these filters.'; return; }
-    $('status').textContent = `Loading workbook examples…`;
+    if (!available) { $('status').textContent = 'No exported examples for these filters.'; return; }
+    $('status').textContent = `Loading examples…`;
     try {
       const rows = await loadRows((page-1)*PAGE_SIZE,Math.min(page*PAGE_SIZE,available));
       if (currentRequest !== request) return;
       $('examples').replaceChildren(...rows.map(renderRow));
       $('status').textContent = manifest.sample_limit
-        ? `Showing ${(page-1)*PAGE_SIZE+1}–${(page-1)*PAGE_SIZE+rows.length} of ${available.toLocaleString()} sampled examples (${total.toLocaleString()} exact workbook matches).`
-        : `Showing ${(page-1)*PAGE_SIZE+1}–${(page-1)*PAGE_SIZE+rows.length} of ${total.toLocaleString()} workbook examples.`;
+        ? `Showing ${(page-1)*PAGE_SIZE+1}–${(page-1)*PAGE_SIZE+rows.length} of ${available.toLocaleString()} sampled examples (${total.toLocaleString()} exact exported matches).`
+        : `Showing ${(page-1)*PAGE_SIZE+1}–${(page-1)*PAGE_SIZE+rows.length} of ${total.toLocaleString()} exported examples.`;
     } catch (error) {
       if (currentRequest === request) $('status').textContent = `Could not load examples: ${error.message}`;
     }
   }
   async function start() {
     try {
-      const response = await fetch('example_data/manifest.json');
+      const response = await fetch('example_data/manifest.json',{cache:'no-cache'});
       if (!response.ok) throw new Error(`Manifest request failed (${response.status})`);
       manifest = await response.json();
       if(manifest.dataset)$('intro').firstChild.textContent=`Each excerpt is an occurrence recorded in ${manifest.dataset}. `;
       setOptions($('word'),manifest.words.map(w => [w,w]),params.get('word'));
-      setOptions($('resource'),[['all','All resources'],...manifest.resources.map(r => [r,r])],params.get('resource'));
+      setOptions($('resource'),[['all','All resources'],...manifest.resources.map(r => [r,manifest.resource_labels?.[r]||r])],params.get('resource'));
       updateFilters();
       $('decade').value = [...$('decade').options].some(o => o.value === params.get('decade')) ? params.get('decade') : 'all';
       page = Number(params.get('page')) || 1;
-      $('coverage').textContent = `Workbook rows without an external URL remain visible as plain text: ${Object.entries(manifest.without_source_url).map(([r,n]) => `${r} ${n.toLocaleString()}`).join(', ')}. The API totals use the current Korp query and may differ from the exported workbook rows.`;
+      $('coverage').textContent = `Exported rows without an external URL remain visible as plain text: ${Object.entries(manifest.without_source_url).map(([r,n]) => `${r} ${n.toLocaleString()}`).join(', ')}. API comparisons cover the Korp resources only. Kvinnsam uses exported-match counts without token normalization.`;
       $('word').addEventListener('change',() => { $('resource').value = 'all'; updateFilters(); page = 1; render(); });
       $('resource').addEventListener('change',() => { updateFilters(); page = 1; render(); });
       $('decade').addEventListener('change',() => { page = 1; render(); });

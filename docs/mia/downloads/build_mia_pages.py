@@ -65,7 +65,7 @@ def methodology(words: int, corpora: int):
         '</html>', encoding="utf-8")
 
 
-def main(reuse_examples=False):
+def main(reuse_examples=False, kvinnsam_source=None):
     plots = sorted((SOURCE / "targets").glob("*.svg"))
     provenance = json.loads((SOURCE / "provenance.json").read_text(encoding="utf-8"))
     expected = len(provenance["targets"])
@@ -146,6 +146,9 @@ def main(reuse_examples=False):
         json.dumps(manifest, ensure_ascii=False, separators=(",", ":")), encoding="utf-8")
     methodology(len(provenance["targets"]), sum(map(len, provenance["corpora"].values())))
     build_source_breakdown(site=SITE)
+    if kvinnsam_source is not None:
+        from add_kvinnsam import build as add_kvinnsam
+        add_kvinnsam(kvinnsam_source, SITE)
     print(f"Built Mia site at {SITE} with {len(plots)} plots and "
           f"{sum(manifest['all_rows'].values()):,} exact workbook rows")
 
@@ -154,5 +157,7 @@ if __name__ == "__main__":
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument("--reuse-examples", action="store_true",
                         help="Reuse an existing exact-count/sample build")
+    parser.add_argument("--kvinnsam-source", type=Path,
+                        help="Add Kvinnsam target-usage JSONL exports after the Korp build")
     args = parser.parse_args()
-    main(args.reuse_examples)
+    main(args.reuse_examples, args.kvinnsam_source)

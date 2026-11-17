@@ -1,0 +1,49 @@
+<!doctype html>
+<html lang="en"><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Model clusters · Mia word frequencies</title>
+<style>
+:root{font:16px system-ui,sans-serif;color:#1e293b;background:#f3f5f7}body{max-width:1250px;margin:auto;padding:28px}h1{margin-bottom:8px}h2{font-size:1.15rem;margin-top:0}.note{color:#526175;line-height:1.6}.panel{background:white;border:1px solid #dce2e8;border-radius:12px;padding:22px;margin:20px 0}.controls label{min-width:0;max-width:100%}.controls select{box-sizing:border-box}.controls{display:flex;gap:16px;flex-wrap:wrap;align-items:end}label{display:flex;flex-direction:column;gap:6px;font-weight:600;font-size:.9rem}select,input,button{font:inherit;padding:9px;border:1px solid #a9b5c3;border-radius:6px;background:white;color:inherit}select{max-width:min(560px,100%)}input[type=number]{width:100px}button{cursor:pointer}button:hover{background:#eef4fa}button:disabled{opacity:.5;cursor:default}button:focus-visible,select:focus-visible,input:focus-visible{outline:3px solid #3b82f6}.stats{font-size:1.1rem;font-weight:600;margin-top:18px}#chart{overflow-x:auto}svg{width:100%;min-width:650px;display:block}#legend{display:flex;gap:8px;flex-wrap:wrap;margin-top:12px}#legend button{font-size:.85rem;padding:6px}.dot{display:inline-block;width:12px;height:12px;border-radius:3px;margin-right:6px}.selected{outline:2px solid #334155}.tablewrap{overflow:auto}table{width:100%;border-collapse:collapse;text-align:left;font-size:.92rem}th,td{padding:12px;border-bottom:1px solid #e2e8f0;vertical-align:top}th{background:#f8fafc}td.definition{min-width:220px;max-width:380px}td.context{min-width:300px;max-width:500px;line-height:1.6}mark{background:#fef08a;padding:1px 2px}small{color:#64748b}#pager{display:flex;gap:14px;align-items:center;margin:15px 0}#clusterSummary{line-height:1.6;margin-bottom:14px}.summary{display:grid;grid-template-columns:repeat(auto-fit,minmax(190px,1fr));gap:12px}.card{padding:12px;background:#f8fafc;border-radius:8px}noscript{color:#b91c1c}#count{font-weight:600}.warning{border-left:4px solid #eab308;padding-left:12px}a{color:#155eaa}@media(max-width:600px){body{padding:12px}.panel{padding:15px}select{max-width:100%}}
+.no-definitions .definition,.no-definitions .definition-header{display:none}#loading[role=alert]{color:#b91c1c}#availability{margin-top:0}
+[hidden]{display:none!important}
+.cluster-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(min(100%,300px),1fr));gap:14px}.cluster-card{border:1px solid #dce2e8;border-radius:8px;padding:16px;min-width:0;overflow-wrap:anywhere}.cluster-heading{font-weight:600;text-align:left}.cluster-size{font-size:.85rem;color:#526175}.representative{line-height:1.6}.cluster-card details{font-size:.9rem;line-height:1.5}.remaining-clusters{margin-top:18px}summary{cursor:pointer}.remaining-clusters>.cluster-grid{margin-top:14px}
+</style>
+<p class="site-links"><a href="index.html">← Frequency plots</a> · <a id="examplesLink" href="examples.html">Source examples</a> · <a href="source-breakdown.html">Authors, newspapers and journals</a> · <a href="methodology.html">Method and sources</a></p>
+<h1>Model clusters across years</h1>
+<p class="note">Explore available clustering models for the Mia terms. Definition-based combinations generate a definition for each usage and embed it with the selected encoder. Choose a word, inspect its yearly distribution, then read examples to assess what each cluster represents.</p>
+<noscript>This explorer requires JavaScript.</noscript><p id="loading" role="status" aria-live="polite">Loading available models…</p><p id="availability" class="note"></p>
+<p id="experimentStatus" class="note" role="status"></p>
+<div id="overview" class="summary"></div>
+<section class="panel">
+<div class="controls">
+<label>Clustering method / model combination<select id="model"></select></label>
+<label>Corpus<select id="corpus"></select></label>
+<label>Word<select id="lemma"></select></label>
+<label id="resourceControl" hidden>Resource<select id="resource"><option value="all">All resources</option></select></label>
+<label>From year<input id="from" type="number" placeholder="All"></label>
+<label>Through year<input id="to" type="number" placeholder="All"></label>
+<label>Chart<select id="metric"><option value="share">Share within year</option><option value="count">Sampled usage counts</option></select></label>
+<button id="reset">Reset filters</button>
+</div>
+<div id="stats" class="stats" aria-live="polite"></div>
+<p id="samplingNote" class="note warning">Annual bars regroup the existing sample, capped at 30 usages per word per decade. They are not yearly-balanced samples or corpus frequencies. Cluster IDs are specific to each model, word, and corpus. Similar colors or IDs across models or corpora do not establish matching senses.</p>
+</section>
+<section id="clusterOverview" class="panel" hidden aria-labelledby="clusterOverviewTitle">
+<h2 id="clusterOverviewTitle">Cluster summaries</h2>
+<p id="summaryScope" class="note"></p>
+<p id="overviewNote" class="note">Each summary shows the most frequent generated definition in that cluster, with up to two alternatives. These are representative model outputs, not validated sense labels; mixed meanings or languages may occur. Counts and shares describe the selected sample. Choose a cluster to read its passages.</p>
+<div id="clusterCards"></div>
+</section>
+<section class="panel"><h2>Clusters by year</h2>
+<p class="note">Bars show the ten largest clusters plus “Other clusters”. Each column is one year; numbers beneath columns are sample sizes. Scroll horizontally or use the year filters to inspect shorter periods. Click a segment or legend item to inspect examples.</p>
+<div id="chart" tabindex="0" role="region" aria-label="Yearly cluster chart; scroll horizontally to view more years"></div><div id="legend"></div>
+</section>
+<section id="passages" class="panel"><h2>Definitions and source passages</h2>
+<div class="controls"><label>Cluster<select id="cluster"></select></label><label>Search definitions and passages<input id="query" type="search" placeholder="Search text or source ID"></label></div>
+<p id="clusterSummary"></p><p id="count" aria-live="polite"></p>
+<div id="pager"><button id="prev">Previous</button><span id="page"></span><button id="next">Next</button></div>
+<div class="tablewrap"><table><thead><tr><th>Year / cluster</th><th class="definition-header">Generated definition</th><th>Passage with target highlighted</th><th>Source</th></tr></thead><tbody id="rows"></tbody></table></div>
+<p class="note">Passages show approximately 220 characters on each side of the target. Definitions are model outputs and may be incorrect or in different languages. Definition and contextual-embedding runs use average-linkage cosine clustering. Co-occurrence runs use K-means on TF–IDF context features, with candidate cluster counts assessed by cosine silhouette. Settings are recorded below.</p>
+<details><summary>Clustering settings and interpretation</summary><pre id="settings" style="white-space:pre-wrap"></pre><p class="note">Cluster labels are numeric identifiers, not validated sense names. A changing proportion can reflect sampling, OCR, genre, or definition language as well as semantic change. Years with n=0 have no sampled usages; this does not establish absence in the corpus. TKR and LB use the stored year, without treating January 1 placeholders as precise event dates.</p></details>
+</section>
+<script src="assets/site-data.js"></script><script src="assets/cluster-explorer.js?v=a9f7414521b67f1f"></script>
+</html>
