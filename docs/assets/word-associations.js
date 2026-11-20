@@ -44,10 +44,12 @@
   const years=data.years.filter(r=>r.year>=low&&r.year<=high&&r.n>=minimum);
   points=years.flatMap(row=>(row[isSimilarity()?'similarity':'cooccurrence']||[]).slice(0,top).map((point,rank)=>({...point,year:row.year,n:row.n,model:row.model,rank})));
   $('headingWord').textContent='“'+data.word+'”';$('chartTitle').textContent=(isSimilarity()?'Embedding neighbours':'Nearby words')+' · '+data.corpus.toUpperCase()+(meta.resource?' · '+meta.resource.label:' · All resources');
-  $('resourceNote').textContent=meta.resource?`Resource: ${meta.resource.label} (${meta.resource.kind}). Counts, excerpts and model training use only this resource’s sampled usages. The 30-usage yearly cap was applied across the whole corpus, so resource subsets are smaller and are not separately balanced. Sparse years may have no results.`:'All resources in the selected corpus are included. Choose a resource to analyse one newspaper, author or document collection separately.';
-  $('methodNote').textContent=isSimilarity()?'Cosine similarity from Word2Vec models trained on Mats sample contexts in a five-year window centred on each displayed year. Neighbours can be semantically similar without occurring next to the target in that year.':'Percentage of this term’s sampled usages in each year containing the labelled word within ten tokens of the selected occurrence. Each word counts at most once per usage; at least two supporting usages are required.';
+  const allUsages=meta.sampling.selection==='all_available';
+  const selectionNote=allUsages?'All available valid dated target usages are included, with no yearly cap. Years and resources have different amounts of data.':`Up to ${meta.sampling.per_word_year_cap} usages per term/year were selected across the whole corpus; resource subsets are not separately balanced.`;
+  $('resourceNote').textContent=(meta.resource?`Resource: ${meta.resource.label} (${meta.resource.kind}). Counts, excerpts and model training use only this resource’s usages. `:'All resources in the selected corpus are included. Choose a resource to analyse one newspaper, author or document collection separately. ')+selectionNote+' Sparse years may have no results.';
+  $('methodNote').textContent=isSimilarity()?'Cosine similarity from Word2Vec models trained on Mats target contexts in a five-year window centred on each displayed year. Neighbours can be semantically similar without occurring next to the target in that year.':'Percentage of this term’s analysed usages in each year containing the labelled word within ten tokens of the selected occurrence. Each word counts at most once per usage; at least two supporting usages are required.';
   const withPoints=new Set(points.map(p=>p.year)).size;
-  $('stats').textContent=`${points.length.toLocaleString()} word–year points · ${withPoints} years · ${years.reduce((n,r)=>n+r.n,0).toLocaleString()} sampled usages in eligible years`+(isSimilarity()&&withPoints<years.length?` · ${years.length-withPoints} eligible years have no embedding neighbours`:'');
+  $('stats').textContent=`${points.length.toLocaleString()} word–year points · ${withPoints} years · ${years.reduce((n,r)=>n+r.n,0).toLocaleString()} analysed usages in eligible years`+(isSimilarity()&&withPoints<years.length?` · ${years.length-withPoints} eligible years have no embedding neighbours`:'');
   $('settings').textContent=JSON.stringify({resource:meta.resource,sampling:meta.sampling,settings:meta.settings,source_digest:meta.source_digest,gensim_version:meta.gensim_version},null,2);
   $('clear').hidden=!highlight;$('save').disabled=!points.length;
   draw(years);table();updateURL();
@@ -67,14 +69,14 @@
   const step=Math.max(1,Math.ceil((last-first+1)/16));
   for(let year=first;year<=last;year+=step){const gx=x(year);svg.append(svgNode('line',{x1:gx,y1:T,x2:gx,y2:T+plotH,stroke:'#f0f3f5'}),svgNode('text',{x:gx,y:T+plotH+24,'text-anchor':'middle','font-size':11,fill:'#526170'},year));}
   svg.append(svgNode('text',{x:L+plotW/2,y:height-57,'text-anchor':'middle','font-size':14},'Year'));
-  svg.append(svgNode('text',{transform:`translate(22 ${T+plotH/2}) rotate(-90)`,'text-anchor':'middle','font-size':13},isSimilarity()?'Cosine similarity to '+data.word:'Sampled usages containing the nearby word'));
-  svg.append(svgNode('text',{x:L,y:height-22,'font-size':11,fill:'#526170'},`${scope} · Mats samples · ${isSimilarity()?'Word2Vec; centred five-year training window':'±10-word co-occurrence; one count per usage'} · minimum n=${$('minimum').value}/year`));
+  svg.append(svgNode('text',{transform:`translate(22 ${T+plotH/2}) rotate(-90)`,'text-anchor':'middle','font-size':13},isSimilarity()?'Cosine similarity to '+data.word:'Analysed usages containing the nearby word'));
+  svg.append(svgNode('text',{x:L,y:height-22,'font-size':11,fill:'#526170'},`${scope} · Mats target usages · ${isSimilarity()?'Word2Vec; centred five-year training window':'±10-word co-occurrence; one count per usage'} · minimum n=${$('minimum').value}/year`));
   const boxes=[];
   const priority=[...points].sort((a,b)=>Number(b.word===highlight)-Number(a.word===highlight)||score(b)-score(a)||a.year-b.year||a.rank-b.rank);
   for(const point of priority){
    const px=x(point.year)+(point.rank%3-1)*2,py=y(score(point));
    const group=svgNode('g',{class:'point'+(highlight&&point.word!==highlight?' dimmed':''),tabindex:0,role:'button','aria-label':`${point.year}, ${point.word}, ${format(point)}, ${point.count} of ${point.n} nearby usages`});
-   group.append(svgNode('title',{},`${point.word} · ${point.year}\n${$('measure').selectedOptions[0].textContent}: ${format(point)}\nNearby in ${point.count}/${point.n} sampled usages`),svgNode('circle',{cx:px,cy:py,r:4.5,fill:point.word===highlight?'#b45e20':'#2678a9',opacity:.78}));
+   group.append(svgNode('title',{},`${point.word} · ${point.year}\n${$('measure').selectedOptions[0].textContent}: ${format(point)}\nNearby in ${point.count}/${point.n} analysed usages`),svgNode('circle',{cx:px,cy:py,r:4.5,fill:point.word===highlight?'#b45e20':'#2678a9',opacity:.78}));
    if($('labels').checked){
     const textW=point.word.length*7.1+5,textH=14;
     const choices=[[7,-8],[7,17],[-textW-7,-8],[-textW-7,17],[7,-24],[7,32]];
@@ -91,7 +93,7 @@
  }
  function showSelection(point){
   $('selection').hidden=false;$('selectedTitle').textContent=point.word+' · '+point.year;
-  $('selectedStats').textContent=`${$('measure').selectedOptions[0].textContent}: ${format(point)}. Nearby in ${point.count} of ${point.n} sampled target usages.`+(isSimilarity()&&point.model?` Model training: ${point.model.training_from}–${point.model.training_through}, ${point.model.training_contexts.toLocaleString()} sampled contexts.`:'');
+  $('selectedStats').textContent=`${$('measure').selectedOptions[0].textContent}: ${format(point)}. Nearby in ${point.count} of ${point.n} analysed target usages.`+(isSimilarity()&&point.model?` Model training: ${point.model.training_from}–${point.model.training_through}, ${point.model.training_contexts.toLocaleString()} target contexts.`:'');
   $('passages').replaceChildren();
   for(const example of point.examples||[]){const item=document.createElement('div');item.className='passage';const p=document.createElement('p');p.textContent=example.text;const small=document.createElement('small');small.textContent=example.date+' · '+example.id;item.append(p,small);if(example.url&&/^https?:\/\//.test(example.url)){const a=document.createElement('a');a.href=example.url;a.target='_blank';a.rel='noopener noreferrer';a.textContent=' · Open source';small.append(a);}$('passages').append(item);}
   if(!(point.examples||[]).length){const p=document.createElement('p');p.className='note';p.textContent='No immediate co-occurrence excerpt is available for this neighbour in this target year. Embedding neighbours are based on the wider training window.';$('passages').append(p);}

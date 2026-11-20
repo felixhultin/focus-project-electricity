@@ -81,17 +81,27 @@ def accumulate(source,target,year,tokens,nearby,evidence,line):
         if len(source['examples'][key][word])<2:source['examples'][key][word].append(evidence)
 
 
-def read_source(workspace,corpus,include_resources=False,titles=None):
-    folder=workspace/'target_usages'/corpus/'mats_sampled'
-    sampling=json.loads((folder/'sampling_manifest.json').read_text())
-    if sampling.get('sampling_period')!='year':raise ValueError('Yearly samples are required')
-    source=empty_source();resources={}
-    for path in sorted(folder.glob('*.jsonl')):
+def read_source(workspace,corpus,include_resources=False,titles=None,all_usages=False):
+    folder=workspace/'target_usages'/corpus/('mats' if all_usages else 'mats_sampled')
+    paths=sorted(folder.glob('*.jsonl'))
+    if not paths:raise ValueError(f'No usage files in {folder}')
+    sampling={} if all_usages else json.loads((folder/'sampling_manifest.json').read_text())
+    if not all_usages and sampling.get('sampling_period')!='year':raise ValueError('Yearly samples are required')
+    source=empty_source();resources={};skipped=Counter()
+    for path in paths:
         source['hasher'].update(path.name.encode())
         with path.open(encoding='utf-8') as handle:
             for line in handle:
                 if not line.strip():continue
-                row=json.loads(line);year=int(str(row['date'])[:4])
+                row=json.loads(line)
+                if all_usages:
+                    text=row.get('text');lemma=str(row.get('lemma') or row.get('target') or '').strip()
+                    try:valid=bool(lemma) and isinstance(text,str) and 0<=int(row['start'])<int(row['end'])<=len(text)
+                    except (KeyError,TypeError,ValueError):valid=False
+                    if not valid:skipped['invalid_targets']+=1;continue
+                    try:year=int(str(row.get('date') or '')[:4])
+                    except ValueError:skipped['unknown_years']+=1;continue
+                else:year=int(str(row['date'])[:4])
                 target,tokens,nearby,evidence=context(row)
                 accumulate(source,target,year,tokens,nearby,evidence,line)
                 if include_resources:
@@ -100,13 +110,19 @@ def read_source(workspace,corpus,include_resources=False,titles=None):
                         resources[identity['id']]=dict(empty_source(),resource=identity)
                     # Including the source filename makes checkpoints sensitive to provenance.
                     accumulate(resources[identity['id']],target,year,tokens,nearby,evidence,path.name+line)
-    if sum(source['totals'].values())!=sampling['sampled_usages']:raise ValueError('Sample counts disagree with manifest')
-    public={k:sampling[k] for k in ['sampling_period','per_word_year_cap','seed','sampled_usages']}
+    if all_usages:
+        public=dict(sampling_period='year',per_word_year_cap=None,seed=None,
+            sampled_usages=sum(source['totals'].values()),selection='all_available',
+            skipped=dict(skipped),source_files=len(paths),
+            quota_scope='All available valid dated exported target usages; no yearly cap or resampling.')
+    else:
+        if sum(source['totals'].values())!=sampling['sampled_usages']:raise ValueError('Sample counts disagree with manifest')
+        public={k:sampling[k] for k in ['sampling_period','per_word_year_cap','seed','sampled_usages']}
     source.update(digest=source.pop('hasher').hexdigest(),sampling=public)
     for subset in resources.values():
         subset.update(digest=subset.pop('hasher').hexdigest(),sampling=dict(public,
             sampled_usages=sum(subset['totals'].values()),parent_sampled_usages=public['sampled_usages'],
-            quota_scope='The yearly cap applies to the whole corpus, not separately to each resource.'))
+            quota_scope=public.get('quota_scope','The yearly cap applies to the whole corpus, not separately to each resource.')))
     if include_resources:source['resources']=resources
     return source
 
@@ -141,8 +157,8 @@ def fit_year(source,year,settings=SETTINGS):
     return report
 
 
-def write_corpus(workspace,site,corpus,embeddings=False,workers=4,cache=None):
-    source=read_source(workspace,corpus)
+def write_corpus(workspace,site,corpus,embeddings=False,workers=4,cache=None,all_usages=False):
+    source=read_source(workspace,corpus,all_usages=all_usages)
     return write_source(source,workspace,site,corpus,embeddings,workers,cache)
 
 
@@ -186,7 +202,8 @@ def write_source(source,workspace,site,corpus,embeddings=False,workers=4,cache=N
     meta=dict(corpus=corpus,words=words,files=files,sampling=source['sampling'],source_digest=source['digest'],
         settings=SETTINGS,embedding_status='ready' if embeddings else 'pending',
         words_are='Lowercased word forms; neighbours are not lemmatized. Selected target forms are normalized to their target lemma.',
-        training_source='Yearly-balanced Mats target-usage samples, not the full corpus.',
+        training_source=('All available valid dated Mats target-usage exports, without a yearly cap; not a full-corpus language model.'
+            if source['sampling'].get('selection')=='all_available' else 'Yearly-balanced Mats target-usage samples, not the full corpus.'),
         scope='Each corpus is analysed separately. Word2Vec uses a centred five-year training window for every displayed year.')
     if embeddings:
         import gensim
@@ -203,12 +220,14 @@ def write_source(source,workspace,site,corpus,embeddings=False,workers=4,cache=N
     return meta
 
 
-def write_resources(workspace,site,corpus,embeddings=False,workers=4):
+def write_resources(workspace,site,corpus,embeddings=False,workers=4,all_usages=False):
     parent=site/'data/associations'/corpus/'manifest.json'
     if not parent.exists():raise ValueError('Build the corpus-level data before its resources')
     labels=site/'data/source_breakdown.json'
     titles=json.loads(labels.read_text()).get('newspaper_titles',{}) if labels.exists() else {}
-    source=read_source(workspace,corpus,include_resources=True,titles=titles)
+    source=read_source(workspace,corpus,include_resources=True,titles=titles,all_usages=all_usages)
+    if source['digest']!=json.loads(parent.read_text()).get('source_digest'):
+        raise ValueError('Resource data must use the same usages as the corpus-level results')
     entries=[]
     for identifier,subset in sorted(source['resources'].items()):
         meta=write_source(subset,workspace,site,corpus,embeddings,workers)
@@ -243,10 +262,11 @@ if __name__=='__main__':
     parser.add_argument('--corpus',choices=CORPORA)
     parser.add_argument('--embeddings',action='store_true')
     parser.add_argument('--resources',action='store_true',help='Build resource subsets, preserving corpus-level results')
+    parser.add_argument('--all-usages',action='store_true',help='Use every valid dated Mats export instead of the 30-per-year samples')
     parser.add_argument('--workers',type=int,default=4)
     args=parser.parse_args()
     if args.workers<1:parser.error('--workers must be positive')
     for corpus in [args.corpus] if args.corpus else CORPORA:
         build=write_resources if args.resources else write_corpus
-        build(args.workspace.resolve(),args.site.resolve(),corpus,args.embeddings,args.workers)
+        build(args.workspace.resolve(),args.site.resolve(),corpus,args.embeddings,args.workers,all_usages=args.all_usages)
     if not args.corpus:write_manifest(args.site.resolve());write_page(args.site.resolve())

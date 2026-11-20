@@ -14,6 +14,28 @@ def row(text,year=1901):
     return dict(text=text,start=start,end=start+5,lemma='ström',date=str(year),id='example',url='file:///private')
 
 class AssociationsTest(unittest.TestCase):
+    def test_uncapped_exports_include_every_usage_and_resource(self):
+        with tempfile.TemporaryDirectory() as temp:
+            root=Path(temp);folder=root/'target_usages/kubhist2/mats';folder.mkdir(parents=True)
+            for paper,count in [('aftonbladet',47),('dalpilen',35)]:
+                records=[row('ström vatten') for _ in range(count)]
+                records.extend([dict(row('ström vatten'),date='unknown'),dict(row('ström vatten'),start=-1)])
+                (folder/f'kubhist2-{paper}-1901.xml.jsonl').write_text('\n'.join(json.dumps(r) for r in records))
+            source=a.read_source(root,'kubhist2',include_resources=True,all_usages=True)
+            self.assertEqual(source['totals'][('ström',1901)],82)
+            self.assertIsNone(source['sampling']['per_word_year_cap'])
+            self.assertEqual(source['sampling']['selection'],'all_available')
+            self.assertEqual(source['sampling']['skipped'],dict(invalid_targets=2,unknown_years=2))
+            self.assertEqual(source['resources']['aftonbladet']['totals'][('ström',1901)],47)
+            self.assertEqual(source['resources']['dalpilen']['totals'][('ström',1901)],35)
+            self.assertEqual(a.cooccurrence_rows(source,'ström',1901)[0]['count'],82)
+            site=root/'site';a.write_corpus(root,site,'kubhist2',all_usages=True)
+            entries=a.write_resources(root,site,'kubhist2',all_usages=True)
+            self.assertEqual(len(entries),2)
+            meta=json.loads((site/entries[0]['data']).read_text())
+            self.assertEqual(meta['sampling']['sampled_usages'],47)
+            self.assertEqual(meta['sampling']['parent_sampled_usages'],82)
+
     def test_resource_identity_across_years_and_author_urls(self):
         for year in [1870,1880]:
             result=a.resource_identity('kubhist2',Path(f'kubhist2-post-ochinrikestidningar-{year}.xml.bz2_strom.jsonl'),{},

@@ -15,7 +15,7 @@
  window.siteDataJSON=async path=>{
   const map=await mapping;
   if(map.files?.[path])return read(map.files[path],true);
-  const bundle=(map.bundles||[]).find(b=>path.startsWith(b.prefix));
+  const bundle=(map.bundles||[]).find(b=>b.paths?b.paths.includes(path):path.startsWith(b.prefix));
   if(bundle){
    if(!bundles.has(bundle.url))bundles.set(bundle.url,read(bundle.url,true).catch(error=>{bundles.delete(bundle.url);throw error;}));
    const values=await bundles.get(bundle.url);
